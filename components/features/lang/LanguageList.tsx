@@ -1,8 +1,22 @@
 import Language from "@/constants/Language";
 import { useState } from "react";
-import { StyleSheet, FlatList, TouchableWithoutFeedback } from "react-native";
-import Icon from "react-native-ico-flags";
+import { StyleSheet, FlatList, TouchableWithoutFeedback, Image } from "react-native";
 import { Button, Card, Text } from "react-native-paper";
+
+const LANG_IMAGES = {
+	"united-kingdom": require("@/assets/lang/united-kingdom.png"),
+    "germany": require("@/assets/lang/germany.png"),
+    "netherlands": require("@/assets/lang/netherlands.png"),
+    "slovakia": require("@/assets/lang/slovakia.png"),
+    "france": require("@/assets/lang/france.png"),
+    "italy": require("@/assets/lang/italy.png"),
+    "spain": require("@/assets/lang/spain.png"),
+    "finland": require("@/assets/lang/finland.png"),
+    "republic-of-macedonia": require("@/assets/lang/republic-of-macedonia.png"),
+    "czech-republic": require("@/assets/lang/czech-republic.png"),
+    "portugal": require("@/assets/lang/portugal.png"),
+    "slovenia": require("@/assets/lang/slovenia.png"),
+};
 
 interface LanguageListProps {
 	onSubmit: (lang: string) => Promise<void>;
@@ -10,7 +24,7 @@ interface LanguageListProps {
 
 const LanguageList = (props: LanguageListProps) => {
 	const [selectedLang, setSelectedLang] = useState<string | null>(null);
-    const [loading, setLoading] = useState(false);
+	const [loading, setLoading] = useState(false);
 
 	const renderLanguage = (lang: { icon: string; lang: string; langText: string }) => {
 		return (
@@ -28,11 +42,10 @@ const LanguageList = (props: LanguageListProps) => {
 					}
 				>
 					<Card.Content style={styles.cardContent}>
-						<Icon
-							name={lang.icon}
-							width={100}
-							height={100}
-						/>
+						<Image source={LANG_IMAGES[lang.icon as keyof typeof LANG_IMAGES]}
+                            height={50}
+                            style={{ width: 140, height: 110 }}
+                        />
 						<Text
 							variant="labelLarge"
 							style={styles.cardText}
@@ -61,17 +74,18 @@ const LanguageList = (props: LanguageListProps) => {
 				contentContainerStyle={styles.contentContainer}
 			/>
 			<Button
+				key={selectedLang ? "disabled" : "enabled"}
 				mode="contained"
 				onPress={() => {
-                    setLoading(true)
-                    props.onSubmit(selectedLang!)
-                        .then(() => setLoading(false))
-                        .catch(() => setLoading(false))
-                }}
+					setLoading(true);
+					props.onSubmit(selectedLang!)
+						.then(() => setLoading(false))
+						.catch(() => setLoading(false));
+				}}
 				style={styles.button}
 				textColor="white"
 				disabled={!selectedLang}
-                loading={loading}
+				loading={loading}
 			>
 				Get Started
 			</Button>

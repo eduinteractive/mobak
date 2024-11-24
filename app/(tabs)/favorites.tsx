@@ -62,7 +62,7 @@ const FavoritesScreen = () => {
 			header={
 				<View style={styles.header}>
 					<ImageBackground
-						source={require("@/assets/images/l_tasks/THROWING.WILD_PIG.FOTO.jpeg")}
+						source={require("@/assets/images/l_tasks/THROWING.WILD_PIG.FOTO.jpg")}
 						style={{ width: "100%", height: "100%" }}
 					>
 						<LinearGradient

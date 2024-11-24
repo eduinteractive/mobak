@@ -134,28 +134,30 @@ const LearningTaskGroupScreen = () => {
 	const exportPDF = async () => {
 		let PASS_ROWS = "";
 		for (const task of selectedTasks) {
-			let image = "";
+			/*let image = "";
 			try {
 				image = await convertImageToBase64(
 					LearningTaskImages[task as keyof typeof LearningTaskImages]
 				);
 			} catch (err) {
 				console.error(err);
-			}
+			}*/
 			PASS_ROWS += `
                 <tr>
                     <td style="max-width: 100px;">
                     <h4 style="margin-bottom: 5px;">${t(task + ".TITLE")}</h4>
                     <p style="margin: 0;">${t(task + ".BASIC_TASK")}</p>
                     </td>
-                    <td style="width: 100px;">
-                        <img src="${image}" style="height: 100px; object-fit: cover;" height="100" />
-                    </td>
                     <td></td>
                     <td></td>
                 </tr>
             `;
 		}
+		/*
+        <td style="width: 100px;">
+            <img src="${image}" style="height: 100px; object-fit: cover;" height="100" />
+        </td>
+        */
 
 		const formattedHtml = PDF_PASS.replace("%%PASS_TITLE%%", "Pass from: ")
 			.replace("%%REACHING_GOAL%%", "How I do it")
@@ -200,7 +202,7 @@ const LearningTaskGroupScreen = () => {
 						mode="text"
 						icon="download"
 						style={{ borderRadius: 0 }}
-						onPress={exportPDF}
+						onPressIn={exportPDF}
 					>
 						download selected
 					</Button>
@@ -263,7 +265,7 @@ const LearningTaskGroupScreen = () => {
 							...styles.roundButton,
 							backgroundColor: `rgba(255,255,255, 1)`,
 						}}
-						onPress={() =>
+						onPressIn={() =>
 							router.push(
 								`/(tabs)/(home)/l_tasks/${taskGroup}/${task}` as Href
 							)

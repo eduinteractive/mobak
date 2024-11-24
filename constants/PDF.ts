@@ -276,7 +276,6 @@ export const PDF_PASS = `
             <thead>
                 <tr>
                     <th></th>
-                    <th></th>
                     <th>%%REACHING_GOAL%%</th>
                     <th>%%MY_IDEA%%</th>
                 </tr>

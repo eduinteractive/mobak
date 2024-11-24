@@ -134,17 +134,14 @@ const LearningTaskScreen = () => {
 	}, [taskGroup, task]);
 
 	const exportPDF = async () => {
-		const imageBase64 = await convertImageToBase64(
+		/*const imageBase64 = await convertImageToBase64(
 			LearningTaskImages[task as keyof typeof LearningTaskImages]
-		);
+		);*/
 
 		const formattedHtml = PDF_TASK.replace(
 			"%%BODY%%",
 			`
             <h1>${t(task + ".TITLE")}</h1>
-            <div class="image-container">
-                <img src="${imageBase64}" alt="Learning Task Image">
-            </div>
             ${LearningTaskFields.map(
 			(field, index) => `
                 <div class="section ${index > 0 ? "section--page-break" : ""}">
@@ -154,6 +151,11 @@ const LearningTaskScreen = () => {
                 `
 		).join("")}`
 		);
+        /*
+        <div class="image-container">
+            <img src="${imageBase64}" alt="Learning Task Image">
+        </div>
+        */
 
 		const { uri } = await Print.printToFileAsync({
 			html: formattedHtml,
@@ -189,7 +191,7 @@ const LearningTaskScreen = () => {
 						resizeMode="stretch"
 					/>
 					<View style={styles.downloadIcon}>
-						<TouchableOpacity onPress={exportPDF}>
+						<TouchableOpacity onPressIn={exportPDF}>
 							<Icon
 								source="download"
 								size={30}

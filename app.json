@@ -1,55 +1,57 @@
 {
-  "expo": {
-    "name": "mobak",
-    "slug": "mobak",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/images/splash.png",
-    "scheme": "myapp",
-    "userInterfaceStyle": "automatic",
-    "splash": {
-      "image": "./assets/images/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/images/splash.png",
-        "backgroundColor": "#ffffff"
-      },
-      "package": "de.saukels.mobak"
-    },
-    "web": {
-      "bundler": "metro",
-      "output": "static",
-      "favicon": "./assets/images/splash.png"
-    },
-    "plugins": [
-      "expo-router",
-      "expo-font",
-      "expo-video",
-      [
-        "expo-splash-screen",
-        {
-          "backgroundColor": "#ffffff",
-          "image": "./assets/images/splash.png",
-          "imageWidth": 200
-        }
-      ]
-    ],
-    "experiments": {
-      "typedRoutes": true
-    },
-    "extra": {
-      "router": {
-        "origin": false
-      },
-      "eas": {
-        "projectId": "6de179fb-4c41-45a9-805a-0fa6e011dc77"
-      }
-    }
-  }
+	"expo": {
+		"name": "Mobak",
+		"slug": "mobak",
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "./assets/images/android/1024.png",
+		"scheme": "myapp",
+		"userInterfaceStyle": "automatic",
+		"splash": {
+			"image": "./assets/images/android/1024.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#ffffff"
+		},
+        "assetBundlePatterns": ["**/*"],
+		"ios": {
+			"supportsTablet": true,
+			"bundleIdentifier": "de.saukels.mobak"
+		},
+		"android": {
+			"adaptiveIcon": {
+				"foregroundImage": "./assets/images/android/1024.png",
+				"backgroundColor": "#ffffff"
+			},
+			"package": "de.saukels.mobak"
+		},
+		"web": {
+			"bundler": "metro",
+			"output": "static",
+			"favicon": "./assets/images/android/1024.png"
+		},
+		"plugins": [
+			"expo-router",
+			"expo-font",
+			"expo-video",
+			[
+				"expo-splash-screen",
+				{
+					"backgroundColor": "#ffffff",
+					"image": "./assets/images/android/1024.png",
+					"resizeMode": "contain"
+				}
+			]
+		],
+		"experiments": {
+			"typedRoutes": true
+		},
+		"extra": {
+			"router": {
+				"origin": false
+			},
+			"eas": {
+				"projectId": "6de179fb-4c41-45a9-805a-0fa6e011dc77"
+			}
+		}
+	}
 }

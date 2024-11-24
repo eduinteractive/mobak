@@ -94,19 +94,16 @@ const DiagnoseTask = (props: DiagnoseTaskProps) => {
 	}, [props.task]);
 
 	const exportPDF = async () => {
-		const imageBase64 = await convertImageToBase64(
+		/*const imageBase64 = await convertImageToBase64(
 			TaskImages[props.task.includes("3_4") ? "MOBAK_3_4" : "MOBAK_1_2"][
 				props.task as keyof (typeof TaskImages)["MOBAK_1_2" | "MOBAK_3_4"]
 			]
-		);
+		);*/
 
 		const formattedHtml = PDF_TASK.replace(
 			"%%BODY%%",
 			`
             <h1>${t(props.task + ".TASK")}</h1>
-            <div class="image-container">
-                <img src="${imageBase64}" alt="Learning Task Image">
-            </div>
             ${DiagnoseTaskFields.map(
 			(field, index) => `
                 <div class="section ${index > 0 ? "section--page-break" : ""}">
@@ -116,6 +113,11 @@ const DiagnoseTask = (props: DiagnoseTaskProps) => {
                 `
 		).join("")}`
 		);
+        /*
+        <div class="image-container">
+            <img src="${imageBase64}" alt="Learning Task Image">
+        </div>
+        */
 
 		const { uri } = await Print.printToFileAsync({
 			html: formattedHtml,

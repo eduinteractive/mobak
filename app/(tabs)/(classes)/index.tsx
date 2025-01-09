@@ -107,6 +107,7 @@ const styles = StyleSheet.create({
 		width: "100%",
 		justifyContent: "space-between",
 		alignItems: "flex-end",
+        zIndex: 3,
 	},
 	headerButton: {
 		zIndex: 3,

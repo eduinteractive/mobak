@@ -45,4 +45,4 @@ export const getAppConfig = async (): Promise<AppConfig | null> => {
 	}
 };
 
-AsyncStorage.clear();
+//AsyncStorage.clear();

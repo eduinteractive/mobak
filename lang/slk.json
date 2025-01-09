@@ -274,11 +274,11 @@
 		"MATERIAL": "1 malá basketbalová lopta (veľkosť 3; priemer: 17 cm)\r\npáska (široká približne 30 mm).",
 		"TEST_SET-UP": "Testovacia zostava: Pomocou pásky vytvorte koridor (vnútorné rozmery 5,0 x 1,0 m).",
 		"TEST_ITEM": "Dieťa odráža loptu cez koridor bez toho, aby ju stratilo.",
+		"CRITERIA": "Boky musia smerovať v smere pohybu (žiadne odrážanie do strán, žiadne kroky do strán).\r\nDieťa sa musí pohybovať dopredu plynule a nepretržite.\r\nLoptu nesmie držať.\r\nLopta sa nesmie stratiť.\r\nStrany koridoru nesmie opustiť ani dieťa, ani lopta.\r\nBočné značenie sa nesmie zasiahnuť.\r\nLopta sa musí odraziť aspoň päťkrát.",
 		"VALUATION": "pokusy, zaznamenáva sa počet úspešných pokusov.\r\n\r\n0 x úspešný pokus = 0 bodov.\r\n1 x úspešný pokus = 1 bod\r\n2 x úspešný pokus = 2 body.",
 		"INSTRUCTION_DEMONSTRATION": "Postavte sa za štartovú čiaru s loptou v ruke. Odrážajte loptu cez koridor za cieľovú čiaru. Snažte sa zostať medzi čiarami v koridore a snažte sa nedotýkať čiar. Loptu odrazte aspoň päťkrát. Pozrite sa, raz vám to ukážem. (ukážka)\r\n\r\nLoptu môžete odrážať oboma rukami, jednou rukou alebo striedavo. Nie je dovolené loptu držať. Nezabudnite, že nejde o rýchlosť, ale o to, aby ste neurobili chybu. (Ukážka rôznych techník odrážania).",
 		"INFORMATION_FOR_THE_TEST_LEADER": "Lopta sa môže odrážať jednou rukou alebo oboma rukami.\r\nDieťa sa nesmie zastaviť na viac ako 1 sekundu.\r\nSúťaženie medzi deťmi, ktoré môže viesť k nesprávnym výkonom, by sa malo zastaviť v počiatočnej fáze.\r\n "
 	},
-	"BOUNCING_1_CRITERIA": "Boky musia smerovať v smere pohybu (žiadne odrážanie do strán, žiadne kroky do strán).\r\nDieťa sa musí pohybovať dopredu plynule a nepretržite.\r\nLoptu nesmie držať.\r\nLopta sa nesmie stratiť.\r\nStrany koridoru nesmie opustiť ani dieťa, ani lopta.\r\nBočné značenie sa nesmie zasiahnuť.\r\nLopta sa musí odraziť aspoň päťkrát.",
 	"BOUNCING_3_4": {
 		"MOBAK": "Oblasť kompetencií \"Pohyb s náčiním\"",
 		"TITLE": "MOBAK 3-4 Úloha 3: Dribling",
@@ -1301,13 +1301,11 @@
 			"TITLE": "Vedenie lopty nohou pod ochranou",
 			"BASIC_TASK": "Dieťa A stojí chrbtom ku svojej skupine a vedie loptu, postupne ju rôznymi spôsobmi zastavuje (napr. zastavenie chodidlom, vnútornou stranou chodidla atď). Všetky deti v skupine sa to snažia napodobniť.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako sa ti darí, čo najrýchlejšie zareagovať na svoj vzor dieťa A? Prečo je dôležité, aby si sa nepozeral na svoju loptu?",
-			"WILLINGNESS": "Čo by si mal ako dieťa A robiť, aby ťa ostatné deti mohli napodobňovať? Akú radu by si dal inému dieťaťu, ktoré sa snaží dieťa A napodobňovať?"
+			"WILLINGNESS": "Čo by si mal ako dieťa A robiť, aby ťa ostatné deti mohli napodobňovať? Akú radu by si dal inému dieťaťu, ktoré sa snaží dieťa A napodobňovať?",
+			"QUALIFICATION": "Vedenie lopty nohou",
+			"MATERIALS": "Lopty",
+			"VARIATIONS": "Dieťa A stojí ku skupine čelom a deti zrkadlovo napodobňujú pohyb."
 		}
-	},
-	"DRIBBLING_VARIATIONS": {
-		"QUALIFICATION": "Vedenie lopty nohou",
-		"MATERIALS": "Lopty",
-		"VARIATIONS": "Dieťa A stojí ku skupine čelom a deti zrkadlovo napodobňujú pohyb."
 	},
 	"PDF_TESTRESULT": {
 		"INSTRUCTION": "Postup výberu učebných úloh na podporu základných pohybových kompetencií:",

@@ -2,8 +2,9 @@ import TasksOverview from "@/constants/TasksOverview";
 import { useFavorites } from "@/hooks/useFavorites";
 import { MaterialIcons } from "@expo/vector-icons";
 import { Stack } from "expo-router";
+import React from "react";
 import { useTranslation } from "react-i18next";
-import { Image, StyleSheet, TouchableOpacity, View } from "react-native";
+import { Image, Platform, StyleSheet, TouchableOpacity, View } from "react-native";
 import { Text } from "react-native-paper";
 
 const HomeLayout = () => {
@@ -22,7 +23,6 @@ const HomeLayout = () => {
 					fontWeight: "bold",
 				},
 				header: (props) => {
-                    console.log(props.route)
 					return (
 						<View
 							style={{
@@ -220,9 +220,9 @@ const HomeLayout = () => {
 const styles = StyleSheet.create({
 	headerContainer: {
 		backgroundColor: "white",
-		paddingTop: 0,
+		paddingTop: Platform.OS === "ios" ? 20 : 0,
 		paddingLeft: 20,
-		height: 60,
+		height: Platform.OS === "ios" ? 90 : 60,
 		flexDirection: "row",
 		alignItems: "center",
 	},

@@ -1,4 +1,4 @@
-import '@/lang/i18n';
+import "@/lang/i18n";
 import { DarkTheme, DefaultTheme, ThemeProvider } from "@react-navigation/native";
 import { useFonts } from "expo-font";
 import { Stack } from "expo-router";
@@ -6,7 +6,7 @@ import * as SplashScreen from "expo-splash-screen";
 import { useEffect, useState } from "react";
 import "react-native-reanimated";
 import { useColorScheme } from "@/hooks/useColorScheme";
-import { ActivityIndicator, PaperProvider } from "react-native-paper";
+import { ActivityIndicator, MD3DarkTheme, MD3LightTheme, PaperProvider } from "react-native-paper";
 import { AppConfig, AppContext, getAppConfig, setAppConfig } from "@/context/AppConfig";
 import LanguageList from "@/components/features/lang/LanguageList";
 import { RecoilRoot } from "recoil";
@@ -16,12 +16,11 @@ import i18next from "i18next";
 SplashScreen.preventAutoHideAsync();
 
 const RootLayout = () => {
-	const colorScheme = useColorScheme();
 	const [loaded] = useFonts({
 		SpaceMono: require("../assets/fonts/SpaceMono-Regular.ttf"),
 	});
-    const [appState, setAppState] = useState<AppConfig | null>(null);
-    const [loading, setLoading] = useState(true);
+	const [appState, setAppState] = useState<AppConfig | null>(null);
+	const [loading, setLoading] = useState(true);
 
 	useEffect(() => {
 		if (loaded) {
@@ -29,49 +28,45 @@ const RootLayout = () => {
 		}
 	}, [loaded]);
 
-    useEffect(() => {
-        const fetchAppConfig = async () => {
-            const config = await getAppConfig();
-            if (config) {
-                setAppState(config);
-            }
-            setLoading(false);
-        }
-        fetchAppConfig();
-    }, [])
+	useEffect(() => {
+		const fetchAppConfig = async () => {
+			const config = await getAppConfig();
+			if (config) {
+				setAppState(config);
+			}
+			setLoading(false);
+		};
+		fetchAppConfig();
+	}, []);
 
-    useEffect(() => {
-        if (appState) {
-            i18next.changeLanguage(appState.lang);
-        }
-    }, [appState])
+	useEffect(() => {
+		if (appState) {
+			i18next.changeLanguage(appState.lang);
+		}
+	}, [appState]);
 
-    const handleSetAppConfig = async (lang: string) => {
-        const config = await setAppConfig({ lang });
-        setAppState(config);
-    }
+	const handleSetAppConfig = async (lang: string) => {
+		const config = await setAppConfig({ lang });
+		setAppState(config);
+	};
 
 	return (
-		<ThemeProvider value={colorScheme === "dark" ? DarkTheme : DefaultTheme}>
-			<PaperProvider>
-                <RecoilRoot>
-                    {!loading && appState && (
-                        <AppContext.Provider value={appState}>
-                            <Stack screenOptions={{ headerShown: false }}>
-                                <Stack.Screen name="(tabs)" />
-                            </Stack>
-                        </AppContext.Provider>
-                    )}
-                    {!loading && !appState && (
-                        <LanguageList
-                            onSubmit={handleSetAppConfig}
-                        />
-                    )}
-                    {(loading || !loaded) && <ActivityIndicator animating={true}/>}
-                </RecoilRoot>
+		<ThemeProvider value={DefaultTheme}>
+			<PaperProvider theme={MD3LightTheme}>
+				<RecoilRoot>
+					{!loading && appState && (
+						<AppContext.Provider value={appState}>
+							<Stack screenOptions={{ headerShown: false }}>
+								<Stack.Screen name="(tabs)" />
+							</Stack>
+						</AppContext.Provider>
+					)}
+					{!loading && !appState && <LanguageList onSubmit={handleSetAppConfig} />}
+					{(loading || !loaded) && <ActivityIndicator animating={true} />}
+				</RecoilRoot>
 			</PaperProvider>
 		</ThemeProvider>
 	);
-}
+};
 
 export default RootLayout;

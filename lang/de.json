@@ -273,11 +273,11 @@
 		"MATERIAL": "1 kleiner Basketball (Größe 3; Durchmesser: 17 cm)\r\nKreppband (ca. 30 mm breit)",
 		"TEST_SET-UP": "Mittels Kreppband wird ein Korridor (5.0 x 1.0 m Innenmaße) markiert. ",
 		"TEST_ITEM": "Das Kind prellt durch einen Korridor, ohne dabei den Ball zu verlieren.",
+		"CRITERIA": "Die Hüfte muss in Laufrichtung sein (es darf nicht seitwärts geprellt werden, keine Seitschritte).\r\nDas Kind muss flüssig und kontinuierlich vorwärtsgehen.\r\nDer Ball darf nicht gehalten werden.\r\nDer Ball darf nicht verloren gehen.\r\nDer seitliche Korridor darf vom Kind und vom Ball nicht verlassen werden.\r\nDie Seitenlinien dürfen nicht berührt werden.\r\nDer Ball muss mindestens fünfmal geprellt werden.",
 		"VALUATION": "2 Versuche, die Anzahl der bestandenen Versuche wird notiert.\r\n\r\n0 x bestanden = 0 Punkte \r\n1 x bestanden = 1 Punkt\r\n2 x bestanden = 2 Punkte",
 		"INSTRUCTION_DEMONSTRATION": "Stellt euch mit dem Ball in der Hand vor die Startlinie. Prellt den Ball durch den Korridor bis hinter die Ziellinie. Versucht dabei zwischen den beiden Linien zu bleiben und die Linien nicht zu berühren. Prellt den Ball mindestens fünfmal auf den Boden. Schaut her, ich mache es euch einmal vor. (Demonstration)\r\n\r\nIhr könnt den Ball entweder mit beiden Händen, mit einer oder beiden Händen abwechselnd prellen. Den Ball festzuhalten ist aber nicht erlaubt. Denkt daran, dass es nicht um Geschwindigkeit geht, sondern darum, dass die Aufgabe ohne Fehler ausgeführt wird. (Demonstration von verschiedenen Techniken)",
 		"INFORMATION_FOR_THE_TEST_LEADER": "Es darf mit einer Hand oder mit beiden Händen geprellt werden.\r\nDas Kind darf nicht länger als 1 Sekunde am Ort stehen bleiben.\r\nWettbewerbe zwischen den Kindern, welche zu unsauberem Ausführen der Aufgabe führen, sollten frühzeitig unterbunden werden."
 	},
-	"BOUNCING_1_CRITERIA": "Die Hüfte muss in Laufrichtung sein (es darf nicht seitwärts geprellt werden, keine Seitschritte).\r\nDas Kind muss flüssig und kontinuierlich vorwärtsgehen.\r\nDer Ball darf nicht gehalten werden.\r\nDer Ball darf nicht verloren gehen.\r\nDer seitliche Korridor darf vom Kind und vom Ball nicht verlassen werden.\r\nDie Seitenlinien dürfen nicht berührt werden.\r\nDer Ball muss mindestens fünfmal geprellt werden.",
 	"BOUNCING_3_4": {
 		"MOBAK": "Kompetenzbereich \"Etwas Bewegen\"",
 		"TITLE": "MOBAK 3-4 Aufgabe 3: Prellen",
@@ -1303,13 +1303,11 @@
 			"TITLE": "Schutzpersonen-Dribbeln",
 			"BASIC_TASK": "Kind A steht mit dem Rücken zur Gruppe und ändert während des Dribbelns kontinuierlich seine Position mit eingeschobenen Stoppvarianten (mit der Sohle stoppen, mit der lnnnenseite stoppen). Alle Kinder der Gruppe versuchen, den Bewegungsabläufen von Kind A zu folgen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir möglichst schnell auf Kind A zu reagieren?\r\nWieso ist es wichtig, den Blick vom Ball zu lösen?",
-			"WILLINGNESS": "Was machst du als Kind A damit die anderen Kinder dir folgen können?\r\nWelchen Tipp kannst du einem anderen Kind geben, welches Mühe hat Kind A zu folgen?"
+			"WILLINGNESS": "Was machst du als Kind A damit die anderen Kinder dir folgen können?\r\nWelchen Tipp kannst du einem anderen Kind geben, welches Mühe hat Kind A zu folgen?",
+			"QUALIFICATION": "Dribbeln",
+			"MATERIALS": "Bälle",
+			"VARIATIONS": "Kind A schaut zur Gruppe und die Kinder imitieren die Bewegung als „Spiegel\""
 		}
-	},
-	"DRIBBLING_VARIATIONS": {
-		"QUALIFICATION": "Dribbeln",
-		"MATERIALS": "Bälle",
-		"VARIATIONS": "Kind A schaut zur Gruppe und die Kinder imitieren die Bewegung als „Spiegel\"."
 	},
 	"PDF_TESTRESULT": {
 		"INSTRUCTION": "Vorgehensweise bei der Auswahl von Lernaufgaben zur Förderung der motorischen Basiskompetenzen:",

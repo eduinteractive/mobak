@@ -277,11 +277,11 @@
 		"MATERIAL": "1 small basketball (size 3; diameter: 17 cm)\r\nTape (approx. 30 mm wide).",
 		"TEST_SET-UP": "Create a corridor (5.0 x 1.0 m inner dimensions) using tape.",
 		"TEST_ITEM": "The child bounces the ball through the corridor without losing it.",
+		"CRITERIA": "The hip has to face the direction of movement (no sideway bouncing, no side steps).\r\nThe child has to move forward smoothly and continually.\r\nThe ball may not be held.\r\nThe ball may not be lost.\r\nThe sides of the corridor may not be left neither by the child nor the ball.\r\nThe side markings may not be touched.\r\nThe ball has to be bounced at least five times.",
 		"VALUATION": "2 attempts, amount of successful attempts is recorded.\r\n\r\n0 x passed attempts = 0 points \r\n1 x passed attempts = 1 point\r\n2 x passed attempts = 2 points.",
 		"INSTRUCTION_DEMONSTRATION": "Position yourself behind the start line with the ball in your hand. Bounce the ball through the corridor across the finish line. Try to stay between the lines in the corridor and try not to touch the lines. Bounce the ball at least five times. Have a look, I’ll show it once. (demonstration)\r\n\r\nYou may bounce the ball with both hands, with one hand or alternating. It’s not allowed to hold the ball. Don’t forget, it’s not about speed but about making no mistakes. (demonstration of different bouncing techniques).\r\n",
 		"INFORMATION_FOR_THE_TEST_LEADER": "The ball may be bounced with one hand or with both hands.\r\nThe child may not stop for more than 1 sec.\r\nCompetitions between children, which can lead to bad performances, should be stopped at an early stage.\r\n "
 	},
-	"BOUNCING_1_CRITERIA": "The hip has to face the direction of movement (no sideway bouncing, no side steps).\r\nThe child has to move forward smoothly and continually.\r\nThe ball may not be held.\r\nThe ball may not be lost.\r\nThe sides of the corridor may not be left neither by the child nor the ball.\r\nThe side markings may not be touched.\r\nThe ball has to be bounced at least five times.",
 	"BOUNCING_3_4": {
 		"MOBAK": "Competence area 'Object movement'",
 		"TITLE": "MOBAK 3–4 Task 3: Bouncing",
@@ -1307,13 +1307,11 @@
 			"TITLE": "Protection Person Dribbling",
 			"BASIC_TASK": "Child A stands with his/her back to the group and continuously changes his/her position while dribbling. He/She uses different stop variations in her demonstration (e.g. stop with the sole, stop with the inside of the foot). All children in the group try to follow the movements of child A.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you manage to react as quickly as possible to child A? \r\nWhy is it important to take your eyes off the ball?",
-			"WILLINGNESS": "How do you demonstrate your skills when you are child A so that the other children can follow you? \r\nWhat advice can you give to another child who has trouble following child A?"
+			"WILLINGNESS": "How do you demonstrate your skills when you are child A so that the other children can follow you? \r\nWhat advice can you give to another child who has trouble following child A?",
+			"QUALIFICATION": "Dribbling",
+			"MATERIALS": "balls",
+			"VARIATIONS": "Child A looks at the group and the children imitate the movement as a \"mirror\"."
 		}
-	},
-	"DRIBBLING_VARIATIONS": {
-		"QUALIFICATION": "Dribbling",
-		"MATERIALS": "balls",
-		"VARIATIONS": "Child A looks at the group and the children imitate the movement as a \"mirror\"."
 	},
 	"PDF_TESTRESULT": {
 		"INSTRUCTION": "Procedure for Selecting Learning Tasks to Promote Basic Motor Competencies:",

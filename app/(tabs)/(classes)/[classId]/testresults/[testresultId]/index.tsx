@@ -627,6 +627,7 @@ const styles = StyleSheet.create({
 	},
 	textWrapper: {
 		marginLeft: 10,
+        zIndex: 4,
 	},
 	text: {
 		fontSize: 16,

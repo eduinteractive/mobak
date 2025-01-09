@@ -277,11 +277,11 @@
 		"MATERIAL": "Un ballon de basket-ball (taille 3, diamètre : 17cm). \r\nMarquage au sol",
 		"TEST_SET-UP": "Délimiter un couloir avec du tape (5m x 1m).",
 		"TEST_ITEM": "L’enfant dribble avec un ballon de basket-ball le long d’un couloir jusqu’à une ligne d’arrivée sans perdre le ballon.",
+		"CRITERIA": "L’enfant sait dribbler le ballon avec ses deux mains sans le perdre, ni le tenir en main. L’enfant ne peut pas s’arrêter, il doit effectuer au moins 5 dribbles et ne peut pas sortir des limites du couloir.",
 		"VALUATION": "2 tentatives. On compte le nombre de tentatives réussies.\r\n0 tentatives réussis = 0 points\r\n1 tentatives réussis = 1 point\r\n2 tentatives réussis = 2 points",
 		"INSTRUCTION_DEMONSTRATION": "Positionez vous derrière la ligne de départ avec le ballon. Bernez le ballon à travers du couloir et dépassez la ligne d'arrivée. Restez entre les bordures sans de les toucher. Bernez le ballon au moins cinq fois. Regardez-moi je vais vous le démonster. \r\n\r\nVous pouvez berner le ballon avec deux mains, avec une mains, ou alternant entre les deux mains. Tenir le ballon n'est pas permit. N'oubliez pas que ce n'est pas la vitesse qui conte, mais la execution du tâche sans erreurs. (Démonstration des téchniques différents). ",
 		"INFORMATION_FOR_THE_TEST_LEADER": "Permit de berner avec une mains ou deux.\r\nL'enfant n'a pas le droit de rester sur place plus longtemps que une seconde.\r\nCompétitions entre les enfants qui résultent à une réalisation impropre doivent être interrompues prématurées. "
 	},
-	"BOUNCING_1_CRITERIA": "L’enfant sait dribbler le ballon avec ses deux mains sans le perdre, ni le tenir en main. L’enfant ne peut pas s’arrêter, il doit effectuer au moins 5 dribbles et ne peut pas sortir des limites du couloir.",
 	"BOUNCING_3_4": {
 		"MOBAK": "Compétence \"Manipulation d’un objet\"",
 		"TITLE": "MOBAK 3-4 tâche 3: Dribbler avec la main",
@@ -1305,13 +1305,11 @@
 			"TITLE": "Dribbler des personnes protégées",
 			"BASIC_TASK": "L'enfant A se positionne avec le dos au groupe et change continûment sa position pendant dribblant avec des variantes d'arrêt intercalées (arrêter avec la semelle, arrêter avec le côté intérieur). Tous les enfants du groupe essaient de suivre les mouvements de l'enfant A.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu à réagir à l'enfant A le plus rapidement que possible?\r\nPourquoi est-il important de détacher son regarde du ballon?",
-			"WILLINGNESS": "Que fais-tu comme enfant A pour que les autres enfant peuvent te suivre?\r\nQuel conseil peux-tu donner à un autre enfant qui a des difficultés à suivre l'enfant A?"
+			"WILLINGNESS": "Que fais-tu comme enfant A pour que les autres enfant peuvent te suivre?\r\nQuel conseil peux-tu donner à un autre enfant qui a des difficultés à suivre l'enfant A?",
+			"QUALIFICATION": "Dribbler",
+			"MATERIALS": "Ballons",
+			"VARIATIONS": "L'enfant A regarde le groupe et les enfants imitent les mouvement comme dans un mirroir. "
 		}
-	},
-	"DRIBBLING_VARIATIONS": {
-		"QUALIFICATION": "Dribbler",
-		"MATERIALS": "Ballons",
-		"VARIATIONS": "L'enfant A regarde le groupe et les enfants imitent les mouvement comme dans un mirroir. "
 	},
 	"PDF_TESTRESULT": {
 		"INSTRUCTION": "Procédure de sélection des exercices éducatifs pour l’encouragement de la motricité de base: ",

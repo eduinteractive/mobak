@@ -277,11 +277,11 @@
 		"MATERIAL": "1 pieni koripallo (koko 3; halkaisija: 17 cm).\r\nNauha (n. 30 mm leveä).",
 		"TEST_SET-UP": "Luo käytävä (sisämitat 5,0 x 1,0 m) teipin avulla.",
 		"TEST_ITEM": "Lapsi pomputtelee palloa käytävän läpi hukkaamatta sitä.",
+		"CRITERIA": "Lantion on oltava liikkumissuuntaan päin (ei sivulle pomppimista, ei sivuaskelia).\r\nLapsen on liikuttava eteenpäin tasaisesti ja jatkuvasti.\r\nPalloa ei saa pitää kädessä.\r\nPalloa ei saa hukata.\r\nAlueen sivuilta ei saa poistua lapsi eikä pallo.\r\nSivumerkintöihin ei saa koskea.\r\nPalloa on pomputettava vähintään viisi kertaa.",
 		"VALUATION": "2 yritystä, onnistuneiden yritysten määrä kirjataan.\r\n\r\n0 x onnistunut yritys = 0 pistettä \r\n1 x onnistunut yritys = 1 piste\r\n2 x onnistunut yritys = 2 pistettä.",
 		"INSTRUCTION_DEMONSTRATION": "Asetu aloitusviivan taakse pallo kädessäsi. Etene palloa pomputtaen käytävän läpi maaliviivan yli. Yritä pysyä käytävän viivojen välissä ja yritä olla koskematta viivoihin. Pomputa palloa vähintään viisi kertaa. Katso, näytän suorituksen kerran. (demonstraatio)\r\n\r\nVoit pomputtaa palloa molemmilla käsillä, yhdellä kädellä tai vuorotellen. Palloa ei saa pitää kädessä. Älkää unohtako, että kyse ei ole nopeudesta vaan siitä, ettei tee virheitä. (eri pomppimistekniikoiden demonstrointi).",
 		"INFORMATION_FOR_THE_TEST_LEADER": "Palloa saa pomputtaa yhdellä kädellä tai molemmilla käsillä.\r\nLapsi ei saa pysähtyä yli 1 sekunniksi.\r\nLasten väliset kilpailut, jotka voivat johtaa huonoihin suorituksiin, tulisi lopettaa jo varhaisessa vaiheessa."
 	},
-	"BOUNCING_1_CRITERIA": "Lantion on oltava liikkumissuuntaan päin (ei sivulle pomppimista, ei sivuaskelia).\r\nLapsen on liikuttava eteenpäin tasaisesti ja jatkuvasti.\r\nPalloa ei saa pitää kädessä.\r\nPalloa ei saa hukata.\r\nAlueen sivuilta ei saa poistua lapsi eikä pallo.\r\nSivumerkintöihin ei saa koskea.\r\nPalloa on pomputettava vähintään viisi kertaa.",
 	"BOUNCING_3_4": {
 		"MOBAK": "Osaamisalue: \"Välineenkäsittely\"",
 		"TITLE": "MOBAK 3-4 Tehtävä 3: Pomputtaminen",
@@ -395,6 +395,7 @@
 			"QUALIFICATION": "Juokseminen",
 			"TITLE": "Hei hai",
 			"BASIC_TASK": "Yksi lapsi on hai ja seisoo salin toisella puolella, kun muu ryhmä seisoo vastakkaisella puolella. Ryhmä kysyy hailta, miten heidän pitäisi ylittää vesi. Hai antaa tietyn käskyn, ja ryhmä yrittää päästä käskyn mukaisesti toiselle puolelle ilman, että hai ehtii napata. Hai yrittää napata (koskettaa) mahdollisimman montaa lasta. Jokaisesta kosketetusta pelaajasta tulee myös hai.",
+			"MATERIALS": "-",
 			"VARIATIONS": "Käytä erilaisia liikkumistapoja, kuten juoksu- ja hyppytapoja (polvennostot, kuopaisut, kantapäät, sammakkohypyt, hyppyjuoksut, takaperin juoksut, kurotushypyt, zik-zak, sivuaskeleet). \r\nVaihda juoksurataa. \r\nMuuta kiinnioton sääntöjä.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten onnistut pääsemään salin toiselle puolelle ilman, että hai nappaa? \r\nMiten onnistut haina saamaan kiinni mahdollisimman monta lasta?",
 			"WILLINGNESS": "Mitä ideoita sinulla on, jotta pelistä tulisi jännittävämpi? \r\nMilloin haita ptäisi mielestäsi vaihtaa?"
@@ -1304,13 +1305,11 @@
 			"TITLE": "Pallon kuljettamisen suojaaminen",
 			"BASIC_TASK": "Lapsi A seisoo selkä ryhmään päin ja vaihtaa jatkuvasti asentoaan kuljattamisen aikana. Hän käyttää demonstraatiossaan erilaisia pysäytysvaihtoehtoja (esim. pysäytys jalkapohjalla, pysäytys jalkapohjan sisäpuolella). Kaikki ryhmän lapset yrittävät seurata lapsen A liikkeitä.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten onnistutte reagoimaan mahdollisimman nopeasti lapsen A kohdalla? \r\nMiksi on tärkeää, että katseet ovat muualla kuin pallossa?",
-			"WILLINGNESS": "Miten osoitat liikkeesi selkeästi, kun olet lapsi A, niin että muut lapset voivat seurata sinua? \r\nMitä neuvoja voisit antaa toiselle lapselle, jolla on vaikeuksia seurata lasta A?"
+			"WILLINGNESS": "Miten osoitat liikkeesi selkeästi, kun olet lapsi A, niin että muut lapset voivat seurata sinua? \r\nMitä neuvoja voisit antaa toiselle lapselle, jolla on vaikeuksia seurata lasta A?",
+			"QUALIFICATION": "Kuljettaminen",
+			"MATERIALS": "Palloja",
+			"VARIATIONS": "Lapsi ja katsoo ryhmää ja lapset imitoivat liikettä kuten \"peili\". "
 		}
-	},
-	"DRIBBLING_VARIATIONS": {
-		"QUALIFICATION": "Kuljettaminen",
-		"MATERIALS": "Palloja",
-		"VARIATIONS": "Lapsi ja katsoo ryhmää ja lapset imitoivat liikettä kuten \"peili\". "
 	},
 	"PDF_TESTRESULT": {
 		"INSTRUCTION": "Ohjeet motorisia perustaitoja edistävien oppimistehtävien valitsemiseksi: ",

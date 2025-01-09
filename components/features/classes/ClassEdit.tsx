@@ -3,10 +3,23 @@ import { parseClassGrade } from "@/constants/ClassParser";
 import { useClasses } from "@/hooks/useClasses";
 import { MaterialIcons } from "@expo/vector-icons";
 import { router } from "expo-router";
+import React from "react";
 import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { StyleSheet, TouchableOpacity, View } from "react-native";
-import { Button, Dialog, Portal, RadioButton, Text, TextInput, Title } from "react-native-paper";
+import {
+	Button,
+	Dialog,
+	MD3DarkTheme,
+	MD3LightTheme,
+	Modal,
+	Portal,
+	RadioButton,
+	Text,
+	TextInput,
+	Title,
+} from "react-native-paper";
+import { Modal as RNModal } from "react-native";
 
 interface ClassEditProps {
 	values?: {
@@ -23,8 +36,7 @@ const ClassEdit = (props: ClassEditProps) => {
 	const [dialogVisible, setDialogVisible] = useState<boolean>(false);
 	const [classGrade, setClassGrade] = useState<string>("");
 	const [dialogClassGrade, setDialogClassGrade] = useState<string>("");
-    const [deleteDialogVisible, setDeleteDialogVisible] = useState<boolean>(false);
-
+	const [deleteDialogVisible, setDeleteDialogVisible] = useState<boolean>(false);
 
 	const handleSubmit = async () => {
 		if (props.values) {
@@ -38,13 +50,12 @@ const ClassEdit = (props: ClassEditProps) => {
 		router.back();
 	};
 
-    const handleClassDelete = async () => {
-        if (props.values) {
-            await removeClass(props.values.id);
-        }
-        router.replace("/(tabs)/(classes)");
-    };
-
+	const handleClassDelete = async () => {
+		if (props.values) {
+			await removeClass(props.values.id);
+		}
+		router.replace("/(tabs)/(classes)");
+	};
 
 	useEffect(() => {
 		if (props.values) {
@@ -61,7 +72,7 @@ const ClassEdit = (props: ClassEditProps) => {
 			header={
 				<View style={styles.headerWrapper}>
 					<Title style={styles.headerTitle}>
-						{props.values ? props.values.className : (t("classroom_new_class"))}
+						{props.values ? props.values.className : t("classroom_new_class")}
 					</Title>
 					<TouchableOpacity
 						style={styles.headerIcon}
@@ -77,49 +88,66 @@ const ClassEdit = (props: ClassEditProps) => {
 			}
 		>
 			<Portal>
-				<Dialog
-					visible={dialogVisible}
-					onDismiss={() => setDialogVisible(false)}
-				>
-					<Dialog.Title>{t("classroom_grade")}</Dialog.Title>
-					<Dialog.Content>
-						<RadioButton.Group
-							onValueChange={(newValue) => setDialogClassGrade(newValue)}
-							value={dialogClassGrade}
+				<Modal visible={dialogVisible}>
+					<RNModal
+						visible={dialogVisible}
+						transparent={true}
+					>
+						<Dialog
+							visible={dialogVisible}
+							onDismiss={() => setDialogVisible(false)}
 						>
-							<View style={styles.radioContainer}>
-								<RadioButton value="first" />
-								<Text>{t("classroom_grade_first")}</Text>
-							</View>
-							<View style={styles.radioContainer}>
-								<RadioButton value="second" />
-								<Text>{t("classroom_grade_second")}</Text>
-							</View>
-							<View style={styles.radioContainer}>
-								<RadioButton value="third" />
-								<Text>{t("classroom_grade_third")}</Text>
-							</View>
-							<View style={styles.radioContainer}>
-								<RadioButton value="fourth" />
-								<Text>{t("classroom_grade_fourth")}</Text>
-							</View>
-						</RadioButton.Group>
-					</Dialog.Content>
-					<Dialog.Actions>
-						<Button onPress={() => setDialogVisible(false)}>
-							{t("general_cancel")}
-						</Button>
-						<Button
-							onPress={() => {
-								setDialogVisible(false);
-								setClassGrade(dialogClassGrade);
-								setDialogClassGrade("");
-							}}
-						>
-							{t("general_ok")}
-						</Button>
-					</Dialog.Actions>
-				</Dialog>
+							<Dialog.Title>{t("classroom_grade")}</Dialog.Title>
+							<Dialog.Content>
+								<RadioButton.Group
+									onValueChange={(newValue) =>
+										setDialogClassGrade(newValue)
+									}
+									value={dialogClassGrade}
+								>
+									<View style={styles.radioContainer}>
+										<RadioButton.Android value="first" />
+										<Text>
+											{t("classroom_grade_first")}
+										</Text>
+									</View>
+									<View style={styles.radioContainer}>
+										<RadioButton.Android value="second" />
+										<Text>
+											{t("classroom_grade_second")}
+										</Text>
+									</View>
+									<View style={styles.radioContainer}>
+										<RadioButton.Android value="third" />
+										<Text>
+											{t("classroom_grade_third")}
+										</Text>
+									</View>
+									<View style={styles.radioContainer}>
+										<RadioButton.Android value="fourth" />
+										<Text>
+											{t("classroom_grade_fourth")}
+										</Text>
+									</View>
+								</RadioButton.Group>
+							</Dialog.Content>
+							<Dialog.Actions>
+								<Button onPress={() => setDialogVisible(false)}>
+									{t("general_cancel")}
+								</Button>
+								<Button
+									onPress={() => {
+										setDialogVisible(false);
+										setClassGrade(dialogClassGrade);
+										setDialogClassGrade("");
+									}}
+								>
+									{t("general_ok")}
+								</Button>
+							</Dialog.Actions>
+						</Dialog>
+					</RNModal>
+				</Modal>
 			</Portal>
 
 			<TextInput
@@ -157,35 +185,53 @@ const ClassEdit = (props: ClassEditProps) => {
 			>
 				{props.values ? t("generic_save_changes") : t("classroom_add_class")}
 			</Button>
-            {props.values && (
+			{props.values && (
 				<>
 					<Portal>
-						<Dialog
-							visible={deleteDialogVisible}
-							onDismiss={() => setDeleteDialogVisible(false)}
-						>
-							<Dialog.Title>
-								{t("classroom_dialog_delete_title")}
-							</Dialog.Title>
-							<Dialog.Content>
-								<Text variant="bodyMedium">
-									{t(
-										"classroom_dialog_delete_description"
-									)}
-								</Text>
-							</Dialog.Content>
-							<Dialog.Actions>
-								<Button onPress={() => setDeleteDialogVisible(false)}>
-									{t("general_cancel")}
-								</Button>
-								<Button onPress={handleClassDelete}>
-									{t("general_delete")}
-								</Button>
-							</Dialog.Actions>
-						</Dialog>
+						<Modal visible={deleteDialogVisible}>
+							<RNModal
+								visible={deleteDialogVisible}
+								transparent={true}
+							>
+								<Dialog
+									visible={deleteDialogVisible}
+									onDismiss={() => setDeleteDialogVisible(false)}
+								>
+									<Dialog.Title>
+										{t("classroom_dialog_delete_title")}
+									</Dialog.Title>
+									<Dialog.Content>
+										<Text variant="bodyMedium">
+											{t(
+												"classroom_dialog_delete_description"
+											)}
+										</Text>
+									</Dialog.Content>
+									<Dialog.Actions>
+										<Button
+											onPress={() =>
+												setDeleteDialogVisible(
+													false
+												)
+											}
+										>
+											{t("general_cancel")}
+										</Button>
+										<Button onPress={handleClassDelete}>
+											{t("general_delete")}
+										</Button>
+									</Dialog.Actions>
+								</Dialog>
+							</RNModal>
+						</Modal>
 					</Portal>
-					<TouchableOpacity style={styles.studentDeleteWrapper} onPress={() => setDeleteDialogVisible(true)}>
-						<Text style={styles.studentDeleteText}>{t("classroom_delete_class")}</Text>
+					<TouchableOpacity
+						style={styles.studentDeleteWrapper}
+						onPress={() => setDeleteDialogVisible(true)}
+					>
+						<Text style={styles.studentDeleteText}>
+							{t("classroom_delete_class")}
+						</Text>
 					</TouchableOpacity>
 				</>
 			)}
@@ -240,7 +286,7 @@ const styles = StyleSheet.create({
 	submitButton: {
 		borderRadius: 7.5,
 	},
-    studentDeleteWrapper: {
+	studentDeleteWrapper: {
 		marginTop: 40,
 		width: "100%",
 		justifyContent: "center",

@@ -4,7 +4,7 @@ import { TabBarIcon } from "@/components/navigation/TabBarIcon";
 import { Colors } from "@/constants/Colors";
 import { useColorScheme } from "@/hooks/useColorScheme";
 import Animated, { Easing, useAnimatedStyle, useSharedValue, withTiming } from "react-native-reanimated";
-import { Image, StyleSheet, View } from "react-native";
+import { Image, Platform, StyleSheet, View } from "react-native";
 import { useTranslation } from "react-i18next";
 
 const TabLayout = () => {
@@ -46,7 +46,7 @@ const TabLayout = () => {
 			screenOptions={{
 				tabBarLabelPosition: "below-icon",
 				tabBarStyle: {
-					height: 70,
+					height: Platform.OS === "ios" ? 80 : 70,
 					paddingTop: 10,
 					paddingBottom: 10,
 				},
@@ -127,7 +127,7 @@ const styles = StyleSheet.create({
 		backgroundColor: "white",
 		paddingTop: 20,
 		paddingLeft: 20,
-		height: 100,
+		height: Platform.OS === "ios" ? 140 : 100,
 		flexDirection: "row",
 	},
 });

@@ -1,4 +1,6 @@
+import SafeScrollView from "@/components/common/SafeScrollView";
 import Language from "@/constants/Language";
+import React from "react";
 import { useState } from "react";
 import { StyleSheet, FlatList, TouchableWithoutFeedback, Image } from "react-native";
 import { Button, Card, Text } from "react-native-paper";
@@ -59,7 +61,7 @@ const LanguageList = (props: LanguageListProps) => {
 	};
 
 	return (
-		<>
+		<SafeScrollView>
 			<Text
 				variant="titleLarge"
 				style={styles.title}
@@ -89,7 +91,7 @@ const LanguageList = (props: LanguageListProps) => {
 			>
 				Get Started
 			</Button>
-		</>
+		</SafeScrollView>
 	);
 };
 

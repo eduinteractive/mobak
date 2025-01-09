@@ -277,11 +277,11 @@
 		"MATERIAL": "1 piccolo pallone da basket (dimensione 3; diametro: 17 cm)\r\nNastro adesivo (largo ca. 30 mm)",
 		"TEST_SET-UP": "Creare un corridoio delimitato con del nastro adesivo (misura interna: 5.0 m x 1.0 m).",
 		"TEST_ITEM": "Il bambino palleggia attraverso il corridoio senza perdere la palla.",
+		"CRITERIA": "Il bacino deve essere rivolto verso la direzione di marcia (non si può palleggiare di lato e non sono ammessi passi laterali).\r\nIl bambino deve camminare fluidamente e in maniera continua.\r\nLa palla non può essere trattenuta.\r\nNon si può perdere la palla.\r\nNé il bambino né la palla possono uscire dal corridoio.\r\nLe linee laterali non possono essere toccate.\r\nLa palla deve rimbalzare a terra almeno 5 volte.",
 		"VALUATION": "2 tentativi. Viene annotato il numero di tentativi riusciti\r\n0 successi = 0 Punti\r\n1 successo = 1 Punto\r\n2 successi = 2 Punti",
 		"INSTRUCTION_DEMONSTRATION": "Posizionatevi con la palla davanti alla linea di partenza.\r\nPalleggiate con la palla attraverso il corridoio fino alla linea di traguardo.\r\nProvate a rimanere tra le due linee laterali senza toccarle. La palla deve rimbalzare a terra almeno 5 volte. Vi faccio vedere come si fa. (Dimostrazione)\r\n\r\nPotete palleggiare con entrambe le mani, con una sola, oppure alternarle. Non è consentito trattenere la palla.\r\nRicordatevi che non è una questione di velocità, ma l’obiettivo è quello di eseguire il test senza fare errori. (Dimostrazione delle diverse tecniche).",
 		"INFORMATION_FOR_THE_TEST_LEADER": "Si può palleggiare con una o entrambe le mani.\r\nIl bambino non può stare più di 1 secondo fermo.\r\nBisogna interrompere subito le competizioni tra i bambini che possono portare ad un esecuzione imprecisa del compito."
 	},
-	"BOUNCING_1_CRITERIA": "Il bacino deve essere rivolto verso la direzione di marcia (non si può palleggiare di lato e non sono ammessi passi laterali).\r\nIl bambino deve camminare fluidamente e in maniera continua.\r\nLa palla non può essere trattenuta.\r\nNon si può perdere la palla.\r\nNé il bambino né la palla possono uscire dal corridoio.\r\nLe linee laterali non possono essere toccate.\r\nLa palla deve rimbalzare a terra almeno 5 volte.",
 	"BOUNCING_3_4": {
 		"MOBAK": "Campo \"Muovere qualcosa\"",
 		"TITLE": "MOBAK 3-4: Compito 3: Palleggiare",
@@ -1307,13 +1307,11 @@
 			"TITLE": "Dribbling Persone Protette",
 			"BASIC_TASK": "Il bambino A sta con la schiena al gruppo e cambia continuamente la sua posizione mentre dribbla. Utilizza diverse variazioni di arresto nella sua dimostrazione (ad esempio, fermare con la pianta del piede, fermare con l'interno del piede). Tutti i bambini del gruppo cercano di seguire i movimenti del bambino A.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come riesci a reagire il più velocemente possibile al bambino A?\r\nPerché è importante distogliere lo sguardo dalla palla?",
-			"WILLINGNESS": "Come dimostri le tue abilità quando sei il bambino A in modo che gli altri bambini possano seguirti?\r\nQuali consigli puoi dare a un altro bambino che ha difficoltà a seguire il bambino A?"
+			"WILLINGNESS": "Come dimostri le tue abilità quando sei il bambino A in modo che gli altri bambini possano seguirti?\r\nQuali consigli puoi dare a un altro bambino che ha difficoltà a seguire il bambino A?",
+			"QUALIFICATION": "Dribblare",
+			"MATERIALS": "Palle",
+			"VARIATIONS": "Il bambino A guarda il gruppo e i bambini imitano il movimento come in uno \"specchio\"."
 		}
-	},
-	"DRIBBLING_VARIATIONS": {
-		"QUALIFICATION": "Dribblare",
-		"MATERIALS": "Palle",
-		"VARIATIONS": "Il bambino A guarda il gruppo e i bambini imitano il movimento come in uno \"specchio\"."
 	},
 	"PDF_TESTRESULT": {
 		"INSTRUCTION": "Procedura per la selezione dei compiti di apprendimento per promuovere le competenze motorie di base:",

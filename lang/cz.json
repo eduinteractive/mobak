@@ -277,11 +277,11 @@
 		"MATERIAL": "1 malý basketbalový míč (velikost 3, průměr 17 cm)\r\nPáska (cca 3 cm široká)\r\n",
 		"TEST_SET-UP": "Koridor se startem a cílem vytvořený páskami (5 m délka x 1 m šířka).",
 		"TEST_ITEM": "Dítě odráží kontrolovaně míč při chůzi koridorem bez jeho ztráty.",
+		"CRITERIA": "Boky musí směřovat do směru pohybu (driblink nesmí být prováděn stranou, žádné úkroky).\r\nDítě se pohybuje plynule bez přerušení vpřed. \r\nDítě nesmí chytit míč oběma rukama.\r\nDítě nesmí ztratit kontrolu nad míčem.\r\nDítě ani míč nesmí opustit prostor koridoru vymezený páskami.\r\nNení povolen dotyk bočních pásek.\r\nDítě musí provést odražení míče alespoň 5x.",
 		"VALUATION": "2 pokusy, zaznamenává se počet úspěšných pokusů. \r\n0 x úspešný pokus = 0 bodů\r\n1 x úspěšný pokus = 1 bod\r\n2 x úspěšný pokus = 2 body",
 		"INSTRUCTION_DEMONSTRATION": "Postavte se s míčem v ruce za startovní čáru.\r\nSnažte se neopustit koridor a nedotýkat se bočních pásek. \r\nMíč odražte alespoň 5x.\r\nMíč můžete odrážet oběma rukama, jednou rukou i střídavě. \r\nNení dovolené míč držet.\r\nNezapomeň, že nejde o rychlost provedení, ale o jeho správnost. (ulázky různých technik odrážení míče)",
 		"INFORMATION_FOR_THE_TEST_LEADER": "Míč se smí odrážet jak jednou rukou, tak oběma.\r\nDítě se nesmí zastavit na místě na déle než 1 s.\r\nSnažíme se zamezit vzájemnému soutěžení mezi dětmi, které vede k technicky nesprávnému provedení. "
 	},
-	"BOUNCING_1_CRITERIA": "Boky musí směřovat do směru pohybu (driblink nesmí být prováděn stranou, žádné úkroky).\r\nDítě se pohybuje plynule bez přerušení vpřed. \r\nDítě nesmí chytit míč oběma rukama.\r\nDítě nesmí ztratit kontrolu nad míčem.\r\nDítě ani míč nesmí opustit prostor koridoru vymezený páskami.\r\nNení povolen dotyk bočních pásek.\r\nDítě musí provést odražení míče alespoň 5x. ",
 	"BOUNCING_3_4": {
 		"MOBAK": "Kompetenční oblast \"Pohyb s náčiním\"",
 		"TITLE": "MOBAK 3-4 Úloha 3: Driblink",
@@ -1307,13 +1307,11 @@
 			"TITLE": "Vedení míče nohou pod ochranou",
 			"BASIC_TASK": "Dítě A stojí zády ke své skupině, vede míč a postupně různými způsoby ho zastavuje (např. zastavení míče chodidlem, vnitřní stranou chodidla, atd.). Všechny děti ve skupině se to snaží napodobit.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti daří co nejrychleji reagovat na dítě A?\r\nProč je důležité, abys se nedíval/a na svůj míč?",
-			"WILLINGNESS": "Co bys měl/a jako dítě A dělat, aby tě ostatní děti mohly napodobovat?\r\nJakou radu bys dal/a jinému dítěti, které se snaží dítě A napodobovat?"
+			"WILLINGNESS": "Co bys měl/a jako dítě A dělat, aby tě ostatní děti mohly napodobovat?\r\nJakou radu bys dal/a jinému dítěti, které se snaží dítě A napodobovat?",
+			"QUALIFICATION": "Vedení míče nohou",
+			"MATERIALS": "Míče",
+			"VARIATIONS": "Dítě A stojí ke skupině čelem a děti zrdcadlově napodobují jeho pohyby."
 		}
-	},
-	"DRIBBLING_VARIATIONS": {
-		"QUALIFICATION": "Vedení míče nohou",
-		"MATERIALS": "Míče",
-		"VARIATIONS": "Dítě A stojí ke skupině čelem a děti zrdcadlově napodobují jeho pohyby."
 	},
 	"PDF_TESTRESULT": {
 		"INSTRUCTION": "Postup při výběru učebních úloh zaměřených na rozvoj základních pohybových kompetencí:",

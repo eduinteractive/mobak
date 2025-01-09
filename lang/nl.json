@@ -277,11 +277,11 @@
 		"MATERIAL": "1 kleine basketbal (maat 3; diameter: 17 cm)\r\nTape (ongeveer 30 mm breed).\r\n",
 		"TEST_SET-UP": "Creëer een gang (5,0 x 1,0 m binnenafmetingen) met tape.\r\n",
 		"TEST_ITEM": "Het kind stuitert de bal door de gang zonder deze te verliezen.\r\n",
+		"CRITERIA": "De heup moet gericht zijn op de bewegingsrichting (geen zijwaarts stuiteren, geen zijstappen).\r\nHet kind moet soepel en continu naar voren bewegen.\r\nDe bal mag niet worden vastgehouden.\r\nDe bal mag niet worden verloren.\r\nHet kind mag de zijkanten van de gang noch de bal verlaten.\r\nDe zijmarkeringen mogen niet worden aangeraakt.\r\nDe bal moet minstens vijf keer worden gestuiterd.\r\n",
 		"VALUATION": "pogingen, het aantal succesvolle pogingen wordt geregistreerd.\r\n0 x geslaagde pogingen = 0 punten\r\n1 x geslaagde pogingen = 1 punt\r\n2 x geslaagde pogingen = 2 punten.\r\n",
 		"INSTRUCTION_DEMONSTRATION": "Positioneer jezelf achter de startlijn met de bal in je hand. Stuiter de bal door de gang over de eindlijn. Probeer tussen de lijnen in de gang te blijven en de lijnen niet aan te raken. Stuiter de bal minstens vijf keer. Kijk, ik zal het één keer laten zien. (demonstratie)\r\n\r\nJe kunt de bal stuiteren met beide handen, met één hand of afwisselend. Het is niet toegestaan om de bal vast te houden. Vergeet niet, het gaat niet om snelheid maar om geen fouten te maken. (demonstratie van verschillende stuitertechnieken).\r\n",
 		"INFORMATION_FOR_THE_TEST_LEADER": "De bal mag met één hand of met beide handen worden gestuiterd.\r\nHet kind mag niet langer dan 1 seconde stoppen.\r\nWedstrijden tussen kinderen, die kunnen leiden tot slechte prestaties, moeten vroegtijdig worden gestopt.\r\n"
 	},
-	"BOUNCING_1_CRITERIA": "De heup moet gericht zijn op de bewegingsrichting (geen zijwaarts stuiteren, geen zijstappen).\r\nHet kind moet soepel en continu naar voren bewegen.\r\nDe bal mag niet worden vastgehouden.\r\nDe bal mag niet worden verloren.\r\nHet kind mag de zijkanten van de gang noch de bal verlaten.\r\nDe zijmarkeringen mogen niet worden aangeraakt.\r\nDe bal moet minstens vijf keer worden gestuiterd.\r\n",
 	"BOUNCING_3_4": {
 		"MOBAK": "Competentiegebied 'Beweging met objecten'",
 		"TITLE": "MOBAK 3–4 Taak 3: Stuiteren",
@@ -1307,13 +1307,11 @@
 			"TITLE": "Beschermingspersoon Dribbelen",
 			"BASIC_TASK": "Kind A staat met zijn/haar rug naar de groep en verandert continu van positie terwijl hij/zij dribbelt. Hij/Zij gebruikt verschillende stopvariaties in haar demonstratie (bijv. stoppen met de zool, stoppen met de binnenkant van de voet). Alle kinderen in de groep proberen de bewegingen van kind A te volgen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe lukt het je om zo snel mogelijk op kind A te reageren? Waarom is het belangrijk om je ogen van de bal af te halen?",
-			"WILLINGNESS": "Hoe demonstreer je je vaardigheden als je kind A bent zodat de andere kinderen je kunnen volgen?\r\nWelk advies kun je geven aan een ander kind dat moeite heeft om kind A te volgen?"
+			"WILLINGNESS": "Hoe demonstreer je je vaardigheden als je kind A bent zodat de andere kinderen je kunnen volgen?\r\nWelk advies kun je geven aan een ander kind dat moeite heeft om kind A te volgen?",
+			"QUALIFICATION": "Dribbelen",
+			"MATERIALS": "ballen",
+			"VARIATIONS": "Kind A kijkt naar de groep en de kinderen imiteren de beweging als een \"spiegel\"."
 		}
-	},
-	"DRIBBLING_VARIATIONS": {
-		"QUALIFICATION": "Dribbelen",
-		"MATERIALS": "ballen",
-		"VARIATIONS": "Kind A kijkt naar de groep en de kinderen imiteren de beweging als een \"spiegel\"."
 	},
 	"PDF_TESTRESULT": {
 		"INSTRUCTION": "Procedure voor het selecteren van leertaken om motorische basisvaardigheden te bevorderen: ",

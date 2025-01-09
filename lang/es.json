@@ -265,11 +265,11 @@
 		"MATERIAL": "1 balón de básquetbol (N°3, diámetro 17 cms.)\r\nCinta para marcar (3 cms. ancho)",
 		"TEST_SET-UP": "Con cinta de enmascarar marcar un pasillo (5 mts. x 1 mt.).",
 		"TEST_ITEM": "El niño o niña conduce el balón con las manos, sin perderlo, atravesando el pasillo.",
+		"CRITERIA": "La cadera debe ir perpendicular al sentido de la conducción (no se puede conducir\r\nlateralmente, ni dar pasos laterales).\r\nEl niño o niña debe conducir hacia adelante de forma fl uida y continuada.\r\nEl balón no puede ser tomado con ambas manos o sostenido.\r\nEl balón no puede escaparse del control del niño o niña.\r\nNi el niño o niña ni el balón pueden traspasar las líneas laterales del pasillo.\r\nLas líneas laterales no deben ser pisadas.\r\nEl balón debe ser rebotado como mínimo cinco veces durante la conducción.",
 		"VALUATION": "2 intentos. El número de intentos logrados será registrado.\r\n0 intento logrado = 0 punto\r\n1 intento logrado = 1 punto\r\n2 intentos logrados = 2 puntos",
 		"INSTRUCTION_DEMONSTRATION": "“Tomen el balón y se paran detrás de la línea. Dándole botes al balón, avanzan por el pasillo\r\nhasta llegar al fi nal. Traten de mantenerse siempre en el pasillo, sin pisar las líneas.\r\nTienen que darle como mínimo 5 botes a la pelota. Pongan atención, yo lo voy a hacer una\r\nvez” (demostración).\r\n“Ustedes pueden darle botes a la pelota con las dos manos, con una mano, o la pueden\r\nir cambiando. No está permitido sostener o agarrar la pelota. Esta tarea no se trata de\r\nvelocidad, sino que se trata de cumplirla sin cometer errores” (demostración de diferentes\r\ntécnicas).",
 		"INFORMATION_FOR_THE_TEST_LEADER": "El balón puede ser conducido con ambas manos.\r\nEl niño o niña no puede detenerse por más de un segundo.\r\nCompetencias entre los niños o niñas, que puedan infl uir en la ejecución correcta de la tarea, deben ser detenidas inmediatamente."
 	},
-	"BOUNCING_1_CRITERIA": "La cadera debe ir perpendicular al sentido de la conducción (no se puede conducir\r\nlateralmente, ni dar pasos laterales).\r\nEl niño o niña debe conducir hacia adelante de forma fl uida y continuada.\r\nEl balón no puede ser tomado con ambas manos o sostenido.\r\nEl balón no puede escaparse del control del niño o niña.\r\nNi el niño o niña ni el balón pueden traspasar las líneas laterales del pasillo.\r\nLas líneas laterales no deben ser pisadas.\r\nEl balón debe ser rebotado como mínimo cinco veces durante la conducción.",
 	"BOUNCING_3_4": {
 		"MOBAK": "Competencia \"Control de Objetos\"",
 		"TITLE": "MOBAK 3-4 tarea 3: Conducir con la mano",
@@ -1295,13 +1295,11 @@
 			"TITLE": "Conducir con el pie de personas protegidas",
 			"BASIC_TASK": "El niño A se para de espaldas al grupo y cambia constantemente de posición mientras bota. Utiliza diferentes variaciones de parada en su demostración (por ejemplo, detenerse con la bola del pie, detenerse con la parte interna del pie). Todos los niños del grupo intentan seguir los movimientos del niño A.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo se las arregla para reaccionar lo más rápido posible ante el niño A?\r\n¿Por qué es importante quitar la vista de la pelota?",
-			"WILLINGNESS": "¿Cómo demuestras tus habilidades cuando eres el niño A para que otros niños puedan seguirte?\r\n¿Qué consejo le puede dar a otro niño que tiene dificultades para seguir al niño A?"
+			"WILLINGNESS": "¿Cómo demuestras tus habilidades cuando eres el niño A para que otros niños puedan seguirte?\r\n¿Qué consejo le puede dar a otro niño que tiene dificultades para seguir al niño A?",
+			"QUALIFICATION": "Conducir con el pie",
+			"MATERIALS": "Bolas",
+			"VARIATIONS": "El niño A mira al grupo y los niños imitan el movimiento como en un \"espejo\"."
 		}
-	},
-	"DRIBBLING_VARIATIONS": {
-		"QUALIFICATION": "Conducir con el pie",
-		"MATERIALS": "Bolas",
-		"VARIATIONS": "El niño A mira al grupo y los niños imitan el movimiento como en un \"espejo\"."
 	},
 	"PDF_TESTRESULT": {
 		"INSTRUCTION": "Procedimiento de selección de tareas de aprendizaje para promover las competencias motrices básicas: ",

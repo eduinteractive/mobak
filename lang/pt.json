@@ -277,11 +277,11 @@
 		"MATERIAL": "1 bola de basquete pequena (tamanho 3; diâmetro: 17 cm) \r\nFita (aproximadamente 30 mm de largura).",
 		"TEST_SET-UP": "Crie um corredor (dimensões internas de 5,0 x 1,0 m) usando fita. ",
 		"TEST_ITEM": "A criança dribla a bola pelo corredor sem a perder. ",
+		"CRITERIA": "A anca deve estar voltada para a direção do movimento (sem driblar lateralmente, sem passos laterais). A criança deve avançar suavemente e continuamente. A bola não pode ser segurada. Não se pode deixar cair a bola. Tanto a criança como a bola têm de estar dentro do corredor. Não se pode tocar nas marcações laterais. Deve-se driblar a bola pelo menos cinco vezes.",
 		"VALUATION": "2 tentativas, a quantidade de tentativas bem-sucedidas é registada.\r\n0 tentativas bem-sucedidas = 0 pontos \r\n1 tentativa bem-sucedida = 1 ponto \r\n2 tentativas bem-sucedidas = 2 pontos.",
 		"INSTRUCTION_DEMONSTRATION": "Posicione-se atrás da linha de partida com a bola na mão. Drible a bola pelo corredor, cruzando a linha de chegada. Tente permanecer entre as linhas no corredor e evite tocar nas linhas. Drible a bola pelo menos cinco vezes. Repare, vou mostrar uma vez. (demonstração)\r\nPode driblar a bola com as duas mãos, com uma mão ou alternando. Não é permitido segurar a bola. Lembre-se, não se trata de velocidade, mas sim de não cometer erros. (demonstração de técnicas de driblar diferentes).",
 		"INFORMATION_FOR_THE_TEST_LEADER": "Pode-se driblar a bola com uma mão ou com ambas as mãos. A criança não pode parar por mais de 1 segundo. As competições entre crianças, que possam levar a maus desempenhos, devem ser interrompidas nas fases iniciais."
 	},
-	"BOUNCING_1_CRITERIA": "A anca deve estar voltada para a direção do movimento (sem driblar lateralmente, sem passos laterais). A criança deve avançar suavemente e continuamente. A bola não pode ser segurada. Não se pode deixar cair a bola. Tanto a criança como a bola têm de estar dentro do corredor. Não se pode tocar nas marcações laterais. Deve-se driblar a bola pelo menos cinco vezes.",
 	"BOUNCING_3_4": {
 		"MOBAK": "Área de Competência 'Movimento do Objeto' ",
 		"TITLE": "MOBAK 3–4 Tarefa 3: Driblar",
@@ -1307,13 +1307,11 @@
 			"TITLE": "Pessoa de proteção",
 			"BASIC_TASK": "A criança A está de costas para o grupo e muda constantemente de posição enquanto conduz. Utiliza diferentes variações de paragem na sua execução (por exemplo, paragem com a sola, paragem com o interior do pé). Todas as crianças do grupo tentam seguir os movimentos da criança A.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Como é que conseguem reagir o mais rapidamente possível à criança A? \r\nPorque é que é importante não tirar os olhos da bola?",
-			"WILLINGNESS": "O que faz como criança A para que as outras crianças possam segui-lo?\r\nQue dica pode dar a outra criança que está a ter dificuldades para acompanhar a criança A?"
+			"WILLINGNESS": "O que faz como criança A para que as outras crianças possam segui-lo?\r\nQue dica pode dar a outra criança que está a ter dificuldades para acompanhar a criança A?",
+			"QUALIFICATION": "Conduzir",
+			"MATERIALS": "bolas",
+			"VARIATIONS": "A criança A olha para o grupo e as crianças imitam o movimento como um “espelho”."
 		}
-	},
-	"DRIBBLING_VARIATIONS": {
-		"QUALIFICATION": "Conduzir",
-		"MATERIALS": "bolas",
-		"VARIATIONS": "A criança A olha para o grupo e as crianças imitam o movimento como um “espelho”."
 	},
 	"PDF_TESTRESULT": {
 		"INSTRUCTION": "Procedimento para Selecionar Tarefas de Aprendizagem para Promover Competências Motoras Básicas:",

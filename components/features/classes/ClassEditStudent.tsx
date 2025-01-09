@@ -3,11 +3,13 @@ import { parseStudentSex } from "@/constants/ClassParser";
 import { useClasses } from "@/hooks/useClasses";
 import { MaterialIcons } from "@expo/vector-icons";
 import { router, useLocalSearchParams } from "expo-router";
+import React from "react";
 import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { StyleSheet, TouchableOpacity, View } from "react-native";
-import { Button, Dialog, Portal, RadioButton, Text, TextInput, Title } from "react-native-paper";
+import { Button, Dialog, Portal, RadioButton, Text, TextInput, Title, Modal } from "react-native-paper";
 import uuid from "react-native-uuid";
+import { Modal as RNModal } from "react-native";
 
 interface ClassEditStudentProps {
 	values?: {
@@ -66,21 +68,23 @@ const ClassEditStudent = (props: ClassEditStudentProps) => {
 		router.back();
 	};
 
-    const handleStudentDelete = async () => {
-        if (props.values) {
-            const currentClass = getClass(classId as string);
-            await updateClass(currentClass!.id, {
-                students: currentClass!.students.filter((student) => student.id !== props.values!.id),
-                testresults: currentClass!.testresults.map((testresult) => {
-                    return {
-                        ...testresult,
-                        results: testresult.results.filter((result) => result.studentId !== props.values!.id),
-                    };
-                }),
-            });
-            router.back();
-        }
-    }
+	const handleStudentDelete = async () => {
+		if (props.values) {
+			const currentClass = getClass(classId as string);
+			await updateClass(currentClass!.id, {
+				students: currentClass!.students.filter((student) => student.id !== props.values!.id),
+				testresults: currentClass!.testresults.map((testresult) => {
+					return {
+						...testresult,
+						results: testresult.results.filter(
+							(result) => result.studentId !== props.values!.id
+						),
+					};
+				}),
+			});
+			router.back();
+		}
+	};
 
 	useEffect(() => {
 		if (props.values) {
@@ -113,47 +117,61 @@ const ClassEditStudent = (props: ClassEditStudentProps) => {
 			}
 		>
 			<Portal>
-				<Dialog
-					visible={dialogVisible}
-					onDismiss={() => setDialogVisible(false)}
-				>
-					<Dialog.Title>{t("classroom_grade")}</Dialog.Title>
-					<Dialog.Content>
-						<RadioButton.Group
-							onValueChange={(newValue) => setDialogSex(newValue)}
-							value={dialogSex}
+				<Modal visible={dialogVisible}>
+					<RNModal
+						visible={dialogVisible}
+						transparent={true}
+					>
+						<Dialog
+							visible={dialogVisible}
+							onDismiss={() => setDialogVisible(false)}
+							style={{ zIndex: 9999 }}
 						>
-							<View style={styles.radioContainer}>
-								<RadioButton value="0" />
-								<Text>{t("student_gender_male")}</Text>
-							</View>
-							<View style={styles.radioContainer}>
-								<RadioButton value="1" />
-								<Text>{t("student_gender_female")}</Text>
-							</View>
-							<View style={styles.radioContainer}>
-								<RadioButton value="2" />
-								<Text>{t("student_gender_other")}</Text>
-							</View>
-						</RadioButton.Group>
-					</Dialog.Content>
-					<Dialog.Actions>
-						<Button onPress={() => setDialogVisible(false)}>
-							{t("general_cancel")}
-						</Button>
-						<Button
-							onPress={() => {
-								setDialogVisible(false);
-								setSex(
-									Number.parseInt(dialogSex) as number | undefined
-								);
-								setDialogSex("");
-							}}
-						>
-							{t("general_ok")}
-						</Button>
-					</Dialog.Actions>
-				</Dialog>
+							<Dialog.Title>{t("classroom_grade")}</Dialog.Title>
+							<Dialog.Content>
+								<RadioButton.Group
+									onValueChange={(newValue) =>
+										setDialogSex(newValue)
+									}
+									value={dialogSex}
+								>
+									<View style={styles.radioContainer}>
+										<RadioButton.Android value="0" />
+										<Text>{t("student_gender_male")}</Text>
+									</View>
+									<View style={styles.radioContainer}>
+										<RadioButton.Android value="1" />
+										<Text>
+											{t("student_gender_female")}
+										</Text>
+									</View>
+									<View style={styles.radioContainer}>
+										<RadioButton.Android value="2" />
+										<Text>{t("student_gender_other")}</Text>
+									</View>
+								</RadioButton.Group>
+							</Dialog.Content>
+							<Dialog.Actions>
+								<Button onPress={() => setDialogVisible(false)}>
+									{t("general_cancel")}
+								</Button>
+								<Button
+									onPress={() => {
+										setDialogVisible(false);
+										setSex(
+											Number.parseInt(dialogSex) as
+												| number
+												| undefined
+										);
+										setDialogSex("");
+									}}
+								>
+									{t("general_ok")}
+								</Button>
+							</Dialog.Actions>
+						</Dialog>
+					</RNModal>
+				</Modal>
 			</Portal>
 			<TextInput
 				style={styles.textInput}
@@ -210,14 +228,10 @@ const ClassEditStudent = (props: ClassEditStudentProps) => {
 							visible={deleteDialogVisible}
 							onDismiss={() => setDeleteDialogVisible(false)}
 						>
-							<Dialog.Title>
-								{t("student_dialog_delete_title")}
-							</Dialog.Title>
+							<Dialog.Title>{t("student_dialog_delete_title")}</Dialog.Title>
 							<Dialog.Content>
 								<Text variant="bodyMedium">
-									{t(
-										"student_dialog_delete_description"
-									)}
+									{t("student_dialog_delete_description")}
 								</Text>
 							</Dialog.Content>
 							<Dialog.Actions>
@@ -230,7 +244,10 @@ const ClassEditStudent = (props: ClassEditStudentProps) => {
 							</Dialog.Actions>
 						</Dialog>
 					</Portal>
-					<TouchableOpacity style={styles.studentDeleteWrapper} onPress={() => setDeleteDialogVisible(true)}>
+					<TouchableOpacity
+						style={styles.studentDeleteWrapper}
+						onPress={() => setDeleteDialogVisible(true)}
+					>
 						<Text style={styles.studentDeleteText}>{t("student_delete")}</Text>
 					</TouchableOpacity>
 				</>

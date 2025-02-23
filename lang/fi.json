@@ -89,6 +89,11 @@
 	"rate_classroom_average_self_movement": "Liikkumistaitojen keskiarvo",
 	"rate_classroom_average_object_movement": "Välineenkäsittelytaitojen keskiarvo",
 	"rate_classroom_result_per_student": "Tulos oppilasta kohden",
+    "rate_detail_instruction_demonstration": "Ohjeet/Esittely",
+    "rate_classroom_longitudinal_analysis": "Pitkittäisanalyysi",
+    "rate_classroom_select_task": "Valitse tehtävät",
+    "rate_classroom_cancel_selection": "Peruuta valinta",
+    "rate_classroom_download_selected": "Lataa valittu",
 	"TASK": "TASK",
 	"task_self_movement": "Liikkuminen",
 	"task_object_movement": "Välineenkäsittely",
@@ -229,11 +234,11 @@
 		"MATERIAL": "6 palloa (halkaisija: 65 mm; paino: 80 g).\r\n1 maali (halkaisija: 40 cm)\r\nNauha (n. 30 mm leveä).",
 		"TEST_SET-UP": "Maali asetetaan 1,3 m korkeudelle (alareuna) seinälle. Heittoviiva merkitään teipillä 2,0 metrin päähän maalista.",
 		"TEST_ITEM": "Lapsi heittää kuusi kertaa heittoviivalta maaliin.",
+        "CRITERIA": "Heittoviivaa ei saa ylittää.\r\nMaaliin osuminen lasketaan pisteeksi.",
 		"VALUATION": "6 yritystä, osumien määrä kirjataan. \r\n\r\n0-2 osumaa = 0 pistettä\r\n3-4 osumaa = 1 piste\r\n5-6 osumaa = 2 pistettä.",
 		"INSTRUCTION_DEMONSTRATION": "Asetu viivan taakse ja yritä osua pallolla kohteeseen. Sinulla on 6 yritystä. Et saa ylittää heittoviivaa. Katso, näytän suorituksen kerran. (demonstraatio).",
 		"INFORMATION_FOR_THE_TEST_LEADER": "Heittotapa valitaan vapaasti (pallon työntäminen on sallittua).\r\nHeiton demonstraatio."
 	},
-	"THROWING_1_CRITERIA": "Heittoviivaa ei saa ylittää.\r\nMaaliin osuminen lasketaan pisteeksi.",
 	"THROWING_3_4": {
 		"MOBAK": "Osaamisalue \"Välineenkäsittely\"",
 		"TITLE": "MOBAK 3-4 Tehtävä 1: Heittäminen",
@@ -328,7 +333,8 @@
 			"MATERIALS": "Koordinaatiotikkaat tai vaihtoehtoisesti: vanteet, lattiamerkinnät, muotopalat, liidut.",
 			"VARIATIONS": "Juokse takaperin. Tee  useita kontakteja ruutua kohti. Tee puoli- tai täyskäännös joka toisen ruudun jälkeen. Tee lisäksi käsiliikkeitä (haaraperus, ilmanyrkkeily, ojenna ja nosta tai laske käsiäsi rinnan korkeudelle). Vaihda ruutujen järjestelyä.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mitkä jalkojesi osat koskettavat lattiaa? Mikä käsiliikkeet ovat helpoimpia?",
-			"WILLINGNESS": "Missä muualla kuin liikuntasalissa voisit tehdä tätä tehtävää? Mikä muuttuu, kun kisailet toista juoksijaa vastaan?"
+			"WILLINGNESS": "Missä muualla kuin liikuntasalissa voisit tehdä tätä tehtävää? Mikä muuttuu, kun kisailet toista juoksijaa vastaan?",
+            "PDF": "Juokse koordinointiotikkailla yksi kontakti ruutua kohti."
 		},
 		"RUNNING_2": {
 			"MOBAK": "Liikkuminen",
@@ -338,7 +344,8 @@
 			"MATERIALS": "Vanteet (eri värejä) tai vaihtoehtoisesti: narut, muotopalat",
 			"VARIATIONS": "Vaihda tehtäviä vanteiden värien mukaan. Muuta vanteiden asettelua tai etäisyyttä toisistaan. Aseta vanteet kahdelle rinnakkaiselle pitkälle penkille. Valitse useita värejä ja määritä kullekin tietty liike.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten sinun pitää liikkua, jotta juoksu sujuu? Mikä vanteiden järjestys on sinulle helpointa? Miksi? Millä rytmillä juoksu radan läpi sujuu parhaiten? Miksi?",
-			"WILLINGNESS": "Miten tuntuu erilaiselta, kun vanteet ovatkin kahdella pitkällä penkillä? Onnistutko siinäkin? Kokeile! Keksi oma vannerata ja määritä eri väreille omat liikkeesi! Onnistuuko?"
+			"WILLINGNESS": "Miten tuntuu erilaiselta, kun vanteet ovatkin kahdella pitkällä penkillä? Onnistutko siinäkin? Kokeile! Keksi oma vannerata ja määritä eri väreille omat liikkeesi! Onnistuuko?",
+            "PDF": "Juokse vanneradan läpi. Kosketa maata kerran sinisissä vanteissa ja kahdesti muissa."
 		},
 		"RUNNING_3": {
 			"MOBAK": "Liikkuminen",
@@ -348,7 +355,8 @@
 			"MATERIALS": "Koordinaatiotikkaat tai vaihtoehtoisesti: vanteet, lattiamerkinnät, muotopalat, liidut.",
 			"VARIATIONS": "Vaihda kontaktien määrää ruutua kohti. Suorita ylimääräisiä käsiliikkeitä (haaraperus, ilmanyrkkeily, ojenna ja nosta tai laske kädet rinnan tasolle). Yhdistä kaksi eri liikettä (oikea käsi - haaraperus, vasen käsi - nyrkkeily). Muuta ruutujen järjestelyä.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten voit tehdä nopeita suunnanmuutoksia? Miten erilaiset käsivarsien liikkeet muuttavat juoksuasi?",
-			"WILLINGNESS": "Miltä sinusta tuntuu, jos toinen juoksija vaihtaa suuntaa nopeammin? Mitä voisit tehdä siinä tilanteessa? Miten muuttaisit tehtävää helpommaksi tai vaikeammaksi? Aseta itsellesi jokin tavoite ja yritä saavuttaa se (esim. tehdä tehtävä loppuun ilman virheitä; tehdä nopeammin kuin edellisellä kerralla). Onnistutko?"
+			"WILLINGNESS": "Miltä sinusta tuntuu, jos toinen juoksija vaihtaa suuntaa nopeammin? Mitä voisit tehdä siinä tilanteessa? Miten muuttaisit tehtävää helpommaksi tai vaikeammaksi? Aseta itsellesi jokin tavoite ja yritä saavuttaa se (esim. tehdä tehtävä loppuun ilman virheitä; tehdä nopeammin kuin edellisellä kerralla). Onnistutko?",
+            "PDF": "Juokse koordinaatiotikkaiden sisä- ja ulkopuolella tehden kaksi askelta per ruutu."
 		},
 		"RUNNING_4": {
 			"MOBAK": "Liikkuminen",
@@ -358,7 +366,8 @@
 			"MATERIALS": "Koordinaatiotikkaat tai vaihtoehtoisesti: vanteet, lattiamerkinnät, muotopalat, liidut",
 			"VARIATIONS": "Juokse takaperin. Tee lisäksi käsivarsien pyörityksiä: eteen, taakse, vastakkain. Vaihda ruutujen asettelua.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Osaatko taputtaa polvennostojuoksun rytmiä? Mitä teet käsilläsi, jotta tehtävä onnistuu hyvin?",
-			"WILLINGNESS": "Pystytkö tekemään tehtävän samanaikaisesti toisen lapsen kanssa? Pystytkö tekemään ylimääräisiä käsiliikkeitä? Kuvittele olevasi iloinen hevonen samalla kun teet  polvennostojuoksua! Miltä se tuntuu?"
+			"WILLINGNESS": "Pystytkö tekemään tehtävän samanaikaisesti toisen lapsen kanssa? Pystytkö tekemään ylimääräisiä käsiliikkeitä? Kuvittele olevasi iloinen hevonen samalla kun teet  polvennostojuoksua! Miltä se tuntuu?",
+            "PDF": "Juokse koordinaatiotikkaiden läpi polvennostojuoksulla tehden yksi maakosketus ruutua kohti!"
 		},
 		"GIANT_SLALOM": {
 			"MOBAK": "Liikkuminen",
@@ -368,7 +377,8 @@
 			"MATERIALS": "Sauvat tai puukepit (= hiihtosauvat), pitkä köysi. Vaihtoehtoisesti: slalomsauvat, palikat, kartiot, suuret kivet, jne.",
 			"VARIATIONS": "Haasta toinen lapsi tai lapsiryhmä. Kuka on nopein? Liikkukaa kyykkyasennossa, varpaillanne/ kantapäillänne, hernepussit päänne päällä (= lunta pään päällä) jne. Lisätkää yksi tai useampi este (esim. pienet korokkeet). Muutakaa vauhtia/nopeutta.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä muuttuu, kun käytät erilaisia sauvoja? Mikä on nopein tapa edetä slalomradan läpi?",
-			"WILLINGNESS": "Pystytkö tekemään rinnakkaisslalomia toisen lapsen kanssa? Miten asettaisit köyden, jotta slalomista tulisi nopeampaa?"
+			"WILLINGNESS": "Pystytkö tekemään rinnakkaisslalomia toisen lapsen kanssa? Miten asettaisit köyden, jotta slalomista tulisi nopeampaa?",
+            "PDF": "Pidä sauvaa molemmissa käsissä ja juokse pujottelurataa pitkin."
 		},
 		"SIDE_STEP": {
 			"MOBAK": "Liikkuminen",
@@ -378,7 +388,8 @@
 			"MATERIALS": "Koordinaatiotikkaat tai vaihtoehtoisesti: vanteet, lattiamerkinnät, muotopalat, liidut.",
 			"VARIATIONS": "Käännä oikea olkapää juoksusuuntaan. Juokse yhdellä maakontaktilla koordinaatiotikkaiden ulkopuolella ja kahdella maakontaktilla ruutua kohti. Suorita ylimääräisiä käsiliikkeitä (pyöritä vannetta käsivarrella, haaraperus, ilmanyrkkeily, ojenna ja nosta tai laske käsivarsiasi olkapäiden korkeudelle). Yhdistä kahta eri liikettä (oikea käsivarsi - haaraperus, vasen käsivarsi - ilmanyrkkeily). Vaihda ruutujen sijoittelua.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä muuttuu, kun käännät toisen olkapään etenemissuuntaan? Kuinka korkealle nostat polvia, jotta tehtävän sujuu hyvin? Mitä sinun on muutettava, jotta voit kääntää toisen olkapääln etenemissuuntaan?",
-			"WILLINGNESS": "Miltä sinusta tuntuu, jos olet nopeampi kuin toinen lapsi?\r\nJos näet, että toinen lapsi ei onnistu tehtävässä: Miten voit auttaa häntä?\r\nKokeile muuttaa suuntaa ja juosta takaisin koordinaatiotikkaiden päähän pysähtymättä! Onnistutko?"
+			"WILLINGNESS": "Miltä sinusta tuntuu, jos olet nopeampi kuin toinen lapsi?\r\nJos näet, että toinen lapsi ei onnistu tehtävässä: Miten voit auttaa häntä?\r\nKokeile muuttaa suuntaa ja juosta takaisin koordinaatiotikkaiden päähän pysähtymättä! Onnistutko?",
+            "PDF": "Etene koordinointikkaiden läpi sivuttain."
 		},
 		"RUNNING_COURSE": {
 			"MOBAK": "Liikkuminen",
@@ -388,7 +399,8 @@
 			"MATERIALS": "Kuntopallot",
 			"VARIATIONS": "Käytä kartioita kuntopallojen sijasta. \r\nVaihda kuntopallojen välistä etäisyyttä. \r\nVaihda kuntopallojen sivuttaista etäisyyttä. \r\nEtene sivuttain tai takaperin.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten onnistut vaihtamaan suuntaa juostessasi menettämättä vauhtia? \r\nMikä osa jalasta koskettaa maata pujotteluradalla?",
-			"WILLINGNESS": "Miten voit tehdä juoksuradasta itsellesi jännittävämmän? \r\nHaasta toinen lapsi juoksemaan rata kanssasi. Miltä se tuntuu, kun toinen juoksija onkin sinua nopeampi?"
+			"WILLINGNESS": "Miten voit tehdä juoksuradasta itsellesi jännittävämmän? \r\nHaasta toinen lapsi juoksemaan rata kanssasi. Miltä se tuntuu, kun toinen juoksija onkin sinua nopeampi?",
+            "PDF": "Pujottele kuntopallot juosten."
 		},
 		"HEY_SHARK": {
 			"MOBAK": "Liikkuminen",
@@ -398,7 +410,8 @@
 			"MATERIALS": "-",
 			"VARIATIONS": "Käytä erilaisia liikkumistapoja, kuten juoksu- ja hyppytapoja (polvennostot, kuopaisut, kantapäät, sammakkohypyt, hyppyjuoksut, takaperin juoksut, kurotushypyt, zik-zak, sivuaskeleet). \r\nVaihda juoksurataa. \r\nMuuta kiinnioton sääntöjä.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten onnistut pääsemään salin toiselle puolelle ilman, että hai nappaa? \r\nMiten onnistut haina saamaan kiinni mahdollisimman monta lasta?",
-			"WILLINGNESS": "Mitä ideoita sinulla on, jotta pelistä tulisi jännittävämpi? \r\nMilloin haita ptäisi mielestäsi vaihtaa?"
+			"WILLINGNESS": "Mitä ideoita sinulla on, jotta pelistä tulisi jännittävämpi? \r\nMilloin haita ptäisi mielestäsi vaihtaa?",
+            "PDF": "Ryhmä: Yksi lapsi on hai ja päättää, miten muiden tulee liikkua. Kiinniotetusta tulee uusi hai."
 		},
 		"STAR_RUN": {
 			"MOBAK": "Liikkuminen",
@@ -408,7 +421,8 @@
 			"MATERIALS": "Kartiot",
 			"VARIATIONS": "Muuta kartioiden väliä. \r\nMuuta tavoiteaikaa. \r\nAseta itsellesi aikaraja ja yritä saavuttaa se. \r\nKävele reitti toisen lapsen kanssa silmät kiinni. \r\nKävele sivuttain tai takaperin.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten onnistut pysymään annetussa määräajassa? \r\nMikä muuttuu juoksussasi, kun sinulla onkin vähemmän aikaa radan suorittamiseen?",
-			"WILLINGNESS": "Miltä tuntuu juosta mahdollisimman tarkasti annettuun aikaan? \r\nKuvittele, että olet hevonen, gepardi tai emu ja juokset tämän radan läpi. Miten nämä eläimet liikkuvat?"
+			"WILLINGNESS": "Miltä tuntuu juosta mahdollisimman tarkasti annettuun aikaan? \r\nKuvittele, että olet hevonen, gepardi tai emu ja juokset tämän radan läpi. Miten nämä eläimet liikkuvat?",
+            "PDF": "Yritä kulkea tietty reitti täsmälleen tietyssä ajassa."
 		},
 		"VARIABLE_RUNNING": {
 			"MOBAK": "Liikkuminen",
@@ -418,7 +432,8 @@
 			"MATERIALS": "Kartiot",
 			"VARIATIONS": "Valitse muita juoksutapoja. \r\nMuuta kartioiden välisiä etäisyyksiä. \r\nMuuta juoksureittiä. \r\nEtene reitti toisen lapsen kanssa silmät kiinni.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten onnistut vaihtamaan juoksutapoja nopeasti? \r\nMiten onnistut muistamaan juoksureitin ja juoksutavat?",
-			"WILLINGNESS": "Miten onnistut vaihtamaan juoksutapojen välillä nopeasti? \r\nMiten muistat juoksureitin ja tietyt juoksulajit?"
+			"WILLINGNESS": "Miten onnistut vaihtamaan juoksutapojen välillä nopeasti? \r\nMiten muistat juoksureitin ja tietyt juoksulajit?",
+            "PDF": "Kulje matka mahdollisimman nopeasti oikeilla juoksumuodoilla."
 		}
 	},
 	"Jumping": "Jumping",
@@ -431,7 +446,8 @@
 			"MATERIALS": "Koordinaatiotikkaat\r\nvaihtoehtoisesti: vanteet, laatat, lattiamerkinnät, liitu",
 			"VARIATIONS": "Hyppää mahdollisimman nopeasti.\r\nHyppää sivuttain tai taaksepäin.\r\nHyppää kaksi ruutua eteenpäin ja yksi taaksepäin.\r\nHyppää oikealle - oikealle - molemmilla jaloille - vasemmalle - vasemmalle jne. (erilaisia yhdistelmiä).\r\nHyppää yhdellä jalalla: eteenpäin, taaksepäin, sivuttain (sekä oikea että vasen olkapää edellä).\r\nYhdistä hyppäämiseen käsiliikkeitä (eteen, taakse, vastakkain).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä muuttuu, kun hyppäät taaksepäin tai sivuttain verrattuna eteenpäin? Miten onnistut hyppäämään mahdollisimman nopeasti?",
-			"WILLINGNESS": "Miten on helpointa hypätä ruuduissa?\r\nMikä muuttuu, kun kilpailetkin toista vastaan?\r\nMuodostakaa parit. Keksikää toisillenne hyppyrytmi (esim. vasemmalle, oikealle, molemmille jaloille, oikealle, vasemmalle, molemmille jaloille). Valitse rytmi, joka on parillesi haastava mutta toteutettavissa! Oletteko onnistuneet?"
+			"WILLINGNESS": "Miten on helpointa hypätä ruuduissa?\r\nMikä muuttuu, kun kilpailetkin toista vastaan?\r\nMuodostakaa parit. Keksikää toisillenne hyppyrytmi (esim. vasemmalle, oikealle, molemmille jaloille, oikealle, vasemmalle, molemmille jaloille). Valitse rytmi, joka on parillesi haastava mutta toteutettavissa! Oletteko onnistuneet?",
+            "PDF": "Hyppää eteenpäin tasajalkaa koordinaatiotikkaiden läpi."
 		},
 		"JUMPING_2": {
 			"MOBAK": "Liikkuminen",
@@ -441,7 +457,8 @@
 			"MATERIALS": "Narut tai vaihtoehtoisesti: teippiä, köydet, lattiamerkit, kepit",
 			"VARIATIONS": "Tee 90° käännös jokaisen hypyn jälkeen.\r\nHyppää kuin sammakko.\r\nHyppää \"narutikkaiden\" läpi juoksuaskelilla.\r\nYhdistä hyppääminen erilaisiin käsiliikkeisiin.\r\nHyppää oikealle - oikealle - kahdella jalalle - vasemmalle - vasemmalle jne. (erilaisia yhdistelmiä).\r\nHyppää yhdellä jalalla: eteenpäin, taaksepäin, sivuttain (sekä oikea että vasen olkapää edellä).\r\nYhdistä hyppääminen käsiliikkeisiin (eteen, taakse, vastakkaisiin suuntiin).\r\nLisää tai vähennä narujen etäisyyttä.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä muuttuu, kun hyppäät yhdellä tai molemmilla jaloilla?\r\nMiten liikkeesi muuttuvat, kun narut ovat kauempana toisistaan?",
-			"WILLINGNESS": "Onnistutko myös silloin, kun narut ovat eri etäisyyksillä?\r\nMillaisilla erilaisilla hypyillä voit suorittaa radan? Kuvittele olevasi sammakko, kenguru, hevonen tai heinäsirkka.\r\nMikä tapa hypätä narujen yli on hauskin?"
+			"WILLINGNESS": "Onnistutko myös silloin, kun narut ovat eri etäisyyksillä?\r\nMillaisilla erilaisilla hypyillä voit suorittaa radan? Kuvittele olevasi sammakko, kenguru, hevonen tai heinäsirkka.\r\nMikä tapa hypätä narujen yli on hauskin?",
+            "PDF": "Hyppää yhdellä jalalla, molemmilla jaloilla, sivuttain tai vinosti 'narutikkaiden' yli."
 		},
 		"ROPE_JUMPING_1": {
 			"MOBAK": "Liikkuminen",
@@ -451,7 +468,8 @@
 			"MATERIALS": "Hyppynaru tai\r\nvaihtoehtoisesti: kartiot, lattiamerkinnät, pizzalaatikot.",
 			"VARIATIONS": "Hyppää narun yli joka askeleella.\r\nVaihtele nopeutta.\r\nVaihtele askelten määrää, joilla hyppäät narun yli.\r\nJuokse ja hypi takaperin narun yli.\r\nHypi slalomia (esim. tee kartioista pujottelurata).\r\nKävele eteenpäin ja hyppää jonkin esineen yli joka toisella askeleella.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten saat hypyn narun yli onnistumaan?\r\nMillä nopeudella/rytmillä naruhyppely on kaikkein helpointa?",
-			"WILLINGNESS": "Pystytkö muuttamaan  hyppelyvauhtia? Kokeile!\r\nSelitä kaverillesi, miten narun yli hyppääminen onnistuu. Teetkö sen samalla tavalla?\r\nJuoskaa ja hyppikää pienissä  ryhmissä narujen yli koskematta toisiinne. Onnistuuko?"
+			"WILLINGNESS": "Pystytkö muuttamaan  hyppelyvauhtia? Kokeile!\r\nSelitä kaverillesi, miten narun yli hyppääminen onnistuu. Teetkö sen samalla tavalla?\r\nJuoskaa ja hyppikää pienissä  ryhmissä narujen yli koskematta toisiinne. Onnistuuko?",
+            "PDF": "Juokse eteenpäin hypäten narun yli joka toisella askeleella."
 		},
 		"ROPE_JUMPING_2": {
 			"MOBAK": "Liikkuminen",
@@ -461,7 +479,8 @@
 			"MATERIALS": "Koordinaatiotikkaat, hyppynaru",
 			"VARIATIONS": "Suoritetaan tehtävä takaperin.\r\nTehdään kaksi maakosketusta per ruutu.\r\nSuoritetaan tehtävä mahdollisimman nopeasti.\r\nVaihdellaan hyppytapoja.\r\nJärjestetään ruudut eri tavoin.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mihin keskityt, jotta saat yhden maakosketuksen ruutua kohti?\r\nMissä hyppytavassa onnistut parhaiten?",
-			"WILLINGNESS": "Haasta itsesi: Ota aika tehtävän loppuunsaattamiseen. Pystytkö tekemään sen nopeammin seuraavalla kierroksella?\r\nTämä on melko haastava tehtävä. Miten neuvoisit muita, jotka eivät ole vielä onnistuneet tehtävässä?\r\nMikä muuttuu, kun teet tehtävän eri nopeuksilla?"
+			"WILLINGNESS": "Haasta itsesi: Ota aika tehtävän loppuunsaattamiseen. Pystytkö tekemään sen nopeammin seuraavalla kierroksella?\r\nTämä on melko haastava tehtävä. Miten neuvoisit muita, jotka eivät ole vielä onnistuneet tehtävässä?\r\nMikä muuttuu, kun teet tehtävän eri nopeuksilla?",
+            "PDF": "Juokse koordinaatiotikkaiden läpi pyörittäen narua ja tehden yhden maakosketuksen per ruuutu."
 		},
 		"ROPE_JUMPING_3": {
 			"MOBAK": "Liikkuminen",
@@ -471,7 +490,8 @@
 			"MATERIALS": "Hyppynaru",
 			"VARIATIONS": "Hypi välihypyllä tai ilman välihyppyä.\r\nPyöritä narua taaksepäin.\r\nHyppää narua liikkuen eteen- ja taaksepäin (tai vasemmalle ja oikealle) tietty matka.\r\nTee kyykkyjä hypätessäsi.\r\nHyppää jonkin ohuen maton päällä.\r\nKosketa kantapaillä takapuoleen hyppiessäsi.\r\nNosta polvia ylöspäin hypätessäsi.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mihin keskityt, jotta tehtävä onnistuu?\r\nMillä jalan osalla kosketat lattiaa hypätessäsi?",
-			"WILLINGNESS": "Kokeile muuttaa nopeutta hyppyjen aikana - millainen nopeus tuntuu kaikista kivoimmalta?\r\nAseta tavoite: Kuinka monta peräkkäistä hyppyä pääset ilman, että rytmi sotkeutuu?\r\nPystytkö hyppäämään samaa tahtia toisen hyppääjän kanssa?"
+			"WILLINGNESS": "Kokeile muuttaa nopeutta hyppyjen aikana - millainen nopeus tuntuu kaikista kivoimmalta?\r\nAseta tavoite: Kuinka monta peräkkäistä hyppyä pääset ilman, että rytmi sotkeutuu?\r\nPystytkö hyppäämään samaa tahtia toisen hyppääjän kanssa?",
+            "PDF": "Hyppää narua molemmilla jaloilla."
 		},
 		"ROPE_JUMPING_4": {
 			"MOBAK": "Liikkuminen",
@@ -481,7 +501,8 @@
 			"MATERIALS": "Hyppynaru tai\r\nvaihtoehtoisesti: teippi, lattiamerkintä",
 			"VARIATIONS": "Hyppää välihypyllä tai ilman välihyppyä.\r\nHyppää toisella jalalla.\r\nPyöritä narua taaksepäin.\r\nVaihda jalkaa joka toisella pyörityksellä (\"hyppää paikallaan\").\r\nHyppää ilman narua.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten pidät pidät narua käsissäsi, jotta se pyörii tasaisella nopeudella?\r\nPitääkö sinun muuttaa jotain, jotta voit hypätä toisella jalalla?",
-			"WILLINGNESS": "Osaatko tehdä sen yhtä monta hyppyä kummallakin jalalla? Aseta itsellesi tavoite ja yritä saavuttaa se.\r\nKysy toiselta lapselta, mistä hän pitää naruhyppelyssä kaikkein eniten. Pystytkö hyppäämään yhtäjaksoisesti ilman välihyppyjä? Kokeile!"
+			"WILLINGNESS": "Osaatko tehdä sen yhtä monta hyppyä kummallakin jalalla? Aseta itsellesi tavoite ja yritä saavuttaa se.\r\nKysy toiselta lapselta, mistä hän pitää naruhyppelyssä kaikkein eniten. Pystytkö hyppäämään yhtäjaksoisesti ilman välihyppyjä? Kokeile!",
+            "PDF": "Hyppää narua yhdellä jalalla paikallaan."
 		},
 		"MAT_HIGHWAY": {
 			"MOBAK": "Liikkuminen",
@@ -491,7 +512,8 @@
 			"MATERIALS": "Voimistelumatot tai\r\nvaihtoehtoisesti: vanteet, lattiamerkinnät, mattolaatat, liitu.",
 			"VARIATIONS": "Hyppää hyppyradan läpi omassa tahdissasi, yhdellä jalalla, kahdella jalalla ja vuorotellen.\r\nAseta hyppyrataan eri materiaaleja/värejä. Hyppää hyppyradan läpi ja tee eri hyppy kutakin materiaalia/väriä kohden (kahdella jalalla, yhdellä jalalla).\r\nJärjestä matot eri tavoin.\r\nVaihtele kutakin mattoa kohden tehtävien kosketusten määrää.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Missä rytmissä hyppääminen radalla on helpointa?\r\nMikä muuttuu liikkeessäsi, kun matot ovat vierekkäin verrattuna muulla tavoin?",
-			"WILLINGNESS": "Muodostakaa parit ja keksikää hyppyjä mattojen yli eri rytmeissä. Mikä on kaikkein hauskinta?\r\nKokeilkaa hyppiä parin kanssa kädestä kiinnipitäen mattojen yli! Onnistuuko?\r\nMiten voitte järjestää matot niin, että tehtävä olisi vaikeampi tai helpompi?"
+			"WILLINGNESS": "Muodostakaa parit ja keksikää hyppyjä mattojen yli eri rytmeissä. Mikä on kaikkein hauskinta?\r\nKokeilkaa hyppiä parin kanssa kädestä kiinnipitäen mattojen yli! Onnistuuko?\r\nMiten voitte järjestää matot niin, että tehtävä olisi vaikeampi tai helpompi?",
+            "PDF": "Hyppää matolta matolle."
 		},
 		"GROUND_ROPE_JUMPING_1": {
 			"MOBAK": "Liikkuminen",
@@ -501,7 +523,8 @@
 			"MATERIALS": "Hyppynarut tai\r\nvaihtoehtoisesti: teippi, lattiamerkit, liitu.",
 			"VARIATIONS": "Pyydä kahta lasta muuttamaan narun korkeutta nostamalla sitä hieman maasta.\r\nPyydä kahta lasta heiluttamaan narua ja suorittakaa erilaisia hyppyjä (esim. välihyppyjen kanssa tai ilman, vuorotellen yhdellä ja kahdella jalalla, 180° käännös).\r\nHyppytemppuja.\r\nLorutelkaa tai laulakaa ja hypätkää jokin naruhyppeloru (tai -laulu). Esim. laula ja hyppää: \"Nallekarhu, nallekarhu, käänny ympäri\" (180° käännös); \"..., tee kumarrus\" (kumarahyppy); \"..., rakenna talo\" (yhdistä kädet pään yläpuolella ); \"..., katso ulos\" (kämmen otsalla); \"..., katso ulos\" (kämmen otsalla) ; \"..., nosta yksi jalka\" (hyppää yhdellä jalalla); \"..., nosta tervehdys\" (leikki loppuu).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hyppäätkö eri tavalla, kun narua nostetaan maasta?\r\nMiten muutat liikettä, kun hyppäät sivuttain tai eteen taakse?",
-			"WILLINGNESS": "Osaatko tehdä temppuja hyppiessäsi? Näytä ja opeta niitä kaverillesi.\r\nMille korkeudelle narun voi nostaa, josta voit vielä hypätä? Haasta itsesi!"
+			"WILLINGNESS": "Osaatko tehdä temppuja hyppiessäsi? Näytä ja opeta niitä kaverillesi.\r\nMille korkeudelle narun voi nostaa, josta voit vielä hypätä? Haasta itsesi!",
+            "PDF": "Seiso narun suuntaisesti ja hyppää sen yli useita kertoja."
 		},
 		"GROUND_ROPE_JUMPING_2": {
 			"MOBAK": "Liikkuminen",
@@ -511,7 +534,8 @@
 			"MATERIALS": "Hyppynarut, numerot\r\nvaihtoehtoisesti: lattiamerkinnät, matot, vanteet, teippiä.",
 			"VARIATIONS": "Hyppää aina samalla jalalla (eli vain oikealla tai vasemmalla jalalla).\r\nHyppää joka toiseen kenttään molemmilla jaloilla.\r\nLisää kentien määrää ja numeroi ne.\r\nLisää nopeutta.\r\nLapsi A keksii salaisen numeron, joka koostuu kolmesta luvusta (kukin 1 ja 4 välillä). Lapsen B on arvattava numero hyppäämällä vastaaviin kenttiin. Lapsi A antaa palautetta. Jos lapsi B hyppää väärin, hänen on aloitettava alusta.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä muuttuu, kun tiedät, missä järjestyksessä numerot tulevat, verrattuna siihen, että et tiedä, mikä numero tulee seuraavaksi?\r\nOnko helpompi hypätä yhdellä vai molemmilla jaloilla? Miksi?",
-			"WILLINGNESS": "Mitä teet reagoidaksesi nopeasti numeron huutoon?\r\nMiten voit narun ja numeroiden järjestäjänä helpottaa tai vaikeuttaa hyppääjän tehtävää?\r\nKeksikää pareittain jokin tuuletus, jonka teette, kun toinen teistä selviytyy tietystä määrästä yrityksiä (esim. 10 yritystä) ilman virhettä. Miltä tuntuu tuulettaa?"
+			"WILLINGNESS": "Mitä teet reagoidaksesi nopeasti numeron huutoon?\r\nMiten voit narun ja numeroiden järjestäjänä helpottaa tai vaikeuttaa hyppääjän tehtävää?\r\nKeksikää pareittain jokin tuuletus, jonka teette, kun toinen teistä selviytyy tietystä määrästä yrityksiä (esim. 10 yritystä) ilman virhettä. Miltä tuntuu tuulettaa?",
+            "PDF": "Pareittain: Toinen lapsi sanoo numerot. Toinen seisoo yhdellä jalalla kentällä ja hyppää parin määräämän numeron kenttään laskeutuen sinne toisella jalalla."
 		},
 		"ROPE_ROLLER": {
 			"MOBAK": "Liikkuminen",
@@ -521,7 +545,8 @@
 			"MATERIALS": "Hyppynarut (1 naru 6-8 lasta kohden)",
 			"VARIATIONS": "Pidä narua alempana tai ylempänä.\r\nLiikuta narua nopeammin tai hitaammin jonon läpi.\r\nVaihtele hyppytyyliä (esim. kahdella jalalla, yhdellä jalalla, vartaloa kiertäen).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Milloin on oikea aika hypätä?\r\nMihin pitää keskittyä, kun vasemmalla ja oikealla puolellasi on toinen hyppääjä?",
-			"WILLINGNESS": "Miten voisimme muuttaa tehtävää, jos hyppynarua ei ole käytettävissä?\r\nMiten onnistuitte ratkaisemaan tehtävän ryhmänä?\r\nMiltä tuntuu, jos kaikki työskentelevät yhdessä ratkaistakseen tehtävän onnistuneesti?"
+			"WILLINGNESS": "Miten voisimme muuttaa tehtävää, jos hyppynarua ei ole käytettävissä?\r\nMiten onnistuitte ratkaisemaan tehtävän ryhmänä?\r\nMiltä tuntuu, jos kaikki työskentelevät yhdessä ratkaistakseen tehtävän onnistuneesti?",
+            "PDF": "Ryhmä: Kaksi lasta pitelee pohkeen korkeudelle venytettyä köyttä. Muut lapset hyppäävät heti, kun köysi on heidän kohdalla. "
 		},
 		"MASTER_OF_RHYTHM": {
 			"MOBAK": "Liikkuminen",
@@ -531,7 +556,8 @@
 			"MATERIALS": "Vanteet\r\nvaihtoehtoisesti: lattiamerkinnät, narut, liitu.",
 			"VARIATIONS": "Hyppää vanneradan läpi ilman käsiliikkeitä.\r\nHyppää vanneradan läpi niin nopeasti kuin pystyt.\r\nOjenna vastakkainen käsi. Kahden jalan hyppyissä ojenna kädet ylöspäin.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä muuttuu, kun hyppäät käsiliikkeiden kanssa verrattuna ilman niitä?\r\nMitä voit tehdä, jos et onnistu tehtävässä heti?\r\nMiten käsien ojentaminen sivulle onnistuu?",
-			"WILLINGNESS": "Voitko seurata toista hyppijää vanneradalla, ilman että hän näkee sinua?\r\nMiten voisit järjestää vanteet niin, että tehtävä olisi vaikeampi?\r\nKeksi muita käsiliikkeitä, jotka sopivat hyppyihisi! Missä variaatioissa onnistut parhaiten?"
+			"WILLINGNESS": "Voitko seurata toista hyppijää vanneradalla, ilman että hän näkee sinua?\r\nMiten voisit järjestää vanteet niin, että tehtävä olisi vaikeampi?\r\nKeksi muita käsiliikkeitä, jotka sopivat hyppyihisi! Missä variaatioissa onnistut parhaiten?",
+            "PDF": "Aseta useita vanteita maahan peräkkäin ja hyppää vanneradan läpi seuraavien ohjeiden mukaisesti: \n- Hyppää vasemmalla jalalla, ojenna vasen käsi sivulle \n- Hyppää oikealla jalalla, ojenna oikea käsi sivulle\n- Hyppää molemmilla jaloilla, molemmat kädet sivuille"
 		},
 		"SWINGING_KING_QUEEN": {
 			"MOBAK": "Liikkuminen",
@@ -541,7 +567,8 @@
 			"MATERIALS": "Pitkä hyppynaru",
 			"VARIATIONS": "Helutetaan narua nopeammin tai hitaammin.\r\nHeilutetaan narua eri suuntaan (eli hyppääjästä poispäin).\r\nVaihtele hyppyjä (esim. kahden jalan, yhden jalan, vartaloa kääntäen).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Kumpi on  sinulle helpompaa? Hyppääminen hitaasti vai nopeasti? Miksi?\r\nMitä muutat, kun naru helahtaa toiselle puolelle?\r\nMikä on oikea aika hypätä pois?",
-			"WILLINGNESS": "Monta kertaa onnistut hyppäämään heiluvan narun yli päästen ulos hallitusti? Aseta itsellesi tavoite tai haasta kaverisi.\r\nOnnistutko juoksemaan heiluvaan naruun ja sitten hyppäämään? Kokeile!\r\nNeuvo kaveriasi, milloin hänen on hypättävä, jotta hän pääsee narusta ulos?"
+			"WILLINGNESS": "Monta kertaa onnistut hyppäämään heiluvan narun yli päästen ulos hallitusti? Aseta itsellesi tavoite tai haasta kaverisi.\r\nOnnistutko juoksemaan heiluvaan naruun ja sitten hyppäämään? Kokeile!\r\nNeuvo kaveriasi, milloin hänen on hypättävä, jotta hän pääsee narusta ulos?",
+            "PDF": "Ryhmä: Kaksi lasta heiluttaa pitkää köyttä. Muut lapset juoksevat keinuköyden läpi neljä kertaa koskematta siihen."
 		},
 		"JUMP_IN_AND_OUT": {
 			"MOBAK": "Liikkuminen",
@@ -551,7 +578,8 @@
 			"MATERIALS": "Vanteet",
 			"VARIATIONS": "Järjestä vanteet uudelleen. \r\nKeksi mahdollisimman monenlaisia hyppyjä. \r\nKeksi hyppysarja. \r\nSulje silmäsi ja hyppää hyppysarja koskematta vanteisiin.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Millaisen hyppysarjan voit toistaa monta kertaa peräkkäin? \r\nMikä kohta jalastasi koskettaa maata, kun hyppäät?",
-			"WILLINGNESS": "Näytä hyppysarjasi kaverillesi. Pystytkö jäljittelemään toisen näyttämän hyppysarjan? \r\nOsaatko tehdä hyppysarjasi silmät kiinni? \r\nKuvittele olevasi jokin eläin tehdessäsi hyppysarjan. Miltä se näyttää?"
+			"WILLINGNESS": "Näytä hyppysarjasi kaverillesi. Pystytkö jäljittelemään toisen näyttämän hyppysarjan? \r\nOsaatko tehdä hyppysarjasi silmät kiinni? \r\nKuvittele olevasi jokin eläin tehdessäsi hyppysarjan. Miltä se näyttää?",
+            "PDF": "Tee erilaisia hyppysarjoja ja muotoja vanteeseen ja vanteesta ulos."
 		},
 		"JUMPING_COURSE": {
 			"MOBAK": "Liikkuminen",
@@ -561,7 +589,8 @@
 			"MATERIALS": "Kuntopallot, kartiot",
 			"VARIATIONS": "Muutetaan hyppyrataa. \r\nLisätään esteiden määrää. \r\nHypitään rata silmät kiinni.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten esteet kannattaa järjestää, jotta niiden yli voi hypätä helposti? \r\nMiten tulee hypätä, jotta pääsee esteiden yli?",
-			"WILLINGNESS": "Mitä kaikkea voi käyttää esteinä? \r\nMiten neuvot kaveria hyppämään radalla?"
+			"WILLINGNESS": "Mitä kaikkea voi käyttää esteinä? \r\nMiten neuvot kaveria hyppämään radalla?",
+            "PDF": "Hyppää esteiden yli. "
 		}
 	},
 	"Rolling": "Rolling",
@@ -574,7 +603,8 @@
 			"MATERIALS": "Patjat, voimistelupenkit, puolapuut, voimistelumatot.",
 			"VARIATIONS": "Ripusta penkit puolapuiden alempiin tai ylempiin puoliin.\r\nPyydä toista lasta tarkkailemaan, onko kierijä täysin ojentunut.\r\nVaihda kierähtämispuolta.\r\nPyydä toista lasta pysäyttämään kierijä kaltevan tason alapäässä.\r\nOjenna kädet pään jatkoksi.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä muuttuu, kun vaihdat puolta?\r\nMitä teet jaloillasi/käsilläsi, kun kierit sivulle?",
-			"WILLINGNESS": "Voitko kieriä yhdessä toisen lapsen kanssa?\r\nMillä penkkien korkeudella kieriminen on hauskinta? Milloin tarvitset paljon rohkeutta?\r\nMissä muualla voi myös kieriä?"
+			"WILLINGNESS": "Voitko kieriä yhdessä toisen lapsen kanssa?\r\nMillä penkkien korkeudella kieriminen on hauskinta? Milloin tarvitset paljon rohkeutta?\r\nMissä muualla voi myös kieriä?",
+            "PDF": "Kieri tasoa pitkin alas."
 		},
 		"FORWARD_ROLL": {
 			"MOBAK": "Liikkuminen",
@@ -584,7 +614,8 @@
 			"MATERIALS": "Patjat, voimistelupenkit, puolapuut, voimistelumatot",
 			"VARIATIONS": "Tartu polviin, kun pyörähdät.\r\nNouse seisomaan ilman, että käytät käsiäsi apuna.\r\nPaina pehmopallo (tai jokin muu esine) leuan ja rintakehän väliin pyörähtäessäsi.\r\nTyönnä jaloilla ja pyödähdysliikkeen avulla ylös.\r\nKatso vatsaasi. Laita kädet tukevasti alustaan sormet eteenpäin.\r\nRipusta penkit puolapuiden ylempiin tai alempiin puoliin.\r\nPyydä toista lasta pysäyttämään pyörähtäjä mäen alapäässä.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä muuttuu, kun puristat jotain leuan ja rinnan välissä kuperkeikan aikana?\r\nMiten onnistut tekemään kuperkeikan suoraan?",
-			"WILLINGNESS": "Miltä tuntuu, kun tehtävä onnistuu/ei onnistu? Mitä voisit vielä harjoitella, jos et ole vielä onnistunut?\r\nPystyisitkö kokeilemaan kuperkeikkaa myös alhaalta ylöspäin?"
+			"WILLINGNESS": "Miltä tuntuu, kun tehtävä onnistuu/ei onnistu? Mitä voisit vielä harjoitella, jos et ole vielä onnistunut?\r\nPystyisitkö kokeilemaan kuperkeikkaa myös alhaalta ylöspäin?",
+            "PDF": "Tee kuperkeikka alamäkeen."
 		},
 		"PENDULUM": {
 			"MOBAK": "Liikkuminen",
@@ -594,7 +625,8 @@
 			"MATERIALS": "Matto, ilmapallo, pallo",
 			"VARIATIONS": "Aseta ilmapallo jalkojesi väliin ja pidä se tiukasti kiinni.\r\nPidä ilmapalloa jalkojesi ja ylävartalosi välissä, kun heilahdat taaksepäin ja nouset takaisin kyykkyasentoon.\r\nSyötelkää palloa parin kanssa heilauttamalla ensin taaksepäin ja syöttämällä pallo parille ylösnousun aikana (vaihda roolia heti pallon syöttämisen jälkeen).\r\nHeilauta taakse, pidä kiinni jaloistasi ja heilauta ylös kyykkyasentoon.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten onnistut nousemaan ylös eteenpäin heilahtamisen jälkeen?\r\nMiten heilutaan edestakaisin?",
-			"WILLINGNESS": "Kuvittele olevasi esimerkiksi jokin huvipuiston laite, joka heiluu vinhaa vauhtia. Miltä sinusta tuntuu?\r\nPystyttekö tekemään heiluriliikettä samanaikaisesti parin kanssa?\r\nMikä muuttuu, kun puristat ilmapallon jalkojesi väliin?"
+			"WILLINGNESS": "Kuvittele olevasi esimerkiksi jokin huvipuiston laite, joka heiluu vinhaa vauhtia. Miltä sinusta tuntuu?\r\nPystyttekö tekemään heiluriliikettä samanaikaisesti parin kanssa?\r\nMikä muuttuu, kun puristat ilmapallon jalkojesi väliin?",
+            "PDF": "Keinu selällään käyttämättä jalkojasi."
 		},
 		"JUDO_ROLLS": {
 			"MOBAK": "Liikkuminen",
@@ -604,7 +636,8 @@
 			"MATERIALS": "Pehmeä alusta",
 			"VARIATIONS": "Tee judokuperkeikka vuorotellen vasemman ja oikean olkapään yli.\r\nVaihtele vauhdinoton pituutta.\r\nNouse ylös suoraan pyörähdyksen jälkeen auttamatta käsilläsi.\r\nPyörähdä hitaasti ja ilman vauhdinottoa.\r\nKatso olkapäähän, jonka yli pyörähdät.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä muuttuu, kun muutat vauhdinoton pituutta?\r\nTeetkö judokuperkeikan paremmin kuin kuperkeikan tavallisesti eteenpäin? Miksi?",
-			"WILLINGNESS": "Miltä tuntuu, kun pyörähdätkin toisen olkapään yli? Osaatko tehdä judokuperkeikan matolla tai lattialla?"
+			"WILLINGNESS": "Miltä tuntuu, kun pyörähdätkin toisen olkapään yli? Osaatko tehdä judokuperkeikan matolla tai lattialla?",
+            "PDF": "Tee muutaman askeleen vaihdinotolla judokuperkeikka olkapääsi yli pehmeälle lattialle."
 		},
 		"MAT_ROLLS": {
 			"MOBAK": "Liikkuminen",
@@ -614,7 +647,8 @@
 			"MATERIALS": "Pehmeä matto tai ohut patja",
 			"VARIATIONS": "Nouse seisomaan ilman, että autat käsilläsi. Pyydä apua kaverilta tai opettajalta. Tee mattoon hyppynaruista käytävä ja tee kuperkeikka sitä pitkin. Tehkää parin kanssa kuperkeikka yhtäaikaisesti vierekkäin. Työnnä jaloilla voimakkaammin, jotta pyörähdät nopeammin ja laita sitten kädet eteesi. Tee kuperkeikka voimistelumatolla. Laita mattoon merkki ja tee kuperkeikka nousten sen päälle seisomaan. Vaihtele vauhdinoton pituutta.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten onnistut nousemaan kuperkeikasta ylös seisomaan? Mikä muuttuu, kun teet kuperkaikan matolle ilman vauhdinottoa?",
-			"WILLINGNESS": "Tuntuuko erilaiselta tehdä kuperkeikka maton pitkällä sivulla verrattuna maton lyhyeen sivuun? Miltä tuntuu nousta kuperkeikasta ylös seisomaan onnistuneesti?"
+			"WILLINGNESS": "Tuntuuko erilaiselta tehdä kuperkeikka maton pitkällä sivulla verrattuna maton lyhyeen sivuun? Miltä tuntuu nousta kuperkeikasta ylös seisomaan onnistuneesti?",
+            "PDF": "Tee kuperkeikka pehmeällä matolla muutaman askeleen vaihdinotolla."
 		},
 		"ROLL_OFF_THE_BOX": {
 			"MOBAK": "Liikkuminen",
@@ -624,7 +658,8 @@
 			"MATERIALS": "Koroke, voimistelumatto",
 			"VARIATIONS": "Muuta korokkeen korkeutta.\r\n\r\nLapsi A on nelinkontin. Lapsi B käyttää lasta A korokkeena tehden kuperkeikan hänen selkänsä päältä matolle. \r\nKuperkeikka ison jumppapallon päältä.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Pääsetkö ylös seisomaan kuperkeikasta? Miten? \r\nMiten asetat kätesi niin, että kuperkeikka etenee mahdollisimman suoraan?",
-			"WILLINGNESS": "Miltä tuntuu tehdä kuperkeikka korokkeelta? \r\nMiltä korkeudelta on kaikkein hauskinta? Mikä vaatii rohkeutta?"
+			"WILLINGNESS": "Miltä tuntuu tehdä kuperkeikka korokkeelta? \r\nMiltä korkeudelta on kaikkein hauskinta? Mikä vaatii rohkeutta?",
+            "PDF": "Polvistu korokkeen päälle asettaen kädet alas voimistelimatolle ja tee kuperkeikka eteenpäin."
 		},
 		"VARIABLE_ROLLING": {
 			"MOBAK": "Liikkuminen",
@@ -634,7 +669,8 @@
 			"MATERIALS": "Voimistelumattoja",
 			"VARIATIONS": "Pyörähdä sivuttain. Aseta jalat kaltevan tason taakse, hypähdä hieman, jotta pääset tekemään kuperkeikan kaltevaa tasoa alaspäin. Kuperkeikka alhaalta ylöspäin. \r\nKuperkeikka tasaisella.\r\nAseta jalat matolle ja rullaa ylhäältä alas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten kuperkeikka muuttuu, kun  teet sen alhaalta ylöspäin? \r\nMikä kuperkeikoista onnistuu parhaiten? Miksi?",
-			"WILLINGNESS": "Minkälaisesta kuperkeikasta pidät eniten? Miksi? \r\nOsaatko tehdä kuperkeikan kaikilla eri tavoilla?"
+			"WILLINGNESS": "Minkälaisesta kuperkeikasta pidät eniten? Miksi? \r\nOsaatko tehdä kuperkeikan kaikilla eri tavoilla?",
+            "PDF": "Tee kuperkeikkoja kaltevaa tasoa pitkin alas tai ylös eri tavoin."
 		},
 		"ROLLING_PRECISELY": {
 			"MOBAK": "Liikkuminen",
@@ -644,7 +680,8 @@
 			"MATERIALS": "Voimistelumattoja, teippiä",
 			"VARIATIONS": "Kiinnitä teippi maton päähän, ja astu jaloilla sen päälle kuperkeikan päätteeksi. Muuta etäisyyttä maton alusta. \r\nTee kuperkeikka niin, että teippi tarttuu toisesta olkapäästä vastakkaiselle lantiolle.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten pitää ponnistaa jaloilla, jotta kuperkeikka rullaa mahdollisimman tarkasti? \r\nMiten onnistut pyöräyttämään kuperkeikan suoraan?",
-			"WILLINGNESS": "Voitko tehdä kuperkeikan kolme kertaa niin, että selkääsi muodostuu teippitähti? \r\nMillainen kuperkeikka teipin kanssa on kaikkein hauskinta? Keksitkö lisää ideoita?"
+			"WILLINGNESS": "Voitko tehdä kuperkeikan kolme kertaa niin, että selkääsi muodostuu teippitähti? \r\nMillainen kuperkeikka teipin kanssa on kaikkein hauskinta? Keksitkö lisää ideoita?",
+            "PDF": "Tee kuperkeikka teipin päällä niin, että se tarttuu selkääsi."
 		},
 		"ROLL_UP": {
 			"MOBAK": "Liikkkuminen",
@@ -654,7 +691,8 @@
 			"MATERIALS": "Koroke (esim. pukki, jossa on eri korkeuksia), voimistelumatot",
 			"VARIATIONS": "Muuta korokkeen korkeutta. \r\nSuorita kuperkeikka korokkeen päällä. \r\nKäytä ponnahduslautaa hyppäämiseen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten onnistuit pukkikuperkeikassa? \r\nMitä teet jaloilla kuperkeikan aikana?",
-			"WILLINGNESS": "Mikä korkeus vaatii sinulta paljon rohkeutta? Miten kasvatit rohkeutta? \r\nMiten voit auttaa kaveriasi tekemään kuperkeikan korokkelle?"
+			"WILLINGNESS": "Mikä korkeus vaatii sinulta paljon rohkeutta? Miten kasvatit rohkeutta? \r\nMiten voit auttaa kaveriasi tekemään kuperkeikan korokkelle?",
+            "PDF": "Tee kuperkeikka korokkeella."
 		},
 		"DIVE_ROLL": {
 			"MOBAK": "Liikkuminen",
@@ -664,7 +702,8 @@
 			"MATERIALS": "Voimistelumatot, kuntopallot",
 			"VARIATIONS": "Aseta useita kuntopalloja peräkkäin ja tee syöksykuperkeikka niiden yli. \r\nVaihda kuntopallojen välistä etäisyyttä. \r\nPonnista molemmilla jaloilla. \r\nKäytä kuntopallon sijasta köyttä syöksykuperkeikan suorittamiseen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mitä on tehtävä syöksykuperkeikassa eri tavalla verrattuna tavalliseen kuperkeikkaan eteenpäin? \r\nMitä teet laskeutuaksesi mahdollisimman pehmeästi?",
-			"WILLINGNESS": "Aseta itsellesi tavoite valitsemalla tietty määrä kuntopalloja, joiden yli haluat hypätä tehdessäsi syöksykuperkeikan. Miltä tuntuu, kun saavutat tavoitteen? \r\nKuvittele, että teet syöksykuperkeikan valtavan kuilun yli. Miltä se tuntuu?"
+			"WILLINGNESS": "Aseta itsellesi tavoite valitsemalla tietty määrä kuntopalloja, joiden yli haluat hypätä tehdessäsi syöksykuperkeikan. Miltä tuntuu, kun saavutat tavoitteen? \r\nKuvittele, että teet syöksykuperkeikan valtavan kuilun yli. Miltä se tuntuu?",
+            "PDF": "Hyppää eteenpäin ja pyörähdä kuntopallon yli."
 		},
 		"PARTNER_ROLLS": {
 			"MOBAK": "Liikkuminen",
@@ -674,7 +713,8 @@
 			"MATERIALS": "Voimistelumatot",
 			"VARIATIONS": "Aloita toisesta asennosta (päältä/alta).\r\nTehdään kuperkeikka parin kanssa synkronisesti vierekkäin.\r\nTehdään kaksi tai useampia kuperkeikkoja peräkkäin.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten onnistutte tekemään yhteistyötä? \r\nMihin pitää kiinnittää enemmän huomiota parikuperkeikassa verrattuna yksin tehtävään kuperkeikkaan?",
-			"WILLINGNESS": "Vaatiiko parikuperkeikka paljon rohkeutta? Jos kyllä, miten voitte lisätä rohkeuttanne? \r\nMitä neuvoja voisit antaa muille lapsille, jotta he voisivat onnistua suorituksessa?"
+			"WILLINGNESS": "Vaatiiko parikuperkeikka paljon rohkeutta? Jos kyllä, miten voitte lisätä rohkeuttanne? \r\nMitä neuvoja voisit antaa muille lapsille, jotta he voisivat onnistua suorituksessa?",
+            "PDF": "Pareittain: Tarttukaa toistenne nilkkoihin ja painakaa leukanne rintaan. Tehkää yhdessä kuperkeikkoja eteenpäin."
 		}
 	},
 	"Balancing": "Balancing",
@@ -687,7 +727,8 @@
 			"MATERIALS": "Naru (esim. hyppynaru)",
 			"VARIATIONS": "Tasapainoillaan takaperin; Tasapainoillaan silmät kiinni Tasapainoillaan heitellen huivia ilmaan; Tasapainoillaan ja pyöritetään vannetta (1 tai 2) käsivarrella; Tasapainoillaan erilaisten alustojen päällä (esim. vanteet, korokkeet, lattiaviivoitukset); Tasapainoillaan kantaen erilaisia esineitä kehon eri osilla (esim. hattu olkapäällä)",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä muuttuu, kun tasapainoilet takaperin eikä etuperin? Miksi tasapainoilu on helpompaa, kun katsot eteenpäin (etkä esimerkiksi maahan)?",
-			"WILLINGNESS": "Kuvitelkaa, että olette sirkuksen trapetsilla kävelijöitä. Miten voitte tasapainoilla narun yli yhdessä? Kuuletteko aplodit?\r\nMiten voitte muuttaa narun asentoa, jotta tasapainoilu olisi vaikeampaa?\r\nMiksi tasapainoilu voisi olla tärkeää?"
+			"WILLINGNESS": "Kuvitelkaa, että olette sirkuksen trapetsilla kävelijöitä. Miten voitte tasapainoilla narun yli yhdessä? Kuuletteko aplodit?\r\nMiten voitte muuttaa narun asentoa, jotta tasapainoilu olisi vaikeampaa?\r\nMiksi tasapainoilu voisi olla tärkeää?",
+            "PDF": "Tasapainoile köydellä."
 		},
 		"BENCH_BALANCING": {
 			"MOBAK": "Liikkuminen",
@@ -696,7 +737,8 @@
 			"MATERIALS": "Pitkä penkki",
 			"VARIATIONS": "Muuta tapaasi liikkua (sivusuunnassa, taaksepäin, nelinkontin).\r\nTee käsivarsilla lisäliikkeitä.\r\nValitse esineitä, joita voit kantaa kehon eri osilla (esim. liinat, hatut, pallot).\r\nAseta lisäesteitä (esim. vaatteita, hattuja) penkille ja astu sitten näiden esteiden yli.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä on paras tapa asettaa jalat penkille, jotta tasapainoilu onnistuu?\r\nMiten tasapainosi muuttuu, kun katsot ylöspäin tai alaspäin etkä eteenpäin?",
-			"WILLINGNESS": "Miltä tuntuu tasapainoilla onnistuneesti penkin päästä päähän?\r\nTarkkaile lasta, jolla on vaikeuksia tasapainoilla penkin päästä päähän ja yritä antaa hänelle vinkkejä!\r\nMissä muualla voit tasapainoilla kuin penkillä tehdäksesi tehtävästä vaikeamman?"
+			"WILLINGNESS": "Miltä tuntuu tasapainoilla onnistuneesti penkin päästä päähän?\r\nTarkkaile lasta, jolla on vaikeuksia tasapainoilla penkin päästä päähän ja yritä antaa hänelle vinkkejä!\r\nMissä muualla voit tasapainoilla kuin penkillä tehdäksesi tehtävästä vaikeamman?",
+            "PDF": "Tasapainoile eteenpäin pitkällä penkillä."
 		},
 		"WOBBLY_BENCH": {
 			"MOBAK": "Liikkuminen",
@@ -706,7 +748,8 @@
 			"MATERIALS": "Pitkä penkki, voimistelutangot",
 			"VARIATIONS": "Suorita tehtävä ilman muita lapsia kiinnittämällä pitkä penkki jumppatankoihin, joiden kaikilla sivuilla on jumppamattoja, jotta se ei liiku.\r\nKävele sivuttain tai taaksepäin.\r\nAseta penkille ylimääräisiä esteitä (esim. vaatteita, hattuja) ja astu sitten näiden esteiden yli.\r\nLisää kierto.\r\nValitse materiaaleja, joita voit lisäksi kantaa jollakin vartalon osalla (esim. liinat, hatut, pallot).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten liikut tasapainoillaksesi heiluvalla penkillä?\r\nMikä käsien asento auttaa sinua eniten tasapainoillessasi?",
-			"WILLINGNESS": "Miltä tuntuu tasapainoilu heiluvan penkin päällä? Tarvitsetko paljon rohkeutta?\r\nPyydä muita lapsia siirtämään penkkiä hitaammin/nopeammin sen mukaan, kuinka turvalliseksi tunnet olosi."
+			"WILLINGNESS": "Miltä tuntuu tasapainoilu heiluvan penkin päällä? Tarvitsetko paljon rohkeutta?\r\nPyydä muita lapsia siirtämään penkkiä hitaammin/nopeammin sen mukaan, kuinka turvalliseksi tunnet olosi.",
+            "PDF": "Pidä kiinni penkistä, kun se heiluu."
 		},
 		"MOUNTAIN_CLIMBING": {
 			"MOBAK": "Liikkuminen",
@@ -716,7 +759,8 @@
 			"MATERIALS": "Pitkä penkki, puolapuut, matot lattialla turvallisuuden varmistamiseksi.",
 			"VARIATIONS": "Vaihda liikkumistapaa (sivuttain, taaksepäin, nelinkontin).\r\nRipusta pitkä penkki voimistelurenkaisiin ja tasapainoile sen päällä. Matot turvallisuuden takaamiseksi ovat välttämättömät.\r\nPyöritä lisäksi vannetta kädelläsi.\r\nValitse esineitä, joita voit lisäksi kantaa kehon eri osilla (esim. liinat, hatut, pallot).\r\nRipusta pitkä penkki puolapuiden alempiin tai ylempiin puoliin.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mihin katsot, kun tasapainoilet ylöspäin?\r\nMiten kiipeät menettämättä tasapainoasi?",
-			"WILLINGNESS": "Millä penkin korkeudella tehtävästä tulee sinulle haastava?\r\nMittaa aika, jonka tarvitset tasapainoillaksesi penkin yläpäähän ja haasta luokkatoverisi tai itsesi. Miltä haaste tuntuu sinusta?\r\nMiltä tuntuu, kun penkillä on vielä esteitä?"
+			"WILLINGNESS": "Millä penkin korkeudella tehtävästä tulee sinulle haastava?\r\nMittaa aika, jonka tarvitset tasapainoillaksesi penkin yläpäähän ja haasta luokkatoverisi tai itsesi. Miltä haaste tuntuu sinusta?\r\nMiltä tuntuu, kun penkillä on vielä esteitä?",
+            "PDF": "Tasapainoile ylös ja alas penkillä."
 		},
 		"OPPOSING_TRAFFIC": {
 			"MOBAK": "Liikkuminen",
@@ -726,7 +770,8 @@
 			"MATERIALS": "Pitkä penkki",
 			"VARIATIONS": "Käännä pitkä penkki ylösalaisin.\r\nAseta pitkä penkki epävakaalle alustalle (matto, ponnahduslauta, jumppatanko jne.).\r\nValitse esineitä, joita voit lisäksi kantaa jollakin kehon osalla (esim. liinat, hatut, pallot).\r\nTasapainoile köyden päällä.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten voitte auttaa toisianne ohittamisessa? \r\nMikä ohittamisessa on vaikeaa?",
-			"WILLINGNESS": "Kuvittele, että olet viidakossa ja sinun on paettava maassa olevia myrkkykäärmeitä. Auttakaa toisianne pääsemään penkin toiselle puolelle ilman, että käärme hyökkää! Miten onnistuitte ratkaisemaan ylityksen yhdessä?\r\nMitä voitte tehdä yhdessä ennen ylitystä, jotta olisitte rohkeampia ylityksen aikana?"
+			"WILLINGNESS": "Kuvittele, että olet viidakossa ja sinun on paettava maassa olevia myrkkykäärmeitä. Auttakaa toisianne pääsemään penkin toiselle puolelle ilman, että käärme hyökkää! Miten onnistuitte ratkaisemaan ylityksen yhdessä?\r\nMitä voitte tehdä yhdessä ennen ylitystä, jotta olisitte rohkeampia ylityksen aikana?",
+            "PDF": "Ryhmä: Pitkän penkin kummallakin puolella on sama määrä lapsia. Tasapainoilkaa penkin toiseen päähän ja ohittakaa toisenne keskellä."
 		},
 		"SEESAW": {
 			"MOBAK": "Liikkuminen",
@@ -736,7 +781,8 @@
 			"MATERIALS": "Pitkä penkki, laatikko, jonka päälle penkin voi asettaa kapea puoli ylöspäin",
 			"VARIATIONS": "Valitse esineitä, joita voit lisäksi kantaa jollakin kehosi osalla (esim. kankaat, hatut, pallot).\r\nVaihda liikkumistapaa (sivuttain, taaksepäin, nelinkontin).\r\nTasapainoIle silmät kiinni.\r\nAnna toisen auttaa sinua (tarvittaessa). Hän tarjoaa kätensä ja sinä tartut siihen tarvittaessa.\r\nAseta penkki kahden ponnahduslaudan päälle, jotta se voi keinua.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mitä teet penkin keinuessa, jotta pysyt tasapainossa? Miten penkin kallistuminen muuttuu, kun tasapainoilet sivuttain?",
-			"WILLINGNESS": "Keksi, miten penkin saa keinumaan eri korkeuksilla?\r\nMiltä tuntuu, kun penkki kallistuu?\r\nKokeile tasapainoilua samanaikaisesti toisen lapsen kanssa. Miten se muuttaa penkin kallistumista?"
+			"WILLINGNESS": "Keksi, miten penkin saa keinumaan eri korkeuksilla?\r\nMiltä tuntuu, kun penkki kallistuu?\r\nKokeile tasapainoilua samanaikaisesti toisen lapsen kanssa. Miten se muuttaa penkin kallistumista?",
+            "PDF": "Tasapainoile keinulaudan päällä ja anna sen kallistua hitaasti."
 		},
 		"ROPE_DANCER": {
 			"MOBAK": "Liikkuminen",
@@ -746,7 +792,8 @@
 			"MATERIALS": "Pitkä penkki, pallo",
 			"VARIATIONS": "Tasapainoile penkin molemmilla puolilla.\r\nSuorita tehtävä aikarajoituksella.\r\nTasapainoile köyden päällä.\r\nTasapainoile silmät kiinni.\r\nValitse toinen pallo tai esine, jonka kanssa tasapainoilet.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miksi tehtävä on helpompi, kun tasapainoilet penkin leveällä puolella?\r\nMikä muuttuu, kun pidät palloa pään yläpuolella verrattuna ilman palloa?\r\nMiten tehtävä muuttuu, kun käytät pallon sijasta keppiä?",
-			"WILLINGNESS": "Mitä muita esineitä voisit pitää pääsi yläpuolella tasapainoillessasi?\r\nMillä kehon osilla voisit kantaa esineitä tasapainoillessasi penkillä?\r\nEnnen kuin nouset penkille: Yritä ensin kuvitella muutaman sekunnin ajan ne liikkeet, joita aiot tehdä penkillä. Onnistuuko tehtävä näin paremmin?"
+			"WILLINGNESS": "Mitä muita esineitä voisit pitää pääsi yläpuolella tasapainoillessasi?\r\nMillä kehon osilla voisit kantaa esineitä tasapainoillessasi penkillä?\r\nEnnen kuin nouset penkille: Yritä ensin kuvitella muutaman sekunnin ajan ne liikkeet, joita aiot tehdä penkillä. Onnistuuko tehtävä näin paremmin?",
+            "PDF": "Pidä koripalloa pään yläpuolella ja tasapainoile eteenpäin pitkällä penkillä. Tee puoli käännöstä keskeltä ja jatka tasapainoilua taaksepäin."
 		},
 		"BALANCING_ON_BALLS": {
 			"MOBAK": "Liikkuminen",
@@ -756,7 +803,8 @@
 			"MATERIALS": "Kuntopallot, renkaat (kuntopallojen pitämiseksi paikoillaan)",
 			"VARIATIONS": "Kävele takaperin kuntopallojen yli.\r\nKäytä muita palloja (esim. fysio-/pezzi-pallo) kuntopallojen sijasta.\r\nYlitä pallot nelinkontin.\r\nAnna toisen auttaa sinua (tarvittaessa). Toinen tarjoaaa kätensä ja tartut siihen tarvittaessa.\r\nKävelkää pareittain toisiaan kohti ja yrittäkää ohittaa toisenne.\r\nTasapainottele silmät kiinni.\r\nJärjestä kuntopallot eri tavalla.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mitä teet eri tavalla tasapainoillessasi pallojen päällä kuin tasapainoillessasi penkin päällä?\r\nMikä on paras tapa asettaa jalat pallojen päälle, jotta tasapainoilu onnistuu?\r\nMiten onnistut tasapainoilemaan pallojen päällä silmät kiinni?",
-			"WILLINGNESS": "Mitä esineitä voitaisiin käyttää kuntopallojen sijasta?\r\nMiltä tuntuu, kun pallot ovat kauempana toisistaan?\r\nMiltä tuntuu tasapainoilla pallojen päällä silmät kiinni?"
+			"WILLINGNESS": "Mitä esineitä voitaisiin käyttää kuntopallojen sijasta?\r\nMiltä tuntuu, kun pallot ovat kauempana toisistaan?\r\nMiltä tuntuu tasapainoilla pallojen päällä silmät kiinni?",
+            "PDF": "Tasapainoile kuntopallojen yli koskematta maahan."
 		},
 		"CIRCUS_ARTISTS": {
 			"MOBAK": "Liikkuminen",
@@ -766,7 +814,8 @@
 			"MATERIALS": "Pitkä penkki, silmät sidottuina.",
 			"VARIATIONS": "Tasapainoile silmät kiinni.\r\nSuorita tehtävä aikarajoituksella.\r\nAnna toisen auttaa sinua (tarvittaessa). Hän tarjoaa kätensä ja tartut siihen tarvittaessa.\r\nKäännä penkki ympäri.\r\nPidä kädet lähellä vartaloa.\r\nNojaa ylävartaloa eteen- tai taaksepäin.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä on paras tapa tasapainoilla penkillä silmät sidottuina?\r\nMiten muutat liikkumista, kun tasapainoiletkin taaksepäin eteenpäin menon sijaan?",
-			"WILLINGNESS": "Miltä tuntuu, kun onnistut tasapainoilemaan penkillä silmät sidottuina?\r\nMiten voit auttaa muita, jotka eivät ole vielä onnistuneet tässä tehtävässä?"
+			"WILLINGNESS": "Miltä tuntuu, kun onnistut tasapainoilemaan penkillä silmät sidottuina?\r\nMiten voit auttaa muita, jotka eivät ole vielä onnistuneet tässä tehtävässä?",
+            "PDF": "Tasapainoile pitkällä penkillä silmät sidottuina."
 		},
 		"BALANCING_ON_MATS": {
 			"MOBAK": "Liikkuminen",
@@ -776,7 +825,8 @@
 			"MATERIALS": "Voimistelumattoja",
 			"VARIATIONS": "Sulje silmäsi. \r\nSeiso yhdellä jalalla. \r\nSeiso paksummalla matolla. \r\nSeiso muulla epävakaalla alustalla.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä on paras tapa säilyttää tasapaino? \r\nMiten näkösi voi auttaa sinua ylläpitämään tasapainoa?",
-			"WILLINGNESS": "Miten tehtävä muuttuu, kun suljet silmäsi tai kallistat päätäsi taaksepäin? \r\nMillä alustalla tasapainoilu tekee siitä haastavampaa?"
+			"WILLINGNESS": "Miten tehtävä muuttuu, kun suljet silmäsi tai kallistat päätäsi taaksepäin? \r\nMillä alustalla tasapainoilu tekee siitä haastavampaa?",
+            "PDF": "Seiso yhdellä jalalla voimistelumatolla."
 		},
 		"DONT_WOBBLE": {
 			"MOBAK": "Liikkuminen",
@@ -785,7 +835,8 @@
 			"BASIC_TASK": "Lapset juoksevat vapaasti. Merkistä kaikki pysähtyvät ja seisovat yhdellä jalalla ja yrittävät pysyä horjumatta.",
 			"VARIATIONS": "Merkistä tehdään vaaka. \r\nYritetään pitää vaaka horjumatta, kun merkki annetaan. \r\nTehdään merkistä jokin erilainen tasapainoasento, jossa on pysyttävä horjumatta. Jos horjahtaa, siirtyy antamaan merkin ja uuden tasapainoasennon.\r\nKeksitään erilaisia tasapainoasentoja.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten onnistut saavuttamaan tasapainon yhdellä jalalla mahdollisimman nopeasti?  Millaiset tasapainoasennot ovat helppoja? ",
-			"WILLINGNESS": "Kuinka pitkälle pystyt kurkottamaan käsillä ja jalalla säilyttäen tasapainon yhdellä jalalla? \r\nMiltä tuntuu, kun horjahdat tai menetät tasapainon?"
+			"WILLINGNESS": "Kuinka pitkälle pystyt kurkottamaan käsillä ja jalalla säilyttäen tasapainon yhdellä jalalla? \r\nMiltä tuntuu, kun horjahdat tai menetät tasapainon?",
+            "PDF": "Seiso yhdellä jalalla käskystä."
 		},
 		"UNSTABLE_DEVICES": {
 			"MOBAK": "Liikkuminen",
@@ -795,7 +846,8 @@
 			"MATERIALS": "Tasapainoilualustat, pallot, pedalo, hyrrät jne.",
 			"VARIATIONS": "Sulje silmäsi tasapainoillessasi. \r\nVaihda käsien asentoa. \r\nSuorita käsilläsi lisäliikkeitä (esim. ympyröitä). \r\nTasapainoile yhdellä jalalla jonkin esineen päällä. \r\nPyydä toista auttamaan sinua.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä auttaa sinua pysymään tasapainossa epävakaalla alustalla? \r\nMiten tasapaino muuttuu epävakaalla alustalla verrattuna vakaaseen alustaan?",
-			"WILLINGNESS": "Mitä muita esineitä voit käyttää tasapainoilualustoina? \r\nMiten voit tehdä tehtävästä vielä haastavamman?"
+			"WILLINGNESS": "Mitä muita esineitä voit käyttää tasapainoilualustoina? \r\nMiten voit tehdä tehtävästä vielä haastavamman?",
+            "PDF": "Tasapainoile epävakailla esineillä."
 		}
 	},
 	"catching": "catching",
@@ -809,7 +861,8 @@
 			"MATERIALS": "Erilaiset pallot",
 			"VARIATIONS": "Heitä pallo ilmaan molemmilla käsillä, taputa kerran tai useita kertoja ja ota sitten pallo kiinni molemmin käsin.\r\nHeitä pallo ilmaan molemmilla käsillä ja ota se sitten kiinni vain yhdellä kädellä.\r\nHeitä pallo ilmaan molemmilla käsillä, kosketa lattiaa molemmilla käsillä ja ota pallo sitten kiinni molemmilla käsillä.\r\nHeitä pallo ilmaan molemmilla käsillä, käänny oman akselisi ympäri ja ota pallo sitten kiinni.\r\nHeitä pallo ilmaan molemmilla käsillä ja ota sitten pallo kiinni selän takaa.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten onnistut saamaan pallon kiinni uudelleen sen heittämisen jälkeen?\r\nMitä teet käsilläsi?\r\nTarkkaile, miten muut ottavat pallon kiinni - mitä he tekevät käsillään?\r\n",
-			"WILLINGNESS": "Kuinka korkealle voit heittää pallon ja saada sen taas kiinni?\r\nVoitko tehdä sen eri palloilla?\r\nKuvaile tunteita, joita koet, kun saat pallon onnistuneesti kiinni.””"
+			"WILLINGNESS": "Kuinka korkealle voit heittää pallon ja saada sen taas kiinni?\r\nVoitko tehdä sen eri palloilla?\r\nKuvaile tunteita, joita koet, kun saat pallon onnistuneesti kiinni.””",
+            "PDF": "Heitä pallo ilmaan molemmin käsin ja ota se uudelleen kiinni."
 		},
 		"KEEP_THE_WATER_CLEAN": {
 			"MOBAK": "Välineenkäsittely",
@@ -819,7 +872,8 @@
 			"MATERIALS": "”Pallot, verkko, puinen / sulkapallo- tai (pehmeä) tennismaila”. Vaihtoehtoisesti: pitkä penkki/lanka erottelua varten, kartiot, erilaiset pallot, ilmapallot.",
 			"VARIATIONS": "Ota pallot kiinni kartiolla.\r\nOta pallot kiinni vasemmalla kädelläsi, jos pallot ovat vasemmalla puolella, ja oikealla kädelläsi, jos pallot ovat oikealla puolella.\r\nOta pallot kiinni mailalla.\r\nPelaa vuorotellen lyhyitä ja pitkiä palloja (lapsi A).\r\nVaihtakaa rooleja jatkuvasti.\r\nLapsi A heittää pallon verkon yli.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä on paras tapa seisoa, jotta voit ottaa pallon hyvin kiinni?\r\nMihin katsot, jotta voit ottaa pallon hyvin kiinni?",
-			"WILLINGNESS": "Mikä muuttuu sinulle, kun pelaatte vastakkain?\r\nMiten onnistutte molemmat pelaamaan ja ottamaan pallon kiinni?"
+			"WILLINGNESS": "Mikä muuttuu sinulle, kun pelaatte vastakkain?\r\nMiten onnistutte molemmat pelaamaan ja ottamaan pallon kiinni?",
+            "PDF": "Pareittain: Yksi lapsi pelaa palloja verkon yli mailalla, toinen lapsi ottaa pallon kiinni."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Välineenkäsittely",
@@ -829,7 +883,8 @@
 			"MATERIALS": "Vanteet, erilaiset pallot",
 			"VARIATIONS": "Pidä kahta vannetta (lapsi C).\r\nVieritä pallo vanteen läpi ja ota pallo itse kiinni toisella puolella (lapsi A), vaihtakaa rooleja. \r\nPotkaise palloa jalalla.\r\nLaajenna ryhmää siten, että kaikki lapset asettuvat pallon kanssa liikuntasalin pitkälle sivulle. Yrittäkää lyödä pallollanne (vierittää, heittää tai potkaista vanteen läpi) voimistelupalloa tai vannetta, jota opettaja vierittää ympäri salia.\r\nPelaa palloa mailalla vanteen läpi.\r\nPyöritä palloa kädelläsi.\r\nPyöritä vanne ympäri liikuntasalia ja heitä, pelaa tai rullaa palloa vanteen läpi.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten onnistuitte rullaamaan vanteen läpi?\r\nMiten käsien liike muuttuu, kun lähetät pallon liikkeelle heittämisen sijasta rullaamalla?",
-			"WILLINGNESS": "Mikä variaatioista on sinusta hauskin ja miksi?\r\nKuinka monta kertaa peräkkäin saat pallon kiinni? Aseta tavoite ja yritä saavuttaa se.\r\nMiten voit rullata/pelata palloa toisella tavalla?"
+			"WILLINGNESS": "Mikä variaatioista on sinusta hauskin ja miksi?\r\nKuinka monta kertaa peräkkäin saat pallon kiinni? Aseta tavoite ja yritä saavuttaa se.\r\nMiten voit rullata/pelata palloa toisella tavalla?",
+            "PDF": "Kolme ryhmissä: Lapsi pitelee rengasta. Kaksi muuta vierittävät pallon vanteen läpi."
 		},
 		"TIGERBALL": {
 			"MOBAK": "Välineenkäsittely",
@@ -839,7 +894,8 @@
 			"MATERIALS": "Erilaisia palloja",
 			"VARIATIONS": "Pelaa kahdella (erilaisella) pallolla kerralla.\r\nLaajenna ympyrää vähitellen.\r\nVaihtele syöttökorkeutta.\r\nIntegroi heittovariaatioita (esim. heitto alhaalta, molemmilla käsillä, pään yli).\r\nÄlä syötä palloa suoraan vieressäsi olevalle lapselle.\r\nVieritä pallo seuraavalle lapselle.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä on paras tapa ottaa pallo kiinni, kun olet keskellä?\r\nMikä on paras tapa heittää pallo toiselle lapselle niin, että keskellä oleva lapsi ei saa sitä kiinni?",
-			"WILLINGNESS": "Milloin tämä peli on hauskinta?\r\nMiten toimit, kun huomaat, että keskellä oleva lapsi ei saa palloa kiinni?\r\nMiten leikitte yhdessä niin, että keskellä oleva lapsi ei saa palloa kiinni?"
+			"WILLINGNESS": "Milloin tämä peli on hauskinta?\r\nMiten toimit, kun huomaat, että keskellä oleva lapsi ei saa palloa kiinni?\r\nMiten leikitte yhdessä niin, että keskellä oleva lapsi ei saa palloa kiinni?",
+            "PDF": "Ryhmä: Lapsi seisoo ympyrän keskellä. Muut syöttävät palloa toisilleen. Keskellä oleva lapsi yrittää saada pallon kiinni. Roolien vaihtaminen."
 		},
 		"BOXING": {
 			"MOBAK": "Välineenkäsittely",
@@ -849,7 +905,8 @@
 			"MATERIALS": "Erilaisia palloja",
 			"VARIATIONS": "Käytä erilaisia palloja.\r\nVaihda etäisyyttä.\r\nVaihtele syöttökorkeutta (lapsi A).\r\nIntegroi heittovariaatioita (esim. heitto alhaalta, molemmilla käsillä, pään yli).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten voit parhaiten heittää palloa tarkasti?\r\nMiten käyttäydyt niin, että saat pallon hyvin kiinni?",
-			"WILLINGNESS": "Kuinka monta kertaa peräkkäin onnistut nappaamaan pallon uudestaan eri etäisyyksiltä?\r\nMiten onnistutte ratkaisemaan tehtävän yhdessä?\r\nOnnistuitteko nappaamaan pallon uudelleen eri etäisyyksillä?"
+			"WILLINGNESS": "Kuinka monta kertaa peräkkäin onnistut nappaamaan pallon uudestaan eri etäisyyksiltä?\r\nMiten onnistutte ratkaisemaan tehtävän yhdessä?\r\nOnnistuitteko nappaamaan pallon uudelleen eri etäisyyksillä?",
+            "PDF": "Pareittain: Lapsella on pallo kädessään ja hän pelaa pallon takaisin sillä."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Välineenkäsittely",
@@ -859,7 +916,8 @@
 			"MATERIALS": "Erilaisia palloja",
 			"VARIATIONS": "Heittele palloa edestakaisin lapselta toiselle.\r\nVaihda ryhmän asettelu ympyrästä muihin muotoihin (esim. neliö, kolmio, ellipsi).\r\nSiirry syötön jälkeen siihen paikkaan, jonne syötit.\r\nIntegroi heittovariaatioita (esim. heitto alakautta, molemmilla käsillä, pään yli).\r\nVieritä palloa kädellä, potkaise jalalla tai pelaa mailalla.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten valmistaudut pallon nappaamiseen?\r\nMihin kiinnität huomiota, kun pallo lentää luoksesi?\r\nMiksi on hyödyllistä katsoa lasta, jolle aiot heittää pallon?",
-			"WILLINGNESS": "Voitko saada jokaisen lapsen ympyrässä nappaamaan pallon kerran ilman, että pallo putoaa maahan kertaakaan?\r\nMikä on nopein tapa heittää ja ottaa pallo kiinni ympyrämuodostelmassa?"
+			"WILLINGNESS": "Voitko saada jokaisen lapsen ympyrässä nappaamaan pallon kerran ilman, että pallo putoaa maahan kertaakaan?\r\nMikä on nopein tapa heittää ja ottaa pallo kiinni ympyrämuodostelmassa?",
+            "PDF": "Ryhmä: Seisokaa ympyrässä ja syöttäkää pallo toisillenne. Kaksoissyötöt eivät ole sallittuja."
 		},
 		"REACTING": {
 			"MOBAK": "Välineenkäsittely",
@@ -869,7 +927,8 @@
 			"MATERIALS": "Palloja",
 			"VARIATIONS": "Heitä pallo eri korkeuksille. \r\nAnna pallon pompata maahan ja ota se uudelleen kiinni. \r\nKäytä erilaisia palloja. \r\nKaksi tai kolme lasta heittää palloa toisilleen. Helpota: Anna pallon pompata kerran maassa.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mihin kiinnität huomiota silloin kun avaat silmäsi juuri ennen kiinniottoa?\r\nMinkä pallon saat parhaiten kiinni? Selitä miksi?",
-			"WILLINGNESS": "Pystytkö myös ottamaan pallon kiinni silmät kiinni? \r\nMiten syötät pallon toiselle lapselle niin, että hänen on helppo ottaa pallo kiinni?.\""
+			"WILLINGNESS": "Pystytkö myös ottamaan pallon kiinni silmät kiinni? \r\nMiten syötät pallon toiselle lapselle niin, että hänen on helppo ottaa pallo kiinni?.\"",
+            "PDF": "Heitä pallo ilmaan silmät kiinni ja ota se kiinni."
 		},
 		"WALL_BALL": {
 			"MOBAK": "Välineenkäsittely",
@@ -879,7 +938,8 @@
 			"MATERIALS": "Palloja",
 			"VARIATIONS": "Käytä erilaisia palloja. Merkitse maalialue seinälle. Pelatkaa vain yhdellä seinällä. Levypallopisteen jälkeen onnistuneen joukkueen on mentävä sovitun viivan taakse ennen seuraavaa hyökkäystä. Heittämisen sijaan vierittäkää palloa. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mihin kiinnität huomiota, jotta onnistut tekemään rebound-pisteen? \r\nMiten syötät pallon joukkuetovereillesi niin, että vastustajajoukkue ei saa sitä haltuunsa?.",
-			"WILLINGNESS": "Miten lentorata muuttuu, kun pallo vaihtuu? \r\nMitä ideoita sinulla on pelin muuttamiseksi?"
+			"WILLINGNESS": "Miten lentorata muuttuu, kun pallo vaihtuu? \r\nMitä ideoita sinulla on pelin muuttamiseksi?",
+            "PDF": "Ryhmä: Jakautukaa kahteen joukkueeseen. Joukkue saa pisteen, jos yksi joukkueen jäsen heittää pallon seinään ja toinen joukkueen jäsen saa sen kiinni."
 		},
 		"TRAJECTORY": {
 			"MOBAK": "Välineenkäsittely",
@@ -889,7 +949,8 @@
 			"MATERIALS": "Palloja",
 			"VARIATIONS": "Heitä pallo seinää vasten niin, että se kimpoaa lattialle ennen kuin otat sen kiinni. \r\nHeitä seinää kohti eri asennoista. \r\nSyöttäkää pallo toisillenne pareittain seinää käyttäen. Pallon on koskettava seinää ennen kuin toinen lapsi saa sen kiinni. \r\nPelatkaa pareittain toisiaan vastaan: Sopikaa alue, jossa palloa saa pelata seinää vasten ja jossa sen on laskeuduttava uudelleen maahan. Jos toinen lapsi ei saa palloa kiinni, toinen saa pisteen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mistä tiedät, minne pallo menee, kun se kimpoaa seinästä? \r\nMiten valmistaudut ottamaan pallon kiinni?",
-			"WILLINGNESS": "Kuinka monta kertaa peräkkäin onnistut saamaan pallon uudelleen kiinni? \r\nMiltä sinusta tuntuu, kun et saa palloa kiinni?"
+			"WILLINGNESS": "Kuinka monta kertaa peräkkäin onnistut saamaan pallon uudelleen kiinni? \r\nMiltä sinusta tuntuu, kun et saa palloa kiinni?",
+            "PDF": "Heitä pallo seinään ja ota se uudelleen kiinni."
 		},
 		"FLYING_BALL": {
 			"MOBAK": "Välineenkäsittely",
@@ -899,7 +960,8 @@
 			"MATERIALS": "Pallo, voimistelumatto",
 			"VARIATIONS": "Käytä eri palloja. \r\nVaihtele laskeutumisaluetta. \r\nMuuta pelikentän kokoa.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Millä taktiikoilla joukkueesi tekee pisteitä? \r\nMikä muuttuu, kun pelikenttä kasvaa?",
-			"WILLINGNESS": "Pystytkö nappaamaan pallon hypyssä ja laskeutumaan laskeutumisalueelle? \r\nMiten heität pallon joukkuetoverillesi niin, että hän onnistuu nappaamaan pallon laskeutumisalueelle? \r\nMitä sääntöjä lisäisit, jotta peli muuttuisi?"
+			"WILLINGNESS": "Pystytkö nappaamaan pallon hypyssä ja laskeutumaan laskeutumisalueelle? \r\nMiten heität pallon joukkuetoverillesi niin, että hän onnistuu nappaamaan pallon laskeutumisalueelle? \r\nMitä sääntöjä lisäisit, jotta peli muuttuisi?",
+            "PDF": "Ryhmä: Jakaudutaan kahteen joukkueeseen. Joukkue voi saada pisteen, jos joukkueen jäsen saa pallon kiinni hyppäämällä ja tulee alas alueen sisällä. "
 		},
 		"FISHERMAN": {
 			"MOBAK": "Välineenkäsittely",
@@ -909,7 +971,8 @@
 			"MATERIALS": "Palloja",
 			"VARIATIONS": "Heitä pallot nopeasti peräkkäin. \r\nAnna äänimerkki ennen pallon heittämistä. \r\nLapsi A sanoo, mihin pallo heitetään. \r\nLapsi B seisoo valmiina silmät kiinni ja yrittää reagoida mahdollisimman nopeasti.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mihin kiinnität huomiota, kun otat palloja kiinni? \r\nMiten pidätte kätenne ja käsivartenne palloja kiinniottaessanne?",
-			"WILLINGNESS": "Onko sinulla ideoita, miten peliä voitaisiin muuttaa ja tehdä siitä jännittävämpi? \r\nMiten sinä lapsena A heität palloa lapselle B niin, että se on haastavaa, mutta pallot on silti mahdollista saada kiinni?.\""
+			"WILLINGNESS": "Onko sinulla ideoita, miten peliä voitaisiin muuttaa ja tehdä siitä jännittävämpi? \r\nMiten sinä lapsena A heität palloa lapselle B niin, että se on haastavaa, mutta pallot on silti mahdollista saada kiinni?.\"",
+            "PDF": "Pareittain: Heittäkää palloja toisilleen eri korkeuksilla."
 		}
 	},
 	"throwing": "throwing",
@@ -922,7 +985,8 @@
 			"MATERIALS": "Jongleerauspallot, mattolaatat, [erilaisia lisäpalloja].",
 			"VARIATIONS": "Käytä heittovariaatioita (esim. alhaalta, molemmilla käsillä, pään yli).\r\nKäytä erilaisia palloja.\r\nLisää tai vähennä mattolaattojen etäisyyttä.\r\nKäytä pienempiä tai suurempia mattolaattoja.\r\nMuuta mattolaattojen järjestelyä.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mitä sinun on muutettava, jos heität kentälle 1 tai kentälle 12? \r\nMikä on tarkin tapa heittää pallo?",
-			"WILLINGNESS": "Miten järjestäisit kentät? \r\nMitä muita asioita liikuntasalissa voit käyttää maalitauluina?"
+			"WILLINGNESS": "Miten järjestäisit kentät? \r\nMitä muita asioita liikuntasalissa voit käyttää maalitauluina?",
+            "PDF": "Heitä jongleerauspallo ruutuun 1 ja hyppää sitten ruudusta 2 - 12 ja takaisin. Heitä sitten pallo ruutuun 2 ja hyppää ruutuun 1 ja sitten 3 - 12 ja takaisin. Ja niin edelleen."
 		},
 		"THROWING_STATIONS": {
 			"MOBAK": "Välineenkäsittely",
@@ -932,7 +996,8 @@
 			"MATERIALS": "Erilaisia palloja, voimistelulaatikoita, vanteita",
 			"VARIATIONS": "Heitä palloa istuen.\r\nSeiso laatikon päällä, heitä pallot koriin.\r\nHeitä pallo (vasemmalla ja oikealla kädellä) laatikon päälle ja yritä ottaa pallo sen jälkeen kiinni.\r\nHeitä palloja vasemmalla ja oikealla kädellä seinätankojen yli tai läpi niin, että toinen lapsi voi ottaa ne kiinni.\r\nOsu kaikkiin neljään merkintäkartioon  viidellä pallolla laatikon päältä.\r\nHeitä pallo kaikkiin seinätankojen neliöihin.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä muuttuu, kun heität palloa yhdellä tai kahdella kädellä?\r\nMiten seisot, kun heität?",
-			"WILLINGNESS": "Aseta itsellesi tietty tavoite: Kuinka monta palloa pystyt heittämään laatikkoon peräkkäin?\r\nMikä muuttuu, kun haastat toisen lapsen?\r\nOnnistutko osumaan laatikkoon myös eri etäisyyksiltä?"
+			"WILLINGNESS": "Aseta itsellesi tietty tavoite: Kuinka monta palloa pystyt heittämään laatikkoon peräkkäin?\r\nMikä muuttuu, kun haastat toisen lapsen?\r\nOnnistutko osumaan laatikkoon myös eri etäisyyksiltä?",
+            "PDF": "Heitä pallo laatikkoon"
 		},
 		"KEEP_YOUR_GARDEN_CLEAN": {
 			"MOBAK": "Välineenkäsittely",
@@ -942,7 +1007,8 @@
 			"MATERIALS": "Pitkät penkit, eri pallot",
 			"VARIATIONS": "Kahden joukkueen välissä on 3 m:n etäisyys. Tämä tila on pelivapaa alue (se voidaan erottaa kartioiden ja pitkien penkkien avulla). Pehmeitä palloja saa vain heittää ja jalkapalloja vain potkia. Joukkueet voivat saada pisteitä myös potkaisemalla/heittämällä palloja vastajoukkueen seinään.\r\nPelaa peli kahdella pitkällä penkillä (joiden välissä on hieman etäisyyttä).\r\nPitkä penkki käännetään ja asetetaan kahden laatikon päälle. Heittäkää pallot penkin alta vastustajan kentälle.\r\nRatkaise tehtävä jokaisen heiton jälkeen, esim. kosketa seinää, heitä pallo ensin seinään ja ota se sitten kiinni.\r\nKeksikää yhdessä lisäsääntöjä peliin.\r\nKäytä heittovariaatioita (esim. heitto alhaalta, molemmilla käsillä, pään yli).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä on nopein tapa heittää pallo toiselle puolelle?\r\nHeitätkö palloa eri tavalla, kun otat sen ilmasta kiinni kuin poimiessasi sen maasta?",
-			"WILLINGNESS": "Mitä teette yhdessä joukkueena pitääksenne puutarhan puhtaana?\r\nMitä varotte, ettette vahingossa osu toiseen lapseen?"
+			"WILLINGNESS": "Mitä teette yhdessä joukkueena pitääksenne puutarhan puhtaana?\r\nMitä varotte, ettette vahingossa osu toiseen lapseen?",
+            "PDF": "Ryhmät: Jakautukaa kahteen joukkueeseen. Heitä mahdollisimman monta palloa toisen joukkueen pelikentälle määrätyn ajan kuluessa."
 		},
 		"SCORE_MASTER": {
 			"MOBAK": "Välineenkäsittely",
@@ -952,7 +1018,8 @@
 			"MATERIALS": "Pallot, erilaiset maalit (esim. mattolaatat, vanteet, matot).",
 			"VARIATIONS": "Käytä heittovariaatioita (esim. heitetään alhaalta, molemmilla käsillä, pään yli).\r\nLisää tai vähennä maalien etäisyyttä.\r\nKäytä aikarajoitusta maaliin osumiselle.\r\nKäytä erilaisia maaleja.\r\nValitse seiniltä erilaisia maaleja.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mihin kohteeseen osut helpoimmin ja miksi?\r\nMiten heität parhaiten osuaksesi kohteeseen?",
-			"WILLINGNESS": "Tee suunnitelma: Missä järjestyksessä haluat osua kohteisiin, jotta tarvitset mahdollisimman vähän heittoja?\r\nKokeile tehtävää pareittain: Kuinka monta heittoa tarvitsette yhdessä osuaksenne kaikkiin kohteisiin?\r\nOnnistutteko molemmat osumaan jokaiseen kohteeseen yhdellä heitolla?"
+			"WILLINGNESS": "Tee suunnitelma: Missä järjestyksessä haluat osua kohteisiin, jotta tarvitset mahdollisimman vähän heittoja?\r\nKokeile tehtävää pareittain: Kuinka monta heittoa tarvitsette yhdessä osuaksenne kaikkiin kohteisiin?\r\nOnnistutteko molemmat osumaan jokaiseen kohteeseen yhdellä heitolla?",
+            "PDF": "Osu kaikkiin kohteisiin mahdollisimman vähillä heitoilla."
 		},
 		"FALLING_OVER": {
 			"MOBAK": "Välineenkäsittely",
@@ -962,7 +1029,8 @@
 			"MATERIALS": "Pitkät penkit, maalitaulut (esim. kartiot, jogurttiastiat, mailat), erilaiset pallot.",
 			"VARIATIONS": "Muuta maalin etäisyyttä.\r\nAsettakaa 2 pitkää penkkiä V:n muotoiseen asentoon. Asettakaa niille maalitaulut ja yrittäkää osua niihin eri asennoista.\r\nHeittäkää istuen, polvillaan jne.\r\nVaihda maalien asentoa.\r\nAseta maalit toiselle tasolle (lattia/liikuntasali).\r\nHeitä toisella kädellä.\r\nKäytä erilaisia palloja.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä on sinulle paras tapa kaataa maalit?\r\nMitä sinun on muutettava, kun pyörität tai heität palloa?",
-			"WILLINGNESS": "Mitä muita heittokohteita voisit käyttää?\r\nJärjestä luokkatoverille joukko maalitauluja. Pystytkö auttamaan häntä osumaan niihin kaikkiin?"
+			"WILLINGNESS": "Mitä muita heittokohteita voisit käyttää?\r\nJärjestä luokkatoverille joukko maalitauluja. Pystytkö auttamaan häntä osumaan niihin kaikkiin?",
+            "PDF": "Heitä pallo kohteeseen siten, että se kaatuu."
 		},
 		"HIT_THE_TARGET": {
 			"MOBAK": "Välineenkäsittely",
@@ -972,7 +1040,8 @@
 			"MATERIALS": "Säiliöt (esim. ämpärit, isot laatikot, pienet käänteiset laatikot), erilaiset pallot.",
 			"VARIATIONS": "Käytä heittovariaatioita (esim. heitetään alhaalta, molemmilla käsillä, pään yli).\r\nPyydä muita lapsia siirtämään astioita. \r\nLaittakaa astiat seinän viereen ja heittäkää pallo seinää vasten niin, että se putoaa astiaan.\r\nVaihtele astioiden etäisyyttä.\r\nKäytä erilaisia palloja.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten käsivarsi pitäisi asettaa, jotta heittäessäsi voisit tähdätä hyvin?\r\nMihin katsot osuaksesi astiaan?",
-			"WILLINGNESS": "Miltä tuntuu osua pallolla astiaan?\r\nPystytkö osumaan astiaan samanaikaisesti toisen lapsen kanssa?\r\nMitä muita astioita voisimme käyttää maalitauluina?"
+			"WILLINGNESS": "Miltä tuntuu osua pallolla astiaan?\r\nPystytkö osumaan astiaan samanaikaisesti toisen lapsen kanssa?\r\nMitä muita astioita voisimme käyttää maalitauluina?",
+            "PDF": "Heitä pallot astioihin järjestyksessä (suurista pieniin)."
 		},
 		"THROWING_OFF": {
 			"MOBAK": "Välineenkäsittely",
@@ -982,7 +1051,8 @@
 			"MATERIALS": "Laatikot, liinat, erilaiset pallot.",
 			"VARIATIONS": "Kiinnittäkää liinat ja vanteet seinään. Yrittäkää osua liinaan tai vanteen sisäpuolelle.\r\nKäytä heittovariaatioita (esim. heitto alhaalta, molemmilla käsillä, pään yli).\r\nPudota liinat nopeammin (lapsi laatikolla).\r\nLisää tai vähennä maalin etäisyyttä.\r\nPudota erilaisia esineitä (lapsi laatikolla).\r\nKäytä erilaisia palloja.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Milloin heität palloa niin, että osut liinaan? Miten heittosi muuttuu, kun muutat käsivartesi asentoa?",
-			"WILLINGNESS": "Voitko osua kahteen vaatteeseen yhtä aikaa?\r\nMitä katsot liinaa pudottaessasi, että toinenkin lapsi voi osua siihen hyvin?"
+			"WILLINGNESS": "Voitko osua kahteen vaatteeseen yhtä aikaa?\r\nMitä katsot liinaa pudottaessasi, että toinenkin lapsi voi osua siihen hyvin?",
+            "PDF": "Lyö liinoja ennen kuin ne ovat maassa."
 		},
 		"DICE": {
 			"MOBAK": "Välineenkäsittely",
@@ -992,7 +1062,8 @@
 			"MATERIALS": "Erilaisia palloja, laatikko, pitkä penkki, nopat.",
 			"VARIATIONS": "Suurenna tai pienennä maalialueita.\r\nSisällytä heittovariaatioita (esim. heitto alhaalta, molemmilla käsillä, pään yli).\r\nSuurenna tai pienennä maalien etäisyyttä.\r\nKäytä erilaisia palloja.\r\nOsu pallolla kaikkiin 6 numeroon kahdesti.\r\nAseta aikaraja 6 numeron osumiselle.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mitä sinun on muutettava, kun haluat osua 1:een verrattuna 6:een?\r\nMikä on paras tapa, jolla voit osua numeroihin?",
-			"WILLINGNESS": "Miten tehtävä muuttuu kohdallasi, kun sinulla on aikaraja kaikkien numeroiden osumiselle?\r\nOsutko numeroihin myös silloin, kun heität toisella kädellä?"
+			"WILLINGNESS": "Miten tehtävä muuttuu kohdallasi, kun sinulla on aikaraja kaikkien numeroiden osumiselle?\r\nOsutko numeroihin myös silloin, kun heität toisella kädellä?",
+            "PDF": "Heitä noppaa ja tähtää numeroon, jonka noppa näyttää."
 		},
 		"ENCHANT_AND_REDEEM": {
 			"MOBAK": "Välineenkäsittely",
@@ -1002,7 +1073,8 @@
 			"MATERIALS": "Pehmeät pallot",
 			"VARIATIONS": "Pyöritä isompaa palloa.\r\nAseta kaksi kiinniottajaa isommalle kentälle, jossa on suojia, kuten jumppalaatikot jne. Lapsi voi käyttää suojia vain taukoa varten, kunnes toinen lapsi hakeutuu suojaan.\r\nEtsikää yhdessä muita mahdollisuuksia vapautumiseen.\r\nMuuttakaa peliä omien ideoidenne mukaan.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mihin kiinnität huomiota, kun haluat osua liikkuvaan kohteeseen?\r\nMiten heitätte palloa niin, että osutte lasten jalkoihin?",
-			"WILLINGNESS": "Millä uusilla säännöillä nauttisit pelistä (vielä) enemmän?\r\nMiten peli muuttuu sinun kannaltasi, jos useampi kiinniottaja ottaa kiinni?\r\nPidätkö pelistä? Miksi/miksi et?"
+			"WILLINGNESS": "Millä uusilla säännöillä nauttisit pelistä (vielä) enemmän?\r\nMiten peli muuttuu sinun kannaltasi, jos useampi kiinniottaja ottaa kiinni?\r\nPidätkö pelistä? Miksi/miksi et?",
+            "PDF": "Ryhmä: Yksi lapsi yrittää osua muita pallolla. Jokainen, joka saa osuman, seisoo jalat ristissä. Sinut lunastaa joku, joka ryömii jalkojesi alla."
 		},
 		"THROWING_HOOPS": {
 			"MOBAK": "Välineenkäsittely",
@@ -1012,7 +1084,8 @@
 			"MATERIALS": "Kartiot, vanteet",
 			"VARIATIONS": "Heitä silmät kiinni.\r\nVaihda aloitusasentoa (esim. kyykkyasento, istuma-asento, pyörimisliike).\r\nLisää tai vähennä kartioiden etäisyyttä.\r\nHeitä eri suunnista (esim. alhaalta, ylhäältä, sivulta)",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mitä muutat heittäessäsi vanteen verrattuna palloon?\r\nMistä asennosta osut kartioon parhaiten?",
-			"WILLINGNESS": "Mikä on suurin etäisyys, jolta voit turvallisesti osua kartioon?\r\nMiltä tuntuu heittää vanne silmät kiinni?\r\nPystytkö osumaan kartioon silmät kiinni?"
+			"WILLINGNESS": "Mikä on suurin etäisyys, jolta voit turvallisesti osua kartioon?\r\nMiltä tuntuu heittää vanne silmät kiinni?\r\nPystytkö osumaan kartioon silmät kiinni?",
+            "PDF": "Heitä vanne kartion ympärille."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Välineenkäsittely",
@@ -1022,7 +1095,8 @@
 			"MATERIALS": "Vanteet, erilaisia palloja",
 			"VARIATIONS": "Pitele kahta vannetta (lapsi C).\r\nPyöritä ja ota itse pallo kiinni toisella puolella (lapsi A), niin että teet tehtävän vain yhden toisen lapsen kanssa, joka pitää vannetta.\r\nPotkaise palloa jalalla.\r\nLaajenna ryhmää siten, että kaikki lapset asettuvat pallon kanssa liikuntasalin pitkälle sivulle. Yrittäkää osua pallolla (vierittää, heittää tai potkaista vanteen läpi) voimistelupalloon tai vanteeseen, jonkaa opettaja vierittää salin poikki.\r\nPelaa palloa mailalla vanteen läpi.\r\nPyöritä palloa kädelläsi.\r\nPyöritä vanne ympäri liikuntasalia ja heitä, pelaa tai vieritä palloa vanteen läpi.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten onnistut vierittämään vanteen läpi?\r\nMiten käsien liike muuttuu, kun vierität palloa sen sijaan, että heittäisit sitä?",
-			"WILLINGNESS": "Mikä variaatioista on mielestäsi hauskin ja miksi?\r\nKuinka monta kertaa peräkkäin osaat ottaa pallon kiinni? Aseta tavoite ja yritä saavuttaa se.\r\nMiten voit vierittää/pelata palloa toisella tavalla?"
+			"WILLINGNESS": "Mikä variaatioista on mielestäsi hauskin ja miksi?\r\nKuinka monta kertaa peräkkäin osaat ottaa pallon kiinni? Aseta tavoite ja yritä saavuttaa se.\r\nMiten voit vierittää/pelata palloa toisella tavalla?",
+            "PDF": "Kolmen ryhmissä: Lapsi pitelee rengasta. Kaksi muuta vierittävät pallon vanteen läpi."
 		},
 		"TIGER_BALL": {
 			"MOBAK": "Välineenkäsittely",
@@ -1032,7 +1106,8 @@
 			"MATERIALS": "Erilaisia palloja",
 			"VARIATIONS": "Leikitään kahdella (eri) pallolla yhtä aikaa.\r\nLaajenna ympyrää vähitellen.\r\nVaihtele syöttökorkeutta.\r\nKäytä heittovariaatioita (esim. heitto alhaalta, molemmilla käsillä, pään yli).\r\nÄlä syötä palloa suoraan vieressäsi olevalle lapselle.\r\nVieritä pallo seuraavalle lapselle.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä on paras tapa ottaa pallo kiinni, kun olet keskellä?\r\nMikä on paras tapa heittää pallo toiselle lapselle niin, että keskellä oleva lapsi ei saa sitä kiinni?",
-			"WILLINGNESS": "Milloin tämä peli on hauskinta?\r\nMiten toimit, kun huomaat, että keskellä oleva lapsi ei saa palloa kiinni?\r\nMiten leikitte yhdessä niin, että keskellä oleva lapsi ei saa palloa kiinni"
+			"WILLINGNESS": "Milloin tämä peli on hauskinta?\r\nMiten toimit, kun huomaat, että keskellä oleva lapsi ei saa palloa kiinni?\r\nMiten leikitte yhdessä niin, että keskellä oleva lapsi ei saa palloa kiinni",
+            "PDF": "Ryhmä: Lapsi seisoo ympyrän keskellä. Muut syöttävät pallon toisilleen. Keskellä oleva lapsi yrittää saada pallon kiinni. Roolien vaihtaminen."
 		},
 		"BOXING": {
 			"MOBAK": "Välineenkäsittely",
@@ -1042,7 +1117,8 @@
 			"MATERIALS": "Erilaisia palloja",
 			"VARIATIONS": "Käytä erilaisia palloja.\r\nVaihtele etäisyyttä.\r\nVaihtele syöttökorkeutta (lapsi A).\r\nKäytä heittovariaatioita (esim. heitto alhaalta, molemmilla käsillä, pään yli).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten voit parhaiten heittää palloa tarkasti?\r\nMiten toimit niin, että saat pallon hyvin kiinni?",
-			"WILLINGNESS": "Kuinka monta kertaa peräkkäin onnistut nappaamaan pallon eri etäisyyksiltä?\r\nMiten onnistutte ratkaisemaan tehtävän yhdessä?\r\nOnnistuitteko nappaamaan pallon uudelleen eri etäisyyksiltä?"
+			"WILLINGNESS": "Kuinka monta kertaa peräkkäin onnistut nappaamaan pallon eri etäisyyksiltä?\r\nMiten onnistutte ratkaisemaan tehtävän yhdessä?\r\nOnnistuitteko nappaamaan pallon uudelleen eri etäisyyksiltä?",
+            "PDF": "Pareittain: Lapsella on pallo kädessään ja hän pelaa pallon takaisin sillä."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Välineenkäsittely",
@@ -1052,7 +1128,8 @@
 			"MATERIALS": "Erilaiset pallot",
 			"VARIATIONS": "Heitä nyt palloa edestakaisin toiselle lapselle.\r\nVaihtakaa sijoittelu ympyrästä muihin muotoihin (esim. neliö, kolmio, ellipsi).\r\nSiirry syötön jälkeen siihen asentoon, jonka teit.\r\nKäytä heittovariaatioita (esim. heitto alhaalta, molemmilla käsillä, pään yli).\r\nPyöritä palloa kädellä, potkaise jalalla tai pelaa mailalla.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten valmistaudut pallon kiinniottamiseen?\r\nMihin kiinnität huomiota, kun pallo lentää luoksesi?\r\nMiksi on hyödyllistä katsoa sitä lasta, jolle aiot heittää pallon?",
-			"WILLINGNESS": "Saatko jokaisen piirissä olevan lapsen nappaamaan pallon kerran ilman, että se koskettaa maata?\r\nMikä on nopein toimiva tapa heittää ja ottaa pallo kiinni piirissä?"
+			"WILLINGNESS": "Saatko jokaisen piirissä olevan lapsen nappaamaan pallon kerran ilman, että se koskettaa maata?\r\nMikä on nopein toimiva tapa heittää ja ottaa pallo kiinni piirissä?",
+            "PDF": "Ryhmä: Seisokaa ympyrässä ja syöttäkää pallo toisillenne. Kaksoissyötöt eivät ole sallittuja."
 		},
 		"WILD_PIG": {
 			"MOBAK": "Välineenkäsittely",
@@ -1062,7 +1139,8 @@
 			"MATERIALS": "kuntopallo, penkki, tennispallot",
 			"VARIATIONS": "Kokeile erilaisia heittotapoja. \r\nAsettakaa koripallo tai pehmopallo keskelle \"villisiaksi\". \r\nMuuttakaa pitkien penkkien väliä.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Millä heittotekniikalla \"villisikaan\" on paras osua? \r\nMiten seisot heittääksesi mahdollisimman tarkasti?",
-			"WILLINGNESS": "Onko teillä ideoita, miten pelistä voisi tehdä jännittävämmän? \r\nMiltä sinusta tuntuu, kun joukkueesi voittaa"
+			"WILLINGNESS": "Onko teillä ideoita, miten pelistä voisi tehdä jännittävämmän? \r\nMiltä sinusta tuntuu, kun joukkueesi voittaa",
+            "PDF": "Ryhmä: Muodostakaa kaksi joukkuetta. Jokainen joukkue yrittää työntää palloa keskellä vastustajan penkkiä vasten."
 		},
 		"DISTANCE_THROWING": {
 			"MOBAK": "Välineenkäsittely",
@@ -1072,7 +1150,8 @@
 			"MATERIALS": "pallot",
 			"VARIATIONS": "Muuta etäisyyttä jokaisen heiton jälkeen. \r\nKokeile erilaisia heittotapoja. \r\nKäytä erilaisia palloja. \r\nVieritä palloa",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten muutat heittoasi, kun toinen lapsi on lähempänä sinua? \r\nMiten voit heittää pallon mahdollisimman kauas ja tarkasti?",
-			"WILLINGNESS": "Millä tavoin voit heittää palloa? Kuinka monta syöttöä voit tehdä ilman, että pallo putoaa maahan? \r\nKuinka kauas voit heittää pallon toiselle lapselle?"
+			"WILLINGNESS": "Millä tavoin voit heittää palloa? Kuinka monta syöttöä voit tehdä ilman, että pallo putoaa maahan? \r\nKuinka kauas voit heittää pallon toiselle lapselle?",
+            "PDF": "Pareittain: Syöttäkää pallo toisillenne eri etäisyyksiltä."
 		}
 	},
 	"bouncing": "bouncing",
@@ -1085,7 +1164,8 @@
 			"MATERIALS": "Erilaisia palloja, vanteita, teippiä neliön merkitsemiseen. ",
 			"VARIATIONS": "Muuta neliön kokoa.\r\nKäytä erilaisia palloja.\r\nAseta aikaraja tehtävän suorittamiselle.\r\nVaihda renkaiden määrää.\r\nMuuta vanteiden sijoittelua.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä on paras tapa pomputtaa palloa?\r\nPomputatko jokaista palloa samalla tavalla?",
-			"WILLINGNESS": "Pystytkö jatkamaan pompottamista seuraavaan vanteeseen pysäyttämättä palloa? Mikä vanteiden järjestely on mielestäsi hauskin ja miksi? Miltä tuntuu, että sinulla on aikaraja tälle tehtävälle?"
+			"WILLINGNESS": "Pystytkö jatkamaan pompottamista seuraavaan vanteeseen pysäyttämättä palloa? Mikä vanteiden järjestely on mielestäsi hauskin ja miksi? Miltä tuntuu, että sinulla on aikaraja tälle tehtävälle?",
+            "PDF": "Pomputa 5x vanteeseen."
 		},
 		"BOUNCING_STATIONS": {
 			"MOBAK": "Välineenkäsittely",
@@ -1095,7 +1175,8 @@
 			"MATERIALS": "Erilaisia palloja, pitkiä penkkejä. ",
 			"VARIATIONS": "Kävele salin läpi ja pompottele palloa hukkaamatta sitä (käytä molempia käsiä).\r\nPomputa palloa vartalosi ympäri keskeytyksettä.\r\nPomputa kahta palloa samanaikaisesti menettämättä niitä.\r\nKävele pitkällä penkillä samalla kun pomputat palloa lattialla tai penkillä (sen jälkeen kaksi palloa samanaikaisesti).\r\nKaksi pitkää penkkiä asetetaan rinnakkain 20 cm:n etäisyydelle toisistaan. Kävele molemmilla penkeillä samalla kun pompotat palloa lattialla tai toisella pitkällä penkillä (sen jälkeen kaksi palloa samanaikaisesti).\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä muuttuu, kun pompotat lähellä vartaloasi tai käsi ojennettuna eteenpäin?\r\nMitkä käsien osat koskettavat palloa, kun pomputat palloa?",
-			"WILLINGNESS": "Kokeile pompottaa samaan aikaan toisen lapsen kanssa - miltä se tuntuu?\r\nAseta konkreettinen pompottamistavoite: Kuinka monta pomppua haluaisit saavuttaa peräkkäin? Tuntuuko se erilaiselta kuin pompottaminen ilman tavoitetta, ja jos tuntuu, niin millä tavalla?\r\nPystytkö pomputtamaan rytmikkäästi?"
+			"WILLINGNESS": "Kokeile pompottaa samaan aikaan toisen lapsen kanssa - miltä se tuntuu?\r\nAseta konkreettinen pompottamistavoite: Kuinka monta pomppua haluaisit saavuttaa peräkkäin? Tuntuuko se erilaiselta kuin pompottaminen ilman tavoitetta, ja jos tuntuu, niin millä tavalla?\r\nPystytkö pomputtamaan rytmikkäästi?",
+            "PDF": "Pomputa molemmin käsin."
 		},
 		"BOUNCING_OVER_CONES": {
 			"MOBAK": "Välineenkäsittely",
@@ -1105,7 +1186,8 @@
 			"MATERIALS": "Erilaisia palloja, kartioita",
 			"VARIATIONS": "Heitä pallo kartion yli molemmilla käsillä.\r\nPompota palloa vuorotellen vasemmalla ja oikealla kädellä.\r\nPompota palloa lähestyessäsi kartiota, pompauta palloa pystysuoraan juuri ennen kartiota, kierrä kartio tekemällä kokonainen käännös ja jatka sitten pompottamista.\r\nKäytä erilaisia palloja.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten pomputat palloa parhaiten ja liikut samalla eteenpäin?\r\nMihin kiinnität huomiota, kun pomputat palloa vain yhdellä kädellä?",
-			"WILLINGNESS": "Pystytkö pomputtamaan vuorotellen vasemmalla ja oikealla kädelläsi?\r\nJoka kerta kun lähestyt kartiota: Kuinka varma olet siitä, että saat pallon takaisin kartion taakse (1: ei lainkaan, 5: täysin)? Miten pomputtamisesi muuttuu, kun muut lapset tarkkailevat sinua?\""
+			"WILLINGNESS": "Pystytkö pomputtamaan vuorotellen vasemmalla ja oikealla kädelläsi?\r\nJoka kerta kun lähestyt kartiota: Kuinka varma olet siitä, että saat pallon takaisin kartion taakse (1: ei lainkaan, 5: täysin)? Miten pomputtamisesi muuttuu, kun muut lapset tarkkailevat sinua?\"",
+            "PDF": "Pomputa kartion yli."
 		},
 		"SEAT_BOUNCING": {
 			"MOBAK": "Välineenkäsittely",
@@ -1115,7 +1197,8 @@
 			"MATERIALS": "Erilaisia palloja, kartioita. ",
 			"VARIATIONS": "Pompota palloa vuorotellen vasemmalla ja oikealla kädelläsi.\r\nKierrä kartiot kerran palloa pompottaen ennen kuin istut alas.\r\nPompota palloa lähestyessäsi kartioita, aseta toinen jalka kartion kärjelle, pompauta palloa kolme kertaa ja laske jalka alas. \r\nLaskekaa, kuka on saanut eniten pisteitä leikkiajan lopussa (1 piste jokaisesta oikeasta pompusta, yhteensä kuusi kertaa pallon pomputtaminen istuessanne kartiolla).\r\nKäytä useita palloja.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä muuttuu liikkeissäsi, kun maan ja käden välinen etäisyys muuttuu? Mitä teet jatkaaksesi pompottamista sujuvasti kartiohypyn jälkeen?\"",
-			"WILLINGNESS": "Onnistutko sinäkin istumaan lattialla ja pompottamaan?\r\nKuvittele olevasi jokin eläin (esim. apina, käärme, lintu) ja yritä pomputtaa palloa, kuin tämä eläin! Miltä sinusta tuntuu pomputtaa, kun liikut kuin eläin?\r\nJos näet lapsen, joka ei onnistu tässä tehtävässä, mitä vinkkejä voit antaa hänelle?"
+			"WILLINGNESS": "Onnistutko sinäkin istumaan lattialla ja pompottamaan?\r\nKuvittele olevasi jokin eläin (esim. apina, käärme, lintu) ja yritä pomputtaa palloa, kuin tämä eläin! Miltä sinusta tuntuu pomputtaa, kun liikut kuin eläin?\r\nJos näet lapsen, joka ei onnistu tässä tehtävässä, mitä vinkkejä voit antaa hänelle?",
+            "PDF": "Hyppää kartion yli haarahypyllä. Istu kartion päälle ja pomputa 3x vasemmalla kädelläsi ja 3x oikealla kädelläsi. Siirry seuraavaan kartioon."
 		},
 		"NUMBERBALL_BOUNCING": {
 			"MOBAK": "Välineenkäsittely",
@@ -1125,7 +1208,8 @@
 			"MATERIALS": "Palloja, kartioita, korit",
 			"VARIATIONS": "Vaihda kartioportti. \r\nAseta esteet korin alle. \r\nJotkut vastajoukkueen lapset voivat huudon jälkeen yrittää lyödä pallon heittovuorossa olevalta numerolta. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten sinä onnistut olemaan korilla nopeammin kuin toisen joukkueen lapsi? \r\nMihin katsot, kun pomputat palloa kentällä?",
-			"WILLINGNESS": "Miten voitaisiin auttaa lapsia, joilla on vaikeuksia pallon pomputtamisessa? \r\nOnko teillä ideoita, miten pelistä voisi tehdä jännittävämmän?"
+			"WILLINGNESS": "Miten voitaisiin auttaa lapsia, joilla on vaikeuksia pallon pomputtamisessa? \r\nOnko teillä ideoita, miten pelistä voisi tehdä jännittävämmän?",
+            "PDF": "Pomputa portin läpi ja heitä koriin, kun numerosi huudetaan."
 		},
 		"SURROUNDING_HOOPS_WHILE_BOUNCING": {
 			"MOBAK": "Välineenkäsittely",
@@ -1135,7 +1219,8 @@
 			"MATERIALS": "Kartioita, vanteita, voimistelulaatikon yläosa tai vastaava, 1 pallo oppilasta kohden. ",
 			"VARIATIONS": "Juokse kahden vanteen läpi yhdellä jalalla koskettaen kumpaankin vanteeseen ja pomputtaen palloa oikealla ja vasemmalla kädellä.\r\nVaihda renkaiden etäisyyttä.\r\nKierrä molemmat vanteet pomputtaen samalla palloa ja käyttäen vaihtoaskeleita (tai loppuhyppyä).\r\nRakenna itsellesi toinen pomputusparkour/polku.\r\nKäytä erilaisia palloja.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten onnistutte vaihtamaan suuntaa nopeasti pomputtaen?\r\nOnko helpompaa pomputtaa palloa lattialla vai kuntolaatikon päällä ja miksi?",
-			"WILLINGNESS": "Mitä ideoita teillä on, miten muuttaisitte radan, jotta siitä tulisi hauskempi? Onnistutko paremmin, kun muutat renkaiden välistä etäisyyttä?\r\nKilpaile ystävääsi vastaan - kumpi läpäisee pomputteluradan nopeammin?\""
+			"WILLINGNESS": "Mitä ideoita teillä on, miten muuttaisitte radan, jotta siitä tulisi hauskempi? Onnistutko paremmin, kun muutat renkaiden välistä etäisyyttä?\r\nKilpaile ystävääsi vastaan - kumpi läpäisee pomputteluradan nopeammin?\"",
+            "PDF": "Pomputa portin läpi ja heitä koriin, kun numerosi huudetaan. "
 		},
 		"SHADOW_BOUNCING": {
 			"MOBAK": "Välineenkäsittely",
@@ -1145,7 +1230,8 @@
 			"MATERIALS": "Pallot, esteet",
 			"VARIATIONS": "Asettakaa saliin esineitä, jotka toimivat esteinä. Vaihtakaa rooleja suunnanmuutoksen jälkeen. Käytä erilaisia palloja. Käytä molempia käsiä pomputtamseen. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten onnistuitte reagoimaan mahdollisimman nopeasti toisen lapsen liikkeisiin? Minne katsot, kun olet \"varjostaja\"? ",
-			"WILLINGNESS": "Miten voit toimia lapsena A niin, että lapsi B voi seurata hyvin? \r\nKuvittele olevasi lapsena A eläin - miten pomputat? Osaako lapsi B arvata, kumpi eläin on menossa ensin?"
+			"WILLINGNESS": "Miten voit toimia lapsena A niin, että lapsi B voi seurata hyvin? \r\nKuvittele olevasi lapsena A eläin - miten pomputat? Osaako lapsi B arvata, kumpi eläin on menossa ensin?",
+            "PDF": "Pareittain: Yksi lapsi johtaa tietä pomputtaen, toinen seuraa."
 		},
 		"BENCH_BOUNCING": {
 			"MOBAK": "Välineenkäsittely",
@@ -1155,7 +1241,8 @@
 			"MATERIALS": "Palloja, penkki",
 			"VARIATIONS": "Pomputa penkillä. Käytä eri palloja. \r\nKäyttäkää muita välineitä (esim. mattoja), joilla voitte kävellä sen päällä ja pomputtaa sen vieressä. \r\nKävelkää taaksepäin ja pomputtakaa palloa penkin vieressä.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mitä sinun pitää muuttaa, kun pomputat penkin vieressä verrattuna lattialla pomputtamiseen? Miten onnistut pomputtamaan ja olemaan putoamatta penkiltä?\"",
-			"WILLINGNESS": "Millä muilla tasoilla/välineillä voisi pomputtaa? \r\nVoiko penkin yli kävellä silmät kiinni ja pomputtaa samanaikaisesti?"
+			"WILLINGNESS": "Millä muilla tasoilla/välineillä voisi pomputtaa? \r\nVoiko penkin yli kävellä silmät kiinni ja pomputtaa samanaikaisesti?",
+            "PDF": "Mene penkin  yli ja pomputa pallo penkin vieressä."
 		},
 		"CIRCLE_BOUNCING": {
 			"MOBAK": "Välineenkäsittely",
@@ -1165,7 +1252,8 @@
 			"MATERIALS": "Palloja",
 			"VARIATIONS": "Pomputtakaa palloa sekä myötä- että vastapäivään. \r\nKokeile pomputtaa  eri vartaloasennossa. \r\nYritä tehdä kahdeksikko vartalosi ympärille. \r\nTee tämä pomputtamalla pallo jalkojesi välissä keskellä. \r\nKäytä erilaisia palloja. \r\nKäänny myös ympyrää ja pomputtele palloa.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Oletko parempi pomputtamaan vasemmalla vai oikealla kädellä? \r\nKuvaile miksi? Mihin katsot välttyäksesi pallon menettämiseltä?",
-			"WILLINGNESS": "Mitä palloa käytät parhaiten? \r\nMitä ideoita sinulla on, jotta tehtävä olisi sinulle haastavampi tai helpompi?"
+			"WILLINGNESS": "Mitä palloa käytät parhaiten? \r\nMitä ideoita sinulla on, jotta tehtävä olisi sinulle haastavampi tai helpompi?",
+            "PDF": "Pomputa palloa ympärilläsi."
 		},
 		"BOUNCING_IN_DIFFERENT_POSITIONS": {
 			"MOBAK": "Välineenkäsittely",
@@ -1175,7 +1263,8 @@
 			"MATERIALS": "Palloja",
 			"VARIATIONS": "Mene makuulle pompottaen samalla ja nouse taas ylös. \r\nKokeile eri kehon asentoja pompottamisen aikana. \r\nPompota toisella kädellä. Pompota oikealla kädellä istuessasi, pompota sitten jalkojesi ympäri ja nouse seisomaan samalla kun pompotat vasemmalla kädellä. \r\nKäytä kahta (eri) palloa samanaikaisesti.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mitä sinun pitää muuttaa pompottamisessa, jotta et menetä palloa, kun istut alas? \r\nMillainen on käden asento pompottamisen aikana?",
-			"WILLINGNESS": "Osaatko selittää toiselle lapselle, miten istuessa on paras tapa pompottaa? \r\nOsaatko myös vaihtaa kättä, kun pompotat makuulla ollessasi? - Mikä on paras tapa tehdä tämä?\""
+			"WILLINGNESS": "Osaatko selittää toiselle lapselle, miten istuessa on paras tapa pompottaa? \r\nOsaatko myös vaihtaa kättä, kun pompotat makuulla ollessasi? - Mikä on paras tapa tehdä tämä?\"",
+            "PDF": "Pomputa palloa, istu maahan ja nouse uudelleen."
 		}
 	},
 	"dribbling": "dribbling",
@@ -1188,7 +1277,8 @@
 			"MATERIALS": "Jalkapalloja",
 			"VARIATIONS": "Käytä erilaisia palloja.\r\nLaita este seinän eteen.\r\nKäytä erilaisia lyöntityyppejä (esim. litteä, korkea, sisäpuolinen, sisäsivu, varvaslyönti).\r\nVaihtele etäisyyttä seinään (kulma, etäisyys).\r\nKäytä epätasaista pintaa (seinätangot, laatikkoseinä).\r\nVaihtele pysäytysalueen kokoa.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Millä jalan osalla saat parhaan laukauksen?.",
-			"WILLINGNESS": "Miten muuten voisit syöttää pallon jalka seinää vasten?\r\nMikä on pisin etäisyys, jolla pystyt pysäyttämään pallon turvallisesti?\r\nHaasta itsesi: Kuinka monta kertaa peräkkäin pystyt onnistuneesti syöttämään ja pysäyttämään pallon menettämättä sitä?\""
+			"WILLINGNESS": "Miten muuten voisit syöttää pallon jalka seinää vasten?\r\nMikä on pisin etäisyys, jolla pystyt pysäyttämään pallon turvallisesti?\r\nHaasta itsesi: Kuinka monta kertaa peräkkäin pystyt onnistuneesti syöttämään ja pysäyttämään pallon menettämättä sitä?\"",
+            "PDF": "Heitä pallo seinää vasten ja pysäytä pomppiva pallo jalallasi."
 		},
 		"LINE_DRIBBLING": {
 			"MOBAK": "Välineenkäsittely",
@@ -1198,7 +1288,8 @@
 			"MATERIALS": "Palloja",
 			"VARIATIONS": "Käytä erilaisia palloja.\r\nPelaa palloa lentopallokentän neljän linjan linjoja pitkin hukkaamatta sitä.\r\nEtsi muita linjoja, joita pitkin voit kuljettaa palloa.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Millä jalan osalla ohjaat palloa kuljettaessasi?.",
-			"WILLINGNESS": "Voitko ohjata palloa jalallasi toisella tavalla?\r\nPystytkö tekemään sen molemmilla jaloilla?\r\nMiksi on hyvä osata kuljettaa?"
+			"WILLINGNESS": "Voitko ohjata palloa jalallasi toisella tavalla?\r\nPystytkö tekemään sen molemmilla jaloilla?\r\nMiksi on hyvä osata kuljettaa?",
+            "PDF": "Kuljeta palloa koko salin pituudelta."
 		},
 		"WALL_OFF": {
 			"MOBAK": "Välineenkäsittely",
@@ -1208,7 +1299,8 @@
 			"MATERIALS": "Palloja",
 			"VARIATIONS": "Pelaa palloa 10 kertaa jalalla kohti toista lasta menettämättä palloa.\r\nPelaa palloa 10 kertaa juosten kohti toista lasta palloa menettämättä.\r\nKäytä erilaisia palloja.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten saat pallon aina palaamaan sinulle?\r\nMikä on paras tapa asettua seinään nähden?",
-			"WILLINGNESS": "Onnistuitteko syöttämään pallon seinän yli toisillenne pareittain?\r\nYrittäkää luoda rytmi syöttäessänne palloa seinän yli - miltä se tuntuu?\r\nKummalla jalalla tehtävä on teille helpompi? Miksi luulette, että näin on?"
+			"WILLINGNESS": "Onnistuitteko syöttämään pallon seinän yli toisillenne pareittain?\r\nYrittäkää luoda rytmi syöttäessänne palloa seinän yli - miltä se tuntuu?\r\nKummalla jalalla tehtävä on teille helpompi? Miksi luulette, että näin on?",
+            "PDF": "Pelaa pallo seinää vasten kymmenen kertaa lähietäisyydeltä."
 		},
 		"LIFT_BALL": {
 			"MOBAK": "Välineenkäsittely",
@@ -1218,7 +1310,8 @@
 			"MATERIALS": "Pitkiä penkkejä, palloja",
 			"VARIATIONS": "Käytä erilaisia palloja.\r\nValitse erilaisia kohteita.\r\nNosta pallo toisella jalalla.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten voit nostaa palloa jalallasi?\r\nMitä muutat, jotta voit nostaa pallon pitkän penkin yli pidemmältä etäisyydeltä?",
-			"WILLINGNESS": "Miltä etäisyydeltä pystyt suoriutumaan hyvin?\r\nTarkkaile, miten muut lapset ratkaisevat kyseistä tehtävää - voitko auttaa heitä ratkaisemaan tehtävän?\r\nPystytkö nostamaan pallon muiden asioiden yli?\""
+			"WILLINGNESS": "Miltä etäisyydeltä pystyt suoriutumaan hyvin?\r\nTarkkaile, miten muut lapset ratkaisevat kyseistä tehtävää - voitko auttaa heitä ratkaisemaan tehtävän?\r\nPystytkö nostamaan pallon muiden asioiden yli?\"",
+            "PDF": "Nosta pallo 5 kertaa yhdellä jalalla pitkälle penkkiruudulle."
 		},
 		"DRIBBLING_1": {
 			"MOBAK": "Välineenkäsittely",
@@ -1228,7 +1321,8 @@
 			"MATERIALS": "Palloja",
 			"VARIATIONS": "Syötä pallo eteenpäin, kun kohtaat toisen lapsen keskellä.\r\nKuljeta pallo liikuntasalin keskelle asti ja syötä se sitten toiselle lapselle, joka odottaa vastakkaisella puolella.\r\nKuljeta toiselle puolelle mahdollisimman nopeasti.\r\nÄlä kuljeta suoraan toiselle puolelle, vaan diagonaalisesti liikuntasalin läpi (varmista, ettet törmää muihin lapsiin). \r\nKäytä erilaisia palloja.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä on sinulle paras tapa kuljettaa?\r\nMihin katsot, kun kuljetat?\r\nMiksi sinun mielestäsi on helpompaa juosta ilman palloa?",
-			"WILLINGNESS": "Yrittäkää antaa toisillenne high five (käsien lyönti yhteen käsi kohotettuna) keskellä rataa, kun ohitatte toisenne! Miten voit auttaa kumppaniasi parhaiten tämän tehtävän aikana?\r\nPystyttekö kuljettamaan pareittain samanaikaisesti?\""
+			"WILLINGNESS": "Yrittäkää antaa toisillenne high five (käsien lyönti yhteen käsi kohotettuna) keskellä rataa, kun ohitatte toisenne! Miten voit auttaa kumppaniasi parhaiten tämän tehtävän aikana?\r\nPystyttekö kuljettamaan pareittain samanaikaisesti?\"",
+            "PDF": "Pareittain: Yhdellä lapsella on pallo. Juoskaa toisianne kohti. Lapsi, jolla on pallo, kuljettaa palloa. Vaihtakaa rooleja 5 kierroksen jälkeen."
 		},
 		"DRIBBLING_2": {
 			"MOBAK": "Välineenkäsittely",
@@ -1238,7 +1332,8 @@
 			"MATERIALS": "Voimistelumattoja",
 			"VARIATIONS": "Muuta slalom-radan kulkureittiä.\r\nKäytä erilaisia palloja.\r\nAseta aikaraja, jonka aikana tehtävä on suoritettava.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten voit parhaiten vaihtaa suuntaa kuljettamisen aikana?\r\nTarkkaile, käytätkö aina samaa jalkaa - jos et, milloin käytät toista jalkaa?\r\nKuljetatko aina samalla jalalla? Miksi?",
-			"WILLINGNESS": "Luo oma kenttäsi kartioista ja kuljeta niiden ympäri - kenen kenttä on hauskin?\r\nPystytkö seuraamaan toista lasta, joka kuljettaa palloa rataa pitkin ?"
+			"WILLINGNESS": "Luo oma kenttäsi kartioista ja kuljeta niiden ympäri - kenen kenttä on hauskin?\r\nPystytkö seuraamaan toista lasta, joka kuljettaa palloa rataa pitkin ?",
+            "PDF": "Kulje pujotteluradan läpi pallolla ja lopeta laukauksella maalia kohti."
 		},
 		"IN_THE_LAND_OF_SHELLS_1": {
 			"MOBAK": "Välineenkäsittely",
@@ -1248,7 +1343,8 @@
 			"MATERIALS": "Erilaisia palloja, naruja (tai vanteita)",
 			"VARIATIONS": "Kierrä kuoret tietyssä järjestyksessä.\r\nPysäytä aika ja vertaa sitä aiempien yritysten aikaasi.\r\nKäytä erilaisia palloja.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten kuoren ympärillä on paras tapa kuljettaa? Minkä tavan valitset, kun sinun täytyy kiertää kaikki kuoret kerralla?\r\nMiten pelaat palloa jalalla?\"",
-			"WILLINGNESS": "Yhtä aikaa, kaikki yrittävät olla mahdollisimman hiljaa, jotta kuoret eivät herää! Kuvittele olevasi mustekala, joka tiputtelee simpukoita - miltä se tuntuu?\r\nMiltä tuntuu, jos teette sen toisen pallon kanssa?\""
+			"WILLINGNESS": "Yhtä aikaa, kaikki yrittävät olla mahdollisimman hiljaa, jotta kuoret eivät herää! Kuvittele olevasi mustekala, joka tiputtelee simpukoita - miltä se tuntuu?\r\nMiltä tuntuu, jos teette sen toisen pallon kanssa?\"",
+            "PDF": "Kuljeta pallo meren pohjassa olevien 'nukkuvien' kuorien ympärille. Älä anna ravun tarttua sinuun."
 		},
 		"IN_THE_LAND_OF_SHELLS_2": {
 			"MOBAK": "Välineenkäsittely",
@@ -1258,7 +1354,8 @@
 			"MATERIALS": "Erilaisia palloja, naruja (tai vanteita)",
 			"VARIATIONS": "Käytä erilaisia palloja.\r\nYritä olla ensimmäinen, joka kiertää kaikki kuoret.\r\nSuurenna tilaa tai vähennä rapujen\" määrää. Muuta rapujen tehtävää (esim. nappaa pallo).\"",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Miten voit suojella palloa ravuilta? Mihin katsot kuljettaessasi suojellaksesi palloa?\"",
-			"WILLINGNESS": "\"Kumman tavan valitset välttyäksesi nipistämiseltä?\".\r\nPystytkö rapuna nappaamaan pallon tunkeilijalta?\r\nKuvittele, että sinulla on taikavoima, joka auttaa sinua loistamaan tässä tehtävässä. Kuvaile voimaa, jonka valitsisit, ja miten se motivoisi sinua.\""
+			"WILLINGNESS": "\"Kumman tavan valitset välttyäksesi nipistämiseltä?\".\r\nPystytkö rapuna nappaamaan pallon tunkeilijalta?\r\nKuvittele, että sinulla on taikavoima, joka auttaa sinua loistamaan tässä tehtävässä. Kuvaile voimaa, jonka valitsisit, ja miten se motivoisi sinua.\"",
+            "PDF": "Kuljeta pallo meren pohjassa olevien 'nukkuvien' kuorien ympärille. Älä anna ravun tarttua sinuun."
 		},
 		"PROTECT_YOUNG_FISH": {
 			"MOBAK": "Välineenkäsittely",
@@ -1268,7 +1365,8 @@
 			"MATERIALS": "Erilaisia palloja, kartioita",
 			"VARIATIONS": "Varmista, että jokainen piirissä oleva lapsi saa pallon vähintään kerran (esim. suunnitellun syöttösarjan avulla).\r\nKäytä erilaisia palloja.\r\nKäytä eri palloja kerralla.\r\nJärjestä tehtävä turnauksena, jossa eri ryhmät muodostavat piirin ja kilpailevat toisiaan vastaan.\r\nKäytä vain yhtä jalkaa kerrallaan pallon liikuttamiseen.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä muuttuu, kun kuljetatte palloa yhdessä verrattuna siihen, että kuljetatte palloa yksin? Mihin kiinnitätte huomiota, kun kuljetatte palloa ryhmässä?\"",
-			"WILLINGNESS": "Pystyttekö ryhmänä liikuttamaan useita palloja samaan aikaan?\r\nMiten voitte auttaa toisianne ryhmässä?\r\nKokeile tätä tehtävää kilpailuna (useampi ryhmä tekee sen samanaikaisesti - nopein ryhmä voittaa): Teettekö tehtävän mieluummin kilpailemalla muita vastaan vai ilman ja miksi?\""
+			"WILLINGNESS": "Pystyttekö ryhmänä liikuttamaan useita palloja samaan aikaan?\r\nMiten voitte auttaa toisianne ryhmässä?\r\nKokeile tätä tehtävää kilpailuna (useampi ryhmä tekee sen samanaikaisesti - nopein ryhmä voittaa): Teettekö tehtävän mieluummin kilpailemalla muita vastaan vai ilman ja miksi?\"",
+            "PDF": "Ryhmä: Muodostakaa ympyrä ja pitäkää toisianne kädestä. Kuljeta erilaisia palloja jaloilla salin toiselle puolelle."
 		},
 		"WITHIN_SHARK_TERRITORY": {
 			"MOBAK": "Välineenkäsittely",
@@ -1278,7 +1376,8 @@
 			"MATERIALS": "Palloja, naruja",
 			"VARIATIONS": "Se, joka saa kosketuksen, joutuu ratkaisemaan ylimääräisen tehtävän (esim. johtamaan pallon kartioista tehdyn slalom-radan läpi). Syötä pallo kahden lapsen välillä ja yritä päästä hain alueelle. Vaihtakaa hain tehtävää. Kosketa 6 lasta mahdollisimman nopeasti. Käytä erilaisia palloja. Kuka pääsee ensimmäisenä alueelle 5 kertaa?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä on paras keino päästä toiselle puolelle ilman, että hai jää kiinni?\r\nMikä on paras tapa kuljettaa, kun katsot myös hain perään (mihin hai liikkuu)?.\"",
-			"WILLINGNESS": "Onnistutko haina nappaamaan lapsen pallon ja jatkamaan kuljettamista?\r\nMiten onnistut olemaan jäämättä kiinni?\r\nMilloin hai pitäisi mielestäsi korvata toisella lapsella ja miksi?.\""
+			"WILLINGNESS": "Onnistutko haina nappaamaan lapsen pallon ja jatkamaan kuljettamista?\r\nMiten onnistut olemaan jäämättä kiinni?\r\nMilloin hai pitäisi mielestäsi korvata toisella lapsella ja miksi?.\"",
+            "PDF": "Kuljeta pallo hain ohi menettämättä sitä."
 		},
 		"DRIBBLING_VARIATIONS": {
 			"MOBAK": "Välineenkäsittely",
@@ -1288,7 +1387,8 @@
 			"MATERIALS": "Palloja",
 			"VARIATIONS": "Yritä kuljettaa pallo niin, ettet kosketa sinistä (tai muunväristä) viivaa.\r\nKuljeta palloa sivuttain.\r\nKuljeta palloa taaksepäin.\r\nEtsi erilaisia tapoja dkuljettaa palloa.\r\nLaita esteitä tielle ja kuljettaa niiden ympäri.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä on paras tapa kuljettaa palloa?\r\nMilloin kosketat palloa ja millä jalan osalla?",
-			"WILLINGNESS": "Osaatko vaihtaa kuljetuksen suuntaa sujuvasti?\r\nKeksi pieni kuljetuskoreografia ja esitä se toiselle lapselle."
+			"WILLINGNESS": "Osaatko vaihtaa kuljetuksen suuntaa sujuvasti?\r\nKeksi pieni kuljetuskoreografia ja esitä se toiselle lapselle.",
+            "PDF": "Kuljeta pallo hallin läpi."
 		},
 		"DRIBBLING_NUMBER_BALL": {
 			"MOBAK": "Välineenkäsittely",
@@ -1298,7 +1398,8 @@
 			"MATERIALS": "Palloja, kartioita",
 			"VARIATIONS": "Käytä eri palloja. \r\nKäyttäkää erilaisia portteja. \r\nVastakkaisen joukkueen pelaajat saavat potkaista pallon pois. \r\nPelatkaa ilman vastajoukkuetta. \r\nPelatkaa peliä pareittain: kumpi tekee maalin ensimmäisenä, kun merkki annetaan?\"",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mikä on paras tapa kuljettaa pallo kartioiden ympäri? Miten voit olla nopeampi kuin vastajoukkueen pelaaja?\"",
-			"WILLINGNESS": "Miltä sinusta tuntuu, kun toinen lapsi on nopeampi? \r\nKuvittele olevasi eläin. Miten pingviini, tiikeri, norsu jne. kuljettaisi palloa kartioiden ympäri?"
+			"WILLINGNESS": "Miltä sinusta tuntuu, kun toinen lapsi on nopeampi? \r\nKuvittele olevasi eläin. Miten pingviini, tiikeri, norsu jne. kuljettaisi palloa kartioiden ympäri?",
+            "PDF": "Kuljeta pylväsporttia ja ammu kohdeportille, kun numerosi huudetaan."
 		},
 		"PROTECTING_PERSON_DRIBBLING": {
 			"MOBAK": "Välineenkäsittely",
@@ -1308,7 +1409,8 @@
 			"WILLINGNESS": "Miten osoitat liikkeesi selkeästi, kun olet lapsi A, niin että muut lapset voivat seurata sinua? \r\nMitä neuvoja voisit antaa toiselle lapselle, jolla on vaikeuksia seurata lasta A?",
 			"QUALIFICATION": "Kuljettaminen",
 			"MATERIALS": "Palloja",
-			"VARIATIONS": "Lapsi ja katsoo ryhmää ja lapset imitoivat liikettä kuten \"peili\". "
+			"VARIATIONS": "Lapsi ja katsoo ryhmää ja lapset imitoivat liikettä kuten \"peili\". ",
+            "PDF": "Ryhmä: Yksi lapsi kuljettaa eteenpäin ja muut seuraavat häntä."
 		}
 	},
 	"PDF_TESTRESULT": {

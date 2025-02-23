@@ -73,6 +73,11 @@
 	"rate_classroom_end_session_dialog_description": "I risultati verrano salvati, non potrai piu modificarli",
 	"rate_classroom_task_description": "Descrizione dell'esercizio",
 	"rate_classroom_rate_student": "Valuta l'alunno/a",
+    "rate_detail_instruction_demonstration": "Spiegazione/Dimostrazione",
+    "rate_classroom_longitudinal_analysis": "Analisi longitudinale",
+    "rate_classroom_select_task": "Seleziona attività",
+    "rate_classroom_cancel_selection": "Annulla selezione",
+    "rate_classroom_download_selected": "scarica selected",
 	"rate_dialog_n_a_value": "ND",
 	"rate_dialog_first_value": "0",
 	"rate_dialog_second_value": "1",
@@ -229,11 +234,11 @@
 		"MATERIAL": "6 palline da lancio (diametro: 65 mm; peso: 80 g)\r\n1 bersaglio (diametro: 40 cm)\r\nNastro adesivo (largo ca. 30 mm)",
 		"TEST_SET-UP": "Il bersaglio viene sospeso ad una parete ad un‘altezza di 1,3 m (bordo inferiore).\r\nA 2.0 m di distanza dal bersaglio viene segnata con del nastro adesivo la linea di lancio.",
 		"TEST_ITEM": "Il bambino si posiziona dietro la linea dei 2 m e lancia 6 palline al bersaglio.",
+        "CRITERIA": "La linea di lancio non può mai essere superata.\r\nÈ sufficiente toccare il bersaglio per ottenere il punto.",
 		"VALUATION": "6 tentativi. Viene annotato il numero di successi.\r\n0–2 tentativi riusciti = 0 Punti\r\n3–4 tentativi riusciti = 1 Punto\r\n5–6 tentativi riusciti = 2 Punti",
 		"INSTRUCTION_DEMONSTRATION": "Posizionatevi dietro alla linea e provate a colpire il bersaglio con la pallina. Avete in totale\r\n6 tentativi. La linea di lancio non può essere superata.\r\nGuardate, vi faccio vedere come si fa. (Dimostrazione)",
 		"INFORMATION_FOR_THE_TEST_LEADER": "Si può scegliere il tipo di lancio (è consentito spingere la palla)\r\nDimostrazione di un lancio.\r\nAttenzione alle palle che rimbalzano via."
 	},
-	"THROWING_1_CRITERIA": "La linea di lancio non può mai essere superata.\r\nÈ sufficiente toccare il bersaglio per ottenere il punto.",
 	"THROWING_3_4": {
 		"MOBAK": "Campo \"Muovere qualcosa\"",
 		"TITLE": "MOBAK 3-4: Compito 1: Lanciare",
@@ -328,7 +333,8 @@
 			"MATERIALS": "Scaletta di coordinazione\r\nAlternativamente: Cerchi da ginnastica, tappetini, gessetti, segnaposti per pavimento",
 			"VARIATIONS": "Corri all'indietro.\r\nCompi contatti multipli ad ogni campo.\r\nCompi un mezzo giro (o intero) ogni due quadrati.\r\nCombina due movimenti differenti.\r\nPerforma movimenti delle braccia addizionali (saltelli, boxe a vuoto, estendi e alza o abbassa le braccia fino al livello del petto).\r\nCambia la disposizione dei campi.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Quale parti del tuo piede tocca il suolo?\r\nCon quale movimento con le braccia hai piu successo?",
-			"WILLINGNESS": "Dove potresti performare questo compito fuori dalla palestra?\r\nCosa cambia per te quando fai a gara contro un altro bambino?"
+			"WILLINGNESS": "Dove potresti performare questo compito fuori dalla palestra?\r\nCosa cambia per te quando fai a gara contro un altro bambino?",
+            "PDF": "Percorri la scala di coordinazione con un contatto per campo."
 		},
 		"RUNNING_2": {
 			"MOBAK": "Muoversi",
@@ -338,7 +344,8 @@
 			"MATERIALS": "Cerchi da ginnastica (colori diversi)\r\nin alternativa: nastri da gioco, mattonelle sportive",
 			"VARIATIONS": "Cambia i compiti in base ai colori dei cerchi.\r\nModifica la disposizione o la distanza tra i cerchi.\r\nPosiziona i cerchi su due panche lunghe parallele.\r\nCambia la disposizione dei campi.\r\nScegli diversi colori e assegna un movimento specifico a ciascuno.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come devi muoverti per correre in modo fluido?\r\nQuale disposizione dei cerchi è la più facile per te? Perché?\r\nCon quale ritmo riesci a percorrere al meglio il percorso? Perché?",
-			"WILLINGNESS": "Perché sembra diverso quando i cerchi sono su due panche lunghe? Riesci comunque? Prova!\r\nCrea il tuo percorso con i cerchi e assegna movimenti diversi ai vari colori! Ci sei riuscito?"
+			"WILLINGNESS": "Perché sembra diverso quando i cerchi sono su due panche lunghe? Riesci comunque? Prova!\r\nCrea il tuo percorso con i cerchi e assegna movimenti diversi ai vari colori! Ci sei riuscito?",
+            "PDF": "Corri attraverso la pista di pneumatici. Tocca il suolo una volta nei cerchi blu e due volte negli altri."
 		},
 		"RUNNING_3": {
 			"MOBAK": "Muoversi",
@@ -348,7 +355,8 @@
 			"MATERIALS": "Scaletta di coordinazione\r\nin alternativa: cerchi da ginnastica, segnaposti per il pavimento, mattonelle, gessetti",
 			"VARIATIONS": "Cambia il numero di contatti per ogni campo.\r\nEsegui movimenti aggiuntivi con le braccia (saltelli, boxe a vuoto, estendi e alza o abbassa le braccia fino al livello del petto).\r\nCombina due movimenti diversi (braccio destro - saltello, braccio sinistro - boxe).\r\nCambia la disposizione dei campi.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come puoi fare cambi di direzione rapidi?\r\nCome cambiano i tuoi movimenti di corsa con movimenti diversi delle braccia?",
-			"WILLINGNESS": "Come ti senti se un altro bambino cambia direzione più rapidamente? Cosa puoi fare in questo caso?\r\nCome cambieresti il compito per renderlo più facile o più difficile?\r\nPrefissati un obiettivo e cerca di raggiungerlo (ad esempio, completare il compito senza errori; essere più veloce rispetto alla prova precedente). Ci sei riuscito?"
+			"WILLINGNESS": "Come ti senti se un altro bambino cambia direzione più rapidamente? Cosa puoi fare in questo caso?\r\nCome cambieresti il compito per renderlo più facile o più difficile?\r\nPrefissati un obiettivo e cerca di raggiungerlo (ad esempio, completare il compito senza errori; essere più veloce rispetto alla prova precedente). Ci sei riuscito?",
+            "PDF": "Correre all'interno e all'esterno della scala di coordinazione con due contatti di terra per campo."
 		},
 		"RUNNING_4": {
 			"MOBAK": "Muoversi",
@@ -358,7 +366,8 @@
 			"MATERIALS": "Scaletta di coordinazione\r\nin alternativa: cerchi da ginnastica, segnaposti per il pavimento, mattonelle, gessetti",
 			"VARIATIONS": "Corri all'indietro.\r\nIn aggiunta, esegui cerchi con le braccia: in avanti, all'indietro, in direzioni opposte.\r\nCambia la disposizione dei campi.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Riesci a battere le mani al ritmo della corsa a saltelli?\r\nCosa fai con le braccia per svolgere bene il compito?",
-			"WILLINGNESS": "Riesci a fare il compito contemporaneamente con un altro bambino?\r\nRiesci a fare movimenti aggiuntivi con le braccia?\r\nImmagina di essere un cavallo felice mentre fai la corsa a saltelli! Come ti senti?"
+			"WILLINGNESS": "Riesci a fare il compito contemporaneamente con un altro bambino?\r\nRiesci a fare movimenti aggiuntivi con le braccia?\r\nImmagina di essere un cavallo felice mentre fai la corsa a saltelli! Come ti senti?",
+            "PDF": "Corri attraverso la scala di coordinazione in una corsa di salto con un contatto con il suolo per campo!"
 		},
 		"GIANT_SLALOM": {
 			"MOBAK": "Muoversi",
@@ -368,7 +377,8 @@
 			"MATERIALS": "Bastoni, bambù o bastoni rotondi di legno (= bastone da sci), corda lunga\r\nin alternativa: pali da slalom, blocchi di legno, coni, grandi pietre, ricci per l'equilibrio, ecc.",
 			"VARIATIONS": "Sfida un altro bambino o un gruppo di bambini. Chi è il più veloce?\r\nMuoviti in posizione accovacciata, sulle punte/sui talloni, con sacchetti di sabbia sulla testa (= neve sulla testa), ecc.\r\nAggiungi uno o più ostacoli (ad esempio, piccole casse da ginnastica).\r\nCambia il ritmo/la velocità.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa cambia quando usi un bastone diverso?\r\nQual è il modo più veloce per attraversare lo slalom?",
-			"WILLINGNESS": "Riesci a fare uno slalom parallelo con un altro bambino?\r\nCome metteresti giù la corda per completare uno slalom veloce?"
+			"WILLINGNESS": "Riesci a fare uno slalom parallelo con un altro bambino?\r\nCome metteresti giù la corda per completare uno slalom veloce?",
+            "PDF": "Tieni un bastone da ginnastica con entrambe le mani. Esegui uno slalom gigante lungo la corda."
 		},
 		"SIDE_STEP": {
 			"MOBAK": "Muoversi",
@@ -378,7 +388,8 @@
 			"MATERIALS": "Scaletta di coordinazione\r\nin alternativa: cerchi da ginnastica, segnaposti per il pavimento, mattonelle, gessetti",
 			"VARIATIONS": "Gira la spalla destra nella direzione della corsa.\r\nCorri con un contatto a terra fuori dalla scaletta di coordinazione e due contatti a terra per ogni campo.\r\nEsegui movimenti aggiuntivi con le braccia (ruota un cerchio con il braccio, saltelli, boxe a vuoto, estendi e alza/abbassa le braccia fino all'altezza delle spalle).\r\nCombina due movimenti diversi (braccio destro - saltello, braccio sinistro - boxe).\r\nCambia la disposizione dei campi.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa cambi per poter girare l'altra spalla nella direzione del movimento?\r\nQuanto devi alzare le ginocchia per svolgere bene il compito?\r\nCosa devi cambiare per poter girare l'altra spalla nella direzione del movimento?",
-			"WILLINGNESS": "Come ti senti se sei più veloce di un altro bambino?\r\nSe vedi un altro bambino che non riesce a svolgere questo compito, come puoi aiutarlo/a?\r\nProva a cambiare direzione per correre indietro alla fine della scaletta di coordinazione senza fermarti! Ci sei riuscito?"
+			"WILLINGNESS": "Come ti senti se sei più veloce di un altro bambino?\r\nSe vedi un altro bambino che non riesce a svolgere questo compito, come puoi aiutarlo/a?\r\nProva a cambiare direzione per correre indietro alla fine della scaletta di coordinazione senza fermarti! Ci sei riuscito?",
+            "PDF": "Passa attraverso la scala di coordinazione con un passo laterale"
 		},
 		"RUNNING_COURSE": {
 			"MOBAK": "Muoversi",
@@ -388,7 +399,8 @@
 			"MATERIALS": "Palloni medicinali",
 			"VARIATIONS": "Usa i coni invece dei palloni medicinali.\r\nCambia la distanza tra i palloni medicinali.\r\nCambia la distanza laterale tra i palloni medicinali.\r\nCammina di lato o all'indietro.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come riesci a cambiare direzione mentre corri senza perdere velocità?\r\nQuale parte del piede tocca il suolo nel percorso di slalom?",
-			"WILLINGNESS": "Come puoi rendere il percorso di corsa più eccitante per te?\r\nSfida un altro bambino a correre il percorso con te. Come ti senti quando l'altro bambino è più veloce di te?"
+			"WILLINGNESS": "Come puoi rendere il percorso di corsa più eccitante per te?\r\nSfida un altro bambino a correre il percorso con te. Come ti senti quando l'altro bambino è più veloce di te?",
+            "PDF": "Corri attraverso le palle mediche nella corsa da slalom."
 		},
 		"HEY_SHARK": {
 			"MOBAK": "Muoversi",
@@ -398,7 +410,8 @@
 			"MATERIALS": "-",
 			"VARIATIONS": "Scegli diverse forme di movimento come corsa e salti (alzate delle ginocchia, calpestare, talloni, salti della rana, corse a saltelli, all'indietro, salti con allungamento, corse alla campana, passi laterali).\r\nCambia il corridoio di corsa.\r\nModifica le regole del gioco di cattura.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come riesci a raggiungere l'altro lato della palestra senza essere catturato dallo squalo?\r\nCome squalo, come riesci a catturare il maggior numero possibile di bambini?",
-			"WILLINGNESS": "Quali idee hai per rendere il gioco più emozionante?\r\nQuando pensi che i ruoli dovrebbero essere invertiti se lo squalo non ha successo?"
+			"WILLINGNESS": "Quali idee hai per rendere il gioco più emozionante?\r\nQuando pensi che i ruoli dovrebbero essere invertiti se lo squalo non ha successo?",
+            "PDF": "Gruppo: un bambino è lo squalo e determina come gli altri dovrebbero muoversi. Chi viene catturato diventa uno squalo."
 		},
 		"STAR_RUN": {
 			"MOBAK": "Muoversi",
@@ -408,7 +421,8 @@
 			"MATERIALS": "Coni",
 			"VARIATIONS": "Cambia la distanza tra i coni.\r\nCambia il tempo obiettivo.\r\nPrefissati un limite di tempo e cerca di raggiungerlo.\r\nPercorri il percorso accompagnato da un altro bambino con gli occhi chiusi.\r\nCammina di lato o all'indietro.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come riesci a restare entro il limite di tempo stabilito?\r\nCosa cambia nella tua corsa quando hai meno tempo per completare il percorso?",
-			"WILLINGNESS": "Come ti senti quando corri il più accuratamente possibile rispetto al tempo stabilito?\r\nImmagina di essere un cavallo, un ghepardo, un emù e di correre attraverso questo percorso. Come camminano questi animali?"
+			"WILLINGNESS": "Come ti senti quando corri il più accuratamente possibile rispetto al tempo stabilito?\r\nImmagina di essere un cavallo, un ghepardo, un emù e di correre attraverso questo percorso. Come camminano questi animali?",
+            "PDF": "Cerca di eseguire il percorso noto intorno ai punti esattamente in un determinato tempo."
 		},
 		"VARIABLE_RUNNING": {
 			"MOBAK": "Muoversi",
@@ -418,7 +432,8 @@
 			"MATERIALS": "Coni",
 			"VARIATIONS": "Scegli altri tipi di corsa.\r\nCambia le distanze tra i coni.\r\nModifica il percorso di corsa.\r\nPercorri il percorso accompagnato da un altro bambino con gli occhi chiusi.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come riesci a cambiare rapidamente  i diversi tipi di corsa?\r\nCome puoi ricordare il percorso di corsa e i tipi di corsa assegnati?",
-			"WILLINGNESS": "Quali idee hai per modificare i percorsi di corsa?\r\nCome accompagni un bambino con gli occhi chiusi in modo che si senta al sicuro?"
+			"WILLINGNESS": "Quali idee hai per modificare i percorsi di corsa?\r\nCome accompagni un bambino con gli occhi chiusi in modo che si senta al sicuro?",
+            "PDF": "Copri la distanza il più velocemente possibile con forme di corsa corrette."
 		}
 	},
 	"Jumping": "Jumping",
@@ -431,7 +446,8 @@
 			"MATERIALS": "Scaletta di coordinazione\r\nin alternativa: cerchi da ginnastica, mattonelle sportive, segnaposti per il pavimento, gessetti",
 			"VARIATIONS": "Salta il più velocemente possibile.\r\nSalta lateralmente o all'indietro.\r\nSalta due campi in avanti e uno indietro.\r\nSalta destra - destra - a due gambe - sinistra - sinistra, ecc. (varie combinazioni).\r\nSalta su una gamba: in avanti, indietro, lateralmente (con la spalla destra e sinistra davanti).\r\nCombina i salti con i cerchi con le braccia (avanti, indietro, opposti).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa cambi quando salti all'indietro o lateralmente invece che in avanti?\r\nCome riesci a saltare il più velocemente possibile?",
-			"WILLINGNESS": "Quale disposizione dei quadrati ti aiuta a risolvere meglio il compito?\r\nCosa cambia per te quando competi contro un altro bambino?\r\nMettiti in coppia. Crea un ritmo di salti per il tuo partner (ad esempio, sinistra, destra, a due gambe, destra, sinistra, a due gambe). Scegli un ritmo che sia impegnativo ma fattibile per lui/lei! Ci sei riuscito?"
+			"WILLINGNESS": "Quale disposizione dei quadrati ti aiuta a risolvere meglio il compito?\r\nCosa cambia per te quando competi contro un altro bambino?\r\nMettiti in coppia. Crea un ritmo di salti per il tuo partner (ad esempio, sinistra, destra, a due gambe, destra, sinistra, a due gambe). Scegli un ritmo che sia impegnativo ma fattibile per lui/lei! Ci sei riuscito?",
+            "PDF": "Salta in avanti con entrambe le gambe attraverso la scala di coordinazione."
 		},
 		"JUMPING_2": {
 			"MOBAK": "Muoversi",
@@ -441,7 +457,8 @@
 			"MATERIALS": "Corde\r\nin alternativa: nastro adesivo, spago, segnaposti per il pavimento, bastoni",
 			"VARIATIONS": "Esegui una rotazione di 90° dopo ogni salto.\r\nSalta come una rana.\r\nSalta attraverso la \"scaletta di corde\" con passi di corsa.\r\nCombina il salto con diversi movimenti delle braccia.\r\nSalta destra - destra - a due gambe - sinistra - sinistra, ecc. (varie combinazioni).\r\nSalta su una gamba: in avanti, indietro, lateralmente (con la spalla destra e sinistra davanti).\r\nCombina il salto con i cerchi delle braccia (in avanti, indietro, in direzioni opposte).\r\nAumenta o diminuisci la distanza tra le corde.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa cambia nei tuoi movimenti quando salti con una gamba o con entrambe le gambe?\r\nCome cambiano i tuoi movimenti quando le corde sono più distanti tra loro?",
-			"WILLINGNESS": "Riesci a farcela anche quando le corde hanno distanze diverse?\r\nCon quali tipi di salti puoi completare il percorso? Immagina di essere una rana, un canguro, un cavallo o una cavalletta.\r\nQual è il modo più divertente per saltare sopra le corde per te?"
+			"WILLINGNESS": "Riesci a farcela anche quando le corde hanno distanze diverse?\r\nCon quali tipi di salti puoi completare il percorso? Immagina di essere una rana, un canguro, un cavallo o una cavalletta.\r\nQual è il modo più divertente per saltare sopra le corde per te?",
+            "PDF": "Salta con una gamba sola, con due gambe, lateralmente o in diagonale sopra la 'scala di corda'."
 		},
 		"ROPE_JUMPING_1": {
 			"MOBAK": "Muoversi",
@@ -451,7 +468,8 @@
 			"MATERIALS": "Corda\r\nin alternativa: coni segnalatori, segnaposti per il pavimento, scatole di pizza",
 			"VARIATIONS": "Salta sopra la corda ad ogni passo.\r\nVaria la velocità di corsa.\r\nVaria il numero di passi dopo i quali salti sopra la corda.\r\nCorri e salta all'indietro sopra la corda.\r\nEsegui una gara a slalom (ad esempio, con coni segnalatori).\r\nCammina in avanti e salta sopra un oggetto ogni due passi.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa è importante per te quando salti sopra la corda?\r\nA quale velocità/ritmo lo fai meglio?",
-			"WILLINGNESS": "Riesci a cambiare il ritmo durante il salto? Prova!\r\nSpiega a un altro bambino come salti sopra la corda. Lo fai nello stesso modo?\r\nIn un piccolo gruppo di bambini, correte e saltate sopra le corde in un luogo definito senza toccarvi. Siete riusciti?"
+			"WILLINGNESS": "Riesci a cambiare il ritmo durante il salto? Prova!\r\nSpiega a un altro bambino come salti sopra la corda. Lo fai nello stesso modo?\r\nIn un piccolo gruppo di bambini, correte e saltate sopra le corde in un luogo definito senza toccarvi. Siete riusciti?",
+            "PDF": "Corri in avanti con la corda e salta sopra la corda a passi alterni."
 		},
 		"ROPE_JUMPING_2": {
 			"MOBAK": "Muoversi",
@@ -461,7 +479,8 @@
 			"MATERIALS": "Scaletta di coordinazione, corda",
 			"VARIATIONS": "Corri all'indietro.\r\nCorri con due contatti al suolo per ogni campo.\r\nCorri il più velocemente possibile.\r\nEsegui diverse forme di salto.\r\nDisporre i campi in modo diverso.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa cerchi di fare per avere un contatto al suolo per ogni campo?\r\nIn quale forma di salto riesci meglio?",
-			"WILLINGNESS": "Sfida te stesso: cronometra il tempo per completare il compito. Riesci a farlo più velocemente nel prossimo giro?\r\nQuesto è un compito piuttosto difficile. Se riesci a risolverlo, puoi aiutare gli altri che non sono ancora riusciti?\r\nCosa cambia quando svolgi il compito a velocità diverse?"
+			"WILLINGNESS": "Sfida te stesso: cronometra il tempo per completare il compito. Riesci a farlo più velocemente nel prossimo giro?\r\nQuesto è un compito piuttosto difficile. Se riesci a risolverlo, puoi aiutare gli altri che non sono ancora riusciti?\r\nCosa cambia quando svolgi il compito a velocità diverse?",
+            "PDF": "Corri attraverso la scala di coordinazione con una corda e un contatto con il suolo per campo."
 		},
 		"ROPE_JUMPING_3": {
 			"MOBAK": "Muoversi",
@@ -471,7 +490,8 @@
 			"MATERIALS": "Corda",
 			"VARIATIONS": "Salta con o senza salto intermedio.\r\nFai oscillare la corda all'indietro.\r\nSalta con la corda, muovendoti avanti e indietro (o a sinistra e a destra) lungo una linea data.\r\nEsegui squat mentre salti la corda.\r\nSalta su un tappetino sottile.\r\nPorta i talloni verso le gambe mentre salti.\r\nTira su le ginocchia mentre salti.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "A cosa presti attenzione per svolgere il compito con successo?\r\nCon quale parte del piede salti?",
-			"WILLINGNESS": "Prova a cambiare ritmo durante il salto: quale ritmo ti piace di più?\r\nPrefissati un obiettivo: quanti salti consecutivi vuoi fare senza inciampare?\r\nRiesci a saltare contemporaneamente con un altro bambino?"
+			"WILLINGNESS": "Prova a cambiare ritmo durante il salto: quale ritmo ti piace di più?\r\nPrefissati un obiettivo: quanti salti consecutivi vuoi fare senza inciampare?\r\nRiesci a saltare contemporaneamente con un altro bambino?",
+            "PDF": "Salta con la corda su entrambe le gambe."
 		},
 		"ROPE_JUMPING_4": {
 			"MOBAK": "Muoversi",
@@ -481,7 +501,8 @@
 			"MATERIALS": "Corda\r\nin alternativa: nastro adesivo, corda, segnaposti per il pavimento",
 			"VARIATIONS": "Salta con o senza salto intermedio.\r\nSalta con l'altra gamba.\r\nFai oscillare la corda all'indietro.\r\nCambia gamba dopo ogni secondo giro (\"salto sul posto\").\r\nSalta senza corda.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come tieni le braccia per far oscillare la corda a una velocità costante?\r\nDevi cambiare qualcosa per poter saltare con l'altra gamba?",
-			"WILLINGNESS": "Riesci a saltare con entrambe le gambe lo stesso numero di volte senza fermarti? Prefissati un obiettivo da raggiungere.\r\nChiedi a un compagno di classe cosa trova motivante nel saltare la corda.\r\nRiesci a saltare senza fare rimbalzi intermedi? Prova!"
+			"WILLINGNESS": "Riesci a saltare con entrambe le gambe lo stesso numero di volte senza fermarti? Prefissati un obiettivo da raggiungere.\r\nChiedi a un compagno di classe cosa trova motivante nel saltare la corda.\r\nRiesci a saltare senza fare rimbalzi intermedi? Prova!",
+            "PDF": "Salta su una gamba sola nel quadrato con la corda."
 		},
 		"MAT_HIGHWAY": {
 			"MOBAK": "Muoversi",
@@ -491,7 +512,8 @@
 			"MATERIALS": "Materassini da ginnastica\r\nin alternativa: cerchi da ginnastica, segnaposti per il pavimento, mattonelle, gessetti",
 			"VARIATIONS": "Salta lungo il percorso a tuo ritmo, su una gamba, su due gambe e alternando le gambe.\r\nDisposiziona un percorso di salti con materiali/colori diversi. Salta lungo il percorso eseguendo un salto diverso per ogni materiale/colore (a due gambe, a una gamba).\r\nDisporre i tappetini in modo diverso.\r\nVaria il numero di contatti sui tappetini.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "In quale ritmo riesci a saltare meglio sopra i tappetini?\r\nCosa cambia nel tuo movimento quando i tappetini sono uno accanto all'altro?",
-			"WILLINGNESS": "Mettiti in coppia e prova a saltare sui tappetini con ritmi diversi. Quale ti piace di più?\r\nProva a saltare sui tappetini con un compagno di classe tenendovi per mano! Siete riusciti?\r\nCome puoi disporre i tappetini per rendere il compito più difficile o più facile?"
+			"WILLINGNESS": "Mettiti in coppia e prova a saltare sui tappetini con ritmi diversi. Quale ti piace di più?\r\nProva a saltare sui tappetini con un compagno di classe tenendovi per mano! Siete riusciti?\r\nCome puoi disporre i tappetini per rendere il compito più difficile o più facile?",
+            "PDF": "Salta da un tappetino all'altro."
 		},
 		"GROUND_ROPE_JUMPING_1": {
 			"MOBAK": "Muoversi",
@@ -501,7 +523,8 @@
 			"MATERIALS": "Corde\r\nin alternativa: nastro adesivo, segnaposti per il pavimento, gessetti",
 			"VARIATIONS": "Fai sì che due bambini cambino l'altezza sollevando la corda da terra.\r\nFai sì che due bambini facciano oscillare la corda e eseguano salti diversi (ad esempio con/senza salto intermedio, su una gamba o su due gambe, con rotazione di 180°).\r\nTrucchi di salto.\r\nCanta e salta: \"\"Orsetto, orsetto, gira intorno\"\" (rotazione di 180°); \"\"..., fai la gobba\"\" (salto con piegamento); \"\"..., costruisci una casa\"\" (unisci le mani sopra la testa); \"\"..., guarda fuori\"\" (palmo sulla fronte); \"\"..., alza un piede\"\" (salto su una gamba); \"\"..., saluta\"\" (il gioco finisce).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Salti in modo diverso quando la corda è sollevata?\r\nCome cambi il movimento quando salti lateralmente o avanti e indietro?",
-			"WILLINGNESS": "Riesci a fare trucchi mentre salti? Mostralo e insegnalo a un altro bambino.\r\nQual è l'altezza massima che riesci a saltare? Sfida te stesso!"
+			"WILLINGNESS": "Riesci a fare trucchi mentre salti? Mostralo e insegnalo a un altro bambino.\r\nQual è l'altezza massima che riesci a saltare? Sfida te stesso!",
+            "PDF": "Mettiti parallelo alla corda e salta più volte sopra la corda."
 		},
 		"GROUND_ROPE_JUMPING_2": {
 			"MOBAK": "Muoversi",
@@ -511,7 +534,8 @@
 			"MATERIALS": "Corde, numeri\r\nin alternativa: segnaposti per il pavimento, tappetini, cerchi da ginnastica, nastro adesivo",
 			"VARIATIONS": "Salta sempre con una gamba (cioè, solo la gamba destra o sinistra).\r\nSalta con entrambe le gambe nel prossimo campo.\r\nSalta in diversi campi e numerali.\r\nAumenta la velocità.\r\nIl bambino A pensa a un numero segreto composto da tre cifre (ognuna tra 1 e 4). Il bambino B deve indovinare il numero saltando nei campi corrispondenti. Il bambino A fornisce feedback. Se il bambino B salta in modo errato, deve ricominciare.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa cambia quando conosci l'ordine dei numeri chiamati rispetto a non sapere quale numero viene dopo?\r\nÈ più facile saltare con una gamba o con entrambe? Perché?",
-			"WILLINGNESS": "Cosa fai per rispondere rapidamente al numero chiamato?\r\nCome puoi, come arredatore, rendere il compito più facile o più difficile per il bambino?\r\nMettiti in coppia. Inventate un rituale di \"high-five\" che eseguite quando uno di voi riesce a completare 10 tentativi senza errori. Come ti senti se ricevi un \"cinque\"?"
+			"WILLINGNESS": "Cosa fai per rispondere rapidamente al numero chiamato?\r\nCome puoi, come arredatore, rendere il compito più facile o più difficile per il bambino?\r\nMettiti in coppia. Inventate un rituale di \"high-five\" che eseguite quando uno di voi riesce a completare 10 tentativi senza errori. Come ti senti se ricevi un \"cinque\"?",
+            "PDF": "A coppie: un bambino chiama i numeri. L'altro sta con una gamba in un campo e salta nel campo corrispondente al richiamo di un numero e vi atterra con l'altro piede."
 		},
 		"ROPE_ROLLER": {
 			"MOBAK": "Muoversi",
@@ -521,7 +545,8 @@
 			"MATERIALS": "Corde (1 corda per 6-8 bambini)",
 			"VARIATIONS": "Tieni la corda più bassa o più alta.\r\nMuovi la corda più velocemente o più lentamente attraverso la fila.\r\nVaria lo stile di salto (ad esempio, a due gambe, a una gamba, con rotazioni del corpo).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Quando è il momento giusto per saltare?\r\nCome salti meglio quando c'è un bambino alla tua sinistra e uno alla tua destra?",
-			"WILLINGNESS": "Come potremmo cambiare il compito se non avessimo una corda disponibile?\r\nCosa puoi fare per risolvere il compito con successo come gruppo?\r\nCome ti senti se tutti lavorano insieme per risolvere il compito con successo?"
+			"WILLINGNESS": "Come potremmo cambiare il compito se non avessimo una corda disponibile?\r\nCosa puoi fare per risolvere il compito con successo come gruppo?\r\nCome ti senti se tutti lavorano insieme per risolvere il compito con successo?",
+            "PDF": "Gruppo: Due bambini tengono una corda tesa all'altezza del polpaccio. Gli altri bambini saltano non appena la corda è con loro."
 		},
 		"MASTER_OF_RHYTHM": {
 			"MOBAK": "Muoversi",
@@ -531,7 +556,8 @@
 			"MATERIALS": "Cerchi da ginnastica\r\nin alternativa: segnaposti per il pavimento, corde, gessetti",
 			"VARIATIONS": "Salta attraverso il percorso dei cerchi senza movimenti delle braccia.\r\nSalta attraverso il percorso dei cerchi il più velocemente possibile.\r\nEstendi il braccio del lato opposto. Per i salti a due gambe, estendi le braccia verso l'alto.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa cambia quando salti con i movimenti delle braccia rispetto a quando salti senza di essi?\r\nCosa puoi fare se hai difficoltà a risolvere questo compito all'inizio?\r\nCome riesci a tenere il braccio fuori di lato?",
-			"WILLINGNESS": "Come puoi seguire un altro bambino attraverso i cerchi senza essere scoperto?\r\nCome puoi disporre i cerchi per rendere il compito più difficile per te?\r\nInventa altri movimenti delle braccia che accompagnano i tuoi salti! In quali variazioni riesci meglio?"
+			"WILLINGNESS": "Come puoi seguire un altro bambino attraverso i cerchi senza essere scoperto?\r\nCome puoi disporre i cerchi per rendere il compito più difficile per te?\r\nInventa altri movimenti delle braccia che accompagnano i tuoi salti! In quali variazioni riesci meglio?",
+            "PDF": "Posiziona più pneumatici a terra di fila e salta attraverso il percorso del pneumatico seguendo le seguenti istruzioni: \n- Salta la gamba sinistra, il braccio sinistro di lato \n- Salta la gamba destra, il braccio destro di lato\n- Salta su entrambe le gambe, entrambe le braccia ai lati"
 		},
 		"SWINGING_KING_QUEEN": {
 			"MOBAK": "Muoversi",
@@ -541,7 +567,8 @@
 			"MATERIALS": "Corda",
 			"VARIATIONS": "Chiedi all'insegnante o ai bambini di far oscillare la corda più velocemente o più lentamente.\r\nChiedi all'insegnante o ai bambini di far oscillare la corda nell'altra direzione (cioè, lontano da te).\r\nVaria i salti (ad esempio, a due gambe, a una gamba, con rotazioni del corpo).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa è più facile per te? Saltare lentamente o velocemente? Perché?\r\nCosa cambi quando la corda oscilla dall'altra parte?\r\nQual è il momento giusto per saltare?",
-			"WILLINGNESS": "Quante volte puoi saltare e uscire dalla corda oscillante in modo controllato? Prefissati un obiettivo o sfida un altro bambino.\r\nRiesci a correre nella corda oscillante e poi saltare? Prova!\r\nRiesci a dire a un altro bambino dall'esterno quando deve saltare?"
+			"WILLINGNESS": "Quante volte puoi saltare e uscire dalla corda oscillante in modo controllato? Prefissati un obiettivo o sfida un altro bambino.\r\nRiesci a correre nella corda oscillante e poi saltare? Prova!\r\nRiesci a dire a un altro bambino dall'esterno quando deve saltare?",
+            "PDF": "Group: A long rope is swung by two children. The other children run through the swinging rope four times without touching it."
 		},
 		"JUMP_IN_AND_OUT": {
 			"MOBAK": "Muoversi",
@@ -551,7 +578,8 @@
 			"MATERIALS": "Cerchi",
 			"VARIATIONS": "Riorganizza i cerchi.\r\nCerca il maggior numero possibile di tipi di salti diversi.\r\nCrea la tua sequenza di salti da due forme di salto.\r\nChiudi gli occhi e salta la tua sequenza di salti senza toccare i cerchi.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come crei una sequenza di salti che puoi ripetere spesso?\r\nQuale parte del piede tocca il suolo quando salti?",
-			"WILLINGNESS": "Mostra la tua sequenza di salti a un altro bambino. Riesci a imitare la sequenza di salti dell'altro bambino?\r\nRiesci a ripetere la tua sequenza di salti con gli occhi chiusi?\r\nImmagina di essere un animale e completa la sequenza di salti. Come appare?"
+			"WILLINGNESS": "Mostra la tua sequenza di salti a un altro bambino. Riesci a imitare la sequenza di salti dell'altro bambino?\r\nRiesci a ripetere la tua sequenza di salti con gli occhi chiusi?\r\nImmagina di essere un animale e completa la sequenza di salti. Come appare?",
+            "PDF": "Esegui sequenze di salto e forme che entrano ed escono dal cerchio."
 		},
 		"JUMPING_COURSE": {
 			"MOBAK": "Muoversi",
@@ -561,7 +589,8 @@
 			"MATERIALS": "Palloni medici, coni",
 			"VARIATIONS": "Cambia il percorso di salti.\r\nUsa più ostacoli.\r\nSalta il percorso di salti con gli occhi chiusi.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come devono essere disposti gli ostacoli in modo che tu possa saltarli facilmente?\r\nQual è il modo migliore per saltare sopra gli ostacoli?",
-			"WILLINGNESS": "Hai altre idee per gli ostacoli?\r\nQuali consigli puoi dare a un bambino che ha difficoltà con il percorso di salti?"
+			"WILLINGNESS": "Hai altre idee per gli ostacoli?\r\nQuali consigli puoi dare a un bambino che ha difficoltà con il percorso di salti?",
+            "PDF": "Salta gli ostacoli"
 		}
 	},
 	"Rolling": "Rolling",
@@ -574,7 +603,8 @@
 			"MATERIALS": "Materassini soffici, panche da palestra, materassini da ginnastica, spalliere",
 			"VARIATIONS": "Appendi le panche lunghe a una barra inferiore o superiore delle spalliere.\r\nFai controllare a un altro bambino che siate completamente allungati quando rotolate.\r\nCambia lato mentre rotolate.\r\nFatti prendere da un altro bambino alla fine della superficie di rotolamento.\r\nEstendi le braccia verso l'alto.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa cambia per te quando cambi lato?\r\nCosa fai con le sue gambe/braccia quando rotoli lateralmente?",
-			"WILLINGNESS": "Puoi rotolare insieme con un altro bambino?\r\nA che altezza della panca ti diverti di piu? Quando hai bisogno di molto coraggio?\r\nDove anche potresti anche rotolare lateralmente?"
+			"WILLINGNESS": "Puoi rotolare insieme con un altro bambino?\r\nA che altezza della panca ti diverti di piu? Quando hai bisogno di molto coraggio?\r\nDove anche potresti anche rotolare lateralmente?",
+            "PDF": "Rotola giù per il pendio."
 		},
 		"FORWARD_ROLL": {
 			"MOBAK": "Muoversi",
@@ -584,7 +614,8 @@
 			"MATERIALS": "Materassini soffici, panche da palestra, materassini da ginnastica, spalliere",
 			"VARIATIONS": "Afferra le ginocchia mentre rotoli.\r\nAlzati senza usare le mani per sostenerti.\r\nStringi un peluche (o un altro oggetto) tra il mento e il petto mentre rotoli.\r\nSpingiti con i piedi e siediti con il collo.\r\nGuarda la tua pancia.\r\nMetti saldamente le mani.\r\nAppendi le panche lunghe a una barra inferiore o superiore delle spalliere.\r\nFatti prendere da un altro bambino alla fine della superficie di rotolamento.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa cambia quando metti qualcosa tra il tuo mento e il petto mentre rotoli?\r\nCome riesci a rotolare diritto?",
-			"WILLINGNESS": "Come ci si sente ad assolvere il compito/non riuscire ad assolvere il compito? Cosa puoi fare per migliorare se non ci sei ancora riuscito?\r\nRiesci anche a rotolare da sotto a sopra?"
+			"WILLINGNESS": "Come ci si sente ad assolvere il compito/non riuscire ad assolvere il compito? Cosa puoi fare per migliorare se non ci sei ancora riuscito?\r\nRiesci anche a rotolare da sotto a sopra?",
+            "PDF": "Rotola in avanti lungo il pendio."
 		},
 		"PENDULUM": {
 			"MOBAK": "Muoversi",
@@ -594,7 +625,8 @@
 			"MATERIALS": "Materassino, palloncini, palle",
 			"VARIATIONS": "Metti un palloncino tra le gambe e tienilo stretto.\r\nMetti un palloncino tra le gambe e il busto mentre oscilli indietro e ritorni in posizione accovacciata.\r\nPassa la palla a un altro bambino oscillando prima indietro e passando la palla mentre ti alzi (cambia ruolo immediatamente dopo aver passato la palla).\r\nOscilla indietro, tieniti le gambe e ritorna in posizione accovacciata.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come riesci ad alzarti dopo aver rotolato in avanti?\r\nCome riesci a rotolare avanti e indietro?",
-			"WILLINGNESS": "Immagina di essere un armadillo palla mentre rotoli. Come ti senti?\r\nRiesci a eseguire il movimento del pendolo contemporaneamente con un altro bambino?\r\nCosa cambia quando stringi un palloncino tra le gambe?"
+			"WILLINGNESS": "Immagina di essere un armadillo palla mentre rotoli. Come ti senti?\r\nRiesci a eseguire il movimento del pendolo contemporaneamente con un altro bambino?\r\nCosa cambia quando stringi un palloncino tra le gambe?",
+            "PDF": "Rotola avanti e indietro sulla schiena senza usare i piedi."
 		},
 		"JUDO_ROLLS": {
 			"MOBAK": "Muoversi",
@@ -604,7 +636,8 @@
 			"MATERIALS": "Materassino soffice",
 			"VARIATIONS": "Esegui la capriola di judo alternativamente sulla spalla sinistra e destra.\r\nVaria la lunghezza della rincorsa.\r\nAlzati subito dopo la capriola senza usare le mani per sostenerti.\r\nRotola lentamente e senza rincorsa.\r\nGuarda la spalla su cui devi rotolare.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa cambia quando cambi la lunghezza della rincorsa?\r\nFai meglio la capriola di judo rispetto alla capriola in avanti? Perché?",
-			"WILLINGNESS": "Come ti senti quando rotoli sull'altra spalla?\r\nRiesci a fare la capriola di judo su un tappetino o sul pavimento?"
+			"WILLINGNESS": "Come ti senti quando rotoli sull'altra spalla?\r\nRiesci a fare la capriola di judo su un tappetino o sul pavimento?",
+            "PDF": "Rotola avanti e indietro sulla schiena senza usare i piedi."
 		},
 		"MAT_ROLLS": {
 			"MOBAK": "Muoversi",
@@ -614,7 +647,8 @@
 			"MATERIALS": "Materassino soffice",
 			"VARIATIONS": "Alzati senza usare le mani per sostenerti.\r\nOttieni assistenza da un altro bambino o dall'insegnante.\r\nCrea un corridoio usando delle corde per rotolare sul tappetino e rotola su di esso.\r\nRotola in coppia sincronizzandoti fianco a fianco.\r\nSpingi più forte con le gambe per rotolare più velocemente. Poi metti le mani davanti a te.\r\nEsegui la capriola su un tappetino da ginnastica.\r\nPosiziona un segnaposto sul tappetino e atterra con i piedi su di esso dopo la capriola. Varia la distanza dalla tua posizione di partenza.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come riesci a rialzarti dopo la capriola?\r\nCosa cambia quando fai la capriola sul materassino senza una rincorsa?",
-			"WILLINGNESS": "Cosa cambia quando fai la capriola sul lato lungo del tappetino rispetto al lato corto?\r\nCome ti senti quando riesci ad alzarti con successo dopo la capriola?"
+			"WILLINGNESS": "Cosa cambia quando fai la capriola sul lato lungo del tappetino rispetto al lato corto?\r\nCome ti senti quando riesci ad alzarti con successo dopo la capriola?",
+            "PDF": "Con pochi passaggi, fai un rotolamento sul morbido tappetino."
 		},
 		"ROLL_OFF_THE_BOX": {
 			"MOBAK": "Muoversi",
@@ -624,7 +658,8 @@
 			"MATERIALS": "Cassa da ginnastica con due elementi, materazzi da ginnastica",
 			"VARIATIONS": "Cambia l'altezza della cassa da ginnastica.\r\nBlocca un nastro tra le tue caviglie.\r\nIl bambino A si mette a 4 zampe. Il bambino B rotola dalla schiena del Bambino A sul materassino.\r\nRotola su una palla da fisioterapia. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Riesci a rialzarti dopo la capriola? Come?\r\nCome posizioni le tue mani per rotolare nel modo piu dritto possibile?",
-			"WILLINGNESS": "Come ci si sente a rotolare dalla cassa?\r\nA che altezza della cassa ti diverti di piu? Quando hai bisogno di molto coraggio?"
+			"WILLINGNESS": "Come ci si sente a rotolare dalla cassa?\r\nA che altezza della cassa ti diverti di piu? Quando hai bisogno di molto coraggio?",
+            "PDF": "Ginocchia sulla scatola da ginnastica. Appoggia le mani sul tappetino da palestra ed esegui un rotolamento in avanti."
 		},
 		"VARIABLE_ROLLING": {
 			"MOBAK": "Muoversi",
@@ -634,7 +669,8 @@
 			"MATERIALS": "Materassini da ginnastica",
 			"VARIATIONS": "Rotola di lato.\r\nPosiziona i piedi dietro il piano inclinato.\r\nOra salta un po e rotola giù per il piano inclinato.\r\nRotola dal basso verso l'alto.\r\nRotola su un piano dritto.\r\nPosiziona i piedi sul tappetino e rotola dall'alto verso il basso.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come cambia il rotolamento quando rotoli dal basso verso l'alto?\r\nQuale capriola esegui meglio? Dimostra e spiega.",
-			"WILLINGNESS": "Con quale tipo di capriola ti diverti di piu? Perché?\r\nPuoi rotolare in tutti i modi?"
+			"WILLINGNESS": "Con quale tipo di capriola ti diverti di piu? Perché?\r\nPuoi rotolare in tutti i modi?",
+            "PDF": "Rotola verso il basso o verso l'alto il piano inclinato in diversi modi."
 		},
 		"ROLLING_PRECISELY": {
 			"MOBAK": "Muoversi",
@@ -644,7 +680,8 @@
 			"MATERIALS": "Materassini da ginnastica, nastro adesivo",
 			"VARIATIONS": "Attacca il nastro alla fine del materassino e appoggiaci i piedi dopo la capriola. Cambia la distanza dall'inizio del materassino.\r\nRotola sul nastro adesivo in modo che si attacca da una spalla al fianco opposto.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come devi spingere con i piedi per rotolare il più precisamente possibile?\r\nCome fai a rotolare in linea retta?",
-			"WILLINGNESS": "Puoi rotolare sul nastro adesivo tre volte in modo da avere una stella di nastro sulla tua schiena?\r\nCom'è il modo piu divertende per te per rotolare sul nastro adesivo? Hai qualche altra idea?"
+			"WILLINGNESS": "Puoi rotolare sul nastro adesivo tre volte in modo da avere una stella di nastro sulla tua schiena?\r\nCom'è il modo piu divertende per te per rotolare sul nastro adesivo? Hai qualche altra idea?",
+            "PDF": "Arrotola il nastro in modo che aderisca perfettamente alla schiena."
 		},
 		"ROLL_UP": {
 			"MOBAK": "Muoversi",
@@ -654,7 +691,8 @@
 			"MATERIALS": "Cassa da palestra con due elementi, materassini da ginnastica",
 			"VARIATIONS": "Cambia il numero di elementi.\r\nEsegui una capriola sulla cassa da ginnastica.\r\nUsa un trampolino per saltare.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come riesci a rotolare fino alla cassa da ginnastica?\r\nCosa fai con le gambe mentre rotoli?",
-			"WILLINGNESS": "Quale altezza richiede molto coraggio da parte tua? Come hai superato la tua esitazione?\r\nCome puoi aiutare un altro bambino a rotolare verso l'alto?"
+			"WILLINGNESS": "Quale altezza richiede molto coraggio da parte tua? Come hai superato la tua esitazione?\r\nCome puoi aiutare un altro bambino a rotolare verso l'alto?",
+            "PDF": "Indossa la scatola da ginnastica."
 		},
 		"DIVE_ROLL": {
 			"MOBAK": "Muoversi",
@@ -664,7 +702,8 @@
 			"MATERIALS": "materassini da ginnastica, palle medicinali",
 			"VARIATIONS": "Piazza diverse palle medicinali in fila e compi una capriola con salto ad ogni palla.\r\nCambia la distanza tra le palle medicinali. \r\nSalta con entrambe le gambe.\r\nInvece delle palle medicinali, usa un nastro da gioco per fare una capriola con salto.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa devi cambiare per compiere una capriola con salto rispetto ad una capriola in avanti?\r\nCosa fai per atterrare nel modo piu delicato possibile?",
-			"WILLINGNESS": "Prefissati un obiettivo selezionando un numero di palle mediche su cui vuoi eseguire una capriola con salto. Come ti senti quando hai raggiunto questo obiettivo?\r\nImmagina di eseguire una capriola con salto attraverso un enorme abisso. Come ti fa sentire?"
+			"WILLINGNESS": "Prefissati un obiettivo selezionando un numero di palle mediche su cui vuoi eseguire una capriola con salto. Come ti senti quando hai raggiunto questo obiettivo?\r\nImmagina di eseguire una capriola con salto attraverso un enorme abisso. Come ti fa sentire?",
+            "PDF": "Salta in avanti con il rotolamento su una palla medica."
 		},
 		"PARTNER_ROLLS": {
 			"MOBAK": "Muoversi",
@@ -674,7 +713,8 @@
 			"MATERIALS": "Materassini da ginnastica",
 			"VARIATIONS": "Iniziare nell'altra posizione (su/giù).\r\nEsegue una capriola in coppia in modo sincronizzato a fianco.\r\nEffettua due o più capriole di fila.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come riesci a eseguire una capriola di coppia insieme?\r\nA cosa presti più attenzione nella capriola di coppia rispetto a quella da solo?",
-			"WILLINGNESS": "Ci è voluto molto coraggio per rotolare in coppia? Se sì, come hai superato la tua esitazione?\r\nQuali consigli puoi dare agli altri bambini per aiutarli a riuscire nella capriola di coppia?"
+			"WILLINGNESS": "Ci è voluto molto coraggio per rotolare in coppia? Se sì, come hai superato la tua esitazione?\r\nQuali consigli puoi dare agli altri bambini per aiutarli a riuscire nella capriola di coppia?",
+            "PDF": "In coppia: afferratevi le caviglie e appoggiate la testa sul petto. Svolgi un ruolo in avanti insieme."
 		}
 	},
 	"Balancing": "Balancing",
@@ -687,7 +727,8 @@
 			"MATERIALS": "Corda",
 			"VARIATIONS": "Mantenere l'equilibrio all'indietro\r\nMantenere l'equilibrio con gli occhi chiusi.\r\nLanciare altri pezzi di stoffa in aria e prenderli.\r\nRuotare altri (1 o 2) cerchi con le braccia.\r\nScegliere altro materiale su cui bilanciarsi (ad esempio, cerchi, piastrelle del pavimento, linee).\r\nScegliere materiale che si può bilanciare su una parte del corpo (ad esempio, stoffe, cappelli, palline).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa cambia quando cammini all'indietro invece che in avanti?\r\nPerchè è piu facile quando guardi in avanti (invece che, per esempio, per terra)?",
-			"WILLINGNESS": "Immaginate di essere equilibristi in un circo. Come potete bilanciarvi insieme sulla corda? Riuscite a sentire gli applausi?\r\nCome potete mettere a terra la corda per rendere il bilanciamento più difficile?\r\nPerché potrebbe essere importante saper mantenere l'equilibrio?"
+			"WILLINGNESS": "Immaginate di essere equilibristi in un circo. Come potete bilanciarvi insieme sulla corda? Riuscite a sentire gli applausi?\r\nCome potete mettere a terra la corda per rendere il bilanciamento più difficile?\r\nPerché potrebbe essere importante saper mantenere l'equilibrio?",
+            "PDF": "Equilibrio sulla corda."
 		},
 		"BENCH_BALANCING": {
 			"MOBAK": "Muoversi",
@@ -697,7 +738,8 @@
 			"MATERIALS": "Panca lunga",
 			"VARIATIONS": "Cambia il modo in cui ti muovi (lateralmente, all'indietro, gattonando).\r\nCompi movimenti addizionali con le braccia.\r\nScegli materiale che si può bilanciare su una parte del corpo (ad esempio, stoffe, cappelli, palline).\r\nAggiungi ostacoli (per esempio vestiti, cappelli) sulla panca, e cammina sopra questi ostacoli.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Qual è il miglior modo di mettere i piedi sulla panca per mantenere l'equilibrio con successo?\r\nCome cambia il tuo bilanciamento quando guardi in su o in giu invece che verso avanti?",
-			"WILLINGNESS": "Come ci si sente a riuscire a mantenere l'equilibrio sulla panca?\r\nOsserva un bambino che ha difficoltà nel mantenere l'equilibrio sulla panca e prova a dargli/le consigli!\r\nSu cosa altro potresti mantenere l'equilibrio oltre che sulla panca per rendere il compito piu difficile per te?\r\n"
+			"WILLINGNESS": "Come ci si sente a riuscire a mantenere l'equilibrio sulla panca?\r\nOsserva un bambino che ha difficoltà nel mantenere l'equilibrio sulla panca e prova a dargli/le consigli!\r\nSu cosa altro potresti mantenere l'equilibrio oltre che sulla panca per rendere il compito piu difficile per te?\r\n",
+            "PDF": "In equilibrio in avanti sulla panca lunga."
 		},
 		"WOBBLY_BENCH": {
 			"MOBAK": "Muoversi",
@@ -707,7 +749,8 @@
 			"MATERIALS": "Panche lunghe, barre da ginnastica",
 			"VARIATIONS": "Esegui il compito senza altri bambini, fissando la lunga panca sulle barre da ginnastica con tappetini da ginnastica su tutti i lati in modo che non si muova.\r\nCammina lateralmente o all'indietro.\r\nAggiungi ostacoli (ad esempio, vestiti, cappelli) sulla panca e poi passa sopra questi ostacoli.\r\nAggiungi una rotazione.\r\nScegli materiali che si possono bilanciare su una parte del corpo (ad esempio, vestiti, cappelli, palline).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come ti muovi per bilanciarti sulla panca oscillante?\r\nQuale posizione delle braccia ti aiuta di più quando ti bilanci?",
-			"WILLINGNESS": "Come ti senti a bilanciarti sulla panca oscillante? Hai bisogno di molto coraggio?\r\nChiedi agli altri bambini di muovere la panca piu lentamente/velocemente a seconda di quanto ti senti sicuro."
+			"WILLINGNESS": "Come ti senti a bilanciarti sulla panca oscillante? Hai bisogno di molto coraggio?\r\nChiedi agli altri bambini di muovere la panca piu lentamente/velocemente a seconda di quanto ti senti sicuro.",
+            "PDF": "Aggrappati alla panca mentre oscilla."
 		},
 		"MOUNTAIN_CLIMBING": {
 			"MOBAK": "Muoversi",
@@ -717,7 +760,8 @@
 			"MATERIALS": "Panca lunga, spalliere, materassini a terra per sicurezza.",
 			"VARIATIONS": "Cambia il modo di muoversi (lateralmente, all'indietro, gattonando).\r\nAppendi la panca lunga agli anelli e mantieni l'equilibrio su essa. I materassi per la sicurezza sono assolutamente necessari.\r\nAddizionalmente, ruota un cerchio con il tuo braccio.\r\nScegli materiali che si possono bilanciare su una parte del corpo (ad esempio, vestiti, cappelli, palline).\r\nAppendi la panca lunga piu bassa o piu alta sulla spalliera.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Dove guardi mentre sali?\r\nCome riesci a salire senza perdere l'equilibrio?",
-			"WILLINGNESS": "A che altezza della panca il compito diventa difficile per te?\r\nCronometra il tempo che ti serve per arrivare in cima e sfida i tuoi compagni o te stesso. Come ti senti mentre mantieni l'equilibrio in una sfida?\r\nCome ti senti quando ci sono ostacoli sulla panca?"
+			"WILLINGNESS": "A che altezza della panca il compito diventa difficile per te?\r\nCronometra il tempo che ti serve per arrivare in cima e sfida i tuoi compagni o te stesso. Come ti senti mentre mantieni l'equilibrio in una sfida?\r\nCome ti senti quando ci sono ostacoli sulla panca?",
+            "PDF": "Bilancia su e giù sulla panca."
 		},
 		"OPPOSING_TRAFFIC": {
 			"MOBAK": "Muoversi",
@@ -727,7 +771,8 @@
 			"MATERIALS": "Panca lunga",
 			"VARIATIONS": "Gira la panca dall'altra parte.\r\nPoni la panca su una superficie instabile (materassino, barre da ginnastica, ecc.).\r\nScegli materiali che si possono bilanciare su una parte del corpo (ad esempio, vestiti, cappelli, palline).\r\nMantieni l'equilibrio su una corda.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come potete aiutarvi ad incrociarvi?\r\nCos'è difficile nell'incrociarsi?",
-			"WILLINGNESS": "Immaginate di essere nella giungla e di dover scappare da serpenti velenosi a terra. La panca vi salverà dai serpenti. Aiutatevi ad incrociarvi in modo da raggiungere l'altra parte senza serpenti!\r\nCome procedete insieme per incrociarvi?\r\nCosa potete fare insieme prima di incrociarvi in modo da essere piu coraggiosi?"
+			"WILLINGNESS": "Immaginate di essere nella giungla e di dover scappare da serpenti velenosi a terra. La panca vi salverà dai serpenti. Aiutatevi ad incrociarvi in modo da raggiungere l'altra parte senza serpenti!\r\nCome procedete insieme per incrociarvi?\r\nCosa potete fare insieme prima di incrociarvi in modo da essere piu coraggiosi?",
+            "PDF": "Gruppo: Ci sono lo stesso numero di bambini su ciascun lato della panca lunga. Equilibrio in panchina e cross al centro."
 		},
 		"SEESAW": {
 			"MOBAK": "Muoversi",
@@ -737,7 +782,8 @@
 			"MATERIALS": "Panca lunga, parte superiore di una cassa",
 			"VARIATIONS": "Scegli materiali che puoi bilanciare su una parte del corpo (ad esempio, vestiti, cappelli, palline).\r\nCambia il modo di muoversi (lateralmente, all'indietro, a quattro zampe).\r\nCammina con gli occhi chiusi.\r\nLascia che un altro bambino ti aiuti (se necessario). Offrono la loro mano e tu la prendi quando è necessario.\r\nInvece del coperchio della cassa, scegliere due trampolini in modo che la panca possa ribaltarsi.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa fai per mantenere l'equilibrio quando la panca si ribalta?\r\nCome cambia il ribaltamento della panca quando cammini lateralmente?",
-			"WILLINGNESS": "Hai qualche idea su come far ribaltare la panca ad altezze diverse?\r\nCome ti senti quando la panca si ribalta?\r\nProva a camminare sulla panca contemporaneamente a un altro bambino. Come cambia il ribaltamento della panca?"
+			"WILLINGNESS": "Hai qualche idea su come far ribaltare la panca ad altezze diverse?\r\nCome ti senti quando la panca si ribalta?\r\nProva a camminare sulla panca contemporaneamente a un altro bambino. Come cambia il ribaltamento della panca?",
+            "PDF": "Bilancia l'altalena e lasciala inclinare lentamente."
 		},
 		"ROPE_DANCER": {
 			"MOBAK": "Muoversi",
@@ -747,7 +793,8 @@
 			"MATERIALS": "Panca lunga, palla da basket",
 			"VARIATIONS": "Mantieni l'equilibrio su entrambi i lati della panca.\r\nPoni un limite di tempo al compito.\r\nMantieni l'equilibrio su una corda.\r\nMantieni l'equilibrio con gli occhi chiusi.\r\nScegli un'altra palla o oggetto da usare.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Perchè il compito è piu facile se cammini sulla parte larga della panca?\r\nCosa cambia quando mantieni una palla sulla tua testa mentre cammini rispetto a quando lo fai senza palla?\r\nCome cambia il compito quando usi un bastone invece di un palla?",
-			"WILLINGNESS": "Quali altri oggetti potresti mantenere sulla tua testa mentre cammini mantenendo l'equilibrio?\r\nSu quale parte del corpo potresti mantenere oggetti in equilibrio mentre cammini sulla panca?\r\nPrima di andare sulla panchina: Prima, prova a immaginare i tuoi prossimi movimenti per un paio di secondi. In questo modo, riesci meglio nel compito?"
+			"WILLINGNESS": "Quali altri oggetti potresti mantenere sulla tua testa mentre cammini mantenendo l'equilibrio?\r\nSu quale parte del corpo potresti mantenere oggetti in equilibrio mentre cammini sulla panca?\r\nPrima di andare sulla panchina: Prima, prova a immaginare i tuoi prossimi movimenti per un paio di secondi. In questo modo, riesci meglio nel compito?",
+            "PDF": "Tieni un pallone da basket sopra la testa e bilanciati in avanti sulla panchina lunga. Fai un mezzo giro al centro e continua a bilanciarti all'indietro."
 		},
 		"BALANCING_ON_BALLS": {
 			"MOBAK": "Muoversi",
@@ -757,7 +804,8 @@
 			"MATERIALS": "Palle medicinali, cerchi (per fissare le palle medicinali)",
 			"VARIATIONS": "Cammina all'indietro sulle palle medicinali.\r\nUsa palle da fisioterapia invece che palle medicinali.\r\nCammina su quattro zampe.\r\nLascia che un altro bambino ti aiuti (se necessario). Loro ti offrono la loro mano e tu la prendi quando necessario.\r\nCamminate l'uno verso l'altro in coppia e cercate di superarvi.\r\nBilanciati con gli occhi chiusi.\r\nDisponi le palle mediche in modo diverso.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa fai in modo diverso quando cammini sulle palle rispetto a quando cammini su una panca?\r\nQual è il modo migliore di posizionare i piedi sulle palle per bilanciarti con successo?\r\nCome riesci a mantenere l'equilibrio e camminare sulle palle con gli occhi chiusi?",
-			"WILLINGNESS": "Quali altri oggetti potrebbero essere usati al posto delle palle medicinali?\r\nCome ci si sente ad avere le palle piu lontane tra loro?\r\nCome ci si sente a camminare mantenendo l'equilibrio sulle palle con gli occhi chiusi?"
+			"WILLINGNESS": "Quali altri oggetti potrebbero essere usati al posto delle palle medicinali?\r\nCome ci si sente ad avere le palle piu lontane tra loro?\r\nCome ci si sente a camminare mantenendo l'equilibrio sulle palle con gli occhi chiusi?",
+            "PDF": "Bilanciati in avanti sulle palle mediche senza toccare terra."
 		},
 		"CIRCUS_ARTISTS": {
 			"MOBAK": "Muoversi",
@@ -767,7 +815,8 @@
 			"MATERIALS": "Panca lunga, bende per gli occhi",
 			"VARIATIONS": "Mantieni l'equilibrio con gli occhi chiusi.\r\nCompleta il compito con un limite di tempo.\r\nLascia che un altro bambino ti aiuti(se necessario). Loro ti offrono la loro mano e tu la prendi quando necessario.\r\nRibalta la panca.\r\nPremi le braccia vicino al corpo.\r\nPiega la parte alta del corpo in avanti o all'indietro.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Qual è il miglior modo per bilanciarsi lungo la panchina da bendato?\r\nCosa cambi nei tuoi movimenti quando cammini all'indietro rispetto a quando cammini in avanti?",
-			"WILLINGNESS": "Come ci si sente a riuscire a bilanciarsi lungo la panca da bendato?\r\nCome puoi aiutare gli altri bambini che non sono ancora riusciti in questo compito?"
+			"WILLINGNESS": "Come ci si sente a riuscire a bilanciarsi lungo la panca da bendato?\r\nCome puoi aiutare gli altri bambini che non sono ancora riusciti in questo compito?",
+            "PDF": "Equilibrio sulla lunga panca con gli occhi bendati."
 		},
 		"BALANCING_ON_MATS": {
 			"MOBAK": "Muoversi",
@@ -777,7 +826,8 @@
 			"MATERIALS": "Materassini da ginnastica",
 			"VARIATIONS": "Chiudi gli occhi.\r\nUsa l'altra gamba. \r\nUsa un materassino piu spesso. \r\nStai su altre superfici instabili.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Qual è il miglior modo per mantenere l'equilibrio?\r\nCome puo aiutarti la vista a mantenere l'equilibrio?",
-			"WILLINGNESS": "Come cambia il compito quando chiudi gli occhi e piega la testa all'indietro?\r\nSu quali superfici è piu difficile mantenere l'equilibrio?"
+			"WILLINGNESS": "Come cambia il compito quando chiudi gli occhi e piega la testa all'indietro?\r\nSu quali superfici è piu difficile mantenere l'equilibrio?",
+            "PDF": "Stai in piedi su una gamba sola su un tappetino da palestra."
 		},
 		"DONT_WOBBLE": {
 			"MOBAK": "Muoversi",
@@ -787,7 +837,8 @@
 			"MATERIALS": "-",
 			"VARIATIONS": "Esegui una posizione in equilibrio su una gamba quando viene dato il comando.\r\nMantieni l'equilibrio in una posizione sospesa quando viene dato il segnale.\r\nUtilizza diversi comandi (posizioni) da eseguire. Se oscilli, dai il comando successivo.\r\nCerca diverse posizioni per mantenere l'equilibrio.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come riesci a stare su una gamba nel modo piu veloce possibile?\r\nQuali posizioni di equilibrio sono facili da mantenere?",
-			"WILLINGNESS": "Quanto largo riesci ad allungare le tue braccia e le tue gambe mentre mantieni l'equilibrio su una gamba?\r\nCome ti senti quando perdi l'equilibrio?"
+			"WILLINGNESS": "Quanto largo riesci ad allungare le tue braccia e le tue gambe mentre mantieni l'equilibrio su una gamba?\r\nCome ti senti quando perdi l'equilibrio?",
+            "PDF": "Fai la posizione con una gamba sola a comando."
 		},
 		"UNSTABLE_DEVICES": {
 			"MOBAK": "Muoversi",
@@ -797,7 +848,8 @@
 			"MATERIALS": "Attrezzatura per l'equilibrio, palloni, pedalo, giroscopi sportivi, ecc.",
 			"VARIATIONS": "Chiudi gli occhi mentre stai in equilibrio.\r\nCambia la posizione delle tue braccia.\r\nCompi movimenti addizionali con le tue braccia (per es. cerchi).\r\nMantieni l'equilibrio su una gamba sull'attrezzo.\r\nFatti aiutare da un altro bambino.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "A cosa fai attenzione per mantenere l'equilibrio su un attrezzo instabile?\r\nCome cambia l'equilibrio su attrezzi instabili rispetto ad attrezzi stabili?",
-			"WILLINGNESS": "Su quali altri attrezzi puoi mantenere l'equilibrio?\r\nCome puoi far diventare il compito ancora piu difficile?"
+			"WILLINGNESS": "Su quali altri attrezzi puoi mantenere l'equilibrio?\r\nCome puoi far diventare il compito ancora piu difficile?",
+            "PDF": "Equilibrio sui dispositivi instabili."
 		}
 	},
 	"catching": "catching",
@@ -811,7 +863,8 @@
 			"MATERIALS": "Varie palle",
 			"VARIATIONS": "Lancia la palla in aria con entrambe le mani, batti le mani una o più volte e poi prendi la palla con entrambe le mani.\r\nLancia la palla in aria usando entrambe le mani e poi prendila con una sola mano.\r\nLancia la palla in aria usando entrambe le mani, tocca il pavimento con entrambe le mani e poi prendi la palla con entrambe le mani.\r\nLancia la palla in aria con entrambe le mani, girati su te stesso e poi prendi la palla.\r\nLancia la palla in aria con entrambe le mani e poi prendila dietro la schiena.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come riesci a riprendere la palla dopo averla lanciata?\r\nCosa fai con le mani?\r\nOsserva gli altri mentre prendono la palla - cosa fanno con le mani?",
-			"WILLINGNESS": "Quanto in alto puoi lanciare la palla e riprenderla?\r\nRiesci a farlo con palle diverse?\r\nDescrivi le emozioni che provi quando riesci a prendere la palla con successo."
+			"WILLINGNESS": "Quanto in alto puoi lanciare la palla e riprenderla?\r\nRiesci a farlo con palle diverse?\r\nDescrivi le emozioni che provi quando riesci a prendere la palla con successo.",
+            "PDF": "Lancia la palla in aria con entrambe le mani e prendila di nuovo."
 		},
 		"KEEP_THE_WATER_CLEAN": {
 			"MOBAK": "Muovere qualcosa",
@@ -821,7 +874,8 @@
 			"MATERIALS": "Palle, rete, racchetta di legno/badminton o (soft) tennis\r\nalternativamente: panca lunga/filo per separazione, coni, varie palle, palloncini",
 			"VARIATIONS": "Prendi le palle usando un cono.\r\nPrendi le palle con la mano sinistra per quelle a sinistra e con la mano destra per quelle a destra.\r\nPrendi le palle con una racchetta.\r\nAlterna tra lanci corti e lunghi (bambino A).\r\nCambia continuamente i ruoli.\r\nIl bambino A lancia la palla sopra la rete.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come ti posizioni al meglio per poter prendere bene la palla?\r\nDove guardi per poter prendere bene la palla?",
-			"WILLINGNESS": "Cosa cambia per te quando giochi contro un altro bambino?\r\nCome riuscite entrambi a giocare e prendere la palla?"
+			"WILLINGNESS": "Cosa cambia per te quando giochi contro un altro bambino?\r\nCome riuscite entrambi a giocare e prendere la palla?",
+            "PDF": "In coppia: un bambino gioca con le palle sopra la rete con una racchetta, l'altro bambino le prende."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Muovere qualcosa",
@@ -831,7 +885,8 @@
 			"MATERIALS": "Cerchi, varie palle",
 			"VARIATIONS": "Tenere due cerchi (bambino C).\r\nFar rotolare e prendere la palla da soli dall'altra parte (bambino A), in modo che si svolga il compito solo con un altro bambino che tiene il cerchio.\r\nCalciare la palla con il piede.\r\nIngrandire il gruppo facendo posizionare tutti i bambini con una palla sul lato lungo della palestra. Provare a colpire con la palla (farla rotolare, lanciare o calciare attraverso il cerchio) una palla da ginnastica o un cerchio, che viene fatto rotolare intorno alla palestra da un insegnante.\r\nGiocare la palla con una racchetta attraverso il cerchio.\r\nFar rotolare la palla con la mano.\r\nFar rotolare il cerchio intorno alla palestra e lanciare, giocare o far rotolare la palla attraverso il cerchio.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come riesci a far rotolare la palla attraverso il cerchio?\r\nCome cambia il movimento delle tue braccia quando fai rotolare la palla invece di lanciarla?",
-			"WILLINGNESS": "Quale delle varianti è la più divertente per te e perché?\r\nQuante volte di seguito riesci a prendere la palla? Fissa un obiettivo e prova a raggiungerlo.\r\nIn che altro modo puoi far rotolare/giocare la palla?"
+			"WILLINGNESS": "Quale delle varianti è la più divertente per te e perché?\r\nQuante volte di seguito riesci a prendere la palla? Fissa un obiettivo e prova a raggiungerlo.\r\nIn che altro modo puoi far rotolare/giocare la palla?",
+            "PDF": "Tre di loro: un bambino tiene in mano uno pneumatico. Gli altri due fanno rotolare una palla attraverso il cerchio."
 		},
 		"TIGERBALL": {
 			"MOBAK": "Muovere qualcosa",
@@ -841,7 +896,8 @@
 			"MATERIALS": "Varie palle",
 			"VARIATIONS": "Gioca con due palle (diverse) contemporaneamente.\r\nIngrandisci gradualmente il cerchio.\r\nVaria l'altezza del passaggio.\r\nIntegra variazioni di lancio (ad esempio, lanciare dal basso, usare entrambe le mani, sopra la testa).\r\nNon passare la palla al bambino direttamente accanto a te.\r\nFai rotolare la palla al bambino successivo.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Qual è il modo migliore per catturare la palla quando sei al centro?\r\nQual è il modo migliore per lanciare la palla a un altro bambino in modo che il bambino al centro non la prenda?",
-			"WILLINGNESS": "Quando è più divertente questo gioco?\r\nCome ti comporti quando noti che il bambino al centro non sta prendendo la palla?\r\nCome giocate insieme in modo che il bambino al centro non possa prendere la palla?"
+			"WILLINGNESS": "Quando è più divertente questo gioco?\r\nCome ti comporti quando noti che il bambino al centro non sta prendendo la palla?\r\nCome giocate insieme in modo che il bambino al centro non possa prendere la palla?",
+            "PDF": "Gruppo: Un bambino si trova al centro del cerchio. Gli altri si passano la palla l'un l'altro. Il bambino al centro cerca di prendere la palla. Inversione di ruolo."
 		},
 		"BOXING": {
 			"MOBAK": "Muovere qualcosa",
@@ -851,7 +907,8 @@
 			"MATERIALS": "Varie palle",
 			"VARIATIONS": "Usa varie palle.\r\nCambia la distanza.\r\nVaria l'altezza del passaggio (bambino A).\r\nIntegra variazioni di lancio (ad esempio, lanciare dal basso, usare entrambe le mani, sopra la testa).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come puoi lanciare la palla con precisione?\r\nCome ti comporti per poter prendere bene la palla?",
-			"WILLINGNESS": "Quante volte di seguito riesci a prendere di nuovo la palla a diverse distanze?\r\nCome riuscite a risolvere il compito insieme?\r\nRiesci a prendere di nuovo la palla a diverse distanze?"
+			"WILLINGNESS": "Quante volte di seguito riesci a prendere di nuovo la palla a diverse distanze?\r\nCome riuscite a risolvere il compito insieme?\r\nRiesci a prendere di nuovo la palla a diverse distanze?",
+            "PDF": "In coppia: un bambino ha una palla in mano e rigioca la palla con essa."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Muovere qualcosa",
@@ -861,7 +918,8 @@
 			"MATERIALS": "Varie palle",
 			"VARIATIONS": "Ora lancia la palla avanti e indietro a un altro bambino.\r\nCambia la disposizione da cerchio a altre forme (ad esempio, quadrato, triangolo, ellisse).\r\nDopo il passaggio, vai nella posizione a cui hai passato.\r\nIntegra variazioni di lancio (ad esempio, lanciare dal basso, usare entrambe le mani, sopra la testa).\r\nFai rotolare la palla con la mano, calcia con il piede o gioca con la racchetta.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come ti prepari a prendere la palla?\r\nCosa guardi quando la palla vola verso di te?\r\nPerché è utile guardare il bambino a cui stai per lanciare la palla?",
-			"WILLINGNESS": "Riesci a far prendere la palla a ciascun bambino nel cerchio una volta senza che tocchi terra?\r\nQual è il modo più veloce ed efficace per lanciare e prendere la palla nel cerchio?"
+			"WILLINGNESS": "Riesci a far prendere la palla a ciascun bambino nel cerchio una volta senza che tocchi terra?\r\nQual è il modo più veloce ed efficace per lanciare e prendere la palla nel cerchio?",
+            "PDF": "Gruppo: Mettetevi in cerchio e passatevi la palla l'un l'altro. Non sono ammessi doppi passaggi."
 		},
 		"REACTING": {
 			"MOBAK": "Muovere qualcosa",
@@ -871,7 +929,8 @@
 			"MATERIALS": "Palle",
 			"VARIATIONS": "Lancia la palla a diverse altezze.\r\nFai rimbalzare la palla a terra e riprendila.\r\nUsa diverse palle.\r\nDue o tre bambini si lanciano la palla a vicenda. Aiuto: Lascia che la palla rimbalzi a terra una volta.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "A cosa presti attenzione per aprire gli occhi solo poco prima di prendere la palla?\r\nQuale palla riesci a prendere meglio? Spiega.",
-			"WILLINGNESS": "Riuscirai anche a prendere la palla alla cieca?\r\nCome passi la palla a un altro bambino in modo che sia facile per lui prenderla?"
+			"WILLINGNESS": "Riuscirai anche a prendere la palla alla cieca?\r\nCome passi la palla a un altro bambino in modo che sia facile per lui prenderla?",
+            "PDF": "Lancia la palla in aria con gli occhi chiusi e prendila di nuovo."
 		},
 		"WALL_BALL": {
 			"MOBAK": "Muovere qualcosa",
@@ -881,7 +940,8 @@
 			"MATERIALS": "Palle",
 			"VARIATIONS": "Usa diverse palle.\r\nSegna una zona bersaglio sul muro.\r\nGioca su un solo muro.\r\nDopo un punto di rimbalzo, la squadra di successo deve andare dietro una linea concordata prima del prossimo attacco.\r\nFai rotolare la palla tra i compagni invece di lanciarla.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "A cosa presti attenzione per riuscire a fare un punto di rimbalzo?\r\nCome passi la palla ai tuoi compagni di squadra in modo che la squadra avversaria non possa prenderla?",
-			"WILLINGNESS": "Come cambia la traiettoria quando cambia la palla?\r\nQuali idee hai per cambiare il gioco?"
+			"WILLINGNESS": "Come cambia la traiettoria quando cambia la palla?\r\nQuali idee hai per cambiare il gioco?",
+            "PDF": "Gruppo: Dividi in due squadre. Un punto può essere fatto se un membro della squadra lancia la palla contro il muro e un altro membro della squadra la prende."
 		},
 		"TRAJECTORY": {
 			"MOBAK": "Muovere qualcosa",
@@ -891,7 +951,8 @@
 			"MATERIALS": "Palle",
 			"VARIATIONS": "Lancia la palla contro il muro in modo che rimbalzi sul pavimento prima di prenderla.\r\nLancia contro il muro da diverse posizioni.\r\nPassa la palla l'un l'altro in coppia usando il muro. La palla deve toccare il muro prima che l'altro bambino la prenda.\r\nGioca uno contro uno: Concordate una zona in cui la palla può essere giocata contro il muro e dove deve atterrare di nuovo a terra. Se l'altro bambino non riesce a prendere la palla, guadagni un punto.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come fai a sapere dove va la palla quando rimbalza contro il muro?\r\nCome ti prepari per prendere la palla?",
-			"WILLINGNESS": "Quante volte di seguito riesci a riprendere la palla?\r\nCome ti senti quando non riesci a prendere la palla?"
+			"WILLINGNESS": "Quante volte di seguito riesci a riprendere la palla?\r\nCome ti senti quando non riesci a prendere la palla?",
+            "PDF": "Lancia la palla contro il muro e prendila di nuovo."
 		},
 		"FLYING_BALL": {
 			"MOBAK": "Muovere qualcosa",
@@ -901,7 +962,8 @@
 			"MATERIALS": "Palla, tappetini da ginnastica",
 			"VARIATIONS": "Usa diverse palle.\r\nVaria la zona di atterraggio.\r\nCambia la dimensione del campo da gioco.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Quali tattiche usa la tua squadra per segnare punti?\r\nCosa cambia quando il campo da gioco diventa più grande?",
-			"WILLINGNESS": "Riuscirai a prendere la palla nel salto e atterrare nella zona di atterraggio?\r\nCome lanci la palla al tuo compagno di squadra in modo che riesca a prendere la palla nella zona di atterraggio?\r\nQuali regole aggiungeresti per cambiare il gioco?"
+			"WILLINGNESS": "Riuscirai a prendere la palla nel salto e atterrare nella zona di atterraggio?\r\nCome lanci la palla al tuo compagno di squadra in modo che riesca a prendere la palla nella zona di atterraggio?\r\nQuali regole aggiungeresti per cambiare il gioco?",
+            "PDF": "Gruppo: Dividi in due squadre. Un punto può essere segnato se un membro della squadra riesce a prendere la palla saltando nella zona di atterraggio."
 		},
 		"FISHERMAN": {
 			"MOBAK": "Muovere qualcosa",
@@ -911,7 +973,8 @@
 			"MATERIALS": "Palle",
 			"VARIATIONS": "Lancia le palle rapidamente una dopo l'altra.\r\nDai un segnale acustico prima di lanciare la palla.\r\nIl bambino A dice dove verrà lanciata la palla.\r\nIl bambino B sta pronto con gli occhi chiusi e cerca di reagire il più rapidamente possibile.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "A cosa presti attenzione quando prendi le palle?\r\nCome tieni le mani e le braccia per prendere le palle?",
-			"WILLINGNESS": "Hai un'idea di come cambiare il gioco e renderlo più emozionante?\r\nCome bambino A, come lanci la palla al bambino B in modo che sia sfidante ma comunque possibile prendere le palle?"
+			"WILLINGNESS": "Hai un'idea di come cambiare il gioco e renderlo più emozionante?\r\nCome bambino A, come lanci la palla al bambino B in modo che sia sfidante ma comunque possibile prendere le palle?",
+            "PDF": "In coppia: lanciatevi le palle l'un l'altro a diverse altezze."
 		}
 	},
 	"throwing": "throwing",
@@ -924,7 +987,8 @@
 			"MATERIALS": "Palline da giocoleria, mattonelle di moquette, [vari altri tipi di palline]",
 			"VARIATIONS": "Integra varianti di lancio (ad esempio, da sotto, usando entrambe le mani, sopra la testa).\r\nUsa palline diverse.\r\nAumenta o diminuisci la distanza tra le mattonelle.\r\nUsa mattonelle più piccole o più grandi.\r\nCambia la disposizione delle mattonelle.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa devi cambiare se lanci sui campi 1 o 12?\r\nQual è il modo più preciso per lanciare la pallina?",
-			"WILLINGNESS": "Come disporresti i campi?\r\nQuali altre cose in palestra puoi usare come bersagli?"
+			"WILLINGNESS": "Come disporresti i campi?\r\nQuali altre cose in palestra puoi usare come bersagli?",
+            "PDF": "Lancia la palla da giocoliere al quadrato 1 e poi salta dal quadrato 2 al 12 e viceversa. Quindi lancia la palla nella casella 2 e salta alla casella 1 e poi 3 - 12 e viceversa. E così via."
 		},
 		"THROWING_STATIONS": {
 			"MOBAK": "Muovere qualcosa",
@@ -934,7 +998,8 @@
 			"MATERIALS": "Varie palle, casse da ginnastica, cerchi",
 			"VARIATIONS": "Lancia la palla stando seduto.\r\nStai su una cassa da ginnastica, lancia le palle in un cestino.\r\nLancia una palla (con la mano sinistra e destra) sopra una cassa da ginnastica e cerca di prenderla dopo.\r\nLancia le palle con la mano sinistra e destra sopra o attraverso le spalliere in modo che un altro bambino possa prenderle.\r\nColpisci tutti e quattro i coni segnalatori da una cassa da ginnastica usando cinque palle.\r\nLancia la palla in tutti i quadrati delle spalliere.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa cambia quando lanci la palla con una mano o con due mani?\r\nCome ti posizioni quando lanci?",
-			"WILLINGNESS": "Prefissati un obiettivo specifico: quante palle riesci a lanciare nella cassa di seguito?\r\nCosa cambia quando sfidi un altro bambino?\r\nRiesci a colpire la cassa anche da distanze diverse?"
+			"WILLINGNESS": "Prefissati un obiettivo specifico: quante palle riesci a lanciare nella cassa di seguito?\r\nCosa cambia quando sfidi un altro bambino?\r\nRiesci a colpire la cassa anche da distanze diverse?",
+            "PDF": "Lancia la palla in area"
 		},
 		"KEEP_YOUR_GARDEN_CLEAN": {
 			"MOBAK": "Muovere qualcosa",
@@ -944,7 +1009,8 @@
 			"MATERIALS": "Panche lunghe, varie palle",
 			"VARIATIONS": "Tra le due squadre c'è una distanza di 3 m. Questo spazio è una zona di gioco vietata (può essere separata usando coni e panche lunghe). Le palle morbide possono essere solo lanciate e i palloni da calcio possono essere solo calciati. Le squadre possono anche ottenere punti calciando/lanciando le palle contro il muro della squadra avversaria.\r\nGioca con due panche lunghe (con un po' di distanza tra loro).\r\nLa panca lunga è capovolta e posizionata su due casse da ginnastica. Lancia le palle sotto la panca nel campo avversario.\r\nRisolvi un compito dopo ogni lancio, cioè, tocca una parete, lancia prima la palla contro la parete e poi prendila.\r\nInventa collettivamente regole aggiuntive per il gioco.\r\nIntegra varianti di lancio (ad esempio, lancia da sotto, usando entrambe le mani, sopra la testa).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Qual è il modo più veloce per lanciare la palla dall'altra parte?\r\nLanci la palla in modo diverso quando la prendi al volo rispetto a quando la raccogli da terra?",
-			"WILLINGNESS": "Cosa fate insieme come squadra per mantenere il giardino pulito?\r\nA cosa presti attenzione per non colpire accidentalmente un altro bambino?"
+			"WILLINGNESS": "Cosa fate insieme come squadra per mantenere il giardino pulito?\r\nA cosa presti attenzione per non colpire accidentalmente un altro bambino?",
+            "PDF": "Gruppi: Dividi in due squadre. Lancia il maggior numero possibile di palloni nel campo di gioco dell'altra squadra durante il tempo assegnato."
 		},
 		"SCORE_MASTER": {
 			"MOBAK": "Muovere qualcosa",
@@ -954,7 +1020,8 @@
 			"MATERIALS": "Palle, vari bersagli (ad esempio, mattonelle di moquette, cerchi, tappetini)",
 			"VARIATIONS": "Integra varianti di lancio (ad esempio, lancia da sotto, usando entrambe le mani, sopra la testa).\r\nAumenta o diminuisci la distanza dei bersagli.\r\nUtilizza un limite di tempo per colpire i bersagli.\r\nUsa vari bersagli.\r\nScegli diversi bersagli sul muro.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Quale bersaglio colpisci più facilmente e perché?\r\nCome lanci meglio per colpire un bersaglio?",
-			"WILLINGNESS": "Fai un piano: In quale ordine vuoi colpire i bersagli per necessitare di meno lanci possibile?\r\nProva il compito in coppia: Quanti lanci ti servono insieme per colpire tutti i bersagli una volta?\r\nRiesci a colpire ogni bersaglio con un solo lancio ciascuno?"
+			"WILLINGNESS": "Fai un piano: In quale ordine vuoi colpire i bersagli per necessitare di meno lanci possibile?\r\nProva il compito in coppia: Quanti lanci ti servono insieme per colpire tutti i bersagli una volta?\r\nRiesci a colpire ogni bersaglio con un solo lancio ciascuno?",
+            "PDF": "Colpisci tutti i bersagli con il minor numero di lanci possibile."
 		},
 		"FALLING_OVER": {
 			"MOBAK": "Muovere qualcosa",
@@ -964,7 +1031,8 @@
 			"MATERIALS": "Panche lunghe, bersagli (ad esempio, pali, vasetti di yogurt, clave), varie palle",
 			"VARIATIONS": "Cambia la distanza del bersaglio.\r\nPosiziona 2 panche lunghe in una posizione a V. Metti i bersagli su di esse e prova a colpirli da varie posizioni.\r\nLancia stando seduto, in ginocchio, ecc.\r\nCambia la disposizione dei bersagli.\r\nMetti i bersagli su un altro livello (pavimento/scatola da palestra).\r\nLancia con l'altra mano.\r\nUsa varie palle.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Qual è il modo migliore per te per abbattere i bersagli?\r\nCosa devi cambiare quando rotoli o lanci la palla?",
-			"WILLINGNESS": "Quali altri oggetti da lanciare potresti usare?\r\nDisporre un certo numero di bersagli per un compagno di classe. Puoi aiutarlo a colpirli tutti?"
+			"WILLINGNESS": "Quali altri oggetti da lanciare potresti usare?\r\nDisporre un certo numero di bersagli per un compagno di classe. Puoi aiutarlo a colpirli tutti?",
+            "PDF": "Lancia la palla al bersaglio in modo tale che cada."
 		},
 		"HIT_THE_TARGET": {
 			"MOBAK": "Muovere qualcosa",
@@ -974,7 +1042,8 @@
 			"MATERIALS": "Contenitori (ad esempio, secchi, grandi scatole, piccole scatole rovesciate), varie palle.",
 			"VARIATIONS": "Integra variazioni di lancio (ad esempio, lanciare dal basso, usare entrambe le mani, sopra la testa).\r\nFai muovere i contenitori ad altri bambini.\r\nMetti i contenitori vicino a una parete e lancia la palla contro la parete, in modo che cada nel contenitore.\r\nVaria la distanza dei contenitori.\r\nUsa varie palle.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come dovresti posizionare il braccio per poter mirare bene quando lanci?\r\nDove guardi per colpire il contenitore?",
-			"WILLINGNESS": "Come ti senti a colpire con successo il contenitore con una palla?\r\nRiesci a colpire il contenitore contemporaneamente a un altro bambino?\r\nQuali altri contenitori potremmo usare come bersagli?"
+			"WILLINGNESS": "Come ti senti a colpire con successo il contenitore con una palla?\r\nRiesci a colpire il contenitore contemporaneamente a un altro bambino?\r\nQuali altri contenitori potremmo usare come bersagli?",
+            "PDF": "Gettare le palline nei contenitori in ordine (dal grande al piccolo)."
 		},
 		"THROWING_OFF": {
 			"MOBAK": "Muovere qualcosa",
@@ -984,7 +1053,8 @@
 			"MATERIALS": "Scatole da palestra, panni, varie palle.",
 			"VARIATIONS": "Attacca panni e cerchi al muro. Prova a colpire un panno o l'interno di un cerchio.\r\nIntegra variazioni di lancio (ad esempio, lanciare dal basso, usare entrambe le mani, sopra la testa).\r\nLascia cadere i panni più velocemente (bambino su una scatola da palestra).\r\nAumenta o diminuisci la distanza del bersaglio.\r\nLascia cadere vari oggetti (bambino su scatola da palestra).\r\nUsa varie palle.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Quando lanci la palla in modo da colpire il panno?\r\nCome cambia il tuo lancio quando cambi la posizione del braccio?",
-			"WILLINGNESS": "Riesci a colpire due panni contemporaneamente?\r\nCosa guardi quando lasci cadere il panno in modo che l'altro bambino possa colpirlo bene?"
+			"WILLINGNESS": "Riesci a colpire due panni contemporaneamente?\r\nCosa guardi quando lasci cadere il panno in modo che l'altro bambino possa colpirlo bene?",
+            "PDF": "Colpisci i panni prima che siano a terra."
 		},
 		"DICE": {
 			"MOBAK": "Muovere qualcosa",
@@ -994,7 +1064,8 @@
 			"MATERIALS": "Varie palle, scatola da palestra, lunga panca, dadi.",
 			"VARIATIONS": "Ingrandisci o riduci le aree dei bersagli.\r\nIntegra variazioni di lancio (ad esempio, lanciare dal basso, usare entrambe le mani, sopra la testa).\r\nAumenta o diminuisci la distanza dei bersagli.\r\nUsa varie palle.\r\nColpisci tutti e 6 i numeri due volte con una palla.\r\nImposta un limite di tempo per colpire i 6 numeri.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa devi cambiare quando vuoi colpire l'1 rispetto al 6?\r\nQual è il modo migliore per te per colpire i numeri?",
-			"WILLINGNESS": "Come cambia il compito per te quando c'è un limite di tempo per colpire tutti i numeri una volta?\r\nColpisci anche i numeri quando lanci con l'altra mano?"
+			"WILLINGNESS": "Come cambia il compito per te quando c'è un limite di tempo per colpire tutti i numeri una volta?\r\nColpisci anche i numeri quando lanci con l'altra mano?",
+            "PDF": "Tira i dadi e mira al numero che mostra il dado."
 		},
 		"ENCHANT_AND_REDEEM": {
 			"MOBAK": "Muovere qualcosa",
@@ -1004,7 +1075,8 @@
 			"MATERIALS": "Palle morbide",
 			"VARIATIONS": "Fai rotolare una palla più grande.\r\nPosiziona due acchiappatori in un campo più grande, dove esistono misure protettive, come scatole da palestra, ecc. Un bambino può usare una misura protettiva per fare una pausa finché un altro bambino cerca protezione.\r\nCollettivamente, trova altre possibilità di riscatto.\r\nCambia il gioco secondo le tue idee.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "A cosa presti attenzione quando vuoi colpire un bambino in movimento?\r\nCome lanci la palla in modo da colpire le gambe dei bambini?",
-			"WILLINGNESS": "Con quali nuove regole ti divertiresti di più nel gioco?\r\nCome cambia il gioco per te se più acchiappatori catturano?\r\nTi piace il gioco? Perché/Perché no?"
+			"WILLINGNESS": "Con quali nuove regole ti divertiresti di più nel gioco?\r\nCome cambia il gioco per te se più acchiappatori catturano?\r\nTi piace il gioco? Perché/Perché no?",
+            "PDF": "Gruppo: Un bambino cerca di colpire gli altri con una palla. Chiunque venga colpito si trova con le gambe a cavalcioni. Sei redento da qualcuno che striscia sotto le tue gambe."
 		},
 		"THROWING_HOOPS": {
 			"MOBAK": "Muovere qualcosa",
@@ -1014,7 +1086,8 @@
 			"MATERIALS": "Coni, cerchi",
 			"VARIATIONS": "Lancia con gli occhi chiusi.\r\nCambia la posizione di partenza (ad esempio, posizione accovacciata, posizione seduta, movimento di rotazione).\r\nAumenta o diminuisci la distanza del cono.\r\nLancia da varie direzioni (ad esempio, dal basso, dall'alto, di lato).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa cambi quando lanci un cerchio rispetto a una palla?\r\nDa quale posizione colpisci meglio il cono?",
-			"WILLINGNESS": "Qual è la distanza maggiore da cui riesci a colpire il cono in modo sicuro?\r\nCome ti senti a lanciare il cerchio con gli occhi chiusi?\r\nRiesci a colpire il cono con gli occhi chiusi?"
+			"WILLINGNESS": "Qual è la distanza maggiore da cui riesci a colpire il cono in modo sicuro?\r\nCome ti senti a lanciare il cerchio con gli occhi chiusi?\r\nRiesci a colpire il cono con gli occhi chiusi?",
+            "PDF": "Lancia il cerchio attorno al cono."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Muovere qualcosa",
@@ -1024,7 +1097,8 @@
 			"MATERIALS": "Cerchi, varie palle",
 			"VARIATIONS": "Tenere due cerchi (bambino C).\r\nFar rotolare e prendere la palla da soli dall'altra parte (bambino A), in modo che si svolga il compito solo con un altro bambino che tiene il cerchio.\r\nCalciare la palla con il piede.\r\nIngrandire il gruppo facendo posizionare tutti i bambini con una palla sul lato lungo della palestra. Provare a colpire con la palla (farla rotolare, lanciare o calciare attraverso il cerchio) una palla da ginnastica o un cerchio, che viene fatto rotolare intorno alla palestra da un insegnante.\r\nGiocare la palla con una racchetta attraverso il cerchio.\r\nFar rotolare la palla con la mano.\r\nFar rotolare il cerchio intorno alla palestra e lanciare, giocare o far rotolare la palla attraverso il cerchio.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come riesci a far rotolare la palla attraverso il cerchio?\r\nCome cambia il movimento delle tue braccia quando fai rotolare la palla invece di lanciarla?",
-			"WILLINGNESS": "Quale delle varianti è la più divertente per te e perché?\r\nQuante volte di seguito riesci a prendere la palla? Fissa un obiettivo e prova a raggiungerlo.\r\nIn che altro modo puoi far rotolare/giocare la palla?"
+			"WILLINGNESS": "Quale delle varianti è la più divertente per te e perché?\r\nQuante volte di seguito riesci a prendere la palla? Fissa un obiettivo e prova a raggiungerlo.\r\nIn che altro modo puoi far rotolare/giocare la palla?",
+            "PDF": "Tre di loro: un bambino tiene in mano uno pneumatico. Gli altri due fanno rotolare una palla attraverso il cerchio."
 		},
 		"TIGER_BALL": {
 			"MOBAK": "Muovere qualcosa",
@@ -1034,7 +1108,8 @@
 			"MATERIALS": "Palle varie",
 			"VARIATIONS": "Gioca con due palle (diverse) contemporaneamente.\r\nIngrandisci gradualmente il cerchio.\r\nVaria l'altezza del passaggio.\r\nIntegra variazioni di lancio (ad esempio, lanciare dal basso, usare entrambe le mani, sopra la testa).\r\nNon passare la palla al bambino direttamente accanto a te.\r\nFai rotolare la palla al bambino successivo",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Qual è il modo migliore per catturare la palla quando sei al centro?\r\nQual è il modo migliore per lanciare la palla a un altro bambino in modo che il bambino al centro non la prenda?",
-			"WILLINGNESS": "Quando è più divertente questo gioco?\r\nCome ti comporti quando noti che il bambino al centro non sta prendendo la palla?\r\nCome giocate insieme in modo che il bambino al centro non possa prendere la palla?"
+			"WILLINGNESS": "Quando è più divertente questo gioco?\r\nCome ti comporti quando noti che il bambino al centro non sta prendendo la palla?\r\nCome giocate insieme in modo che il bambino al centro non possa prendere la palla?",
+            "PDF": "Gruppo: Un bambino si trova al centro del cerchio. Gli altri si passano la palla l'un l'altro. Il bambino al centro cerca di prendere la palla. Inversione di ruolo."
 		},
 		"BOXING": {
 			"MOBAK": "Muovere qualcosa",
@@ -1044,7 +1119,8 @@
 			"MATERIALS": "Varie palle",
 			"VARIATIONS": "Usa varie palle.\r\nCambia la distanza.\r\nVaria l'altezza del passaggio (bambino A).\r\nIntegra variazioni di lancio (ad esempio, lanciare dal basso, usare entrambe le mani, sopra la testa).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come puoi lanciare la palla con precisione?\r\nCome ti comporti per poter prendere bene la palla?",
-			"WILLINGNESS": "Quante volte di seguito riesci a prendere di nuovo la palla a diverse distanze?\r\nCome riuscite a risolvere il compito insieme?\r\nRiesci a prendere di nuovo la palla a diverse distanze?"
+			"WILLINGNESS": "Quante volte di seguito riesci a prendere di nuovo la palla a diverse distanze?\r\nCome riuscite a risolvere il compito insieme?\r\nRiesci a prendere di nuovo la palla a diverse distanze?",
+            "PDF": "In coppia: un bambino ha una palla in mano e rigioca la palla con essa."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Muovere qualcosa",
@@ -1054,7 +1130,8 @@
 			"MATERIALS": "Palle varie",
 			"VARIATIONS": "Ora lancia la palla avanti e indietro a un altro bambino.\r\nCambia la disposizione da cerchio a altre forme (ad esempio, quadrato, triangolo, ellisse).\r\nDopo il passaggio, vai nella posizione a cui hai passato.\r\nIntegra variazioni di lancio (ad esempio, lanciare dal basso, usare entrambe le mani, sopra la testa).\r\nFai rotolare la palla con la mano, calcia con il piede o gioca con la racchetta.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come ti prepari a prendere la palla?\r\nCosa guardi quando la palla vola verso di te?\r\nPerché è utile guardare il bambino a cui stai per lanciare la palla?",
-			"WILLINGNESS": "Riesci a far prendere la palla a ciascun bambino nel cerchio una volta senza che tocchi terra?\r\nQual è il modo più veloce ed efficace per lanciare e prendere la palla nel cerchio?"
+			"WILLINGNESS": "Riesci a far prendere la palla a ciascun bambino nel cerchio una volta senza che tocchi terra?\r\nQual è il modo più veloce ed efficace per lanciare e prendere la palla nel cerchio?",
+            "PDF": "Gruppo: Mettetevi in cerchio e passatevi la palla l'un l'altro. Non sono ammessi doppi passaggi."
 		},
 		"WILD_PIG": {
 			"MOBAK": "Muovere qualcosa",
@@ -1064,7 +1141,8 @@
 			"MATERIALS": "Palla medica, panca, palline da tennis",
 			"VARIATIONS": "Prova diversi tipi di lancio.\r\nPosiziona una palla da basket o una palla morbida al centro come \"maiale selvatico\".\r\nCambia la distanza delle panche lunghe.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Quale tecnica di lancio è la migliore per colpire il \"maiale selvatico\"?\r\nCome ti posizioni per lanciare nel modo più preciso possibile?",
-			"WILLINGNESS": "Hai qualche idea su come rendere il gioco più emozionante?\r\nCome ti senti quando la tua squadra vince?"
+			"WILLINGNESS": "Hai qualche idea su come rendere il gioco più emozionante?\r\nCome ti senti quando la tua squadra vince?",
+            "PDF": "Gruppo: Forma due squadre. Ogni squadra cerca di spingere la palla al centro contro la panchina avversaria."
 		},
 		"DISTANCE_THROWING": {
 			"MOBAK": "Muovere qualcosa",
@@ -1074,7 +1152,8 @@
 			"MATERIALS": "Palle",
 			"VARIATIONS": "Cambia la distanza dopo ogni lancio.\r\nProva diversi tipi di lancio.\r\nUsa diverse palle.\r\nFai rotolare la palla.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come cambi il tuo lancio quando l'altro bambino è più vicino a te?\r\nCome puoi lanciare una palla il più lontano e accuratamente possibile?",
-			"WILLINGNESS": "In quali modi puoi lanciare la palla? Quanti passaggi puoi fare senza che la palla cada a terra?\r\nQual è la distanza più lontana a cui riesci a lanciare la palla all'altro bambino?"
+			"WILLINGNESS": "In quali modi puoi lanciare la palla? Quanti passaggi puoi fare senza che la palla cada a terra?\r\nQual è la distanza più lontana a cui riesci a lanciare la palla all'altro bambino?",
+            "PDF": "A coppie: passatevi la palla a vicenda su distanze diverse."
 		}
 	},
 	"bouncing": "bouncing",
@@ -1087,7 +1166,8 @@
 			"MATERIALS": "Diverse palle, cerchi, nastro adesivo (per marcare il quadrato)",
 			"VARIATIONS": "Modifica la grandezza del quadrato.\r\nUsa diverse palle.\r\nMetti un tempo limite per completare il compito.\r\nModifica il numero di cerchi.\r\nModifica la disposizione dei cerchi.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Qual è il miglior modo di palleggiare con la palla?\r\nPalleggi con ogni palla allo stesso modo?",
-			"WILLINGNESS": "Riesci a continuare a palleggiare nel prossimo cerchio senza fermare la palla?\r\nQuale disposizione dei cerchi è la piu divertente secondo te e perché?\r\nCome ci si sente ad avere un limite di tempo per questo compito?"
+			"WILLINGNESS": "Riesci a continuare a palleggiare nel prossimo cerchio senza fermare la palla?\r\nQuale disposizione dei cerchi è la piu divertente secondo te e perché?\r\nCome ci si sente ad avere un limite di tempo per questo compito?",
+            "PDF": "Rimbalza 5 volte nel cerchio."
 		},
 		"BOUNCING_STATIONS": {
 			"MOBAK": "Muovere qualcosa",
@@ -1097,7 +1177,8 @@
 			"MATERIALS": "Diverse palle, panchine lunghe.",
 			"VARIATIONS": "Cammina attraverso la palestra e palleggia con la palla senza perderla (usa entrambe le mani).\r\nPalleggia la palla intorno al tuo corpo senza interruzioni.\r\nPalleggia con due palle simultaneamente senza perderle.\r\nCammina su una panchina lunga mentre palleggi con una palla a terra o sulla panchina (dopo con due palle simultaneamente).\r\nDue panchine lunghe sono posizionate parallelamente con una distanza di 20 cm. Cammina su entrambe le panchine mentre palleggi con una palla a terra o su una delle panchine (dopo con due palle simultaneamente).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa cambia quando palleggi vicino al tuo corpo o con il tuo braccio teso in avanti?\r\nQuali parti delle tue mani toccano la palla mentre palleggi?",
-			"WILLINGNESS": "Prova a palleggiare contemporaneamente con un altro bambino - Come ci si sente?\r\nImponi un obiettivo di palleggi specifico: Quanti palleggi vuoi fare di fila? Ci si sente diversamente rispetto a palleggiare senza un obiettivo e se cosi, in che modo?\r\nPuoi palleggiare con un ritmo?"
+			"WILLINGNESS": "Prova a palleggiare contemporaneamente con un altro bambino - Come ci si sente?\r\nImponi un obiettivo di palleggi specifico: Quanti palleggi vuoi fare di fila? Ci si sente diversamente rispetto a palleggiare senza un obiettivo e se cosi, in che modo?\r\nPuoi palleggiare con un ritmo?",
+            "PDF": "Rimbalza con entrambe le mani."
 		},
 		"BOUNCING_OVER_CONES": {
 			"MOBAK": "Muovere qualcosa",
@@ -1107,7 +1188,8 @@
 			"MATERIALS": "Diverse palle, Coni",
 			"VARIATIONS": "Lancia la palla sopra il cono usando entrambe le mani mentre palleggi.\r\nPalleggia alternando la mano destra e sinistra.\r\nPalleggia verso un cono, fai rimbalzare la palla verticalmente prima del cono, gira intorno al cono una volta intera e poi continua a palleggiare.\r\nUsa diverse palle",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come riesci ad avanzare palleggiando con la palla?\r\nCome puoi controllare al meglio la palla?",
-			"WILLINGNESS": "Come riesci ad alternare mano mentre palleggi?\r\nQuanto sicuro riesci a riprendere la palla dopo il cono? (1: per niente, 5: molto bene)?\r\nCome cambia il tuo palleggio, quando gli altri bambini ti guardano?"
+			"WILLINGNESS": "Come riesci ad alternare mano mentre palleggi?\r\nQuanto sicuro riesci a riprendere la palla dopo il cono? (1: per niente, 5: molto bene)?\r\nCome cambia il tuo palleggio, quando gli altri bambini ti guardano?",
+            "PDF": "Rimbalza sul cono con la palla."
 		},
 		"SEAT_BOUNCING": {
 			"MOBAK": "Muovere qualcosa",
@@ -1117,7 +1199,8 @@
 			"MATERIALS": "Diverse palle, coni",
 			"VARIATIONS": "Palleggia alternando la mano sinistra a quella destra.\r\nGirare intorno ai coni mentre si palleggia prima di sedersi.\r\nPalleggiare mentre ci si avvicina al cono, mettere un piede sulla punta del cono, palleggiare la palla tre volte e abbassare il piede.\r\nContare chi ha totalizzato piu punti alla fine del gioco (1 punto per ogni palleggio corretto, in tutto sei punti per i palleggi da seduti sul cono).\r\nUsare diversi tipi di palle.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa cambia nei tuoi movimenti quando la distanza tra il suolo e la mano cambia?\r\nCosa fai per continuare a palleggiare bene dopo il salto sul cono?",
-			"WILLINGNESS": "Riesci a sederti per terra mentre palleggi?\r\nImmagina di essere un animale a scelta (per esempio una scimmia, un serpente, un uccello) e prova a palleggiare come questo animale! Come ti senti mentre palleggi come un animale?\r\nSe vedi un bambino che non riesce a fare questo esercizio, quali consigli puoi dargli?"
+			"WILLINGNESS": "Riesci a sederti per terra mentre palleggi?\r\nImmagina di essere un animale a scelta (per esempio una scimmia, un serpente, un uccello) e prova a palleggiare come questo animale! Come ti senti mentre palleggi come un animale?\r\nSe vedi un bambino che non riesce a fare questo esercizio, quali consigli puoi dargli?",
+            "PDF": "Salta oltre il cono con un paranco scorrevole. Siediti sul cappello e rimbalza 3 volte con la mano sinistra e 3 volte con la mano destra. Vai al cono successivo."
 		},
 		"NUMBERBALL_BOUNCING": {
 			"MOBAK": "Muovere qualcosa",
@@ -1127,7 +1210,8 @@
 			"MATERIALS": "Palle, coni, canestro",
 			"VARIATIONS": "Cambia la porta di coni.\r\nPiazza ostacoli sotto il canestro.\r\nAlcuni bambini della squadra avversaria possono cercare di allontanare la palla del numero corrispondente dopo aver tirato.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come riesci ad arrivare più velocemente al canestro rispetto al bambino dell'altra squadra?\r\nDove rivolgi lo sguardo mentre palleggi con la palla nel campo di gioco?",
-			"WILLINGNESS": "Come possono essere aiutati i bambini che hanno difficoltà nel palleggiare?\r\nHai qualche idea su come rendere piu emozionante il gioco?"
+			"WILLINGNESS": "Come possono essere aiutati i bambini che hanno difficoltà nel palleggiare?\r\nHai qualche idea su come rendere piu emozionante il gioco?",
+            "PDF": "Rimbalza attraverso il cancello del guscio e lancia a canestro quando viene chiamato il tuo numero."
 		},
 		"SURROUNDING_HOOPS_WHILE_BOUNCING": {
 			"MOBAK": "Muovere qualcosa",
@@ -1137,7 +1221,8 @@
 			"MATERIALS": "Coni, cerchi da ginnastica, parte superiore di una cassa da palestra, una palla per bambino",
 			"VARIATIONS": "Corri attraverso i due cerchi con un solo contatto per piede e rimbalza la palla a destra e a sinistra.\r\nCambia la distanza tra i cerchi.\r\nPalleggia intorno ai due cerchi con passi di riposizionamento (o salto finale) in un doppio arco/con una rotazione completa (1 volta a destra e 1 volta a sinistra).\r\nCostruisci un altro percorso per palleggiare.\r\nUsa palle diversi.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come riesci a cambiare direzione velocemente quando palleggi?\r\nè piu facile palleggiare con la palla sul suolo o sulla parte superiore della cassa da palestra? Perché?",
-			"WILLINGNESS": "Hai qualche idea su come cambiare il percorso per divertirsi di piu?\r\nGareggia contro un amico - Chi riesce a completare il percorso piu velocemente?"
+			"WILLINGNESS": "Hai qualche idea su come cambiare il percorso per divertirsi di piu?\r\nGareggia contro un amico - Chi riesce a completare il percorso piu velocemente?",
+            "PDF": "Rimbalza attraverso il cancello del guscio e lancia a canestro quando viene chiamato il tuo numero."
 		},
 		"SHADOW_BOUNCING": {
 			"MOBAK": "Muovere qualcosa",
@@ -1147,7 +1232,8 @@
 			"MATERIALS": "Palle, ostacoli eventualmente",
 			"VARIATIONS": "Posizionare oggetti nella palestra che servono come ostacoli.\r\nScambiare i ruoli dopo il terzo cambiamento di direzione.\r\nUsare palle diverse.\r\nUsare entrambe le mani per palleggiare.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Riesci a reagire velocemente al bambino A?\r\nDove guardi quando sei il bambino \"ombra\"?",
-			"WILLINGNESS": "Cosa puoi fare come bambino A per far si che il Bambino B riesca a seguirti bene?\r\nCome bambino A, immagina di essere un animale - come palleggi? Il bambino B riesce a indovinare di quale animale si tratta?"
+			"WILLINGNESS": "Cosa puoi fare come bambino A per far si che il Bambino B riesca a seguirti bene?\r\nCome bambino A, immagina di essere un animale - come palleggi? Il bambino B riesce a indovinare di quale animale si tratta?",
+            "PDF": "A coppie: un bambino apre la strada, livido, l'altro segue."
 		},
 		"BENCH_BOUNCING": {
 			"MOBAK": "Muovere qualcosa",
@@ -1157,7 +1243,8 @@
 			"MATERIALS": "Palle, panchine lunghe",
 			"VARIATIONS": "Palleggia sulla panchina.\r\nUsa palle diverse.\r\nUsa altre superifici (ad esempio tappetini) per camminarci sopra e palleggiare accanto.\r\nCammina all'indietro e fai rimbalzare la palla vicino la panchina.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa devi cambiare nel palleggio vicino alla panchina rispetto a quando palleggi a terra?\r\nRiesci a palleggiare senza cadere dalla panchina?",
-			"WILLINGNESS": "Quali altri superfici possono essere usate per palleggiare?\r\nRiesci a camminare lungo la panchina ad occhi chiusi mentre palleggi?"
+			"WILLINGNESS": "Quali altri superfici possono essere usate per palleggiare?\r\nRiesci a camminare lungo la panchina ad occhi chiusi mentre palleggi?",
+            "PDF": "Vai oltre il Lanbank e fai rimbalzare la palla vicino alla panchina."
 		},
 		"CIRCLE_BOUNCING": {
 			"MOBAK": "Muovere qualcosa",
@@ -1167,7 +1254,8 @@
 			"MATERIALS": "Palle",
 			"VARIATIONS": "Palleggia con la palla sia in senso orario che antiorario.\r\nProva a palleggiare intorno a te in una posizione diversa.\r\nProva a fare un otto intorno a te. Per fare questo, palleggia la palla in mezzo alle gambe.\r\nUsa palle diverse.\r\nGira anche in cerchio e palleggia la palla",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Palleggi meglio con la mano sinistra o destra?\r\nPerchè? Dove guardi per non perdere la palla?",
-			"WILLINGNESS": "Con quale palla palleggi meglio?\r\nHai qualche idea per rendere questo compito piu facile o piu difficile per te?"
+			"WILLINGNESS": "Con quale palla palleggi meglio?\r\nHai qualche idea per rendere questo compito piu facile o piu difficile per te?",
+            "PDF": "Fai rimbalzare la palla in cerchio intorno a te."
 		},
 		"BOUNCING_IN_DIFFERENT_POSITIONS": {
 			"MOBAK": "Muovere qualcosa",
@@ -1177,7 +1265,8 @@
 			"MATERIALS": "Palle",
 			"VARIATIONS": "Sdraiati palleggiando e rialzati.\r\nProva altre posizioni del corpo mentre palleggi.\r\nPalleggia con l'altra mano. Palleggia mentre ti siedi con la mano destra, poi palleggia intorno ai tuoi piedi e rialzati mentre palleggi con la mano sinistra.\r\nUsa due palle (diverse) contemporaneamente",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa devi cambiare nel palleggio, affinchè tu non perda la palla mentre ti siedi?\r\nCome tieni la tua mano mentre palleggi?",
-			"WILLINGNESS": "Puoi spiegare ad un altro bambino il modo migliore di palleggiare mentre sei seduto?\r\nPuoi anche cambiare mano mentre palleggi da sdraiato? - Qual è il miglior modo per fare questo?"
+			"WILLINGNESS": "Puoi spiegare ad un altro bambino il modo migliore di palleggiare mentre sei seduto?\r\nPuoi anche cambiare mano mentre palleggi da sdraiato? - Qual è il miglior modo per fare questo?",
+            "PDF": "Fai rimbalzare la palla, siediti a terra e rialzati."
 		}
 	},
 	"dribbling": "dribbling",
@@ -1190,7 +1279,8 @@
 			"MATERIALS": "Palloni da calcio",
 			"VARIATIONS": "Usa diverse palle.\r\nMetti un ostacolo davanti al muro.\r\nUsa vari tipi di tiri (ad esempio, piatto, alto, interno piede, collo del piede).\r\nVaria la distanza dal muro (angolo, distanza).\r\nUsa una superficie irregolare (spalliere, parete con box).\r\nVaria la dimensione della zona di stop.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Quale parte del piede usi per il miglior tiro?\r\nQual è il modo migliore per tenere il piede per fermare la palla in sicurezza?",
-			"WILLINGNESS": "In che altro modo potresti passare la palla contro il muro con il piede?\r\nQual è la distanza più lunga a cui puoi fermare la palla in sicurezza?\r\nSfida te stesso: Quante volte di seguito riesci a passare e fermare la palla con successo senza perderla?"
+			"WILLINGNESS": "In che altro modo potresti passare la palla contro il muro con il piede?\r\nQual è la distanza più lunga a cui puoi fermare la palla in sicurezza?\r\nSfida te stesso: Quante volte di seguito riesci a passare e fermare la palla con successo senza perderla?",
+            "PDF": "Spara la palla contro un muro e ferma la palla che rimbalza con il piede."
 		},
 		"LINE_DRIBBLING": {
 			"MOBAK": "Muovere qualcosa",
@@ -1200,7 +1290,8 @@
 			"MATERIALS": "Palle",
 			"VARIATIONS": "Usa diverse palle.\r\nGioca la palla lungo le linee del campo di pallavolo, senza perderla.\r\nCerca altre linee lungo le quali puoi dribblare la palla.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Quale parte del piede usi per guidare la palla quando dribbli?\r\nA cosa presti attenzione per non perdere la palla quando dribbli?",
-			"WILLINGNESS": "Puoi guidare la palla con il piede in un altro modo?\r\nRiesci a farlo con entrambi i piedi?\r\nPerché è utile saper dribblare?"
+			"WILLINGNESS": "Puoi guidare la palla con il piede in un altro modo?\r\nRiesci a farlo con entrambi i piedi?\r\nPerché è utile saper dribblare?",
+            "PDF": "Dribblate la palla per tutta la lunghezza del corridoio."
 		},
 		"WALL_OFF": {
 			"MOBAK": "Muovere qualcosa",
@@ -1210,7 +1301,8 @@
 			"MATERIALS": "Palle",
 			"VARIATIONS": "Gioca la palla 10 volte con il piede verso un altro bambino senza perdere la palla.\r\nGioca la palla 10 volte mentre corri con il piede verso un altro bambino senza perdere la palla.\r\nUsa diverse palle.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come fai in modo che la palla torni sempre verso di te?\r\nQual è il modo migliore per posizionarti in relazione al muro?",
-			"WILLINGNESS": "Riesci a passare la palla sopra il muro l'uno all'altro in coppia?\r\nProva a stabilire un ritmo quando passi la palla al muro - come ti senti?\r\nCon quale piede il compito è più facile per te? Perché pensi che sia così?"
+			"WILLINGNESS": "Riesci a passare la palla sopra il muro l'uno all'altro in coppia?\r\nProva a stabilire un ritmo quando passi la palla al muro - come ti senti?\r\nCon quale piede il compito è più facile per te? Perché pensi che sia così?",
+            "PDF": "Gioca la palla contro il muro dieci volte da distanza ravvicinata."
 		},
 		"LIFT_BALL": {
 			"MOBAK": "Muovere qualcosa",
@@ -1220,7 +1312,8 @@
 			"MATERIALS": "Panche lunghe, palle\r\n\r\n",
 			"VARIATIONS": "Usa diverse palle.\r\nScegli vari bersagli.\r\nSolleva la palla con l'altro piede.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come puoi sollevare la palla con il piede?\r\nCosa cambi per sollevare la palla sopra la panca lunga da una distanza maggiore?",
-			"WILLINGNESS": "Da quale distanza riesci a fare bene?\r\nOsserva gli altri bambini mentre risolvono il compito - puoi aiutarli a risolverlo?\r\nRiesci a sollevare la palla sopra altre cose?"
+			"WILLINGNESS": "Da quale distanza riesci a fare bene?\r\nOsserva gli altri bambini mentre risolvono il compito - puoi aiutarli a risolverlo?\r\nRiesci a sollevare la palla sopra altre cose?",
+            "PDF": "Solleva la palla 5 volte con un piede nel quadrato lungo della panca."
 		},
 		"DRIBBLING_1": {
 			"MOBAK": "Muovere qualcosa",
@@ -1230,7 +1323,8 @@
 			"MATERIALS": "Palle",
 			"VARIATIONS": "Passa la palla quando ti incontri al centro.\r\nDribbla fino al centro della palestra, poi passa la palla a un altro bambino che aspetta dall'altro lato.\r\nDribbla il più velocemente possibile fino all'altro lato.\r\nDribbla non direttamente verso l'altro lato, ma diagonalmente attraverso la palestra (assicurati di non scontrarti con altri bambini).\r\nUsa diverse palle.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Qual è il modo migliore per te per dribblare?\r\nDove guardi quando dribbli?\r\nPerché pensi sia più facile correre senza la palla?",
-			"WILLINGNESS": "Prova a darti un cinque al centro del percorso mentre ti incroci!\r\nCome puoi aiutare meglio il tuo partner durante questo compito?\r\nRiesci a dribblare in coppia simultaneamente?"
+			"WILLINGNESS": "Prova a darti un cinque al centro del percorso mentre ti incroci!\r\nCome puoi aiutare meglio il tuo partner durante questo compito?\r\nRiesci a dribblare in coppia simultaneamente?",
+            "PDF": "In coppia: un bambino ha la palla. Corri l'uno verso l'altro. Il bambino con la palla dribbla. Cambia ruolo dopo 5 round."
 		},
 		"DRIBBLING_2": {
 			"MOBAK": "Muovere qualcosa",
@@ -1240,7 +1334,8 @@
 			"MATERIALS": "Tappetini da ginnastica, coni, palle",
 			"VARIATIONS": "Cambia il percorso a slalom.\r\nUsa diverse palle.\r\nImposta un limite di tempo entro il quale il compito deve essere completato.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come puoi cambiare direzione al meglio mentre dribbli?\r\nOsserva se usi sempre lo stesso piede - se no, quando usi l'altro?\r\nUsi sempre lo stesso piede per dribblare? Perché?",
-			"WILLINGNESS": "Crea il tuo percorso con i coni e dribbla intorno a loro - quale percorso è il più divertente?\r\nRiesci a seguire un altro bambino dribblando attraverso il slalom?"
+			"WILLINGNESS": "Crea il tuo percorso con i coni e dribbla intorno a loro - quale percorso è il più divertente?\r\nRiesci a seguire un altro bambino dribblando attraverso il slalom?",
+            "PDF": "Dribbla il percorso di slalom con una palla e termina con un tiro in porta."
 		},
 		"IN_THE_LAND_OF_SHELLS_1": {
 			"MOBAK": "Muovere qualcosa",
@@ -1250,7 +1345,8 @@
 			"MATERIALS": "Varie palle, corde (o cerchi da ginnastica)",
 			"VARIATIONS": "Fai il giro delle conchiglie in una sequenza data.\r\nFerma il tempo e confrontalo con il tuo tempo dai tentativi precedenti.\r\nUsa diverse palle.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come dribbli al meglio intorno a una conchiglia?\r\nQuale percorso scegli quando devi girare intorno a tutte le conchiglie una volta?\r\nCome giochi la palla con il piede?",
-			"WILLINGNESS": "Prova a essere il più silenzioso possibile per non svegliare le conchiglie!\r\nImmagina di essere un calamaro mentre dribbli intorno alle conchiglie - come ti senti?\r\nCome ti senti se lo fai con un'altra palla?"
+			"WILLINGNESS": "Prova a essere il più silenzioso possibile per non svegliare le conchiglie!\r\nImmagina di essere un calamaro mentre dribbli intorno alle conchiglie - come ti senti?\r\nCome ti senti se lo fai con un'altra palla?",
+            "PDF": "Dribbla la palla intorno alle conchiglie 'addormentate' che giacciono sul fondo del mare."
 		},
 		"IN_THE_LAND_OF_SHELLS_2": {
 			"MOBAK": "Muovere qualcosa",
@@ -1260,7 +1356,8 @@
 			"MATERIALS": "Varie palle, cerchi da ginnastica (o corde)",
 			"VARIATIONS": "Usa diverse palle.\r\nProva a essere il primo a girare intorno a tutte le conchiglie.\r\nAumenta lo spazio o diminuisci il numero di bambini \"granchio\".\r\nCambia il compito dei granchi (ad esempio, afferrare la palla).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Come puoi proteggere la tua palla dai granchi?\r\nDove guardi quando dribbli per proteggere la tua palla?",
-			"WILLINGNESS": "Quale percorso scegli per evitare di essere pizzicato?\r\nCome granchio, riesci ad afferrare la palla da un intruso?\r\nImmagina di avere un potere magico che può aiutarti a eccellere in questo compito. Descrivi il potere che sceglieresti e come ti motiverebbe."
+			"WILLINGNESS": "Quale percorso scegli per evitare di essere pizzicato?\r\nCome granchio, riesci ad afferrare la palla da un intruso?\r\nImmagina di avere un potere magico che può aiutarti a eccellere in questo compito. Descrivi il potere che sceglieresti e come ti motiverebbe.",
+            "PDF": "Dribbla la palla intorno alle conchiglie 'addormentate' che giacciono sul fondo del mare. Non lasciare che il cancro ti prenda."
 		},
 		"PROTECT_YOUNG_FISH": {
 			"MOBAK": "Muovere qualcosa",
@@ -1270,7 +1367,8 @@
 			"MATERIALS": "Varie palle, coni",
 			"VARIATIONS": "Assicurati che ogni bambino nel cerchio riceva la palla almeno una volta (ad esempio, attraverso una sequenza fissa di passaggi).\r\nUsa diverse palle.\r\nUsa varie palle contemporaneamente.\r\nOrganizza il compito come un torneo in cui vari gruppi formano un cerchio e competono tra loro.\r\nUsa solo un piede alla volta per muovere la palla.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Cosa cambia quando dribbli la palla insieme rispetto a dribblare la palla da solo?\r\nA cosa presti attenzione quando dribbli la palla in un gruppo?",
-			"WILLINGNESS": "Come gruppo, potete muovere più palle contemporaneamente?\r\nCome potete aiutarvi a vicenda nel gruppo?\r\nProva questo compito come una competizione (più gruppi lo fanno contemporaneamente - il gruppo più veloce vince): Preferisci fare il compito con o senza competere contro gli altri e perché?"
+			"WILLINGNESS": "Come gruppo, potete muovere più palle contemporaneamente?\r\nCome potete aiutarvi a vicenda nel gruppo?\r\nProva questo compito come una competizione (più gruppi lo fanno contemporaneamente - il gruppo più veloce vince): Preferisci fare il compito con o senza competere contro gli altri e perché?",
+            "PDF": "Gruppo: Forma un cerchio e tieniti per mano. Trasporta varie palle con i piedi dall'altra parte della sala."
 		},
 		"WITHIN_SHARK_TERRITORY": {
 			"MOBAK": "Muovere qualcosa",
@@ -1280,7 +1378,8 @@
 			"MATERIALS": "Palle, corde",
 			"VARIATIONS": "Chiunque venga toccato deve risolvere un compito extra (ad esempio, condurre la palla attraverso un percorso a slalom fatto di coni).\r\nPassare una palla tra 2 bambini e cercare di entrare nel territorio dello squalo.\r\nCambia il compito dello squalo.\r\nToccare 6 bambini il più velocemente possibile.\r\nUsa diverse palle.\r\nChi è il primo a entrare nel territorio 5 volte?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Qual è il modo migliore per te per arrivare dall'altra parte senza essere catturato dallo squalo?\r\nQual è il modo migliore per dribblare quando guardi anche lo squalo?",
-			"WILLINGNESS": "Come squalo, riesci a prendere la palla di un bambino e continuare a dribblare?\r\nCome fai a non farti catturare?\r\nQuando pensi che lo squalo debba essere sostituito da un altro bambino e perché?"
+			"WILLINGNESS": "Come squalo, riesci a prendere la palla di un bambino e continuare a dribblare?\r\nCome fai a non farti catturare?\r\nQuando pensi che lo squalo debba essere sostituito da un altro bambino e perché?",
+            "PDF": "Dribbla la palla oltre lo squalo senza perderla."
 		},
 		"DRIBBLING_VARIATIONS": {
 			"MOBAK": "Muovere qualcosa",
@@ -1290,7 +1389,8 @@
 			"MATERIALS": "Palle",
 			"VARIATIONS": "Cerca di dribblare la palla in modo da non toccare una linea blu (o di un altro colore).\r\nDribbla la palla lateralmente.\r\nDribbla la palla all'indietro.\r\nCerca modi diversi per dribblare la palla.\r\nMetti degli ostacoli sul percorso e dribbla intorno a loro.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Qual è il modo migliore per dribblare la palla?\r\nQuando tocchi la palla con quale parte del piede?",
-			"WILLINGNESS": "Riesci a cambiare direzione del dribbling in modo fluido?\r\nInventati una piccola coreografia di dribbling e presentala a un altro bambino."
+			"WILLINGNESS": "Riesci a cambiare direzione del dribbling in modo fluido?\r\nInventati una piccola coreografia di dribbling e presentala a un altro bambino.",
+            "PDF": "Dribbla con la palla attraverso il corridoio."
 		},
 		"DRIBBLING_NUMBER_BALL": {
 			"MOBAK": "Muovere qualcosa",
@@ -1300,7 +1400,8 @@
 			"MATERIALS": "Palle, coni",
 			"VARIATIONS": "Usa diverse palle.\r\nUsa diversi cancelli.\r\nI giocatori delle squadre avversarie possono calciare via la palla.\r\nGioca senza una squadra avversaria.\r\nGioca il gioco in coppia: chi segna un gol per primo quando viene dato il segnale?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Qual è il modo migliore per dribblare la palla intorno ai coni?\r\nCome puoi essere più veloce del bambino della squadra avversaria?",
-			"WILLINGNESS": "Come ti senti quando l'altro bambino è più veloce?\r\nImmagina di essere un animale. Come dribblerebbe la palla intorno ai coni un pinguino, una tigre, un elefante, ecc.?"
+			"WILLINGNESS": "Come ti senti quando l'altro bambino è più veloce?\r\nImmagina di essere un animale. Come dribblerebbe la palla intorno ai coni un pinguino, una tigre, un elefante, ecc.?",
+            "PDF": "Dribbla il cancello del pilone e spara al cancello del bersaglio quando viene chiamato il tuo numero."
 		},
 		"PROTECTING_PERSON_DRIBBLING": {
 			"MOBAK": "Muovere qualcosa",
@@ -1310,7 +1411,8 @@
 			"WILLINGNESS": "Come dimostri le tue abilità quando sei il bambino A in modo che gli altri bambini possano seguirti?\r\nQuali consigli puoi dare a un altro bambino che ha difficoltà a seguire il bambino A?",
 			"QUALIFICATION": "Dribblare",
 			"MATERIALS": "Palle",
-			"VARIATIONS": "Il bambino A guarda il gruppo e i bambini imitano il movimento come in uno \"specchio\"."
+			"VARIATIONS": "Il bambino A guarda il gruppo e i bambini imitano il movimento come in uno \"specchio\".",
+            "PDF": "Gruppo: Un bambino palleggia davanti a lui e gli altri lo seguono."
 		}
 	},
 	"PDF_TESTRESULT": {

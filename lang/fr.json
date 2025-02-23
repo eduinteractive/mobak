@@ -73,6 +73,11 @@
 	"rate_classroom_end_session_dialog_description": "Les résultats vont être sauvgardés et ne peuvent plus être modifiés.",
 	"rate_classroom_task_description": "Description de l'exercice",
 	"rate_classroom_rate_student": "Évaluer l'élève",
+    "rate_detail_instruction_demonstration": "Instruction/ Démonstration",
+    "rate_classroom_longitudinal_analysis": "Analyse longterme",
+    "rate_classroom_select_task": "Sélectionner les tâches",
+    "rate_classroom_cancel_selection": "Annuler la sélection",
+    "rate_classroom_download_selected": "Télécharger sélectionné",
 	"rate_dialog_n_a_value": "s.o.",
 	"rate_dialog_first_value": "0",
 	"rate_dialog_second_value": "1",
@@ -229,11 +234,11 @@
 		"MATERIAL": "6 balles de jonglerie. \r\nUne cible (diamètre : 40cm).\r\nMarquage au sol",
 		"TEST_SET-UP": "La cible est placée à une hauteur de 1,30m. Une ligne est placée au sol à 2m de la cible.",
 		"TEST_ITEM": "L’enfant lance 6 balles de jonglerie vers une cible située à une distance de 2m.",
+        "CRITERIA": "Toucher la cible équivaut à un point. Les lancers doivent obligatoirement se faire en lancer à bras cassé (coude haut, extension de l’avant-bras).",
 		"VALUATION": "6 tentatives. On compte le nombre de coups au but.\r\n0-2 tentatives réussis = 0 points\r\n3-4 tentatives réussis = 1 point\r\n5-6 tentatives réussis = 2 points",
 		"INSTRUCTION_DEMONSTRATION": "Positionez vous derière la ligne et tirez sur la cible avec la balle. Vous avez six tentatives en totale. La ligne ne doit pas être dépassé. Regardez-moi, j vais vous le démonster. ",
 		"INFORMATION_FOR_THE_TEST_LEADER": "la manière de lancer la balle est libre (pousser est permit). Démonstration d'un jet"
 	},
-	"THROWING_1_CRITERIA": "Toucher la cible équivaut à un point. Les lancers doivent obligatoirement se faire en lancer à bras cassé (coude haut, extension de l’avant-bras).",
 	"THROWING_3_4": {
 		"MOBAK": "Compétence \"Manipulation d’un objet\"",
 		"TITLE": "MOBAK 3-4 tâche 1: Lancer",
@@ -328,7 +333,8 @@
 			"MATERIALS": "Échelle de coordination \r\nAlternative: cerceaux, marquage au sol, tapis, craies",
 			"VARIATIONS": "Courir en arrière. \r\nEffectue plusieurs de contact par grille.\r\nEffectue une rotation après chaque deuxième grille.\r\nCombine deux mouvements différents.\r\nEffectue un mouvement supplémentaire avec des bras (pantin, box en air, monter et descendre les bras de l'hauteur de la poitrine).\r\nChange l'arrangement de la grille.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Quelle partie de tes pieds touchent le sol? Avec quel mouvement de bras réussis-tu le mieux?",
-			"WILLINGNESS": "Où peux-tu faire cette exercice dehors de la salle de gym? Que change pour toi, quand tu fais une compétition avec des autres enfants?"
+			"WILLINGNESS": "Où peux-tu faire cette exercice dehors de la salle de gym? Que change pour toi, quand tu fais une compétition avec des autres enfants?",
+            "PDF": "Parcoure l’échelle de coordination avec un contact par champ."
 		},
 		"RUNNING_2": {
 			"MOBAK": "Mouvement corporel",
@@ -338,7 +344,8 @@
 			"MATERIALS": "Des cerceaux\r\nAlternative: rubans de sport, tapis de sol",
 			"VARIATIONS": "Change les tâches dans les couleurs des cerceaux. \r\nChange l'arrangement ou l'éspace entre les cerceaux.\r\nPositionne les cerceaux sur deux bancs parallels.\r\nChange l'arrangement de la grille.\r\nChoissis plusieurs de couleurs et assigne chaque'une avec un autre movement.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment dois-tu te bouger pour réussir sans erreurs? Quelle séquence est la plus facile pour toi? Dans quel rythme peux-tu parcourir le parcour le mieux?",
-			"WILLINGNESS": "Pourquoi te sens-tu différent quand les cerceaux sont positionnés sur deux bancs? Réussis-tu quand même? Essaie! Construis ton propre parcour de cerceau et assigne les couleurs différentes avec ses propre propre movements. As-tu réussi?"
+			"WILLINGNESS": "Pourquoi te sens-tu différent quand les cerceaux sont positionnés sur deux bancs? Réussis-tu quand même? Essaie! Construis ton propre parcour de cerceau et assigne les couleurs différentes avec ses propre propre movements. As-tu réussi?",
+            "PDF": "Coure à travers la piste de cerceaux. Touchez le sol une fois dans les cerceaux bleus et deux fois dans les autres."
 		},
 		"RUNNING_3": {
 			"MOBAK": "Mouvement corporel",
@@ -348,7 +355,8 @@
 			"MATERIALS": "Échelle de coordination\r\nAlternative: cerceaux, marquage au sol, tapis, craies",
 			"VARIATIONS": "Change le nombre de contacts par grille. \r\nEffectue un mouvement supplémentaire avec des bras (pantin, box en air, monter et descendre les bras de l'hauteur de la poitrine).\r\nCombine deux mouvements différents (bras droit- pantin, bras gauche- box). \r\nChange l'arrangement de la grille.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment faux-tu te bouger pour réussir sans erreurs? Quelle séquence est la plus facile pour toi? Dans quel rythme peux-tu parcourir le parcour le mieux?",
-			"WILLINGNESS": "Comment te sens- tu quand un autre enfant change la direction plus rapidement que toi? Quoi peux-tu faire dans ce cas là? Comment peux-tu modifier l'exercice pour la rendre plus facile ou difficile? Fixe un objectif et essaie à l'atteindre (p.e. de effectuer l'exercice sans erreur; être plus rapidement que l'essai précedent). As-tu réussi?"
+			"WILLINGNESS": "Comment te sens- tu quand un autre enfant change la direction plus rapidement que toi? Quoi peux-tu faire dans ce cas là? Comment peux-tu modifier l'exercice pour la rendre plus facile ou difficile? Fixe un objectif et essaie à l'atteindre (p.e. de effectuer l'exercice sans erreur; être plus rapidement que l'essai précedent). As-tu réussi?",
+            "PDF": "Coure à l’intérieur et à l’extérieur de l’échelle de coordination avec deux contacts au sol par champ."
 		},
 		"RUNNING_4": {
 			"MOBAK": "Mouvement corporel",
@@ -358,7 +366,8 @@
 			"MATERIALS": "Échelle de coordination \r\nAlternative: cerceaux, marquage au sol, tapis, craies",
 			"VARIATIONS": "Courir en arrière. \r\nEn plus, circule avec les bras en avant, en arrière, sense opposée.\r\nChange l'arrangement de la grille.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Peux-tu frapper les main en rythme de sautillement? Que fais-tu avec les bras pour bien réussir l'exercice?",
-			"WILLINGNESS": "Réussissez-vous à courir en même temps à deux? Peux- tu effectuer les mouvements supplémentaires avec les bras? Imagine-toi que tu sois un cheval heureux qui effectue le parcour. Comment te sens-tu?"
+			"WILLINGNESS": "Réussissez-vous à courir en même temps à deux? Peux- tu effectuer les mouvements supplémentaires avec les bras? Imagine-toi que tu sois un cheval heureux qui effectue le parcour. Comment te sens-tu?",
+            "PDF": "Coure à travers l’échelle de coordination dans une course à sauts avec un contact au sol par champ !"
 		},
 		"GIANT_SLALOM": {
 			"MOBAK": "Mouvement corporel",
@@ -368,7 +377,8 @@
 			"MATERIALS": "Piquets, corde longue\r\nAlternative: bâtons de slalom, bloque en bois, cône, caillous grands, bâtons etc. ",
 			"VARIATIONS": "Défie un autre enfant ou un autre groupe des enfants. Qui est le/la plus rapide? Avance en position accroupie, sur les pointes de pieds/ tallons, avec des sacs de sable sur la tête (= neige sur la tête) etc. Construis un ou plusieurs des obstacles (p.e. petit caissons). Change ton rythme/ ta vitesse. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que change pour toi quand tu utilises un autre bâton? Comment traverses-tu le slalom le plus rapidement?",
-			"WILLINGNESS": "Réussis-tu à courir en même temps avec un autre enfant? Comment positionnerais-tu la corde pour effectuer un slalom rapide?"
+			"WILLINGNESS": "Réussis-tu à courir en même temps avec un autre enfant? Comment positionnerais-tu la corde pour effectuer un slalom rapide?",
+            "PDF": "Tiens un bâton de gymnastique à deux mains. Exécute un slalom géant le long de la corde."
 		},
 		"SIDE_STEP": {
 			"MOBAK": "Mouvement corporel",
@@ -378,7 +388,8 @@
 			"MATERIALS": "Échelle de coordination \r\nAlternative: cerceaux, marquage au sol, tapis, craies",
 			"VARIATIONS": "Tourne l'épaule droite en direction de course.\r\nCours avec un contact au sol dehors de l'échelle de coordination et deux contacts au sol par grille.\r\nEffectue des mouvements supplémentaires avec des bras (circuler un cerceau avec un bras, pantin, box en air, monter et descendre les bras de l'hauteur de la poitrine).\r\nCombine deux mouvements différents (bras droite – pantin, bras gauche – box en air).\r\nChange l'arrangement de la grille. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que changes-tu pour réussir à tourner l'autre épaule dans la direction de course? À quelle hauteur montes-tu tes genoux pour bien réussir l'exercice?",
-			"WILLINGNESS": "Comment te sens-tu quand tu es plus rapide qu'un autre enfant? Comment peux-tu aider un autre enfant qui n'a pas encore réussi? Change la direction et cours en arrière à travers cette échelle de coordination sans arrêter. As-tu réussi?"
+			"WILLINGNESS": "Comment te sens-tu quand tu es plus rapide qu'un autre enfant? Comment peux-tu aider un autre enfant qui n'a pas encore réussi? Change la direction et cours en arrière à travers cette échelle de coordination sans arrêter. As-tu réussi?",
+            "PDF": "Passe l’échelle de coordination d’un pas de côté."
 		},
 		"RUNNING_COURSE": {
 			"MOBAK": "Mouvement corporel",
@@ -388,7 +399,8 @@
 			"MATERIALS": "médecine balles",
 			"VARIATIONS": "Utilise des cônes au lieu de médecine balls. Change l'éspace entre les médecine balls. Change l'éspace latérale entre les médecine balls. Cours latéral ou en arrière. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu de changer la direction en courant sans perdre la vitesse? Quelle partie du pied touche le sol en course de slalom?",
-			"WILLINGNESS": "Comment rends-tu le parcours de course intéressant pour toi? Défie un autre enfant. Comment te sens- tu quand l'autre enfant est plus rapide que toi?"
+			"WILLINGNESS": "Comment rends-tu le parcours de course intéressant pour toi? Défie un autre enfant. Comment te sens- tu quand l'autre enfant est plus rapide que toi?",
+            "PDF": "Cours à travers les médecine-balles dans la course de slalom."
 		},
 		"HEY_SHARK": {
 			"MOBAK": "Mouvement corporel",
@@ -397,7 +409,8 @@
 			"BASIC_TASK": "Un enfant joue un requin et se positionne à l'autre côté de la salle; le rest du groupe se positionne du côté opposé. Le groupe demande le requin comment il fallait traverser l'eau. Le requin répond avec une méthode et le groupe essaie à traverser à l'autre côté sans être touché par le requin. Le requin essaie de toucher le plus des enfants que possible. Chaque joueur touché devient un requin aussi. ",
 			"VARIATIONS": "Choissis une locomotion, qui consiste d'une manière de courir et sauter (skipping, piétiner, talonner, saut de grenouille, course à sauter, course en arrière, saut à étirer, sautiller, pas latéral). \r\nChange le couloir de la course.\r\nChange les règles du jeu du loup.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu de traverser à l'autre côté sans être touché par le requin? Comment réussis-tu comme requin d'attraper le plus des enfants que possible?",
-			"WILLINGNESS": "Quelles idée as-tu pour rendre le jeux plus intéressant? Selon toi, quand devrait le rôle être changé si le requin n'a pas de succès?"
+			"WILLINGNESS": "Quelles idée as-tu pour rendre le jeux plus intéressant? Selon toi, quand devrait le rôle être changé si le requin n'a pas de succès?",
+            "PDF": "Groupe : Un enfant est le requin et détermine comment les autres doivent se déplacer. Celui qui est attrapé devient un requin."
 		},
 		"STAR_RUN": {
 			"MOBAK": "Mouvement corporel",
@@ -407,7 +420,8 @@
 			"MATERIALS": "cônes",
 			"VARIATIONS": "Change les espaces entre les cônes.\r\nChange le temps visé.\r\nDéfinis un temps visé et essaie de t'approcher.\r\nCours ce trajet avec les yeux fermés en être accompagné par un autre enfant.\r\nCours en pas latéral ou en arrière",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu de t'approcher ce temps? Que change pour toi quand tu as moins de temps à disposition?",
-			"WILLINGNESS": "Comment te sens-tu quand tu cours le temps donné le plus précisement que possible? Imagine que tu sois un cheval, un guépard, émeu, et tu parcours ce trajet. Comment ces animaux courent-ils?"
+			"WILLINGNESS": "Comment te sens-tu quand tu cours le temps donné le plus précisement que possible? Imagine que tu sois un cheval, un guépard, émeu, et tu parcours ce trajet. Comment ces animaux courent-ils?",
+            "PDF": "Essaie de faire le tour des points connu dans un temps donné."
 		},
 		"VARIABLE_RUNNING": {
 			"MOBAK": "Mouvement corporel",
@@ -417,7 +431,8 @@
 			"MATERIALS": "cônes",
 			"VARIATIONS": "Choissis une manière de course. \r\nChange les espaces entre les cônes.\r\nChange le trajet.\r\nCours ce trajet avec les yeux fermés en être accompagné par un autre enfant.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu de changer rapidement entre les manières de course différentes? Comment peux-tu mémoriser le trajet et la manière de course donné?",
-			"WILLINGNESS": "Quelles idée as-tu pour changer le trajet? Comment accompagnes-tu un enfant avec ses yeux fermés pour qu'il se sent sûr?"
+			"WILLINGNESS": "Quelles idée as-tu pour changer le trajet? Comment accompagnes-tu un enfant avec ses yeux fermés pour qu'il se sent sûr?",
+            "PDF": "Couvre la distance le plus rapidement possible avec des formes de course correctes."
 		}
 	},
 	"Jumping": "Jumping",
@@ -430,7 +445,8 @@
 			"MATERIALS": "Échelle de coordination \r\nAlternative: cerceaux, marquage au sol, tapis, craies",
 			"VARIATIONS": "Saute le plus rapide que possible.\r\nSaute latéralement ou en arrière.\r\nSaute deux grilles en avant et une en arrière.\r\nSaute droite-droite-deux jambes-gauche-gauche etc. (combinaison différentes)\r\nSaute avec une jambe: en avant, en arrière, latéralement (avec l'épaule droite, et gauche en avant). Combine le saut avec une circulation des bras (en avant, en arrière, sense opposée).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que changes-tu quand tu sautes latéralement ou en arrière?\r\nComment réussis-tu à sauter le plus rapidement que possible?",
-			"WILLINGNESS": "Quel arrangement de grilles aide-toi de effectuer l'exercice au mieux?\r\nQuoi change pour toi quand tu fais une compétition contre un autre enfant?\r\nÀ deux: Détermine un autre rythme de saut pour l'autre enfant (p.e. gauche, droite, deux jambes, droite, droite, deux jambes). Choissis un rythme qui est exigeant mais faisable pour elle/lui. Avez-vous réussi?"
+			"WILLINGNESS": "Quel arrangement de grilles aide-toi de effectuer l'exercice au mieux?\r\nQuoi change pour toi quand tu fais une compétition contre un autre enfant?\r\nÀ deux: Détermine un autre rythme de saut pour l'autre enfant (p.e. gauche, droite, deux jambes, droite, droite, deux jambes). Choissis un rythme qui est exigeant mais faisable pour elle/lui. Avez-vous réussi?",
+            "PDF": "Saute en avant avec les deux jambes à travers l’échelle de coordination."
 		},
 		"JUMPING_2": {
 			"MOBAK": "Mouvement corporel",
@@ -440,7 +456,8 @@
 			"MATERIALS": "Corde\r\nAlternative: Bande adhésive, ficelle, marquage au sol, bâtons",
 			"VARIATIONS": "Effectue une rotation de 90° après chaque saut.\r\nSaute comme un grenouille.\r\nSaute en pas de course à travers de \"l'échelle de corde\".\r\nCombine le saut avec des movements différents de bras.\r\nSaute droite- droite- deux jambes- gauche- gauche etc. (combinaison différentes).\r\nSaute avec une jambe: en avant, en arrière, latéralement (avec l'épaule droite, et également gauche en avant).\r\nCombine le saut avec une circulation des bras (en avant, en arrière, sense opposée).\r\nAugmente ou diminue la distance entre les cordes.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que change pour toi quand tu sautes avec une ou deux jambes?\r\nQue changes-tu quand les cordes sont plus loin l'un de l'autre?",
-			"WILLINGNESS": "Réussis-tu aussi quand les cordes ont des distances différentes?\r\nAvec quelles formes de saut peux-tu accomplir le trajet? Imagine que tu sois un grenouille, kangourou, cheval ou une sauterelle. \r\nAvec quelles formes de saut peux-tu accomplir le trajet?"
+			"WILLINGNESS": "Réussis-tu aussi quand les cordes ont des distances différentes?\r\nAvec quelles formes de saut peux-tu accomplir le trajet? Imagine que tu sois un grenouille, kangourou, cheval ou une sauterelle. \r\nAvec quelles formes de saut peux-tu accomplir le trajet?",
+            "PDF": "Saute sur une jambe, sur deux jambes, sur le côté ou en diagonale par-dessus « l’échelle de corde »."
 		},
 		"ROPE_JUMPING_1": {
 			"MOBAK": "Mouvement corporel",
@@ -450,7 +467,8 @@
 			"MATERIALS": "Corde\r\nAlternative: cônes, marquage au sol, boîte de pizza",
 			"VARIATIONS": "Saute par-dessus de la corde avec chaque pas.\r\nVarie la vitesse de course.\r\nVarie le nombe de pas après lequel tu sautes par-dessus de la corde.\r\nCours en arrière et saut en arrière par-dessus de la corde.\r\nEffectue une course de slalom (p.e. avec des cônes). Cours en avant et saute chaque 2ème pas par-dessus d'un obstacle.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "À quoi fais-tu attention quand tu sautes par dessus de la corde?\r\nÀ quelle vitesse/ rythme réussis-tu au mieux?",
-			"WILLINGNESS": "Réussis-tu de changer la vitesse en sautant?\r\nExplique à une autre enfant comment tu sautes par-dessus d'une corde?\r\nFaites-vous de même manière?\r\nCourez et sautez par-dessus de la corde en petits groupes des enfants à un endroit spécifique, sans de vous toucher. Avez-vous réussi?"
+			"WILLINGNESS": "Réussis-tu de changer la vitesse en sautant?\r\nExplique à une autre enfant comment tu sautes par-dessus d'une corde?\r\nFaites-vous de même manière?\r\nCourez et sautez par-dessus de la corde en petits groupes des enfants à un endroit spécifique, sans de vous toucher. Avez-vous réussi?",
+            "PDF": "Coure en avant avec la corde et saute par-dessus la corde à chaque pas."
 		},
 		"ROPE_JUMPING_2": {
 			"MOBAK": "Mouvement corporel",
@@ -460,7 +478,8 @@
 			"MATERIALS": "Échelle de coordination, corde",
 			"VARIATIONS": "Cours en arrière.\r\nCours avec deux contact par grille.\r\nCours le plus rapidement que possible.\r\nEffectue des formes de course différentes.\r\nRearrange la grille.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "À quoi fais-tu attention pour avoir un contact au sol par grille?\r\nAvec quelle forme de course réussis-tu le mieux?",
-			"WILLINGNESS": "Défie toi-même: Chronomètre ton temps. Réussis-tu d'être plus rapidement la fois suivante?\r\nC'est une tâche assez difficile.\r\nSi tu peux l'accomplir avec du succès, peux-tu aider les autres qui ont pas encore réussi?\r\nQui change quand tu accomplis la tâche avec des vitesses différentes?"
+			"WILLINGNESS": "Défie toi-même: Chronomètre ton temps. Réussis-tu d'être plus rapidement la fois suivante?\r\nC'est une tâche assez difficile.\r\nSi tu peux l'accomplir avec du succès, peux-tu aider les autres qui ont pas encore réussi?\r\nQui change quand tu accomplis la tâche avec des vitesses différentes?",
+            "PDF": "Parcoure l’échelle de coordination avec une corde et un contact au sol par champ."
 		},
 		"ROPE_JUMPING_3": {
 			"MOBAK": "Mouvement corporel",
@@ -470,7 +489,8 @@
 			"MATERIALS": "Corde",
 			"VARIATIONS": "Saute avec ou sans saut intermédiaire.\r\nOscille la corde en arrière.\r\nSaute la corde et bouge-toi en avant ou en arrière (ou à gauche et droite) par-dessus d'une ligne déterminé.\r\nEffectue des génuflexions en sautant.\r\nSaute par-dessus d'un tapis étroit.\r\nSerre les talons des jambes en sautant.\r\nTire des genoux vers le haut en sautant.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "À quoi fais-tu attention pour décoller au bon moment?\r\nAvec quelle partie du pied décolles-tu?",
-			"WILLINGNESS": "Essaie de changer ton rythme en sautant- quel rythme te fais plaisir le plus?\r\nMets-toi un but: Combien de sauts veux-tu réussir sans t'emmêler?\r\nPeux-tu sauter en même temps avec un autre enfant?"
+			"WILLINGNESS": "Essaie de changer ton rythme en sautant- quel rythme te fais plaisir le plus?\r\nMets-toi un but: Combien de sauts veux-tu réussir sans t'emmêler?\r\nPeux-tu sauter en même temps avec un autre enfant?",
+            "PDF": "Saute avec la corde sur les deux jambes."
 		},
 		"ROPE_JUMPING_4": {
 			"MOBAK": "Mouvement corporel",
@@ -480,7 +500,8 @@
 			"MATERIALS": "Corde\r\nAlternative: Bande adhésive, cordon, marquage au sol",
 			"VARIATIONS": "Saute avec ou sans saut intermédiaire.\r\nOscille la corde en arrière.\r\nChange la jambe après chaque 2ème saut (\"saut sur place\").\r\nSaute sans corde.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment tiens-tu tes bras pour osciller la corde régulièrement?\r\nAs-tu changé qc pour réussir aussi avec l'autre jambe?",
-			"WILLINGNESS": "Réussis-tu à sauter autant de fois avec chaque jambe?\r\nMets-toi un but et essaie de le réaliser.\r\nDemande un autre enfant ce qu'il lui plaît. Peux-tu sauter sans saut intermédiaire? Essaie-le!"
+			"WILLINGNESS": "Réussis-tu à sauter autant de fois avec chaque jambe?\r\nMets-toi un but et essaie de le réaliser.\r\nDemande un autre enfant ce qu'il lui plaît. Peux-tu sauter sans saut intermédiaire? Essaie-le!",
+            "PDF": "Saute sur une jambe sur place avec la corde."
 		},
 		"MAT_HIGHWAY": {
 			"MOBAK": "Mouvement corporel",
@@ -490,7 +511,8 @@
 			"MATERIALS": "Tapis de sol.\r\nAlternative: cerceaux, marquage au sol, tapis, craies",
 			"VARIATIONS": "Saute à travers d'un trajet de saut dans ton rythme avec une jambe, deux jambes ou alternant les jambes.\r\nPose un trajet de saut avec des matériaux/couleurs différent/es. Saute à travers de ce trajet de saut et effectue une autre manière de saut par matérial/couleur (deux jambes, une jambe).\r\nRearrange les tapis.\r\nVarie le nombre de contact par tapis.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Dans quel rythme accomplis-tu le trajet le miex?\r\nQue changes pour toi quand les tapis tangents l'un à l'autre?",
-			"WILLINGNESS": "Mettez-vous à deux et essayez à sauter à travers des tapis en rythme différents. Quel rythme vous plaît le mieux?\r\nEssaie de sauter par-dessus des tapis avec un autre enfant en tenant la main! Avez-vous réussi?\r\nComment pouvez-vous arranger les tapis pour rendre l'exercice plus difficile ou facile?"
+			"WILLINGNESS": "Mettez-vous à deux et essayez à sauter à travers des tapis en rythme différents. Quel rythme vous plaît le mieux?\r\nEssaie de sauter par-dessus des tapis avec un autre enfant en tenant la main! Avez-vous réussi?\r\nComment pouvez-vous arranger les tapis pour rendre l'exercice plus difficile ou facile?",
+            "PDF": "Saute de tapis en tapis."
 		},
 		"GROUND_ROPE_JUMPING_1": {
 			"MOBAK": "Mouvement corporel",
@@ -500,7 +522,8 @@
 			"MATERIALS": "Corde\r\nAlternative: Bande adhésive, marquage au sol, craies",
 			"VARIATIONS": "Laisse faire varier la hauteur par deux enfants en levant la corde du sol.\r\nLaisse osciller la corde par deux enfants et effectue des sauts différents (p.e. avec/sans saut intermédiaire, une une deux jambes, avec une rotation de 180°).\r\nSautes acrobatiques.\r\nChange et saute:, nounours, nounours, tourne-toi de\" (180°); \".., groupe-toi\" (saut groupé); \".., construit une maison\" (réunis tes mains sur la tête); \".., regarde tout droit\" (la paume sur le front); \"..., lève ton pied\" (sauter avec une jambe); \"..., salut\" (finis le jeu).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Sautes-tu différent si la corde est plus haute?\r\nComment changes-tu ton mouvement si tu sautes latéral ou en avant ou en arrière?",
-			"WILLINGNESS": "Réussis-tu à faire des sauts artistique?\r\nMontre-les à un autre enfant. \r\nQuelle hauteur de la corde peux-tu bien sauter par-dessus? Défie-toi!"
+			"WILLINGNESS": "Réussis-tu à faire des sauts artistique?\r\nMontre-les à un autre enfant. \r\nQuelle hauteur de la corde peux-tu bien sauter par-dessus? Défie-toi!",
+            "PDF": "Tiens-toi parallèle à la corde et saute plusieurs fois par-dessus la corde."
 		},
 		"GROUND_ROPE_JUMPING_2": {
 			"MOBAK": "Mouvement corporel",
@@ -510,7 +533,8 @@
 			"MATERIALS": "Corde\r\nAlternative: Marquage au sol, tapis de sol, cerceaux, bande adhésive",
 			"VARIATIONS": "Saute toujours avec une jambe (que la jambe droite ou la jambe gauche).\r\nSaute dans la prochaine grille avec deux jambes.\r\nCrée plus de grilles et numérote-les.\r\nAugmente la vitesse.\r\nEnfant A pense à un numéro qui consiste de trois chiffres (entre 1 à 4). L'enfant B doit deviner le numéro en sautant dans les grilles. Enfant A fournis un feed-back. L'enfant B doit recommencer au début s'il a sauté faux.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que change, si tu connais l'ordre de numéro appellé en comparaison avec si tu ne connais pas le numéro qui suit?\r\nEst-il plus facile de sauter avec une ou deux jambes pour toi? Pourquoi?",
-			"WILLINGNESS": "Que fais-tu pour réagir plus rapidement à un numéro appelé?\r\nComment peux-tu faciliter ou rendre plus difficile l'exercice comme crieur/euse?\r\nÀ deux: Réfléchissez un rituel de \"high-five\" que vous faites quand un enfant a réussi dix tentatives sans erreurs. Comment te sens-tu quand tu reçois un \"high-five\"?"
+			"WILLINGNESS": "Que fais-tu pour réagir plus rapidement à un numéro appelé?\r\nComment peux-tu faciliter ou rendre plus difficile l'exercice comme crieur/euse?\r\nÀ deux: Réfléchissez un rituel de \"high-five\" que vous faites quand un enfant a réussi dix tentatives sans erreurs. Comment te sens-tu quand tu reçois un \"high-five\"?",
+            "PDF": "À deux: Un enfant appelle les numéros. L’autre se tient avec une jambe dans un champ et saute dans le champ correspondant à l’appel d’un numéro et atterrit là sur l’autre pied."
 		},
 		"ROPE_ROLLER": {
 			"MOBAK": "Mouvement corporel",
@@ -520,7 +544,8 @@
 			"MATERIALS": "Corde (1 corde par 6-8 enfants)",
 			"VARIATIONS": "Tenez la corde plus bas ou plus haut.\r\nMouvez la corde plus vite ou plus lentements à travers la file.\r\nVarie les sauts (p.e. avec deux jambes, une jambe, avec une rotation du corps).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Quand est-il le meilleur moment pour sauter?\r\nComment sautes-tu quand il y a un enfant gauche et droite de toi?",
-			"WILLINGNESS": "Comment pouvons-nous changer l'exercice si nous n'avons pas d'une corde à disposition?\r\nQue peux-tu faire pour réussir l'exercice en groupe?\r\nComment te sens-tu si tous travaillent ensemble pour accomplir l'exercice avec succès?"
+			"WILLINGNESS": "Comment pouvons-nous changer l'exercice si nous n'avons pas d'une corde à disposition?\r\nQue peux-tu faire pour réussir l'exercice en groupe?\r\nComment te sens-tu si tous travaillent ensemble pour accomplir l'exercice avec succès?",
+            "PDF": "Groupe : Deux enfants tiennent une corde tendue à hauteur du mollet. Les autres enfants sautent dès que la corde les approche."
 		},
 		"MASTER_OF_RHYTHM": {
 			"MOBAK": "Mouvement corporel",
@@ -530,7 +555,8 @@
 			"MATERIALS": "Cerceaux\r\nAlternativ: Marquage au sol, corde, craies",
 			"VARIATIONS": "Saute sans mouvement des bras à travers du trajet de cerceau.\r\nSaute à travers du trajet de cerceau le plus rapidement que possible.\r\nÉtends le bras opposé. Étends les bras vers le haut quand tu sautes avec les deux jambes.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que change pour toi, quand tu sautes sans mouvements de bras?\r\nQue peux-tu faire si tu ne réussis pas du premier coup?\r\nComment réussis-tu à étendre latéralement le bon bras?",
-			"WILLINGNESS": "Comment peux-tu suivre un autre enfant à travers des cerceaux sans être decouvert?\r\nComment peux-tu rearranger les cerceaux pour le rendre plus difficile pour toi?\r\nInvente un autre mouvement de bras! Quelle variante réussis-tu le mieux?"
+			"WILLINGNESS": "Comment peux-tu suivre un autre enfant à travers des cerceaux sans être decouvert?\r\nComment peux-tu rearranger les cerceaux pour le rendre plus difficile pour toi?\r\nInvente un autre mouvement de bras! Quelle variante réussis-tu le mieux?",
+            "PDF": "Place plusieurs cerceaux de suite au sol et saute à travers le chemin de cercaux selon les instructions suivantes: \n- Saute avec la jambe gauche, le bras gauche écarté sur le côté \n- Saute avec la jambe droite, le bras droit écarté sur le côté\n- Saute sur les deux jambes, les deux bras écarté sur les côtés"
 		},
 		"SWINGING_KING_QUEEN": {
 			"MOBAK": "Mouvement corporel",
@@ -540,7 +566,8 @@
 			"MATERIALS": "Corde",
 			"VARIATIONS": "Demande l'enseignant/e ou enfant d'osciller la corde plus rapidement ou plus lentement.\r\nDemande l'enseignant/e ou enfant d'osciller la corde dans la direction opposée (loins de toi).\r\nVarie les sauts (p.e. deux jambes, une jambe, avec une rotaiton du corps).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que est-il plus facile pour toi? Sauter lentement ou rapidement? Et pourquoi?\r\nQue change pour toi, si la corde oscille de l'autre côté?\r\nQuand est-il le bon moment pour sauter?",
-			"WILLINGNESS": "Combien de fois peux-tu sauter et quitter la corde oscillant d'une manière contrôlée? Mets-toi un but ou défie un autre enfant.\r\nRéussis-tu à courir dans la corde oscillante et de sauter après? Essaie-le!\r\nPeux-tu dire à un autre enfant depuis l'extérieur quand il faut sauter?"
+			"WILLINGNESS": "Combien de fois peux-tu sauter et quitter la corde oscillant d'une manière contrôlée? Mets-toi un but ou défie un autre enfant.\r\nRéussis-tu à courir dans la corde oscillante et de sauter après? Essaie-le!\r\nPeux-tu dire à un autre enfant depuis l'extérieur quand il faut sauter?",
+            "PDF": "Groupe : Une corde longue est fait tournée par deux enfants. Les autres enfants passent quatre fois à travers la corde oscillante sans la toucher."
 		},
 		"JUMP_IN_AND_OUT": {
 			"MOBAK": "Mouvement corporel",
@@ -550,7 +577,8 @@
 			"MATERIALS": "Cerceaux",
 			"VARIATIONS": "Rearrange les cerceau.\r\nCherche le plus des formes différents de saut que possible.\r\nCrée ta suite de saut de deux formes de sauts.\r\nFerme des yeux et saute ta suite des sauts sans toucher les cerceaux.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment crées-tu ta suite des sauts que tu peux répéter souvent?\r\nQuelle partie du pied touche le sol en sautant?",
-			"WILLINGNESS": "Montre ta suite à un autre enfant. Peux-tu imiter la suite des sauts de l'autre enfant?\r\nPeux-tu répéter ta suite de sauts avec les yeux fermés?\r\nImagine que tu sois un animal et accomplis la suite de sauts. Comment apparaît-il?"
+			"WILLINGNESS": "Montre ta suite à un autre enfant. Peux-tu imiter la suite des sauts de l'autre enfant?\r\nPeux-tu répéter ta suite de sauts avec les yeux fermés?\r\nImagine que tu sois un animal et accomplis la suite de sauts. Comment apparaît-il?",
+            "PDF": "Effectue des séquences de sauts et des formes qui entrent et sortent du cerceau."
 		},
 		"JUMPING_COURSE": {
 			"MOBAK": "Mouvement corporel",
@@ -560,7 +588,8 @@
 			"MATERIALS": "Médecine balls, cônes",
 			"VARIATIONS": "Rearrange le parcours de sauts.\r\nUtilise des obstacles de plus.\r\nSaute le parcours de sauts avec les yeux fermés.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment faut-il arranger le parcours pour que tu puisse sauter par-dessus facilement?\r\nComment réussis-tu le mieux à sauter par-dessus des obstacles?",
-			"WILLINGNESS": "As-tu des autres idée pour utiliser comme obstacle?\r\nQuel conseil peux-tu donner à un enfant qui a des difficultés avec le parcours de sauts?"
+			"WILLINGNESS": "As-tu des autres idée pour utiliser comme obstacle?\r\nQuel conseil peux-tu donner à un enfant qui a des difficultés avec le parcours de sauts?",
+            "PDF": "Saute par-dessus les obstacles"
 		}
 	},
 	"Rolling": "Rolling",
@@ -573,7 +602,8 @@
 			"MATERIALS": "Tapis de chute, bancs suédois, tapis de sol, espalier",
 			"VARIATIONS": "Achroche les bancs sur un échelon plus bas ou plus haut de l'espalier.\r\nLaisse-toi vérifié par un autre enfant, que tu es bien tendu lorsque tu effectue une roulade.\r\nChange le côté pour effectuer la roulade. \r\nLaisse-toi amortir par un autre enfant au bout de la surface à rouler.\r\nétends les bras vers le haut.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que change pour toi, losque tu changes le côté pour effectuer une roulade?\r\nQue fais-tu avec les jambes/ bras en effectuant une rolade latérale?",
-			"WILLINGNESS": "Peux-tu rouler simultanément avec un autre enfant? \r\nÀ quelle hauteur des bancs as-tu le plus de plaîsir? Quand as-tu besoin exceptionnellement beaucoup de courage?\r\nOù en plus peux-tu rouler latéralement vers le bas?"
+			"WILLINGNESS": "Peux-tu rouler simultanément avec un autre enfant? \r\nÀ quelle hauteur des bancs as-tu le plus de plaîsir? Quand as-tu besoin exceptionnellement beaucoup de courage?\r\nOù en plus peux-tu rouler latéralement vers le bas?",
+            "PDF": "Dévale la pente en roulant."
 		},
 		"FORWARD_ROLL": {
 			"MOBAK": "Mouvement corporel",
@@ -583,7 +613,8 @@
 			"MATERIALS": "Tapis de chute, bancs suédois, tapis de sol, espalier",
 			"VARIATIONS": "Entoure tes genoux en roulant.\r\nLève-toi sans aide de tes mains. \r\nCoince une peluche (ou un autre objet) entre le menton et la poitrine en roulant.\r\nAppuis avec les pieds et remets avec la nuque. \r\nRegarde ton ventre. \r\nPose fermement tes mains. \r\nAccroche les bancs suédois à une échelon plus bas ou haut de l'espalier. Laisse-toi amortir par un autre enfant au bout de la surface à rouler. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que change pour toi, lorsque tu coinces qc entre le menton et la poitrine? Comment réussis-tu à rouler tout droit?",
-			"WILLINGNESS": "Comment te sens-tu de accomplir l'exercice avec/ sans succès? Quoi peux-tu faire pour t'améliorer si tu n'as pas encore réussi?\r\nRéussis-tu aussi de rouler vers le haut en commencant en bas?"
+			"WILLINGNESS": "Comment te sens-tu de accomplir l'exercice avec/ sans succès? Quoi peux-tu faire pour t'améliorer si tu n'as pas encore réussi?\r\nRéussis-tu aussi de rouler vers le haut en commencant en bas?",
+            "PDF": "Roule vers l’avant en bas de la pente."
 		},
 		"PENDULUM": {
 			"MOBAK": "Mouvement corporel",
@@ -593,7 +624,8 @@
 			"MATERIALS": "Tapis de sol, ballon d'air, ballon",
 			"VARIATIONS": "Coince un ballon d'air ou un ballon entre les jambes. \r\nCoince un ballon d'air entre les jambes et ton torse en effectuant une roulade en arrière et te remets sur la position groupée debout.\r\nPasse le ballon à un autre enfant en te levant, après avoir fait une roulade en arrière (change le rôle immédiatement après avoir passé le ballon).\r\nFais une roulade en arrière, tiens à tes jambes et roule dans une position groupée debout. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Commenr réussis-tu le mieux à te lever après une roulade en avant?\r\nComment réussis-tu à faire une roulade en avant et en arrière?",
-			"WILLINGNESS": "Imagine que tu sois un tatou, qui roule. Comment sens-tu? Réussis-tu à effectuer une motion de pendule simultanément avec un autre enfant?\r\nQuoi change quand tu coinces un ballon entre tes jambes?"
+			"WILLINGNESS": "Imagine que tu sois un tatou, qui roule. Comment sens-tu? Réussis-tu à effectuer une motion de pendule simultanément avec un autre enfant?\r\nQuoi change quand tu coinces un ballon entre tes jambes?",
+            "PDF": "Roule en avant et en arrière sur le dos sans utiliser tes pieds."
 		},
 		"JUDO_ROLLS": {
 			"MOBAK": "Mouvement corporel",
@@ -603,7 +635,8 @@
 			"MATERIALS": "Tapis de chute",
 			"VARIATIONS": "Effectue une roulade de judo alternant l'épaule gauche et droite. \r\nVarie la longeur d'élan.\r\nRemets-toi debout directement après la roulade sans aide de mains.\r\nRoule lentement et sans élan.\r\nRegarde ton épaule sur laquelle tu roule.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Quoi change quand tu changes la longeur d'élan?\r\nRéussis-tu mieux que la roulade en avant? Pourquoi?",
-			"WILLINGNESS": "Comment sens-tu à faire une roulade sur l'autre épaule? \r\nPeux-tu effectuer cette roulade de judo aussi sur un tapis de sol ou sur le sol?"
+			"WILLINGNESS": "Comment sens-tu à faire une roulade sur l'autre épaule? \r\nPeux-tu effectuer cette roulade de judo aussi sur un tapis de sol ou sur le sol?",
+            "PDF": "Cherche quelques pas d'élan pour faire un roulade par-dessus ton épaule sur le sol mou."
 		},
 		"MAT_ROLLS": {
 			"MOBAK": "Mouvement corporel",
@@ -613,7 +646,8 @@
 			"MATERIALS": "Tapis de chute",
 			"VARIATIONS": "Remets-toi debout sans aide de mains. \r\nLaisse-toi aider par un autre enfant ou un/e enseignant/e.\r\nBorde un couloir avec des cordes pour rouler sur un tapis et roule à l'intérieur.\r\nAppuis fortement avec les jambes pour rouler plus rapidement. Puis, prends tes mains vers devant!\r\nEffectue une roulade sur un tapis de sol.\r\nConstruis un marquage sur le tapis de chute et atterris dedans avec les pieds après une roulade. Varie l'espace à ta position de départ. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu à te lever après une roulade?\r\nQuoi change quand tu fais une roulade sans élan sur un tapis de chute?",
-			"WILLINGNESS": "Comment change-ton sentiment quand tu fais une roulade sur le côté long du tapis en comparaison avec le côté court? \r\nComment sens-tu à te lever avec succès après une roulade?"
+			"WILLINGNESS": "Comment change-ton sentiment quand tu fais une roulade sur le côté long du tapis en comparaison avec le côté court? \r\nComment sens-tu à te lever avec succès après une roulade?",
+            "PDF": "Cherche quelques pas d'élan pour effectuer un roulade par-dessus ton épaule sur le sol mou."
 		},
 		"ROLL_OFF_THE_BOX": {
 			"MOBAK": "Mouvement corporel",
@@ -623,7 +657,8 @@
 			"MATERIALS": "Caisson avec deux éléments, tapis de sol",
 			"VARIATIONS": "change la hauteur du caisson. \r\nCoince un bandeau entre les chevilles.\r\nFais une roulade sur un tapis partant d'un dos d'un autre enfant qui est positionné sur ses quatre pas.\r\nRoule sur une ballon de physio. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Réussis-tu à te lever après une roulade? Comment?\r\nComment positionnes-tu tes mains pour rouler tout droite?",
-			"WILLINGNESS": "Comment sens-tu de rouler depuis un caisson? \r\nÀ quelle hauteur as-tu le plus de plaisir? Quand as-tu besoin particulairement beaucoup de courage?"
+			"WILLINGNESS": "Comment sens-tu de rouler depuis un caisson? \r\nÀ quelle hauteur as-tu le plus de plaisir? Quand as-tu besoin particulairement beaucoup de courage?",
+            "PDF": "Genoux sur le caisson. Pose tes mains sur le tapis de gym et effectue une roulade vers l’avant."
 		},
 		"VARIABLE_ROLLING": {
 			"MOBAK": "Mouvement corporel",
@@ -633,7 +668,8 @@
 			"MATERIALS": "Tapis de sol",
 			"VARIATIONS": "Roule latéralement \r\nMets tes pieds derrière du plan biais. Décolle et roule en bas de ce plan biais. \r\nRoule depuis le bas vers le haut.\r\nRoule sur le plan horizontal.\r\nMets tes pieds sur le tapis et roule depuis le haut vers le bas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment change- la roulade pour toi quand tu roules depuis le bas ver le haut?\r\nQuelle roulade réussis-tu au mieux? Montre et explique.",
-			"WILLINGNESS": "Quelle sorte de roulade te plais le plus? Pourquoi? \r\nRéussis-tu à rouler de toutes manières?"
+			"WILLINGNESS": "Quelle sorte de roulade te plais le plus? Pourquoi? \r\nRéussis-tu à rouler de toutes manières?",
+            "PDF": "Roule vers le bas ou vers le haut du plan incliné de différentes manières."
 		},
 		"ROLLING_PRECISELY": {
 			"MOBAK": "Mouvement corporel",
@@ -643,7 +679,8 @@
 			"MATERIALS": "Tapis de sol, bande adhésive",
 			"VARIATIONS": "Colle la bande adhésive au bout du tapis et atterris dessus après la roulade. Change l'espace au début du tapis. \r\nRoule diagonalement sur la bande tel qu'elle rest collée d'une épaule vers la hanche du côté opposé.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment dois-tu décoller avec les pieds pour rouler le plus précisement que possible?\r\nComment réussis-tu à rouler tout droit?",
-			"WILLINGNESS": "Peux-tu rouler trois fois sur les bande adhésive pour obtenir un assemblage des bandes d'une forme d'une étoile sur le dos? Comment as-tu le plus de plaisir à rouler sur les bandes? \r\nAs-tu des autres idées?"
+			"WILLINGNESS": "Peux-tu rouler trois fois sur les bande adhésive pour obtenir un assemblage des bandes d'une forme d'une étoile sur le dos? Comment as-tu le plus de plaisir à rouler sur les bandes? \r\nAs-tu des autres idées?",
+            "PDF": "Roule sur le ruban pour qu’il colle à votre dos."
 		},
 		"ROLL_UP": {
 			"MOBAK": "Mouvement corporel",
@@ -653,7 +690,8 @@
 			"MATERIALS": "Caisson avec deux éléments, tapis de sol",
 			"VARIATIONS": "Change le nombre des éléments. \r\nEffectue une roulade au-dessus d'un caisson. Utilise un tremplin pour décoller. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu à rouler au-dessus d'un caisson?\r\nQue fais-tu avec tes jambes pendant rouler?",
-			"WILLINGNESS": "De quelle hauteur as-tu besoin beaucoup de courage? Comment t'as-tu franchi? \r\nComment peux-tu aider un autre enfant à rouler en montant?"
+			"WILLINGNESS": "De quelle hauteur as-tu besoin beaucoup de courage? Comment t'as-tu franchi? \r\nComment peux-tu aider un autre enfant à rouler en montant?",
+            "PDF": "Roule sur le caisson."
 		},
 		"DIVE_ROLL": {
 			"MOBAK": "Mouvement corporel",
@@ -663,7 +701,8 @@
 			"MATERIALS": "tapis de sol, médecine ball",
 			"VARIATIONS": "Pose plusieurs de médecine balls en série et saute par dessus.\r\nChange l'espace entre la médecine ball.\r\nDécolle avec deux jambes.\r\nUtilise une corde au lieu d'un médecine ball par dessus tu sautes.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que dois-tu changer en comparaison une roulade en avant et un saut roulé?\r\nQue fais-tu pour atterrir le plus doucement que possible?",
-			"WILLINGNESS": "Mets-toi comme but un nombre des médecine balls que tu veux sauter par dessus. Comment sens-tu quand tu as réussi ton but? Imagine que tu sautes par dessus d'un abyss avec un saut roulé. Comment te fait sentir- le saut?"
+			"WILLINGNESS": "Mets-toi comme but un nombre des médecine balls que tu veux sauter par dessus. Comment sens-tu quand tu as réussi ton but? Imagine que tu sautes par dessus d'un abyss avec un saut roulé. Comment te fait sentir- le saut?",
+            "PDF": "Saute en avant avec une roulade sur une médecine-balle."
 		},
 		"PARTNER_ROLLS": {
 			"MOBAK": "Mouvement corporel",
@@ -673,7 +712,8 @@
 			"MATERIALS": "Tapis de sol",
 			"VARIATIONS": "Démarre d'une autre position (en haut/en bas). Effectue à deux une roulade en avant de manière synchronisée l'un à côté de l'autre. Effectue deux roulades ou plus à la suite. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussissez-vous une roulade à deux?\r\nÀ quoi fais-tu plus attention en comparaison avec une roulade tout seul?",
-			"WILLINGNESS": "As-tu besoin beaucoup de courage pour rouler à deux? Si oui, comment t'as-tu franchi?\r\nQuels conseils peux-tu donner à des autres enfants pour réussir une roulade à deux?"
+			"WILLINGNESS": "As-tu besoin beaucoup de courage pour rouler à deux? Si oui, comment t'as-tu franchi?\r\nQuels conseils peux-tu donner à des autres enfants pour réussir une roulade à deux?",
+            "PDF": "À deux: Attrapez les chevilles de l’autre et posez votre tête sur votre poitrine. Effectuez une roulade en avant ensemble."
 		}
 	},
 	"Balancing": "Balancing",
@@ -686,7 +726,8 @@
 			"MATERIALS": "Corde",
 			"VARIATIONS": "Recule en gardant l'équilibre.\r\nTiens l'équilibre avec les yeux fermés.\r\nEn plus, lance des tissus en l'air et rattrape-les.\r\nCircule des cerceaux avec les bras.\r\nChoissis des autres matériaux sur le quel tu peux tenir l'équilibrer (p.e. pneu, tapis, lignes).\r\nChoissis des autres matériaux que tu peux équilibrer (p.e. tissus, cônes, ballons, massues).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que change pour toi, quand tu avances latéralement ou tu marches en arrière en tenir l'équilibre? Pourquoi est-il plus facile de tenir l'équilibre en regardant en avant (que p.e. en regardant en bas) ?",
-			"WILLINGNESS": "Imaginez-vous que vous soyez des funambules au cirque. Comment traversez-vous à deux la corde en tenant l'équilibre? Pouvez-vous entendre l'applaudissment? Comment peux-tu situer la corde pour rendre l'exercice de tenir l'équilibre plus difficle. Pourquoi pourrait-il être important de savoir tenir l'équilibre?"
+			"WILLINGNESS": "Imaginez-vous que vous soyez des funambules au cirque. Comment traversez-vous à deux la corde en tenant l'équilibre? Pouvez-vous entendre l'applaudissment? Comment peux-tu situer la corde pour rendre l'exercice de tenir l'équilibre plus difficle. Pourquoi pourrait-il être important de savoir tenir l'équilibre?",
+            "PDF": "Tenir l'équilibre sur la corde."
 		},
 		"BENCH_BALANCING": {
 			"MOBAK": "Mouvement corporel",
@@ -696,7 +737,8 @@
 			"MATERIALS": "Banc suédois",
 			"VARIATIONS": "Change le moyen de locomotion (avance latéralement, recule, avance sur quatre pas.\r\nEffectue des mouvements supplémentaires des bras.\r\nChoissis des matériaux que tu peux équilibrer sur une partie de ton corps (p.e. tissus, cônes, ballons, massues). Pose des obstacles supplémentaires (p.e. cônes) sur le banc suédois que tu dois dépasser. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment mets-tu tes pieds sur le banc suédois pour réussir à tenir l'équilibre? Comment l'équilibre change-il pour toi, quand tu regardes en bas ou en haut? ",
-			"WILLINGNESS": "Comment te sens-tu, quand tu a réussi à traverser le banc en tenant l'équilibre? Observe un enfant qui a des difficultés de tenir l'équilibre et essaie de lui donner des conseils! Où, apart sur un banc suédois, peux-tu tenir l'équilibrer encore pour rendre l'exercice plus difficile pour toi. "
+			"WILLINGNESS": "Comment te sens-tu, quand tu a réussi à traverser le banc en tenant l'équilibre? Observe un enfant qui a des difficultés de tenir l'équilibre et essaie de lui donner des conseils! Où, apart sur un banc suédois, peux-tu tenir l'équilibrer encore pour rendre l'exercice plus difficile pour toi. ",
+            "PDF": "Tenir l'équilibre en avancant sur le long suédois."
 		},
 		"WOBBLY_BENCH": {
 			"MOBAK": "Mouvement corporel",
@@ -706,7 +748,8 @@
 			"MATERIALS": "Banc suédois, piquets",
 			"VARIATIONS": "Effectue l'exercice sans autres enfants en bordant les piquets avec des tapis gymnastiques pour qu'ils ne roulent pas. \r\nAvance latéralement ou marche en arrière.\r\nPose des obstacles supplémentaires (p.e. tissus, cônes) sur le banc que tu dois dépasser. Ajoute une rotation. Choissis des matériaux que tu peux équilibrer sur une partie de ton corps (p.e. tissus, cônes, ballons, massues).  ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "À quoi fais-tu attention quand tu traverses le banc instable en tenant l'équilibre?\r\nQuelle posture de bras aide-toi pour tenir ton équilibrer?",
-			"WILLINGNESS": "Comment te sens-tu, quand tu traverses le banc en tenant l'équilibre? As-tu besoin beaucoup de courage? Demande les autres enfants de bouger le banc plus lentement/rapidement selon tu te sens. "
+			"WILLINGNESS": "Comment te sens-tu, quand tu traverses le banc en tenant l'équilibre? As-tu besoin beaucoup de courage? Demande les autres enfants de bouger le banc plus lentement/rapidement selon tu te sens. ",
+            "PDF": "Tiens-toi sur le banc pendant qu’il bascule."
 		},
 		"MOUNTAIN_CLIMBING": {
 			"MOBAK": "Mouvement corporel",
@@ -716,7 +759,8 @@
 			"MATERIALS": "Banc suédois, espaliers, tapis de sol pour l'assurage.",
 			"VARIATIONS": "Change le moyen de locomotion (avance latéralement, recule, avance sur quatre pas.\r\nAccroche le banc aux annaux de balançoire et traverse-le en gardant l'équilibre.\r\nTapis pour l'assurage est indispensable!\r\nEn plus, circule un cerceau avec un bras.\r\nChoissis des matériaux que tu peux équilibrer sur une partie de ton corps (p.e. tissus, cônes, ballons, massues).\r\nAccroche le banc à un échelons plus bas ou haut d'espalier.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Où regardes-tu en montant?\r\nComment montes-tu sans perdre l'équilibre?",
-			"WILLINGNESS": "Après quel hauteur du banc devient-l'exercice un défi pour toi? Mesure le temps utilisé pour monter en haut, et challenge toi ou un autre enfant. Comment te sens-tu par raport à ce défi, quand tu traverses le banc en tenant l'équilibre? Comment te sens-tu s'il y a des obstacles supplémentaires sur le banc? "
+			"WILLINGNESS": "Après quel hauteur du banc devient-l'exercice un défi pour toi? Mesure le temps utilisé pour monter en haut, et challenge toi ou un autre enfant. Comment te sens-tu par raport à ce défi, quand tu traverses le banc en tenant l'équilibre? Comment te sens-tu s'il y a des obstacles supplémentaires sur le banc? ",
+            "PDF": "Tiens l'équilibre en montant et descendant du banc."
 		},
 		"OPPOSING_TRAFFIC": {
 			"MOBAK": "Mouvement corporel",
@@ -726,7 +770,8 @@
 			"MATERIALS": "Banc suédois",
 			"VARIATIONS": "Inversez le banc suiédois.\r\nInstallez le banc sur une surface instable (tapis, tramplin, piquets etc.)\r\nChoissis des matériaux que tu peux équilibrer sur une partie de ton corps (p.e. tissus, cônes, ballons, massues).\r\nGarde l'équilibre sur une corde.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment pouvez-vous aider vous-même en croisant?\r\nQu'est-ce qu'il est difficile en croisant?",
-			"WILLINGNESS": "Imaginez que vous êtes dans un jungle et que vous devriez vous enfuir d'un serpent vénéneux. Le banc vous sauvera de lui. Aidez-vous mutuellement de traverser le banc à l'autre côté! Comment avez-vous procédé pour réussir la traversée ensemble? Que pouvez-vous faire pour être plus courageux pour la traversée? "
+			"WILLINGNESS": "Imaginez que vous êtes dans un jungle et que vous devriez vous enfuir d'un serpent vénéneux. Le banc vous sauvera de lui. Aidez-vous mutuellement de traverser le banc à l'autre côté! Comment avez-vous procédé pour réussir la traversée ensemble? Que pouvez-vous faire pour être plus courageux pour la traversée? ",
+            "PDF": "Groupe: Il y a le même nombre d'enfants de chaque côté du banc suédois. Tenez l'équilibre en avancant sur le banc et croisez au milieu."
 		},
 		"SEESAW": {
 			"MOBAK": "Mouvement corporel",
@@ -736,7 +781,8 @@
 			"MATERIALS": "Banc suédois, caisson",
 			"VARIATIONS": "Choissis des matériaux que tu peux équilibrer sur une partie de ton corps (p.e. tissus, cônes, ballons, massues). Change la manière du mouvement (avancer latéralement, reculer, avancer sur quatre pas. Traverse en tenant l'équilibre avec les yeux fermés.\r\nSi besoin, laisse-toi aider par un autre enfant, qui te donne sa main pour te soutenir. \r\nChoissis deux templins au lieu d'une caisson pour former la bascule.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que fais-tu pour tenir l'équilibre, quand le banc bascule?\r\nComment la basculedu banc change-elle lorsque tu avances latéralement?",
-			"WILLINGNESS": "As-tu une idée, comment on peut basculer le banc à des hauteurs différentes? Comment te sens-tu quand le banc bascule? Avancez à deux: Comment la bascule du banc change-elle lorsque vous êtes à deux, l'un après l'autre, à avancer?"
+			"WILLINGNESS": "As-tu une idée, comment on peut basculer le banc à des hauteurs différentes? Comment te sens-tu quand le banc bascule? Avancez à deux: Comment la bascule du banc change-elle lorsque vous êtes à deux, l'un après l'autre, à avancer?",
+            "PDF": "Tiens l'équilibre sur la balançoire et laisse-la s’incliner lentement."
 		},
 		"ROPE_DANCER": {
 			"MOBAK": "Mouvement corporel",
@@ -746,7 +792,8 @@
 			"MATERIALS": "Banc suédois, ballon basket",
 			"VARIATIONS": "Avance en tenant l'équilibre sur le côté large d'un banc suédois.\r\nEffectue l'exercice avec une limite du temps.\r\nTiens l'équilibre sur une corde.\r\nTiens l'équilibre avec les yeux fermés.\r\nChoissis un autres ballon ou un autre object pour l'équilibrer.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Pourquoi le tâche est-il plus facile lorsque tu traverses sur le côté large du banc? Que change pour toi, quand tu avances avec un ballon au-dessus de ta tête au lieu de sans? Comment le tâche change- il lorsque tu utilises un bâton au lieu d'un ballon?",
-			"WILLINGNESS": "Quel autres objects peux-tu tenir au-dessus de ta tête quand tu tiens l'équilibre?\r\nSur quelle partie du corps peux-tu équilibrer des objects pendant traversant le banc en tenant ton équilibre?\r\nAvant que tu traverses le banc: Visualise d'abord tes mouvements qui suivent pendant quelques secondes. Arrives-tu mieux à effectuer cette exercice comme ça?"
+			"WILLINGNESS": "Quel autres objects peux-tu tenir au-dessus de ta tête quand tu tiens l'équilibre?\r\nSur quelle partie du corps peux-tu équilibrer des objects pendant traversant le banc en tenant ton équilibre?\r\nAvant que tu traverses le banc: Visualise d'abord tes mouvements qui suivent pendant quelques secondes. Arrives-tu mieux à effectuer cette exercice comme ça?",
+            "PDF": "Tiens un ballon de basket au-dessus de ta tête et tiens l'équilibre en avancant sur le banc suédois. Fait un demi-tour au milieu et continue à tenir ton équilibrer en marche arrière."
 		},
 		"BALANCING_ON_BALLS": {
 			"MOBAK": "Mouvement corporel",
@@ -756,7 +803,8 @@
 			"MATERIALS": "Médecine balls, cerceaux (pour garder les médecines balles sur place)",
 			"VARIATIONS": "Marche en arrière sur les médecine balls.\r\nPrends des boules de Pezzi au lieu de médecine balls. \r\nAvance sur les médecine balls sur quatre pas.\r\nSi besoin, laisse-toi aider par un autre enfant, qui te donne sa main pour te soutenir. \r\nDeux s'approchent et essaient de se croiser. Avance avec les yeux fermés. Aligne les médecine balles d'une autre manière. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que fais-tu différent quand tu avances sur des ballons au lieu d'un banc? Comment poses-tu tes pieds sur des ballons pour réussir à tenir ton équilibre? Comment réussis-tu à tenir ton équilibre sur des ballons avec les yeux fermés?",
-			"WILLINGNESS": "Quel autres objects pouraient être utilisés au lieu des médecine balls?\r\nComment te sens-tu quand les ballons sont plus éloignés?\r\nComment te sens-tu en avancant sur les ballons avec les yeux fermés?"
+			"WILLINGNESS": "Quel autres objects pouraient être utilisés au lieu des médecine balls?\r\nComment te sens-tu quand les ballons sont plus éloignés?\r\nComment te sens-tu en avancant sur les ballons avec les yeux fermés?",
+            "PDF": "Tiens l'équilibre en avancant sur les médecines-balles sans toucher le sol."
 		},
 		"CIRCUS_ARTISTS": {
 			"MOBAK": "Mouvement corporel",
@@ -766,7 +814,8 @@
 			"MATERIALS": "Banc suédois, bandeaux pour les yeux",
 			"VARIATIONS": "Avance en tenant l'équilibre avec les yeux fermés.\r\nEffectue l'exercice avec une limite du temps.\r\nSi besoin, laisse-toi aider par un autre enfant, qui te donne sa main pour te soutenir.\r\nInverse le banc suédois.\r\nSerre tes bras proche au corps.\r\nPenche le torse vers l'avant ou l'arrière.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu le mieux à avancer le banc en tenant l'équilibre avec les yeux fermés? Que changes-tu entre marche en avant et arrière?",
-			"WILLINGNESS": "Que change pour toi lorsque tu fermes les yeux ou quand tes yeux sont couverts?\r\nComment peux-tu aider un autre enfant à réussir cette exercice?"
+			"WILLINGNESS": "Que change pour toi lorsque tu fermes les yeux ou quand tes yeux sont couverts?\r\nComment peux-tu aider un autre enfant à réussir cette exercice?",
+            "PDF": "Tiens l'équilibre sur le banc suédois avec les yeux bandés."
 		},
 		"BALANCING_ON_MATS": {
 			"MOBAK": "Mouvement corporel",
@@ -776,7 +825,8 @@
 			"MATERIALS": "Tapis de sol",
 			"VARIATIONS": "Ferme tes yeux.\r\nMets-toi sur l'autre jambe.\r\nMets-toi sur un tapis plus épais\r\nMets-toi sur des autres surfaces instables.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu le mieux à tenirton équilibre?\r\nComment peut-la vue t'aider à tenir ton équilibre?",
-			"WILLINGNESS": "Comment l'exercice change-il pour toi quand tu fermes les yeux ou que tu poses ta tête sur ta nuque? Quelles surfaces rendrent l'exercice à tenir l'équilibre plus difficile? "
+			"WILLINGNESS": "Comment l'exercice change-il pour toi quand tu fermes les yeux ou que tu poses ta tête sur ta nuque? Quelles surfaces rendrent l'exercice à tenir l'équilibre plus difficile? ",
+            "PDF": "Tiens-toi debout sur une jambe sur un tapis de gym."
 		},
 		"DONT_WOBBLE": {
 			"MOBAK": "Mouvement corporel",
@@ -785,7 +835,8 @@
 			"BASIC_TASK": "Les enfants se bougent arbitrairement. Sur commando, tous arrètent et metent sur un pied. Il ne faut pas bouger. ",
 			"VARIATIONS": "Sur commando mets-toi dans une planche sur un pied.\r\nTiens ton équilibre dans une position \"bateau\".\r\nEffectue des commando (positions) différents. Celui qui bouge donne le prochain commando. \r\nCherche des positions différentes pour tenir l'équilibre.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu à te mettre sur un pieds sans bouger le plus rapide que possible?\r\nQuelle positions d'équilibre sont plus facile à tenir?",
-			"WILLINGNESS": "Comment peux-tu écarter tes bras et jambes sur un pied pour tenir ton équilibre?\r\nComment te sens-tu quand tu peux pas garder l'équilibre?"
+			"WILLINGNESS": "Comment peux-tu écarter tes bras et jambes sur un pied pour tenir ton équilibre?\r\nComment te sens-tu quand tu peux pas garder l'équilibre?",
+            "PDF": "Sur commande, tiens debout sur une jambe."
 		},
 		"UNSTABLE_DEVICES": {
 			"MOBAK": "Mouvement corporel",
@@ -795,7 +846,8 @@
 			"MATERIALS": "L'équipements pour s'équilibrer, ballons, pédalo, gyroscope etc. ",
 			"VARIATIONS": "Ferme tes yeux en tenant ton équilibre.\r\nChange la position de tes bras.\r\nEffectue des movements supplémentaires avec les bras (p.e. des circles)\r\nÉquilibre-toi sur l'équipement avec une jambe. \r\nLaisse-toi aider par un autre enfant.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "À quoi fais-tu attention pour que tu puisse tenir l'équilibre sur un équipement instable?\r\nComment l'équilibre change-il sur un équipment instable en comparaison avec un équipement stable?",
-			"WILLINGNESS": "Sur quels autres équipements peux-tu tenir l'équilibrer encore?\r\nComment peux-tu rendre l'exercice plus difficile pour toi?"
+			"WILLINGNESS": "Sur quels autres équipements peux-tu tenir l'équilibrer encore?\r\nComment peux-tu rendre l'exercice plus difficile pour toi?",
+            "PDF": "Tiens l'équilibre sur les objects instables."
 		}
 	},
 	"catching": "catching",
@@ -809,7 +861,8 @@
 			"MATERIALS": "Ballons différents",
 			"VARIATIONS": "Lance le ballon en l'air avec deux mains, frappe un ou plusieurs de fois dans la main et rattrape-le avec deux mains.\r\nLance le ballon en l'air avec deux mains et rattrape-le avec une main.\r\nLance le ballon en l'air avec deux mains, touche le sol et rattrape le ballon avec deux mains.\r\nLance le ballon en l'air avec deux mains, tourne-toi une fois autour de toi-même et rattrape-le.\r\nLance le ballon en l'air avec deux mains et rattrape-le derrière ton dos.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu à rattraper le ballon après le lancement?\r\nObserve les autres enfants - Que faitent-ils avec leurs mains?",
-			"WILLINGNESS": "À quel hauteur réussis-tu à lancer et de rattraper le ballon? \r\nPeux-tu effectuer l'exercice avec des ballons différents?\r\nDecris ton sentiment lorsque tu réussis à rattraper le ballon. "
+			"WILLINGNESS": "À quel hauteur réussis-tu à lancer et de rattraper le ballon? \r\nPeux-tu effectuer l'exercice avec des ballons différents?\r\nDecris ton sentiment lorsque tu réussis à rattraper le ballon. ",
+            "PDF": "Lance le ballon en l’air avec les deux mains et rattrape-le."
 		},
 		"KEEP_THE_WATER_CLEAN": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -819,7 +872,8 @@
 			"MATERIALS": "Balles, filet, raquette de bois, de badminton, de tennis ou une batte\r\nAlternative: Banc suédois/ficelle pour la séparation, cônes, balles différentes, ballons d'air.",
 			"VARIATIONS": "Attrape les balles avec un cône.\r\nAttrape les balles avec la main gauche pour les balles parvenant à gauche et avec la main droite pour les balles parvenant à droite.\r\nAttrape les balles avec une raquette.\r\nAlternez la distance courte et longue (enfant A).\r\nChangez cosécutivement les rôles.\r\nL'enfant A lance la balle par-dessus le filet.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment te positionnes-tu pour attraper la balle?\r\nÀ quoi fais-tu attention pour réussir à attraper la balle?",
-			"WILLINGNESS": "Quoi change pour toi lorsque tu joues contre un autre enfant?\r\nComment réussissez-vous que les deux puissent frapper et attraper la balle?"
+			"WILLINGNESS": "Quoi change pour toi lorsque tu joues contre un autre enfant?\r\nComment réussissez-vous que les deux puissent frapper et attraper la balle?",
+            "PDF": "À deux: un enfant frappe des ballons par-dessus du filet avec une raquette, l’autre enfant les attrape."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -829,7 +883,8 @@
 			"MATERIALS": "Cerceaux, ballons différents",
 			"VARIATIONS": "Tiens deux cerceaux (l'enfant C).\r\nRoule telle que tu puisse attraper le ballon toi-même à l'autre côté (l'enfant A), de façon que tu effectues l'exercice qu'avec un seul autre enfant qui tient le cerceau. \r\nFrappe le ballon avec le pied.\r\nAgrandisez le groupe en positionnant tous les enfants le long de la salle avec chaqu'un un ballon. Essaiez de atteindre avec votre ballon (rouler, lancer ou frapper à travers du cerceau) un ballon gymnastique ou un cercau roulé à travers la salle par un enseignant ou un autre enfant.\r\nPasse le ballon à traverse du cerceau avec une raquette.\r\nRoule le ballon avec une main.\r\nFaites rouler le cerceau à travers la salle et lancez, jouez ou roulez le ballon à travers ce cerceau.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu à rouler le ballon à travers le cerceau?\r\nComment changes-tu tes bras lorsque tu lances le ballon au lieu de le faire rouler?",
-			"WILLINGNESS": "Comment peux-tu encore faire rouler/jouer le ballon à traverse le cerceau?\r\nCombien de fois de suite peux-tu attraper le ballon? Mets-toi un objectif et essaie de l'atteindre.\r\nDe quelles autres manières peux-tu rouler/jouer le ballon encore?"
+			"WILLINGNESS": "Comment peux-tu encore faire rouler/jouer le ballon à traverse le cerceau?\r\nCombien de fois de suite peux-tu attraper le ballon? Mets-toi un objectif et essaie de l'atteindre.\r\nDe quelles autres manières peux-tu rouler/jouer le ballon encore?",
+            "PDF": "À trois: un enfant tient un cerceau. Les deux autres font rouler un ballon à travers ce cerceau."
 		},
 		"TIGERBALL": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -839,7 +894,8 @@
 			"MATERIALS": "Ballons différents",
 			"VARIATIONS": "Jouez simultanément avec deux ballons (différents).\r\nAgrandissez graduellement le cercle.\r\nVarie la hauteur de pass.\r\nIntègre des variations de lancement différentes (lance depuis en bas, deux mains, par-dessus de la tête, faire rebondir etc.)\r\nRolle den Ball dem nächsten Kind zu.\r\nNe passe pas le ballon à l'enfant directement à côté de toi. \r\nRoule le ballon au prochain enfant.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu le mieux à attraper le ballon lorsque tu es positionné au centre?\r\nComment lances-tu le ballon à un autre enfant pour que l'enfant au centre ne le peux pas attraper?",
-			"WILLINGNESS": "Comment fait-le jeu le plus plaîsir?\r\nComment réagis-tu quand tu réalise que l'enfant au centre ne peux pas attraper le ballon?\r\nComment jouez-vous ensemble pour que l'enfant au centre ne peux pas attraper le ballon?"
+			"WILLINGNESS": "Comment fait-le jeu le plus plaîsir?\r\nComment réagis-tu quand tu réalise que l'enfant au centre ne peux pas attraper le ballon?\r\nComment jouez-vous ensemble pour que l'enfant au centre ne peux pas attraper le ballon?",
+            "PDF": "En groupe : Un enfant se place au milieu du cercle. Les autres se passent un ballon. L’enfant au milieu essaie de l'attraper. Inverse les rôles."
 		},
 		"BOXING": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -849,7 +905,8 @@
 			"MATERIALS": "Ballons différents",
 			"VARIATIONS": "Utilise des ballons différents.\r\nModifie la distance.\r\nVarie la hauteur de passe (enfant A) .\r\nIntègre des variantes de lancement différentes p.e. depuis le bas, deux mains, par-dessus de la tête etc.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment peux-tu lancer le ballon précisement?\r\nÀ quoi fais-tu attention pour bien attraper le ballon?",
-			"WILLINGNESS": "Combien de fois de suite réussissez-vous à attraper le ballon depuis un distance différentes?\r\nComment réussissez-vous à accomplir l'exercice?\r\nRéussissez-vous à attraper le ballon depuis des distances différentes?"
+			"WILLINGNESS": "Combien de fois de suite réussissez-vous à attraper le ballon depuis un distance différentes?\r\nComment réussissez-vous à accomplir l'exercice?\r\nRéussissez-vous à attraper le ballon depuis des distances différentes?",
+            "PDF": "À deux : Un enfant a un ballon dans sa main et utilise celui pour retourne un autre ballon, qui lui a été lancé."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -859,7 +916,8 @@
 			"MATERIALS": "Ballons différents",
 			"VARIATIONS": "Lance un ballon aller-retour qu'à un seul autre enfant.\r\nLancez le ballon à tous les enfants une fois et répétez l'ordre. Rajoutez des ballons en plus.\r\nAprès la passe, change à l'endroit où tu as fait la passe.\r\nIntègre des variantes de lancement p.e. depuis en bas, deux mains, par-dessus de la tête etc.\r\nRoule le ballon avec ta main, frappe-le avec ton pied ou frappe-le avec une raquette.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment prépares-tu pour bien attraper le ballon?\r\nÀ quoi fais-tu attention lorsque le ballon parvient vers toi?\r\nPourquoi aide-ça de regarder l'enfant auquel tu veux passer le ballon?",
-			"WILLINGNESS": "Réussisons-nous que chaque enfant attrape le ballon une fois sans qu'il tombe au sol?\r\nComment lancer et attraper le ballon en cercle fonctionne-t-il le plus rapidement?"
+			"WILLINGNESS": "Réussisons-nous que chaque enfant attrape le ballon une fois sans qu'il tombe au sol?\r\nComment lancer et attraper le ballon en cercle fonctionne-t-il le plus rapidement?",
+            "PDF": "En groupe : Mettez-vous en cercle et passez-vous le ballon. Les double passes ne sont pas autorisées."
 		},
 		"REACTING": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -869,7 +927,8 @@
 			"MATERIALS": "Ballons",
 			"VARIATIONS": "Lance le ballon à des différentes hauteurs.\r\nFais rebondir le ballon au sol et rattrape-le.\r\nUtilise des ballons différents.\r\nDeux ou trois enfants passent un ballon. Aide: Laisser fair rebondir le ballon une fois au sol.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "À quoi fais-tu attention pour que tu ouvres tes yeux seulement just avant le rattraper?\r\nQuel ballon peux-tu attraper le mieux? Explique.",
-			"WILLINGNESS": "Réussis-tu aussi à attraper le ballon à l'aveugle?\r\nComment passes-tu le ballon à un autre enfant pour qu'il puisse l'attraper facilement?"
+			"WILLINGNESS": "Réussis-tu aussi à attraper le ballon à l'aveugle?\r\nComment passes-tu le ballon à un autre enfant pour qu'il puisse l'attraper facilement?",
+            "PDF": "Lance le ballon en l’air avec les yeux fermés et rattrape-le."
 		},
 		"WALL_BALL": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -879,7 +938,8 @@
 			"MATERIALS": "Ballons",
 			"VARIATIONS": "Utilise des ballons différents.\r\nMarquez une zone de jeu au mur.\r\nJouez que contre un mur. Après chaque point de rebond l'équipe gagnant retire derrière une ligne pré-determinée avant la prochaine attaque.\r\nRoulez le ballon au lieu de le lancer.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "À quoi fais-tu attention pour réussir de marquer un point de rebond?\r\nComment passes-tu le ballon à tes coéquipiers pour que l'équipe adverse ne puisse pas s'en servir.",
-			"WILLINGNESS": "Comment la trajectoire change-t-elle lorsque le ballon frappe contre le mur?\r\nQuelles idée as-tu pour modifier le jeu?"
+			"WILLINGNESS": "Comment la trajectoire change-t-elle lorsque le ballon frappe contre le mur?\r\nQuelles idée as-tu pour modifier le jeu?",
+            "PDF": "En groupe : Divisez-vous en deux équipes. Un point peut être marqué lorsqu'un membre de l’équipe lance le ballon contre le mur et qu’un autre membre de l’équipe l’attrape."
 		},
 		"TRAJECTORY": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -889,7 +949,8 @@
 			"MATERIALS": "Ballons",
 			"VARIATIONS": "Lance le ballon au mur telle qu'il rebondit au sol avant que tu le rattrape.\r\nLance depuis des positions différentes.\r\nPassez e ballon entre à deux en utilisant le mur.\r\nJouez l'un contre l'autre: Déterminez une zone depuis laquelle le ballon doit être lancé et où il doit rebondir. Lorsque l'autre enfant ne peux pas attraper le ballon, tu gagnes un point.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment sais-tu quelle trajectoire le ballon prends après rebondir du mur?\r\nComment prépares-tu pour attraper le ballon?",
-			"WILLINGNESS": "Combien de fois de suite réussis-tu à attraper le ballon?\r\nComment sens-tu lorsque tu ne peux pas attraper le ballon?"
+			"WILLINGNESS": "Combien de fois de suite réussis-tu à attraper le ballon?\r\nComment sens-tu lorsque tu ne peux pas attraper le ballon?",
+            "PDF": "Lance le ballon contre le mur et rattrape-le."
 		},
 		"FLYING_BALL": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -899,7 +960,8 @@
 			"MATERIALS": "Ballons, tapis de chute",
 			"VARIATIONS": "Utilise des ballons différents.\r\nVarie la zone d'atterrissage.\r\nChange la dimension du terrain.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Avec quelle tactique ton équipe réussit-t-elle à marquer un point?\r\nQuoi change lorsque le terrain devient plus grand?",
-			"WILLINGNESS": "Réussis-tu à attrapper le ballon en sautant et d'atterrir dans la zone d'atterrissage?\r\nComment lances- tu le ballon à ton coéquipier pour qu'il réussit à attraper le ballon dans la zone d'atterrissage?\r\nQuel règles rajouterais-tu pour modifier le jeu?"
+			"WILLINGNESS": "Réussis-tu à attrapper le ballon en sautant et d'atterrir dans la zone d'atterrissage?\r\nComment lances- tu le ballon à ton coéquipier pour qu'il réussit à attraper le ballon dans la zone d'atterrissage?\r\nQuel règles rajouterais-tu pour modifier le jeu?",
+            "PDF": "En groupe : Divisez-vous en deux équipes. Un point peut être marqué lorsqu'un membre de l’équipe peut attraper le ballon en sautant dans la zone d’atterrissage."
 		},
 		"FISHERMAN": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -909,7 +971,8 @@
 			"MATERIALS": "Ballons",
 			"VARIATIONS": "Lance les ballons rapidement l'un après l'autre.\r\nDonne un signal acustique avant de lancer le ballon.\r\nL'enfant A dit où le ballon doit être lancé.\r\nL'enfant est prêt avec les yeux fermés et essaie de réagier le plus rapidement que possible.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "À quoi fais-tu attention lorsque tu attrapes les ballons?\r\nComment positionnes-tu tes mains et bras pour attraper les ballons?",
-			"WILLINGNESS": "As-tu une idée pour modifier le jeu et de le rendre plus captivant?\r\nComment passes- tu le ballon à l'enfant B en étant l'enfant A pour que le défi d'attraper les ballons soit difficile mais faisable?"
+			"WILLINGNESS": "As-tu une idée pour modifier le jeu et de le rendre plus captivant?\r\nComment passes- tu le ballon à l'enfant B en étant l'enfant A pour que le défi d'attraper les ballons soit difficile mais faisable?",
+            "PDF": "À deux : Faites des passes avec des ballons à différentes hauteurs "
 		}
 	},
 	"throwing": "throwing",
@@ -922,7 +985,8 @@
 			"MATERIALS": "Balles de jonglage, tapis, [balles différentes]",
 			"VARIATIONS": "Intègre des variantes de jet différentes, p.e. lance depuis en bas, avec deux mains, par-dessus de la tête etc.\r\nUtilise des balles différentes.\r\nAugmente ou diminue la distance entre les tapis.\r\nUtilise des tapis plus petits ou grands.\r\nRearrange les tapis.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment changes-tu ton lancement quand tu lances sur le terrain 1 ou 12?\r\nComment lances-tu la balle le plus précisement?",
-			"WILLINGNESS": "Comment arrangerais-tu les terrains?\r\nQuels autres objects peux-tu utiliser comme cible?"
+			"WILLINGNESS": "Comment arrangerais-tu les terrains?\r\nQuels autres objects peux-tu utiliser comme cible?",
+            "PDF": "Lancez la balle de jonglage jusqu’à la case 1, puis saute de la case 2 à la case 12 et de retour. Ensuite, lance la balle dans la case 2 et saute à la case 1, puis 3 - 12 et de retour. Et ainsi de suite."
 		},
 		"THROWING_STATIONS": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -932,7 +996,8 @@
 			"MATERIALS": "Balles différentes, caisson, cerceaux",
 			"VARIATIONS": "Lance la balle en être assis.\r\nMets-toi sur un caisson et lance les balles dans un panier de basket-ball.\r\nLance une balle (avec la main gauche ou droite) sur un cassion et essaie de la rattrapper.\r\nLance les balles avec la mains gauche ou droite par-dessus et à travers l'espalier, pour qu'un autre enfant puisse la rattrapper.\r\nBouleverse tous les quatres cônes d'un caisson en lanceant avec cinq balles.\r\nLance la balle dans tout les carrés du grand espalier.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que change pour toi quand tu lances la balle avec une ou deux mains?\r\nComment positionnes-tu tes jambes en lanceant?",
-			"WILLINGNESS": "Mets-toi un but: Combien des balles de suite peux-tu lancer dans la box?\r\nQue change pour toi, si tu défie un autre enfant?\r\nRéussis-tu aussi à atteindre dans le caisson avec des distances différentes?"
+			"WILLINGNESS": "Mets-toi un but: Combien des balles de suite peux-tu lancer dans la box?\r\nQue change pour toi, si tu défie un autre enfant?\r\nRéussis-tu aussi à atteindre dans le caisson avec des distances différentes?",
+            "PDF": "Lance le ballon dans le caisson."
 		},
 		"KEEP_YOUR_GARDEN_CLEAN": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -942,7 +1007,8 @@
 			"MATERIALS": "Banc suédois, balles différentes",
 			"VARIATIONS": "Entre les deux équipes, il y a une espace de 3m. Cette espace est une zone jeu-libre (elle est marquée en utilisant des cônes ou bancs suédois). \r\nLes balles mous peuvent être lancés que avec des mains, et les ballons de foot peuvent être que taper avec les pieds.\r\nLes équipes peuvent reçevoir des points, si elles lancent les ballons au mur de l'équipe opposée.\r\nJouez le jeu avec deux bancs suédois (avec un peu d'espace entre deux).\r\nLe banc suédois est inversé et posé sur deux caissons. Lance les balles par-dessous du banc dans le terrain opposé.\r\nEffectue un tâche après chaque lancement, p.e. toucher le mur, lancer la balle au mur et rattrapper-la\r\nInventez ensemble des nouveau règles pour le jeu.\r\nIntègre des variantes de lancement, p.e. depuis en bas, avec deux mains, par-dessus de la tête etc.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment lances-tu la balle le plus rapidement à l'autre côté?\r\nLances-tu la balle différament quand tu la rattrappes depuis l'air ou si tu le ramasses du sol?",
-			"WILLINGNESS": "Que faites-vous ensemble comme équipe pour garder votre jardin propre?\r\nÀ quoi fais-tu attention pour pas atteindre un enfant par accident?"
+			"WILLINGNESS": "Que faites-vous ensemble comme équipe pour garder votre jardin propre?\r\nÀ quoi fais-tu attention pour pas atteindre un enfant par accident?",
+            "PDF": "Groupes : Divisez-vous en deux équipes. Lancez autant des ballons que possible sur le terrain de l’autre équipe pendant un temps donné."
 		},
 		"SCORE_MASTER": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -952,7 +1018,8 @@
 			"MATERIALS": "Ballons, cibles différents (p.e. tapis, cerceaux, tapis de chute etc.)",
 			"VARIATIONS": "Intègre des variantes de lancement, p.e. depuis en bas, avec deux mains, par-dessus de la tête etc.\r\nAgumente ou diminue la distance aux cibles.\r\nMets une limite du temps pour atteindre les cibles.\r\nUtilise des cibles différents.\r\nUtilise des cibles différents au mur.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Quel cible atteinds-tu le mieux?\r\nComment lances-tu pour mieux atteindre le cible?",
-			"WILLINGNESS": "Fais un plan: Dans quelle orde veux-tu atteindre les cibles pour avoir besoin le minimum de lancements?\r\nTravaille en deux: Combien de lancements avez-vous besoin de atteindre tout les cibles?\r\nRéusis-tu à atteindre tout les cible avec chaqu'un seul lancement?"
+			"WILLINGNESS": "Fais un plan: Dans quelle orde veux-tu atteindre les cibles pour avoir besoin le minimum de lancements?\r\nTravaille en deux: Combien de lancements avez-vous besoin de atteindre tout les cibles?\r\nRéusis-tu à atteindre tout les cible avec chaqu'un seul lancement?",
+            "PDF": "Frappe toutes les cibles avec le moins de lancers possible."
 		},
 		"FALLING_OVER": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -962,7 +1029,8 @@
 			"MATERIALS": "Banc suédois, cibles (p.e. cônes, pots de yaourt, massues), ballons différents",
 			"VARIATIONS": "Change la distance au cible.\r\nPose deux bancs suédois dans une postion d'un V. Mets tes cibles dessus et essaie de les atteindre des positions différentes.\r\nLance depuis une position assise, agenouillée etc.\r\nRearrange tes cibles.\r\nMets tes cibles sur une hauteur différente (sol ou caisson).\r\nLance avec l'autre main.\r\nUtilise des ballons différents. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu à renverser les cibles le mieux?\r\nQue fais-tu différent, quand tu roules ou lances le ballon?",
-			"WILLINGNESS": "Quels autres objects de lancement peux-tu utiliser encore?\r\nDécide un ordre des cibles pour ton collegue de classe. Peux-tu lui aider à atteindre tous?"
+			"WILLINGNESS": "Quels autres objects de lancement peux-tu utiliser encore?\r\nDécide un ordre des cibles pour ton collegue de classe. Peux-tu lui aider à atteindre tous?",
+            "PDF": "Lance le ballon sur la cible de manière à ce qu’elle tombe."
 		},
 		"HIT_THE_TARGET": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -972,7 +1040,8 @@
 			"MATERIALS": "Conteneur (p.e. un seau, bôite grande, boîte petites, boîtes inversés), ballons différents. ",
 			"VARIATIONS": "Intègre des variantes de lancement, p.e. depuis en bas, avec deux mains, par-dessus de la tête etc.\r\nFais bouger le conteneur par des autres enfants.\r\nPose le conteneur proche d'un mur et lance le ballon contre le mur pour qu'il tombe dans le conteneur.\r\nVarie la distance au conteneur.\r\nUtilise des ballons différents. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment positiones-tu tes bras en lanceant pour mieux viser?\r\nÀ quoi fais-tu attention pour atteindre le conteneur?",
-			"WILLINGNESS": "Comment sens-tu, quand tu as atteindu le conteneur avec le ballon?\r\nRéussissez-vous simultanément à deux d'atteindre le conteneur?\r\nQuels autres conteneurs pouvons-nous utiliser encore comme cible?"
+			"WILLINGNESS": "Comment sens-tu, quand tu as atteindu le conteneur avec le ballon?\r\nRéussissez-vous simultanément à deux d'atteindre le conteneur?\r\nQuels autres conteneurs pouvons-nous utiliser encore comme cible?",
+            "PDF": "Lance les ballons dans les récipients dans l’ordre (de la grande à la petite)."
 		},
 		"THROWING_OFF": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -982,7 +1051,8 @@
 			"MATERIALS": "Caissons, tissues, ballons différents",
 			"VARIATIONS": "Attache des tissues et cerceaux au mur. Essaie d'atteindre un tissue ou dans le cerceau.\r\nIntègre des variantes de lancement, p.e. depuis en bas, avec deux mains, par-dessus de la tête etc.\r\nLasse tomber les tissues plus rapidement (l'enfant se tient debout sur un caisson).\r\nAugmente ou diminue la distance au cible.\r\nLaisse tomber des objects différents (l'enfant se tient debout sur un caisson).\r\nUtilise des ballons différents. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Quand lances-tu le ballon pour atteindre le tissue?\r\nComment changes-tu ton lancement quand tu changes la position de tes bras?",
-			"WILLINGNESS": "Réussis-tu à atteindre deux tissues simultanément?\r\nÀ quoi fais-tu attention, quand tu laisses tomber le tissue pour que l'autre enfant peux bien l'atteindre?"
+			"WILLINGNESS": "Réussis-tu à atteindre deux tissues simultanément?\r\nÀ quoi fais-tu attention, quand tu laisses tomber le tissue pour que l'autre enfant peux bien l'atteindre?",
+            "PDF": "Frappez les chiffons avant qu’ils tombent au sol."
 		},
 		"DICE": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -992,7 +1062,8 @@
 			"MATERIALS": "Ballons différents, caissons, banc suédois, dé",
 			"VARIATIONS": "Augmente ou diminue la taille du cible.\r\nIntègre des variantes de lancement, p.e. depuis en bas, avec deux mains, par-dessus de la tête etc.\r\nAugmente ou diminue la distance au cible.\r\nAugmente ou diminue la distance au cible.\r\nUtilise des ballons différents.\r\nAtteinds tout les six numéros deux fois avec le ballon.\r\nMets une limite du temps pour atteindre tout les six numéros.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que changes-tu quand tu dois atteindre le 1 ou le 6?\r\nComment réussis-tu le mieux à atteindre ces numéros?",
-			"WILLINGNESS": "Comment change l'exercice pour toi quand tu as une limite du temps pour atteindre tout les numéros une fois?\r\nAtteinds-tu les numéros aussi quand tu lances avec l'autre main?"
+			"WILLINGNESS": "Comment change l'exercice pour toi quand tu as une limite du temps pour atteindre tout les numéros une fois?\r\nAtteinds-tu les numéros aussi quand tu lances avec l'autre main?",
+            "PDF": "Lance les dés et vise le nombre indiqué par le dé."
 		},
 		"ENCHANT_AND_REDEEM": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1002,7 +1073,8 @@
 			"MATERIALS": "Ballons mou",
 			"VARIATIONS": "Roule avec un ballon grand.\r\nPositionnez deux chasseurs/euses dans un terrain grand dans lequel il y a des mesures de protections comme p.e. caissons etc. Un enfant peut chercher l'abri dans ce mesure de protection aussi lontemps qu'un autre enfant cherche la protection. \r\nCherchez ensemble des autres possibilités pour l'enchantement ou le sauvetage.\r\nChangez le jeu avec vos nouveaux idées.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "À quoi fais-tu attention quand tu veux atteindre un enfant avec un ballon?\r\nComment lances-tu le ballon pour atteindre les jambes d'un enfant?",
-			"WILLINGNESS": "Avec quel nouveau règles donnerait-le jeu (encore) plus de plaisir?\r\nComment changes-le jeu pour toi, losqu'il y a plus de chasseurs/euses?\r\nAimes-tu le jeu? Pourquoi?"
+			"WILLINGNESS": "Avec quel nouveau règles donnerait-le jeu (encore) plus de plaisir?\r\nComment changes-le jeu pour toi, losqu'il y a plus de chasseurs/euses?\r\nAimes-tu le jeu? Pourquoi?",
+            "PDF": "Groupe: Un enfant essaie de frapper les autres avec un ballon. Toute personne touchée se tient debout avec les jambes écartées. Vous êtes racheté par quelqu’un qui rampe sous vos jambes."
 		},
 		"THROWING_HOOPS": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1012,7 +1084,8 @@
 			"MATERIALS": "Cônes, cercaux",
 			"VARIATIONS": "Lance avec les yeux fermés.\r\nChange la position de départ (p.e. en position groupée, assise, mouvement rotatif.\r\nAugmente ou diminue la distance au cône.\r\nLance depuis des directions différentes (depuis en bas, en haut, latéral).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que changes-tu lorsque tu lances un cerceau ou un ballon?\r\nComment te posionnes-tu le mieux pour atteindre le cône?",
-			"WILLINGNESS": "Quelle est la distance la plus grande à partir de laquelle tu es sûr d'atteindre le cône?\r\nComment sens-tu à lancer le cerceau avec des yeux fermés?\r\nRéussis-tu à atteindre le cône avec les yeux fermés?"
+			"WILLINGNESS": "Quelle est la distance la plus grande à partir de laquelle tu es sûr d'atteindre le cône?\r\nComment sens-tu à lancer le cerceau avec des yeux fermés?\r\nRéussis-tu à atteindre le cône avec les yeux fermés?",
+            "PDF": "Lance le cerceau sur le cône."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1022,7 +1095,8 @@
 			"MATERIALS": "Cerceaux, ballons différents",
 			"VARIATIONS": "Tiens deux cerceaux (l'enfant C).\r\nRoule telle que tu puisse attraper le ballon toi-même à l'autre côté (l'enfant A), de façon que tu effectues l'exercice qu'avec un seul autre enfant qui tient le cerceau. \r\nFrappe le ballon avec le pied.\r\nAgrandisez le groupe en positionnant tous les enfants le long de la salle avec chaqu'un un ballon. Essaiez de atteindre avec votre ballon (rouler, lancer ou frapper à travers du cerceau) un ballon gymnastique ou un cercau roulé à travers la salle par un enseignant ou un autre enfant.\r\nPasse le ballon à traverse du cerceau avec une raquette.\r\nRoule le ballon avec une main.\r\nFaites rouler le cerceau à travers la salle et lancez, jouez ou roulez le ballon à travers ce cerceau.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu à rouler le ballon à travers le cerceau?\r\nComment changes-tu tes bras lorsque tu lances le ballon au lieu de le faire rouler?",
-			"WILLINGNESS": "Comment peux-tu encore faire rouler/jouer le ballon à traverse le cerceau?\r\nLaquelle de ces variantes te fais plaisîr le plus et pourquoi?\r\nCombien de fois de suite peux-tu attraper le ballon? Mets-toi un objectif et essaie de l'accomplir."
+			"WILLINGNESS": "Comment peux-tu encore faire rouler/jouer le ballon à traverse le cerceau?\r\nLaquelle de ces variantes te fais plaisîr le plus et pourquoi?\r\nCombien de fois de suite peux-tu attraper le ballon? Mets-toi un objectif et essaie de l'accomplir.",
+            "PDF": "À trois: un enfant tient un cerceau. Les deux autres font rouler un ballon à travers ce cerceau."
 		},
 		"TIGER_BALL": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1032,7 +1106,8 @@
 			"MATERIALS": "Ballons différents",
 			"VARIATIONS": "Jouez simultanément avec deux ballons (différents).\r\nAgrandissez graduellement le cercle.\r\nVarie la hauteur de pass.\r\nIntègre des variations de lancement différentes (lance depuis en bas, deux mains, par-dessus de la tête, faire rebondir etc.)\r\nRolle den Ball dem nächsten Kind zu.\r\nNe passe pas le ballon à l'enfant directement à côté de toi. \r\nRoule le ballon au prochain enfant.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu le mieux à attraper le ballon lorsque tu es positionné au centre?\r\nComment lances-tu le ballon à un autre enfant pour que l'enfant au centre ne le peux pas attraper?",
-			"WILLINGNESS": "Comment fait-le jeu le plus plaîsir?\r\nComment réagis-tu quand tu réalise que l'enfant au centre ne peux pas attraper le ballon?\r\nComment jouez-vous ensemble pour que l'enfant au centre ne peux pas attraper le ballon?"
+			"WILLINGNESS": "Comment fait-le jeu le plus plaîsir?\r\nComment réagis-tu quand tu réalise que l'enfant au centre ne peux pas attraper le ballon?\r\nComment jouez-vous ensemble pour que l'enfant au centre ne peux pas attraper le ballon?",
+            "PDF": "Groupe : Un enfant se tient au milieu du cercle. Les autres se passent le ballon. L’enfant au milieu essaie d’attraper le ballon. Inversion des rôles."
 		},
 		"BOXING": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1042,7 +1117,8 @@
 			"MATERIALS": "Ballons différents",
 			"VARIATIONS": "Utilise des ballons différents.\r\nModifie la distance.\r\nVarie la hauteur de passe (enfant A) .\r\nIntègre des variantes de lancement différentes p.e. depuis le bas, deux mains, par-dessus de la tête etc.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment peux-tu lancer le ballon précisement?\r\nÀ quoi fais-tu attention pour bien attraper le ballon?",
-			"WILLINGNESS": "Combien de fois de suite réussissez-vous à attraper le ballon depuis un distance différentes?\r\nComment réussissez-vous à accomplir l'exercice?\r\nRéussissez-vous à attraper le ballon depuis des distances différentes?"
+			"WILLINGNESS": "Combien de fois de suite réussissez-vous à attraper le ballon depuis un distance différentes?\r\nComment réussissez-vous à accomplir l'exercice?\r\nRéussissez-vous à attraper le ballon depuis des distances différentes?",
+            "PDF": "À deux: Un enfant a un ballon dans sa main l'utilise pour retourner un autre ballon lancé dans sa direction."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1052,7 +1128,8 @@
 			"MATERIALS": "Ballons différents",
 			"VARIATIONS": "Lance un ballon aller-retour qu'à un seul autre enfant.\r\nModifie le placement d'un cercle à des autres formes (p.e. carré, triangle, ellipse).\r\nAprès la passe, change à l'endroit où tu as fait la passe.\r\nIntègre des variantes de lancement p.e. depuis en bas, deux mains, par-dessus de la tête etc.\r\nRoule le ballon avec tes mains, frappe-le avec ton pied ou frappe-le avec une raquette.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment prépares-tu pour bien attraper le ballon?\r\nÀ quoi fais-tu attention lorsque le ballon parvient vers toi?\r\nPourquoi aide-ça de regarder l'enfant auquel tu veux passer le ballon?",
-			"WILLINGNESS": "Réussisons-nous que chaque enfant attrape le ballon une fois sans qu'il tombe au sol?\r\nComment lancer et attraper le ballon en cercle fonctionne-t-il le plus rapidement?"
+			"WILLINGNESS": "Réussisons-nous que chaque enfant attrape le ballon une fois sans qu'il tombe au sol?\r\nComment lancer et attraper le ballon en cercle fonctionne-t-il le plus rapidement?",
+            "PDF": "Groupe : Mettez-vous en cercle et passez-vous le ballon. Les double passes ne sont pas autorisés."
 		},
 		"WILD_PIG": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1062,7 +1139,8 @@
 			"MATERIALS": "Médecine balles, banc suédois, balles de tennis",
 			"VARIATIONS": "Essaie des variantes de lancement différentes.\r\nPlace un ballon de basket ou une balle-molle au centre comme \"truie sauvage\".\r\nModifie la distance des bancs.\r\n\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Avec quelle technique de lancement réussis-tu le mieux à atteindre la \"truie sauvage\"?\r\nComment te positionnes-tu pour lancer le plus précisement que possible?",
-			"WILLINGNESS": "As-tu une idée comment rendre le jeu plus captivant?\r\nComment te sens-tu lorsque ton équipe gagne?"
+			"WILLINGNESS": "As-tu une idée comment rendre le jeu plus captivant?\r\nComment te sens-tu lorsque ton équipe gagne?",
+            "PDF": "Groupe : Formez deux équipes. Chaque équipe essaie de pousser le ballon au milieu contre le banc de l’adversaire."
 		},
 		"DISTANCE_THROWING": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1072,7 +1150,8 @@
 			"MATERIALS": "Ballons",
 			"VARIATIONS": "Change la distance après chaque lancement.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que changes-tu en lancant lorsqu'un enfant est positionné plus proche chez toi?\r\nComment peux-tu lancer le ballon le plus loin et le plus précisement que possible?",
-			"WILLINGNESS": "De quelles manières peux-tu lancer le ballon?\r\nCombien de lancements réussissez-vous sans laisser tomber le ballon?\r\nQuelle est la distance la plus grande à laquelle tu réussis à lancer le ballon à un autre enfant?"
+			"WILLINGNESS": "De quelles manières peux-tu lancer le ballon?\r\nCombien de lancements réussissez-vous sans laisser tomber le ballon?\r\nQuelle est la distance la plus grande à laquelle tu réussis à lancer le ballon à un autre enfant?",
+            "PDF": "À deux: Passez-vous le ballon sur différentes distances."
 		}
 	},
 	"bouncing": "bouncing",
@@ -1085,7 +1164,8 @@
 			"MATERIALS": "Ballons différents, cerceaux, bande adhésive (pour marquer le carré)",
 			"VARIATIONS": "Modifie la taille du carré.\r\nUtilise des ballons différents.\r\nMets une limite de temps pour réussir l'exercice.\r\nModifie le nombre des cerceaux.\r\nModifie l'arrangement des cerceaux.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment peux-tu dribbler le ballon le mieux?\r\nDribbles-tu chaque ballon de la même manière?",
-			"WILLINGNESS": "Réussis-tu à dribbler dans le prochain cerceau sans arrêter le ballon?\r\nComment sens-tu à effectuer l'exercice dans une limite de temps?"
+			"WILLINGNESS": "Réussis-tu à dribbler dans le prochain cerceau sans arrêter le ballon?\r\nComment sens-tu à effectuer l'exercice dans une limite de temps?",
+            "PDF": "Rebondis 5x dans les cerceaux."
 		},
 		"BOUNCING_STATIONS": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1095,7 +1175,8 @@
 			"MATERIALS": "Ballons différents, bancs suédois (évtuellement)",
 			"VARIATIONS": "Avance dans la salle et fais rebondir le ballon sans le perdre (utilise ta main gauche et ta main droite).\r\nDribble autour de ton corps sans interruption.\r\nRebondir en restant sur place avec deux ballons sans les perdre.\r\nAvance sur un banc suédois pendant que tu fais rebondir le ballon sur le sol ou banc (ensuite, deux ballons simultanément).\r\nDeux bancs suédois sont placés l'un à côté de l'autre à une distance de 20 cm. Avance sur les deux bancs tout en faisant rebondir un ballon sur le sol ou sur l'un des bancs (ensuite deux ballons en même temps).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que change lorsque tu dribbles proche de ton corps ou avec le bras tendu vers l'avant?\r\nQuelles parties de tes mains touchent le ballon en dribblant?",
-			"WILLINGNESS": "Peux-tu dribbler simultanément avec un autre enfant? Comment te sens-tu?\r\nMets-toi un objectif concret: Combien de fois de suite aimerais-tu dribbler? Te sens-tu différent lorsque tu dribbles avec un objectif que sans et si oui, comment? Réussis-tu à dribbler en rythme?"
+			"WILLINGNESS": "Peux-tu dribbler simultanément avec un autre enfant? Comment te sens-tu?\r\nMets-toi un objectif concret: Combien de fois de suite aimerais-tu dribbler? Te sens-tu différent lorsque tu dribbles avec un objectif que sans et si oui, comment? Réussis-tu à dribbler en rythme?",
+            "PDF": "Rebondis avec les deux mains."
 		},
 		"BOUNCING_OVER_CONES": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1105,7 +1186,8 @@
 			"MATERIALS": "Ballons différents, bancs suédois (évtuellement)",
 			"VARIATIONS": "Lance le ballon par-dessus le cône avec deux mains en dribblant.\r\nDribble en alternant la main gauche et droite.\r\nDribble vers le cône, fais rebondir le ballon verticalment just avant le cône, entourne le cône et ensuite continue à dribbler.\r\nUtilise des ballons différents.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu à avancer avec le ballon en dribblant?\r\nComment peux-tu contrôler le ballon le mieux?",
-			"WILLINGNESS": "Réussis-tu à dribbler en alternant la main gauche et droite?\r\nAvec quelle certitude peux-tu rattraper le ballon derrière le cône (1: pas du tout, 5: très bien)?\r\nComment le dribble change-t-il pour toi lorsque tu es observé par des autres enfants?"
+			"WILLINGNESS": "Réussis-tu à dribbler en alternant la main gauche et droite?\r\nAvec quelle certitude peux-tu rattraper le ballon derrière le cône (1: pas du tout, 5: très bien)?\r\nComment le dribble change-t-il pour toi lorsque tu es observé par des autres enfants?",
+            "PDF": "Rebondis le ballon par-dessus le cône. "
 		},
 		"SEAT_BOUNCING": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1115,7 +1197,8 @@
 			"MATERIALS": "Ballons différents, cônes",
 			"VARIATIONS": "Dribble en alternant gauche et droite.\r\nEntourne le cône une fois en dribblant avant de s'assoir.\r\nDribble vers le cône, touche le point du cône avec un pied, dribble trois fois avant reposer le pied au sol.\r\nComptez qui a marqué le plus de points à la fin de la durée de temps (1 point pour chaque rebond correct, en total six fois dribbler en restant assis.\r\nUtilise des ballons différents.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Dans tes mouvement que change-t-il lorsque la distance entre le sol et ta main change?\r\nQue fais-tu pour continuer à dribbler après le saut écarté?",
-			"WILLINGNESS": "Réussis-tu aussi à t'asseoir par terre en dribblant?\r\nImagine que tu sois un animal à ta choix (p.e. un singe, un serpent, un oiseau) et essaie de dribbler comme cet animal!\r\nComment te sens-tu lorsque tu dribbles comme un animal?\r\nLorsque tu vois un enfant qui n'y réussis pas, quels conseils peux-tu lui donner?"
+			"WILLINGNESS": "Réussis-tu aussi à t'asseoir par terre en dribblant?\r\nImagine que tu sois un animal à ta choix (p.e. un singe, un serpent, un oiseau) et essaie de dribbler comme cet animal!\r\nComment te sens-tu lorsque tu dribbles comme un animal?\r\nLorsque tu vois un enfant qui n'y réussis pas, quels conseils peux-tu lui donner?",
+            "PDF": "Saute par-dessus le cône avec les jambes écartées. Assieds-toi sur le cône et rebondis 3x avec ta main gauche et 3x avec ta main droite. Passe au cône suivant."
 		},
 		"NUMBERBALL_BOUNCING": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1125,7 +1208,8 @@
 			"MATERIALS": "Ballons, cônes, panier",
 			"VARIATIONS": "Change la porte de cône.\r\nPlace des obstacles en dessous du panier.\r\nQuelques enfants de l'équipe adverse peuvent essayer à jeter loin le ballon de l'enfant correspondant au numéro, après l'appel du numéro.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu à arriver au panier plus rapidement que l'enfant de l'équipe adverse?\r\nOù regardes-tu en dribblant dans le terrain?",
-			"WILLINGNESS": "Comment les enfants peuvent-ils être aidé qui ont la difficulté à dribbler le ballon?\r\nAs-tu une idée comment rendre le jeu plus captivant?"
+			"WILLINGNESS": "Comment les enfants peuvent-ils être aidé qui ont la difficulté à dribbler le ballon?\r\nAs-tu une idée comment rendre le jeu plus captivant?",
+            "PDF": "Rebondis à travers la porte des cône et lance-le ballon dans le panier lorsque ton numéro est appelé."
 		},
 		"SURROUNDING_HOOPS_WHILE_BOUNCING": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1135,7 +1219,8 @@
 			"MATERIALS": "Cônes, cerceaux, caisson, 1 ballon par enfant",
 			"VARIATIONS": "Passe dans les deux cerceaux avec chaqu'un un contact du pied et dribble à son droite et gauche.\r\nChange la distance entre les cerceaux.\r\nDribble autour les deux cerceau en feaisant des pas de rattrapage (ou en sautant à la fin) dans un ar en double/ en faisant un tour complet (1x sens des aiguilles- et 1x contre sens).\r\nConstruis-toi un autre parcours de rebond.\r\nUtilise des ballons différents.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu à rapidement changer la direction en dribblant?\r\nEst-il plus facilement à dribbler sur le sol ou sur le caisson?",
-			"WILLINGNESS": "Quelles idées as-tu pour modifier le parcours pour avoir plus de plaîsir?\r\nFais une compétition contre un ami- qui réussit le parcours plus rapidement?"
+			"WILLINGNESS": "Quelles idées as-tu pour modifier le parcours pour avoir plus de plaîsir?\r\nFais une compétition contre un ami- qui réussit le parcours plus rapidement?",
+            "PDF": "Rebondis à travers le parcours. "
 		},
 		"SHADOW_BOUNCING": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1145,7 +1230,8 @@
 			"MATERIALS": "Ballons, obstacles",
 			"VARIATIONS": "Place les objets qui doivent être entournés dans la salle.\r\nChange le rôle après le troisième changement de direction.\r\nUtilise des ballons différents.\r\nUtilise les deux main pour dribbler.  ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu à réagir à l'enfant A le plus rapidement que possible?\r\nOù regardes-tu lorsque que tu es l'enfant à l'ombre?",
-			"WILLINGNESS": "Comment peux-tu agir comment enfant A pour que l'enfant B peut bien te suivre?\r\nSoyant l'enfant A, imagine que tu sois un animal- comment dribbles-tu? L'enfant B peut-il deviner quel animal passe en premier?"
+			"WILLINGNESS": "Comment peux-tu agir comment enfant A pour que l'enfant B peut bien te suivre?\r\nSoyant l'enfant A, imagine que tu sois un animal- comment dribbles-tu? L'enfant B peut-il deviner quel animal passe en premier?",
+            "PDF": "À deux : un enfant ouvre le chemin,  l’autre suit."
 		},
 		"BENCH_BOUNCING": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1155,7 +1241,8 @@
 			"MATERIALS": "Ballons, bancs suédois",
 			"VARIATIONS": "Dribble sur le banc.\r\nUtilise des ballons différents.\r\nUtilise des objets de plus (tapis de chute, caisson) pour marcher dessus et dribbler à côté.\r\nMarche en arrière et dribble avec le ballon à côté du banc.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que dois-tu changer en dribblant pour que tu réussis à dribbler à côté du banc?\r\nComment réussis-tu à dribbler et ne pas tomber du banc?",
-			"WILLINGNESS": "Quels objets peuvent-ils être utilisé pour dribbler dessus?\r\nRéussis-tu à traverser le banc avec les yeux fermés et à dribbler?"
+			"WILLINGNESS": "Quels objets peuvent-ils être utilisé pour dribbler dessus?\r\nRéussis-tu à traverser le banc avec les yeux fermés et à dribbler?",
+            "PDF": "Passe par-dessus le banc suédois et fait rebondir le ballon à côté du banc."
 		},
 		"CIRCLE_BOUNCING": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1165,7 +1252,8 @@
 			"MATERIALS": "Ballons",
 			"VARIATIONS": "Dribble le ballon dans l'autre sens.\r\nEssaie de dribbler autour de ton corps en tenant une autre position.\r\nEssaie de faire un huit autour de ton corps. Pour cela, dribble le ballon entres tes jambes.\r\nUtilise des ballons différents.\r\nTourne aussi en cercle et dribble le ballon comme ça.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Peux-tu dribbler mieux avec la main gauche ou droite? Explique pourquoi?\r\nOù regardes-tu pour ne pas perdre le ballon?",
-			"WILLINGNESS": "Avec quel ballon réussis-tu le mieux?\r\nQuelles idées as-tu pour rendre l'exercice plus difficile ou facile pour toi?"
+			"WILLINGNESS": "Avec quel ballon réussis-tu le mieux?\r\nQuelles idées as-tu pour rendre l'exercice plus difficile ou facile pour toi?",
+            "PDF": "Fait rebondir le ballon dans le cercle autour de toi."
 		},
 		"BOUNCING_IN_DIFFERENT_POSITIONS": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1175,7 +1263,8 @@
 			"MATERIALS": "Ballons",
 			"VARIATIONS": "Couche-toi en dribblant et relève-toi.\r\nEssaie des positions différents pendant dribblant.\r\nDribble avec l'autre main.\r\nDribble avec la main droite en s'assoyant, dribble autour de tes pieds, puis relève-toi pendant que tu dribbles avec la main gauche.\r\nUtilise simultanément deux ballons (différents).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Que dois-tu changer en dribblant pour que tu ne perds pas le ballon en t'assoyant?\r\nComment tiens-tu ta main en dribblant?",
-			"WILLINGNESS": "Peux-tu expliquer à un autre enfant comment tu dribble le mieux en étant assis?\r\nPeux-tu changer la main pour dribbler en étant couché? Comment réussis-tu le mieux."
+			"WILLINGNESS": "Peux-tu expliquer à un autre enfant comment tu dribble le mieux en étant assis?\r\nPeux-tu changer la main pour dribbler en étant couché? Comment réussis-tu le mieux.",
+            "PDF": "Fait rebondir le ballon, assieds-toi sur le sol et relève-toi."
 		}
 	},
 	"dribbling": "dribbling",
@@ -1188,7 +1277,8 @@
 			"MATERIALS": "Ballons de foot",
 			"VARIATIONS": "Utilise des ballons différents.\r\nPlace un obstacle devant le mur.\r\nUtilise des variantes de tirage (p.e. à plat, en haut, intérieur, cou-de-pied).\r\nVarie la distance au mur (angle, distance).\r\nUtilise une surface inégale (espalier, mur à caisson).\r\nVarie la dimension de la zone de stop.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Avec quel pied réussis-tu le tirage le mieux?\r\nComment tiens-tu ton pied pour stopper le ballon le mieux?",
-			"WILLINGNESS": "Comment peux-tu encore frapper le ballon au mur avec ton pied?\r\nQuelle est la distance la plus longue à laquelle tu réussis certainement à stopper?\r\nMets-toi au défi: Combien de fois de suite peux-tu passer et stoppler le ballon contre le mur sans le perdre?"
+			"WILLINGNESS": "Comment peux-tu encore frapper le ballon au mur avec ton pied?\r\nQuelle est la distance la plus longue à laquelle tu réussis certainement à stopper?\r\nMets-toi au défi: Combien de fois de suite peux-tu passer et stoppler le ballon contre le mur sans le perdre?",
+            "PDF": "Frappe le ballon contre un mur et arrêtez le ballon rebondissante avec ton pied."
 		},
 		"LINE_DRIBBLING": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1198,7 +1288,8 @@
 			"MATERIALS": "Ballons",
 			"VARIATIONS": "Utilise des ballons différents.\r\nJoue le ballon le long des quatre lignes du terrain de volley sans de le perdre.\r\nCherche d'autres lignes le long desquelles tu peux dribbler le ballon.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Avec quelle partie pied guides-tu le ballon?\r\nÀ quoi fais-tu attention pour ne pas perdre le ballon?",
-			"WILLINGNESS": "Peux-tu guider le ballon avec le pied autrement?\r\nRéussis-tu avec les deux pieds?\r\nPourquoi est-il bien de savoir dribbler?"
+			"WILLINGNESS": "Peux-tu guider le ballon avec le pied autrement?\r\nRéussis-tu avec les deux pieds?\r\nPourquoi est-il bien de savoir dribbler?",
+            "PDF": "Dribble le ballon sur toute la longueur de la salle."
 		},
 		"WALL_OFF": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1208,7 +1299,8 @@
 			"MATERIALS": "Ballons",
 			"VARIATIONS": "Passe le ballon dix fois avec ton pied à un autre enfant sans de le perdre.\r\nPasse le ballon dix fois avec ton pied à un autre efant en courant sans de le perdre.\r\nUtilise des ballons différents.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu que le ballon rebondit toujours vers toi?\r\nCommnent te positionnes-tu le mieux vers le mur?",
-			"WILLINGNESS": "Réussissez-vous à deux à vous passer le ballon par le mur?\r\nEssaie de trouver un rythme lorsque tu passes le ballon au mur - comment te sens-tu?\r\nAvec quel pied l'exercice est-il plus facile pour toi? Pourquoi penses-tu que c'est ainsi ?"
+			"WILLINGNESS": "Réussissez-vous à deux à vous passer le ballon par le mur?\r\nEssaie de trouver un rythme lorsque tu passes le ballon au mur - comment te sens-tu?\r\nAvec quel pied l'exercice est-il plus facile pour toi? Pourquoi penses-tu que c'est ainsi ?",
+            "PDF": "Jouez le ballon contre le mur dix fois d'une distance proche."
 		},
 		"LIFT_BALL": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1218,7 +1310,8 @@
 			"MATERIALS": "Ballons, banc suédois",
 			"VARIATIONS": "Utilise des ballons différents.\r\nChoisis des objectifs différents.\r\nSoulève le ballon avec l'autre pied.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment peux-tu soulever le ballon avec le pied?\r\nQue changes-tu pour soulever le ballon par-dessus des bancs suédois d'une distance plus grande?",
-			"WILLINGNESS": "À quelle distance réussis-tu bien?\r\nObserve des autres enfants- peux-tu les aider pour qu'ils réussissent l'exercice?\r\nPar-dessus quels autres objets peux-tu soulever le ballon?"
+			"WILLINGNESS": "À quelle distance réussis-tu bien?\r\nObserve des autres enfants- peux-tu les aider pour qu'ils réussissent l'exercice?\r\nPar-dessus quels autres objets peux-tu soulever le ballon?",
+            "PDF": "Soulève le ballon 5 fois avec un pied dans le carré du banc suédois."
 		},
 		"DRIBBLING_1": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1228,7 +1321,8 @@
 			"MATERIALS": "Ballons",
 			"VARIATIONS": "Transfere le ballon au milieu lorsque vous vous croisez.\r\nDribble le ballon qu'au centre de la salle, passe-le à un autre enfant qui attends au côté opposé.\r\nDribble le plus rapidement à l'autre côté que possible.\r\nNe dribble pas directement à l'autre côté, mais en diagonal de la salle (fais attention de ne pas collisionner avec un autre enfant).\r\nUtilise des ballons différents.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu à dribbler le mieux?\r\nOù regardes-tu en dribblant?\r\nSelon toi, pourquoi est-il plus facile à courir sans ballon?",
-			"WILLINGNESS": "Essayez de vous donner un high five au milieu du trajet lorsque vous vous croisez?\r\nComment peux-tu aider ton partenaire à accomplir cet exercice le mieux?\r\nPouvez-vous dribbler simultanément à deux?"
+			"WILLINGNESS": "Essayez de vous donner un high five au milieu du trajet lorsque vous vous croisez?\r\nComment peux-tu aider ton partenaire à accomplir cet exercice le mieux?\r\nPouvez-vous dribbler simultanément à deux?",
+            "PDF": "À deux: Un enfant a le ballon. Courez l’un vers l’autre. L’enfant avec le ballon dribble. Change de rôle après 5 tours."
 		},
 		"DRIBBLING_2": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1238,7 +1332,8 @@
 			"MATERIALS": "Tapis de sol, cônes, ballons",
 			"VARIATIONS": "Modifie le parcours-slalom.\r\nUtilise des ballons différents.\r\nMets une limite de temps dans laquelle l'exercice doit être effectué.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment peux-tu changer la direction en dribblant le mieux?\r\nObserve si tu utilises toujours le même pied- si non, pourquoi utilises-tu l'autre pied?\r\nDribbles-tu toujours avec le même pied, pourquoi?",
-			"WILLINGNESS": "Essayez de vous donner un high five au milieu du trajet lorsque vous vous croisez?\r\nComment peux-tu aider ton partenaire à accomplir cet exercice le mieux?\r\nPouvez-vous dribbler simultanément à deux?"
+			"WILLINGNESS": "Essayez de vous donner un high five au milieu du trajet lorsque vous vous croisez?\r\nComment peux-tu aider ton partenaire à accomplir cet exercice le mieux?\r\nPouvez-vous dribbler simultanément à deux?",
+            "PDF": "Dribble à travers le parcours de slalom avec un ballon et termine avec un tir au but."
 		},
 		"IN_THE_LAND_OF_SHELLS_1": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1248,7 +1343,8 @@
 			"MATERIALS": "Ballons différents, cordes (ou cerceaux)",
 			"VARIATIONS": "Entourne les coquillages dans un ordre prédéterminé.\r\nChronologez et comparez-le avec le temps mesuré dans les tentatives précédentes.\r\nUtilise des ballons différents.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu à dribbler autour d'un coquillages le mieux?\r\nQuel chemin choissis-tu lorsque tu dois entourner le coquillage une fois?\r\nComment joues-tu le ballon avec ton pied?",
-			"WILLINGNESS": "Chacun essaie de bouger le plus doucement que possible pour ne pas reveiller le coquillage!\r\nImagine que vous soyez une pieuvre pendant que vous dribblez autour de la coquillage? Comment te sens-tu?\r\nComment te sens-tu lorsque tu receptionnes un ballon? "
+			"WILLINGNESS": "Chacun essaie de bouger le plus doucement que possible pour ne pas reveiller le coquillage!\r\nImagine que vous soyez une pieuvre pendant que vous dribblez autour de la coquillage? Comment te sens-tu?\r\nComment te sens-tu lorsque tu receptionnes un ballon? ",
+            "PDF": "Dribble le ballon autour des coquillages 'endormis' qui se trouvent au fond de la mer."
 		},
 		"IN_THE_LAND_OF_SHELLS_2": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1258,7 +1354,8 @@
 			"MATERIALS": "Ballons différents, cerceaux (ou cordes)",
 			"VARIATIONS": "Utilise des ballons différents.\r\nEssaie de entourner toutes les coquillages le plus rapidement que possible.\r\nAgrandisez l'espace ou diminuez le nombre des enfants \"crabe\".\r\nModifie l'exercice des enfants crabes (p.e. s'emparer le ballon).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment peux-tu protéger ton ballon des crabes?\r\nOù regardes-tu en dribblant pour protéger ton ballon?",
-			"WILLINGNESS": "Quel chemin choisis-tu pour ne pas être pincé?\r\nRéussis-tu comme crabe à t'en emparer le ballon d'un intrus?\r\nImagine que tu ailles le pouvoir magique qui t'aide à réussir l'exercice.  Décris le pouvoir que tu choississerais et qui te motiverait."
+			"WILLINGNESS": "Quel chemin choisis-tu pour ne pas être pincé?\r\nRéussis-tu comme crabe à t'en emparer le ballon d'un intrus?\r\nImagine que tu ailles le pouvoir magique qui t'aide à réussir l'exercice.  Décris le pouvoir que tu choississerais et qui te motiverait.",
+            "PDF": "Dribblee le ballon autour des coquillages 'endormis' qui se trouvent au fond de la mer. Ne laissee pas le crabe t'attraper."
 		},
 		"PROTECT_YOUNG_FISH": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1268,7 +1365,8 @@
 			"MATERIALS": "Ballons différents, cônes",
 			"VARIATIONS": "Assurez-vous que chaque enfant du cercle reçoive le ballon une fois (p. ex. via un ordre de passe fixe).\r\nUtilisez différents ballons.\r\nUtilisez simultanément plusieurs ballons.\r\nOrganisez l'exercice sous forme de compétition, en formant un cercle avec différents groupes qui s'affrontent.\r\nN'utilise qu'un seul pied à la fois.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Qui change lorsque tu dribbles le ballon avec des autres par rapport au fait de le faire tout seul?\r\nÀ quoi fais-tu attention en dribblant en groupe?",
-			"WILLINGNESS": "Réussissez-vous comme groupe de transporter plusieurs de ballons simultanéement?\r\nComment pouvez-vous vous aider en groupe?\r\nEssayez cet exercice comme compétition (plusieurs de groupes le font en même temps- le groupe le plus rapide gagne): Effectue l'exercice mieux avec ou sans compétition? Pourquoi?"
+			"WILLINGNESS": "Réussissez-vous comme groupe de transporter plusieurs de ballons simultanéement?\r\nComment pouvez-vous vous aider en groupe?\r\nEssayez cet exercice comme compétition (plusieurs de groupes le font en même temps- le groupe le plus rapide gagne): Effectue l'exercice mieux avec ou sans compétition? Pourquoi?",
+            "PDF": "Groupe : Formez un cercle et tenez-vous par la main. Transportez diverses ballons avec vos pieds de l’autre côté de la salle."
 		},
 		"WITHIN_SHARK_TERRITORY": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1278,7 +1376,8 @@
 			"MATERIALS": "Ballons, cordes",
 			"VARIATIONS": "Celui qui est touché doit effectuer un exercice supplémentaire (p. ex. faire passer la balle à travers un parcours- slalom de petits cônes).\r\nPassez-vous à deux un ballon et essayez de pénétrer dans le territoire de requin.\r\nChangez la mission du requin.\r\nTouche six enfants le plus rapidement que possible.\r\nUtilise des ballons différents.\r\nQui pénétre le premier cinq fois dans le territoire de requin?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu le mieux à traverser à l'autre côté sans de se faire attraper par le requin?\r\nComment réussis-tu le mieux à dribbler lorsque tu regardes aussi le requin?",
-			"WILLINGNESS": "Réussis-tu comme requin à s'emparler le ballon d'un enfant et continuer à dribbler?\r\nComment procèdes-tu pour ne pas te faire attraper?\r\nÀ ton avis, quand le requin doit-il être remplacé et pourquoi?"
+			"WILLINGNESS": "Réussis-tu comme requin à s'emparler le ballon d'un enfant et continuer à dribbler?\r\nComment procèdes-tu pour ne pas te faire attraper?\r\nÀ ton avis, quand le requin doit-il être remplacé et pourquoi?",
+            "PDF": "Dribble le ballon passant le requin sans le perdre."
 		},
 		"DRIBBLING_VARIATIONS": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1288,7 +1387,8 @@
 			"MATERIALS": "Ballons",
 			"VARIATIONS": "Essaie de dribbler le ballons telle que tu ne touches pas des lignes bleu (ou une autre couleur).\r\nDribble le ballon latéralement.\r\nDribble le ballon en arrière.\r\nEssaie des différentes variantesà dribbler.\r\nPositionnez des obstaces dans le chemin que vous entournez.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu le mieux à traverser à l'autre côté sans de se faire attraper par le requin?\r\nComment réussis-tu le mieux à dribbler lorsque tu regardes aussi le requin?",
-			"WILLINGNESS": "Réussis-tu à changer la direction du dribble de manière fluide?\r\nRéfléchis à une petite chorégraphie de dribble et montre-le à un autre enfant?"
+			"WILLINGNESS": "Réussis-tu à changer la direction du dribble de manière fluide?\r\nRéfléchis à une petite chorégraphie de dribble et montre-le à un autre enfant?",
+            "PDF": "Dribble avec le ballon dans la salle."
 		},
 		"DRIBBLING_NUMBER_BALL": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1298,7 +1398,8 @@
 			"MATERIALS": "Ballons, cônes",
 			"VARIATIONS": "Utilise des ballons différents.\r\nUtilise des but différents.\r\nJoueur/euse de l'équipe adverse peuvent jeter loin le ballon.\r\nJouez sans équipe adverse.\r\nJouez à deux: Sur commando, qui a tiré en premier sur le but?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Comment réussis-tu à dribbler autour des cônes le mieux?\r\nComment peux-tu être plus rapidement que l'enfant de l'équipde adverse?",
-			"WILLINGNESS": "Comment te sens-tu lorsque l'autre enfant est plus rapidement?\r\nImaginez que vous soyez un animal. Comment un pinguin, tigre, elefant etc. dribble-t-il autour d'un cône?"
+			"WILLINGNESS": "Comment te sens-tu lorsque l'autre enfant est plus rapidement?\r\nImaginez que vous soyez un animal. Comment un pinguin, tigre, elefant etc. dribble-t-il autour d'un cône?",
+            "PDF": "Dribble autour de la porte du cône et tirez sur la cible lorsque ton numéro est appelé."
 		},
 		"PROTECTING_PERSON_DRIBBLING": {
 			"MOBAK": "Mouvoir quelque chose",
@@ -1308,7 +1409,8 @@
 			"WILLINGNESS": "Que fais-tu comme enfant A pour que les autres enfant peuvent te suivre?\r\nQuel conseil peux-tu donner à un autre enfant qui a des difficultés à suivre l'enfant A?",
 			"QUALIFICATION": "Dribbler",
 			"MATERIALS": "Ballons",
-			"VARIATIONS": "L'enfant A regarde le groupe et les enfants imitent les mouvement comme dans un mirroir. "
+			"VARIATIONS": "L'enfant A regarde le groupe et les enfants imitent les mouvement comme dans un mirroir. ",
+            "PDF": "Groupe : Un enfant dribble en tête les autres le suivent."
 		}
 	},
 	"PDF_TESTRESULT": {

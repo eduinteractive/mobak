@@ -65,6 +65,7 @@ const DiagnoseTaskFields = [
 	["TEST_ITEM", "rate_detail_item"],
 	["CRITERIA", "rate_detail_criteria"],
 	["VALUATION", "rate_detail_valuation"],
+    ["INSTRUCTION_DEMONSTRATION", "rate_detail_instruction_demonstration"],
 	["INFORMATION_FOR_THE_TEST_LEADER", "rate_detail_info_test_leader"],
 ];
 

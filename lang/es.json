@@ -73,6 +73,11 @@
 	"rate_classroom_end_session_dialog_description": "Los resultados seran guardados y no podrán ser modificados",
 	"rate_classroom_task_description": "Descripción de la tarea",
 	"rate_classroom_rate_student": "Evaluar estudiante",
+    "rate_detail_instruction_demonstration": "Instrucciones / Demostración",
+    "rate_classroom_longitudinal_analysis": "Análisis longitudinal",
+    "rate_classroom_select_task": "Seleccionar tareas",
+    "rate_classroom_cancel_selection": "Cancelar selección",
+    "rate_classroom_download_selected": "Descargar seleccionado",
 	"rate_dialog_n_a_value": "n/a",
 	"rate_dialog_first_value": "0",
 	"rate_dialog_second_value": "1",
@@ -217,11 +222,11 @@
 		"MATERIAL": "6 pelotitas de lanzamiento (diámetro 65 mm., de 80 grs.)\r\n1 círculo-objetivo (diámetro 40 cms)\r\nCinta para marcar (3 cms. ancho)",
 		"TEST_SET-UP": "Un círculo será colgado como objetivo, a 1,30 mt. del piso (desde el borde inferior). Se marcará una línea de lanzamiento a 2,0 mts. de la pared.",
 		"TEST_ITEM": "El niño o niña lanzará 6 pelotitas al círculo en la pared, desde detrás de la línea de lanzamiento.",
+        "CRITERIA": "La línea de lanzamiento no puede ser pisada.\r\nCuando la pelotita toca el círculo en la pared se cuenta como lanzamiento acertado.",
 		"VALUATION": "6 intentos. El número de aciertos será registrado.\r\n0–2 aciertos = 0 punto\r\n3–4 aciertos = 1 punto\r\n5–6 aciertos = 2 puntos",
 		"INSTRUCTION_DEMONSTRATION": "“Te paras detrás de la línea y lanzas las pelotitas una a una, tratando de acertar al círculo que está en la pared. En total tienes 6 intentos. Pon atención, yo lo voy a hacer una vez” (demostración).",
 		"INFORMATION_FOR_THE_TEST_LEADER": "La forma de lanzar es libre.\r\nLa demostración se hace con un lanzamiento por sobre el hombro.\r\nPoner atención a las pelotitas que fueron lanzadas."
 	},
-	"THROWING_1_CRITERIA": "La línea de lanzamiento no puede ser pisada.\r\nCuando la pelotita toca el círculo en la pared se cuenta como lanzamiento acertado.",
 	"THROWING_3_4": {
 		"MOBAK": "Competencia \"Control de Objetos\"",
 		"TITLE": "MOBAK 3-4 Tarea 1: Lanzar",
@@ -316,7 +321,8 @@
 			"MATERIALS": "Escalera de coordinació. Alternativa: aros, cuerdas, tiza",
 			"VARIATIONS": "Corre hacia atrás.\r\nRealiza varios contactos en cada espacio.\r\nHaz una media vuelta (o entera) cada dos espacios.\r\nCombina dos movimientos diferentes.\r\nRealizar movimientos adicionales de los brazos (saltos, boxeo al aire extender y subir o bajar los brazos hasta el nivel del pecho).\r\nCambia el diseño de las areas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué partes del pie tocan el suelo?\r\n¿Con qué movimiento de brazo tienes más éxito?",
-			"WILLINGNESS": "¿Dónde podrías realizar esta tarea fuera del gimnasio?\r\n¿Qué cambia para ti cuando compites contra otro/a niño/a?"
+			"WILLINGNESS": "¿Dónde podrías realizar esta tarea fuera del gimnasio?\r\n¿Qué cambia para ti cuando compites contra otro/a niño/a?",
+            "PDF": "Recorra la escalera de coordinación con un contacto por campo."
 		},
 		"RUNNING_2": {
 			"MOBAK": "Control del Cuerpo",
@@ -326,7 +332,8 @@
 			"MATERIALS": "Aros de gimnasia (diferentes colores)\r\nAlternativamente: cintas, fichas deportivas",
 			"VARIATIONS": "Cambia las tareas en función de los colores de los aros.\r\nCambia la disposición o la distancia entre los aros.\r\nColoca los aros en dos bancas largas paralelos.\r\nCambia el diseño de las areas.\r\nElige diferentes colores y asigna un movimiento específico a cada uno.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo hay que moverse para correr sin problemas?\r\n¿Qué disposición de aros es más fácil para ti? ¿Porque?\r\n¿A qué ritmo se puede recorrer mejor la ruta? ¿Porque?",
-			"WILLINGNESS": "¿Por qué se ve diferente cuando los aros están en dos bancas largas? ¿Tambien puedes hacerlo? ¡Prueba!\r\n¡Crea tu propio camino con aros y asigna diferentes movimientos a los distintos colores! ¿Lo conseguiste?"
+			"WILLINGNESS": "¿Por qué se ve diferente cuando los aros están en dos bancas largas? ¿Tambien puedes hacerlo? ¡Prueba!\r\n¡Crea tu propio camino con aros y asigna diferentes movimientos a los distintos colores! ¿Lo conseguiste?",
+            "PDF": "Corre a través de la pista de neumáticos. Toca el suelo una vez en los aros azules y dos veces en los otros."
 		},
 		"RUNNING_3": {
 			"MOBAK": "Control del Cuerpo",
@@ -336,7 +343,8 @@
 			"MATERIALS": "Escalera de coordinación\r\nAlternativamente: aros de gimnasia, tarjetas de colocación en el suelo, baldosas, tiza",
 			"VARIATIONS": "Cambia el número de contactos para cada espacio.\r\nRealiza movimientos adicionales con los brazos (saltar, boxear al aire, extender y subir o bajar los brazos hasta el nivel del pecho).\r\nCombina dos movimientos diferentes (brazo derecho - salto, brazo izquierdo - boxeo).\r\nCambia diseño de las areas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo se pueden hacer cambios rápidos de dirección?\r\n¿Cómo cambian tus movimientos de carrera con los diferentes movimientos de los brazos?",
-			"WILLINGNESS": "¿Como te sientes si otr/o niño/a cambia de dirección mas rapido que tu? ¿Como puedes cambiar la tarea para que se vuelva mas rapio o mas dificil? Define un objetivo y trata de alcanzarlo (e.g., terminar la tarea sin errores; hacerlo mas rápido que en el intento anterior). ¿Tuviste éxito?"
+			"WILLINGNESS": "¿Como te sientes si otr/o niño/a cambia de dirección mas rapido que tu? ¿Como puedes cambiar la tarea para que se vuelva mas rapio o mas dificil? Define un objetivo y trata de alcanzarlo (e.g., terminar la tarea sin errores; hacerlo mas rápido que en el intento anterior). ¿Tuviste éxito?",
+            "PDF": "Opere dentro y fuera de la escalera de coordinación con dos contactos de tierra por campo."
 		},
 		"RUNNING_4": {
 			"MOBAK": "Control del Cuerpo",
@@ -346,7 +354,8 @@
 			"MATERIALS": "Escalera de coordinación\r\nAlternativamente: aros de gimnasia, tarjetas de colocación en el suelo, baldosas, tiza",
 			"VARIATIONS": "Corre hacia atrás.\r\nAdemás, haz círculos con los brazos: hacia adelante, hacia atrás, en direcciones opuestas.\r\nCambia el diseño de las areas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Puedes aplaudir al ritmo de la carrera?\r\n¿Qué haces con tus brazos para hacer bien la tarea?",
-			"WILLINGNESS": "¿Se puede hacer la tarea al mismo tiempo que otro niño?\r\n¿Puedes hacer movimientos adicionales de los brazos?\r\n¡Imagínate ser un caballo feliz mientras haces la carrera de saltos! ¿Cómo te sientes?"
+			"WILLINGNESS": "¿Se puede hacer la tarea al mismo tiempo que otro niño?\r\n¿Puedes hacer movimientos adicionales de los brazos?\r\n¡Imagínate ser un caballo feliz mientras haces la carrera de saltos! ¿Cómo te sientes?",
+            "PDF": "¡Corre a través de la escalera de coordinación en una carrera de salto con un contacto con el suelo por campo!"
 		},
 		"GIANT_SLALOM": {
 			"MOBAK": "Control del Cuerpo",
@@ -356,7 +365,8 @@
 			"MATERIALS": "Bastones (bambus, estacas) alternativamente: conos bloques de madera, cuerdas",
 			"VARIATIONS": "Desafía a otro/a niño/a o a un grupo de niños. ¿Quién es el más rápido?\r\nMuévase en posición de cuclillas, sobre la punta de los pies, talones, con sacos de arena en la cabeza (= nieve en la cabeza), etc.\r\nAgregua uno o más obstáculos (por ejemplo, pequeñas cajas de gimnasio).\r\nCambia el ritmo/velocidad.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué cambia cuando usas un palo diferente?\r\n¿Cuál es la forma más rápida de cruzar el slalom?",
-			"WILLINGNESS": "¿Se puede hacer un slalom paralelo con otro/a niño/a?\r\n¿Cómo bajarías la cuerda para completar un slalom?"
+			"WILLINGNESS": "¿Se puede hacer un slalom paralelo con otro/a niño/a?\r\n¿Cómo bajarías la cuerda para completar un slalom?",
+            "PDF": "Sostenga un palo de gimnasia con ambas manos. Corre un slalom gigante a lo largo de la cuerda."
 		},
 		"SIDE_STEP": {
 			"MOBAK": "Control del Cuerpo",
@@ -366,7 +376,8 @@
 			"MATERIALS": "Escalera de coordinación\r\nAlternativamente: aros de gimnasia, tarjetas de colocación en el suelo, baldosas, tiza",
 			"VARIATIONS": "Gira el hombro derecho en la dirección de la carrera.\r\nCorre con un pie fuera de la escalera de coordinación y dos contactos para cada espacio.\r\nRealiza movimientos adicionales con los brazos (rotar un círculo con el brazo, saltos, boxear al aire, extender y subir/bajar los brazos a la altura de los hombros).\r\nCombina dos movimientos diferentes (brazo derecho - salto, brazo izquierdo - boxeo).\r\nEl diseño de los campos cambia.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué cambias para poder girar el otro hombro en la dirección de la carrera?\r\n¿Cuánto hay que levantar las rodillas para hacer bien la tarea?\r\n¿Qué necesitas cambiar para poder girar el otro hombro en la dirección de la carrera?",
-			"WILLINGNESS": "¿Que sientes si eres mas rapido/a que otro/a niño/a? ¿si ves otro/a niño/a que no puede resolver la tarea, como puedes ayudarlo/a? Intenta cambiar la dirección para correr hacia atras al final de la escalera de coordinación sin parara! Tuviste exito?"
+			"WILLINGNESS": "¿Que sientes si eres mas rapido/a que otro/a niño/a? ¿si ves otro/a niño/a que no puede resolver la tarea, como puedes ayudarlo/a? Intenta cambiar la dirección para correr hacia atras al final de la escalera de coordinación sin parara! Tuviste exito?",
+            "PDF": "Pasa por la escalera de coordinación en un paso lateral."
 		},
 		"RUNNING_COURSE": {
 			"MOBAK": "Control del Cuerpo",
@@ -376,7 +387,8 @@
 			"MATERIALS": "Balones medicinales",
 			"VARIATIONS": "Usa conos si no tienes balones medicinales.\r\nCambia la distancia entre los balones medicinales.\r\nCambia la distancia lateral entre los balones medicinales.\r\nCamine hacia los lados o hacia atrás.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo consigues cambiar de dirección mientras corres sin perder velocidad?\r\n¿Qué parte del pie toca el suelo en el recorrido de slalom?",
-			"WILLINGNESS": "¿Cómo puedes hacer que el recorrido sea más emocionante para ti?\r\nDesafía a otro/a niño/a a correr contigo. ¿Cómo te sientes cuando el otro/a niño/a es más rápido que tú?"
+			"WILLINGNESS": "¿Cómo puedes hacer que el recorrido sea más emocionante para ti?\r\nDesafía a otro/a niño/a a correr contigo. ¿Cómo te sientes cuando el otro/a niño/a es más rápido que tú?",
+            "PDF": "Corre a través de los balones medicinales en la carrera de slalom."
 		},
 		"HEY_SHARK": {
 			"MOBAK": "Control del Cuerpo",
@@ -386,7 +398,8 @@
 			"MATERIALS": "-",
 			"VARIATIONS": "Elije diferentes formas de movimiento, como correr y saltar (elevaciones de rodillas, pisotones, talones, saltos de braza, carreras de salto, hacia atrás, carreras de campanas, pasos laterales).\r\nCambia el recorrido a toda prisa.\r\nCambia las reglas del juego de captura.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo llegas al otro lado del gimnasio sin que te atrape el tiburón?\r\nComo tiburón, ¿cómo te las arreglas para atrapar a tantos/as niños/as como sea posible?",
-			"WILLINGNESS": "¿Qué ideas tienes para hacer el juego más emocionante?\r\n¿Cuándo crees que deberían invertirse los papeles si el tiburón no tiene éxito?"
+			"WILLINGNESS": "¿Qué ideas tienes para hacer el juego más emocionante?\r\n¿Cuándo crees que deberían invertirse los papeles si el tiburón no tiene éxito?",
+            "PDF": "Grupo: Un niño es el tiburón y determina cómo deben moverse los demás. Quien es atrapado se convierte en un tiburón."
 		},
 		"STAR_RUN": {
 			"MOBAK": "Control del Cuerpo",
@@ -396,7 +409,8 @@
 			"MATERIALS": "Conos",
 			"VARIATIONS": "Cambia la distancia entre los conos.\r\nCambie el tiempo definido.\r\nEstablece un límite de tiempo e intenta alcanzarlo.\r\nCamina por el sendero acompañado de otro/a niño/a con los ojos cerrados.\r\nCamine hacia los lados o hacia atrás.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo te las arregla para mantenerte dentro del límite de tiempo establecido?\r\n¿Qué cambia en tu carrera cuando tienes menos tiempo para completar el recorrido?",
-			"WILLINGNESS": "¿Cómo te sientes cuando corres con la mayor precisión posible en el tiempo asignado?\r\nImagínate que eres un caballo, un guepardo, un emú y que vas a correr por este camino. ¿Cómo caminan estos animales?"
+			"WILLINGNESS": "¿Cómo te sientes cuando corres con la mayor precisión posible en el tiempo asignado?\r\nImagínate que eres un caballo, un guepardo, un emú y que vas a correr por este camino. ¿Cómo caminan estos animales?",
+            "PDF": "Intente ejecutar la ruta conocida alrededor de los puntos exactamente en un tiempo determinado."
 		},
 		"VARIABLE_RUNNING": {
 			"MOBAK": "Control del Cuerpo",
@@ -406,7 +420,8 @@
 			"MATERIALS": "conos",
 			"VARIATIONS": "Elige otras formas de correr.\r\nCambia las distancias entre los conos.\r\nCambia la ruta de carrera.\r\nCamina por el recorrido acompañado de otro/a niño/a con los ojos cerrados.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo se puede cambiar rápidamente los tipos de carrera?\r\n¿Cómo puedes recordar tu ruta de carrera y los tipos de recorrido asignados?",
-			"WILLINGNESS": "¿Qué ideas tienes para modificar las rutas de carrera?\r\n¿Cómo acompañar a un/a niño/a con los ojos cerrados para que se sienta seguro?"
+			"WILLINGNESS": "¿Qué ideas tienes para modificar las rutas de carrera?\r\n¿Cómo acompañar a un/a niño/a con los ojos cerrados para que se sienta seguro?",
+            "PDF": "Cubre la distancia lo más rápido posible con las formas de correr correctas."
 		}
 	},
 	"Jumping": "Jumping",
@@ -419,7 +434,8 @@
 			"MATERIALS": "Escalera de coordinación\r\nAlternativamente: aros de gimnasia, baldosas deportivas, marcadores de posición de piso, tiza",
 			"VARIATIONS": "Salta lo más rápido que puedas.\r\nSalta hacia los lados o hacia atrás.\r\nSalta dos espacios hacia adelante y uno hacia atrás.\r\nSalta a la derecha - a la derecha - a dos piernas - a la izquierda, etc. (varias combinaciones).\r\nSalta sobre un pie: hacia adelante, hacia atrás, hacia los lados (con el hombro derecho e izquierdo al frente).\r\nCombina saltos de aro con los brazos (adelante, atrás, opuestos).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué cambia cuando saltas hacia atrás o hacia los lados en lugar de hacia adelante?\r\n¿Cómo te las arreglas para saltar lo más rápido posible?",
-			"WILLINGNESS": "¿Qué disposición de cuadrados te ayuda a resolver mejor la tarea?\r\n¿Qué cambia para ti cuando compites contra otro/a niño/a?\r\nVayan en parejas. Crea un ritmo de saltos para tu pareja (por ejemplo, izquierda, derecha, dos piernas, derecha, izquierda, dos piernas). ¡Elija un ritmo que sea desafiante pero factible para él/ella! ¿Lo conseguiste?"
+			"WILLINGNESS": "¿Qué disposición de cuadrados te ayuda a resolver mejor la tarea?\r\n¿Qué cambia para ti cuando compites contra otro/a niño/a?\r\nVayan en parejas. Crea un ritmo de saltos para tu pareja (por ejemplo, izquierda, derecha, dos piernas, derecha, izquierda, dos piernas). ¡Elija un ritmo que sea desafiante pero factible para él/ella! ¿Lo conseguiste?",
+            "PDF": "Salta hacia adelante con ambas piernas a través de la escalera de coordinación."
 		},
 		"JUMPING_2": {
 			"MOBAK": "Control del Cuerpo",
@@ -429,7 +445,8 @@
 			"MATERIALS": "Cordaje\r\nAlternativamente: cinta adhesiva, cuerda, marcadores de suelo, palos",
 			"VARIATIONS": "Realiza una rotación de 90° después de cada salto.\r\nSalta como una rana.\r\nSalta a través de la \"escalera de cuerda\" con escalones corridos.\r\nCombina el salto con diferentes movimientos de brazos.\r\nSalta a la derecha - a la derecha - a dos pies - a la izquierda, etc. (varias combinaciones).\r\nSalta en un pie: hacia adelante, hacia atrás, hacia los lados (con el hombro derecho e izquierdo al frente).\r\nCombina el salto con círculos con los brazos (hacia adelante, hacia atrás, en direcciones opuestas).\r\nAumenta o disminuya la distancia entre las cuerdas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué cambia en tus movimientos cuando saltas en un pie o con ambos?\r\n¿Cómo cambian tus movimientos cuando las cuerdas están más separadas?",
-			"WILLINGNESS": "¿Puedes hacerlo cuando las cuerdas tienen diferentes distancias?\r\n¿Con qué tipos de saltos se puede completar el recorrido? Imagina que eres una rana, un canguro, un caballo o un saltamontes.\r\n¿Cuál es la forma más divertida de saltar sobre las cuerdas para ti?"
+			"WILLINGNESS": "¿Puedes hacerlo cuando las cuerdas tienen diferentes distancias?\r\n¿Con qué tipos de saltos se puede completar el recorrido? Imagina que eres una rana, un canguro, un caballo o un saltamontes.\r\n¿Cuál es la forma más divertida de saltar sobre las cuerdas para ti?",
+            "PDF": "Salta con una sola pierna, con dos patas, de lado o en diagonal sobre la 'escalera de cuerda'."
 		},
 		"ROPE_JUMPING_1": {
 			"MOBAK": "Control del Cuerpo",
@@ -439,7 +456,8 @@
 			"MATERIALS": "Cuerda\r\nAlternativamente: conos de señalización, marcadores de posición de suelo, cajas de pizza",
 			"VARIATIONS": "Salta sobre la cuerda con cada paso.\r\nVaría la velocidad de carrera.\r\nVaría el número de pasos.\r\nCorre y salta hacia atrás sobre la cuerda.\r\nRealizar una carrera de slalom (por ejemplo, con conos de señalización).\r\nCamina hacia adelante y salta sobre un objeto cada dos pasos.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Que es lo mportante para ti para que puedas saltar la cuerda? ¿a que velocidad/ritmo lo hiciste mejor?",
-			"WILLINGNESS": "¿Se puede cambiar el ritmo al saltar? ¡Prueba!\r\nExplícale a otro/a niño/a cómo saltas sobre la cuerda. ¿Lo haces de la misma manera?\r\nEn un pequeño grupo de niños/as, corran y salten sobre cuerdas en un lugar definido sin tocarse entre sí. ¿Lo conseguiste?"
+			"WILLINGNESS": "¿Se puede cambiar el ritmo al saltar? ¡Prueba!\r\nExplícale a otro/a niño/a cómo saltas sobre la cuerda. ¿Lo haces de la misma manera?\r\nEn un pequeño grupo de niños/as, corran y salten sobre cuerdas en un lugar definido sin tocarse entre sí. ¿Lo conseguiste?",
+            "PDF": "Corre hacia adelante con la cuerda y salta sobre la cuerda con cada dos pasos."
 		},
 		"ROPE_JUMPING_2": {
 			"MOBAK": "Control del Cuerpo",
@@ -449,7 +467,8 @@
 			"MATERIALS": "Escalera de coordinación, cuerda",
 			"VARIATIONS": "Corre hacia atrás.\r\nEjecuta con dos contactos para cada cuadrado.\r\nCorre lo más rápido que puedas.\r\nRealiza diferentes formas de salto.\r\nOrganice los  recorridos de manera diferente.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué tratas de hacer para tener contacto con el suelo en cada campo?\r\n¿En qué forma de salto tienes más éxito?",
-			"WILLINGNESS": "Desafíate a ti mismo: cronometra el tiempo para completar la tarea. ¿Puedes hacerlo más rápido en la siguiente vuelta?\r\nEsta es una tarea bastante difícil. Si puedeslograrlo, ¿puedes ayudar a otros que aún no lo han logrado?\r\n¿Qué cambia cuando haces la tarea a diferentes velocidades?"
+			"WILLINGNESS": "Desafíate a ti mismo: cronometra el tiempo para completar la tarea. ¿Puedes hacerlo más rápido en la siguiente vuelta?\r\nEsta es una tarea bastante difícil. Si puedeslograrlo, ¿puedes ayudar a otros que aún no lo han logrado?\r\n¿Qué cambia cuando haces la tarea a diferentes velocidades?",
+            "PDF": "Corre a través de la escalera de coordinación con una cuerda y un contacto con el suelo por campo."
 		},
 		"ROPE_JUMPING_3": {
 			"MOBAK": "Control del Cuerpo",
@@ -459,7 +478,8 @@
 			"MATERIALS": "Cuerda",
 			"VARIATIONS": "Salto con o sin salto intermedio.\r\nBalancea la cuerda hacia atrás.\r\nSalta la cuerda, moviéndote hacia adelante y hacia atrás (o hacia la izquierda y hacia la derecha) a lo largo de una línea determinada.\r\nRealiza sentadillas mientras saltas la cuerda.\r\nSalta sobre una colchoneta delgada.\r\nLleva los talones hacia las piernas mientras saltas.\r\nLevanta las rodillas mientras saltas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿A qué prestas atención para realizar la tarea con éxito?\r\n¿Con qué parte del pie saltas?",
-			"WILLINGNESS": "Intenta cambiar tu ritmo durante el salto: ¿qué ritmo te gusta más?\r\nMárcate un objetivo: ¿cuántos saltos consecutivos quieres hacer sin tropezar?\r\n¿Se puede saltar con otro niño al mismo tiempo?"
+			"WILLINGNESS": "Intenta cambiar tu ritmo durante el salto: ¿qué ritmo te gusta más?\r\nMárcate un objetivo: ¿cuántos saltos consecutivos quieres hacer sin tropezar?\r\n¿Se puede saltar con otro niño al mismo tiempo?",
+            "PDF": "Salta con la cuerda en ambas piernas."
 		},
 		"ROPE_JUMPING_4": {
 			"MOBAK": "Control del Cuerpo",
@@ -469,7 +489,8 @@
 			"MATERIALS": "Cuerda\r\nAlternativamente: cinta adhesiva, cuerda, marcadores de posición de suelo",
 			"VARIATIONS": "Salto con o sin salto intermedio.\r\nSalta con la otra pierna.\r\nBate la cuerda hacia atrás.\r\nCambia de pierna después de cada segunda vuelta (\"saltar en su lugar\").\r\nSaltar sin cuerda.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo sostienes los brazos para batir la cuerda a una velocidad constante?\r\n¿Hay que cambiar algo para poder saltar con la otra pierna?",
-			"WILLINGNESS": "¿Puedes saltar con las dos piernas el mismo número de veces sin parar? Establece una meta a alcanzar.\r\nPregúntale a un/a compañero/a de clase qué es lo que le motiva de saltar la cuerda.\r\n¿Puedes saltar sin hacer ningún salto intermedio? ¡Prueba!"
+			"WILLINGNESS": "¿Puedes saltar con las dos piernas el mismo número de veces sin parar? Establece una meta a alcanzar.\r\nPregúntale a un/a compañero/a de clase qué es lo que le motiva de saltar la cuerda.\r\n¿Puedes saltar sin hacer ningún salto intermedio? ¡Prueba!",
+            "PDF": "Salta sobre una pierna en el cuadrado con la cuerda."
 		},
 		"MAT_HIGHWAY": {
 			"MOBAK": "Control del Cuerpo",
@@ -479,7 +500,8 @@
 			"MATERIALS": "Colchonetas.\r\nAlternativamente: aros de gimnasia, tarjetas de colocación en el suelo, baldosas, tiza",
 			"VARIATIONS": "Salta a lo largo del recorrido a tu propio ritmo, en una pierna, en dos piernas y alternando las piernas.\r\nOrganiza un camino de saltos con diferentes materiales/colores. Salta a lo largo del camino realizando un salto diferente para cada material/color (dos pies, un pie).\r\nColoca las colchonetas de manera diferente.\r\nVaríe el número de contactos en las colchonetas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿A qué ritmo puedes saltar mejor sobre las colchonetas?\r\n¿Qué cambia en tu movimiento cuando las colchonetas están una al lado de la otra?",
-			"WILLINGNESS": "Emparejate e intenta saltar sobre las colchonetas a diferentes ritmos. ¿Cuál te gusta más?\r\n¡Intenta saltar sobre las colchonetas con un/A compañero/a de clase tomado de la mano! ¿Lo conseguiste?\r\n¿Cómo puedes organizar las colchonetas para hacer la tarea más difícil o más fácil?"
+			"WILLINGNESS": "Emparejate e intenta saltar sobre las colchonetas a diferentes ritmos. ¿Cuál te gusta más?\r\n¡Intenta saltar sobre las colchonetas con un/A compañero/a de clase tomado de la mano! ¿Lo conseguiste?\r\n¿Cómo puedes organizar las colchonetas para hacer la tarea más difícil o más fácil?",
+            "PDF": "Salta de colchoneta en colchoneta."
 		},
 		"GROUND_ROPE_JUMPING_1": {
 			"MOBAK": "Control del Cuerpo",
@@ -489,7 +511,8 @@
 			"MATERIALS": "Cuerdas\r\nAlternativamente: cinta adhesiva, marcadores de posición para el suelo, tiza",
 			"VARIATIONS": "Pida a dos niños/as que cambien la altura levantando la cuerda del suelo.\r\nPida a dos niños/as que batan la cuerda y realicen diferentes saltos (por ejemplo, con o sin salto intermedio, sobre una pierna o sobre dos piernas, con rotación de 180°).\r\nTrucos de salto.\r\nCanta y salta: \"Osito, osito, date la vuelta\" (rotación de 180°); \"\"..., haz la joroba\"\" (saltar con flexión); \"..., construye una casa\" (junta las manos sobre la cabeza); \"\"..., cuidado\"\" (palma en la frente); \"..., levantar un pie\"\" (saltar sobre una pierna); \"\"..., di hola\"\" (termina el juego).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Saltas de manera diferente cuando se levanta la cuerda?\r\n¿Cómo cambias el movimiento al saltar hacia los lados o hacia adelante y hacia atrás?",
-			"WILLINGNESS": "¿Puedes hacer trucos mientras saltas? Muéstralo y enséñaselo a otro/a niño/a.\r\n¿Cuál es la altura máxima que puedes saltar? ¡Desafíate a ti mismo!"
+			"WILLINGNESS": "¿Puedes hacer trucos mientras saltas? Muéstralo y enséñaselo a otro/a niño/a.\r\n¿Cuál es la altura máxima que puedes saltar? ¡Desafíate a ti mismo!",
+            "PDF": "Párate paralelo a la cuerda y salta sobre ella varias veces."
 		},
 		"GROUND_ROPE_JUMPING_2": {
 			"MOBAK": "Control del Cuerpo",
@@ -499,7 +522,8 @@
 			"MATERIALS": "Cuerdas, números\r\nAlternativamente: tarjetas de colocación en el suelo, colchonetas, aros, cinta adhesiva",
 			"VARIATIONS": "Siempre salta con una pierna (es decir, solo la pierna derecha o la izquierda).\r\nSalta con ambas piernas al siguiente campo.\r\nSalta a diferentes campos y numérelos.\r\nAumentar la velocidad.\r\nEl/La niño/a \"A\" piensa en un número secreto que consta de tres dígitos (cada uno entre 1 y 4). El/La niño/a \"B\" debe adivinar el número saltando a los campos correspondientes. El/La niño/a \"A\" proporciona retroalimentacion. Si el/la niño/a \"B\" salta incorrectamente, debe comenzar de nuevo.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué cambia cuando conoces el orden de los números, en comparación con no saber qué número viene a continuación?\r\n¿Es más fácil saltar con una pierna o con las dos? ¿Porque?",
-			"WILLINGNESS": "¿Qué haces para saltar rápidamente al número indicado?\r\n¿Cómo puedes tú, hacer que la tarea sea más fácil o más difícil para tu compañero/a?\r\nVayan en parejas. Se te ocurre un ritual de \"chocar los cinco\" que realizas cuando uno de los dos logra completar 10 intentos sin error. ¿Cómo te sientes si te \"choca los cinco\"?"
+			"WILLINGNESS": "¿Qué haces para saltar rápidamente al número indicado?\r\n¿Cómo puedes tú, hacer que la tarea sea más fácil o más difícil para tu compañero/a?\r\nVayan en parejas. Se te ocurre un ritual de \"chocar los cinco\" que realizas cuando uno de los dos logra completar 10 intentos sin error. ¿Cómo te sientes si te \"choca los cinco\"?",
+            "PDF": "En parejas: Un niño dice los números. El otro se para con una pierna en un campo y salta al campo correspondiente a la llamada de un número y aterriza allí con el otro pie."
 		},
 		"ROPE_ROLLER": {
 			"MOBAK": "Control del Cuerpo",
@@ -509,7 +533,8 @@
 			"MATERIALS": "Cuerdas (1 cuerda para 6-8 niños)",
 			"VARIATIONS": "Manten la cuerda más baja o más alta.\r\nMueve la cuerda más rápido o más lento a lo largo de la fila.\r\nVaría el estilo de salto (por ejemplo, dos piernas, una sola pierna, con rotaciones corporales).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿cuando es el momento correcto para saltar? ¿Como saltas mejor cuando tienes a un/a compañero/a a tu lado izquierdo o derecho?",
-			"WILLINGNESS": "¿Cómo podríamos cambiar la tarea si no teníamos una cuerda disponible?\r\n¿Qué pueden hacer para resolver la tarea con éxito como grupo?\r\n¿Cómo te sentirías si todos trabajan juntos para resolver la tarea con éxito?"
+			"WILLINGNESS": "¿Cómo podríamos cambiar la tarea si no teníamos una cuerda disponible?\r\n¿Qué pueden hacer para resolver la tarea con éxito como grupo?\r\n¿Cómo te sentirías si todos trabajan juntos para resolver la tarea con éxito?",
+            "PDF": "Grupo: Dos niños sostienen una cuerda estirada a la altura de la pantorrilla. Los otros niños saltan tan pronto como la cuerda está con ellos."
 		},
 		"MASTER_OF_RHYTHM": {
 			"MOBAK": "Control del Cuerpo",
@@ -519,7 +544,8 @@
 			"MATERIALS": "Aros de gimnasia\r\nAlternativamente: marcadores de posición de piso, cuerdas, tiza",
 			"VARIATIONS": "Salta por la ruta de los aros sin mover los brazos.\r\nSalta por la ruta de los aros lo más rápido que puedas.\r\nExtiende el brazo por el lado opuesto. Para los saltos con las dos piernas, extiende los brazos hacia arriba.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cuál es la diferencia cuando saltas con movimientos de brazos en comparación con cuando saltas sin ellos?\r\n¿Qué puedes hacer si al principio tienes dificultades para resolver esta tarea?\r\n¿Cómo mantienes el brazo hacia un lado?",
-			"WILLINGNESS": "¿Cómo puedes seguir a otro/a niño/a a través del aro sin ser descubierto?\r\n¿Cómo puedes organizar los aros para que la tarea sea más difícil para ti?\r\n¡Inventa otros movimientos de brazos que acompañen a tus saltos! ¿En qué variantes eres mejor?"
+			"WILLINGNESS": "¿Cómo puedes seguir a otro/a niño/a a través del aro sin ser descubierto?\r\n¿Cómo puedes organizar los aros para que la tarea sea más difícil para ti?\r\n¡Inventa otros movimientos de brazos que acompañen a tus saltos! ¿En qué variantes eres mejor?",
+            "PDF": "Coloque varias llantas en el suelo en una fila y salte a través de la trayectoria de las llantas de acuerdo con las siguientes instrucciones: \n- Salta la pierna izquierda, el brazo izquierdo hacia un lado \n- Salta la pierna derecha, el brazo derecho hacia un lado\n- Saltar sobre ambas piernas, ambos brazos hacia los lados"
 		},
 		"SWINGING_KING_QUEEN": {
 			"MOBAK": "Control del Cuerpo",
@@ -529,7 +555,8 @@
 			"MATERIALS": "Cuerda",
 			"VARIATIONS": "Pida al/la profesor/a o a los/as niños/as que batan la cuerda más rápido o más lento.\r\nPida al/la profesor/a o a los/as niños/as que batan la cuerda en la otra dirección (es decir, lejos de ti).\r\nVariar los saltos (p. ej., con dos piernas, con una sola pierna, con rotaciones corporales).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cuál es más fácil para ti? ¿Saltar lento o rápido? ¿Porque?\r\n¿Qué cambias cuando la cuerda se balancea hacia el otro lado?\r\n¿Cuándo es el momento adecuado para saltar?",
-			"WILLINGNESS": "¿Cuántas veces puedes saltar y salir de la cuerda de manera controlada? Establece una meta o desafía a otro/a niño/a.\r\n¿Puedes correr hacia la cuerda  y luego saltar? ¡Prueba!\r\n¿Puedes decirle a otro/a niño/a desde afuera cuando tiene que saltar?"
+			"WILLINGNESS": "¿Cuántas veces puedes saltar y salir de la cuerda de manera controlada? Establece una meta o desafía a otro/a niño/a.\r\n¿Puedes correr hacia la cuerda  y luego saltar? ¡Prueba!\r\n¿Puedes decirle a otro/a niño/a desde afuera cuando tiene que saltar?",
+            "PDF": "Grupo: Dos niños balancean una cuerda larga. Los otros niños corren a través de la cuerda que se balancea cuatro veces sin tocarla."
 		},
 		"JUMP_IN_AND_OUT": {
 			"MOBAK": "Control del Cuerpo",
@@ -539,7 +566,8 @@
 			"MATERIALS": "aros de gimnasia o cuerdas",
 			"VARIATIONS": "Reorganiza los círculos.\r\nBusca tantos tipos diferentes de saltos como sea posible.\r\nCrea tu propia secuencia de saltos a partir de dos formas de salto.\r\nCierra los ojos y salta la secuencia de salto sin tocar los aros.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo se crea una secuencia de saltos que se pueden repetir a menudo?\r\n¿Qué parte del pie toca el suelo cuando saltas?",
-			"WILLINGNESS": "Muéstrele su secuencia de salto a otro niño. ¿Puedes imitar la secuencia de salto del otro niño?\r\n¿Puedes repetir tu secuencia de salto con los ojos cerrados?\r\nImagina que eres un animal y completas la secuencia de saltos. ¿Qué aspecto tiene?"
+			"WILLINGNESS": "Muéstrele su secuencia de salto a otro niño. ¿Puedes imitar la secuencia de salto del otro niño?\r\n¿Puedes repetir tu secuencia de salto con los ojos cerrados?\r\nImagina que eres un animal y completas la secuencia de saltos. ¿Qué aspecto tiene?",
+            "PDF": "Realiza secuencias de saltos y formas que entran y salen del aro."
 		},
 		"JUMPING_COURSE": {
 			"MOBAK": "Control del Cuerpo",
@@ -549,7 +577,8 @@
 			"MATERIALS": "Pelotas medicinales, conos",
 			"VARIATIONS": "Cambia la ruta de los saltos.\r\nUsa múltiples obstáculos.\r\nTrata de hacer parkour con los ojos cerrados.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo se deben organizar los obstáculos para que puedas saltar fácilmente sobre ellos?\r\n¿Cuál es la mejor manera de saltar obstáculos?",
-			"WILLINGNESS": "¿Tienes alguna otra idea para los obstáculos?\r\n¿Qué consejo le puedes dar a un/a niño/a que tiene dificultades con el parkour?"
+			"WILLINGNESS": "¿Tienes alguna otra idea para los obstáculos?\r\n¿Qué consejo le puedes dar a un/a niño/a que tiene dificultades con el parkour?",
+            "PDF": "Salta por encima de los obstáculos"
 		}
 	},
 	"Rolling": "Rolling",
@@ -562,7 +591,8 @@
 			"MATERIALS": "Colchonetas blandas, bancas, colchonetas de gimnasia, espalderas",
 			"VARIATIONS": "Cuelga las bancas en una barra inferior o superior de la espaldera.\r\nPídale a otro/a niño/a que verifique que u estés completamente estirado cuando ruede.\r\nCambia de lado a medida que ruedas.\r\nPídele a otro/a niño/a que te sostenga al final de la superficie de rodada.\r\nExtiende los brazos hacia arriba.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué cambia para ti cuando cambias de lado?\r\n¿Qué haces con sus piernas/brazos cuando ruedas hacia los lados?",
-			"WILLINGNESS": "¿Se puede rodar junto con otro/a niño/a?\r\n¿A qué altura de la banca te diviertes más? ¿Cuándo se necesita mas valor?\r\n¿Dónde también podrías rodar hacia los lados?"
+			"WILLINGNESS": "¿Se puede rodar junto con otro/a niño/a?\r\n¿A qué altura de la banca te diviertes más? ¿Cuándo se necesita mas valor?\r\n¿Dónde también podrías rodar hacia los lados?",
+            "PDF": "Rueda cuesta abajo."
 		},
 		"FORWARD_ROLL": {
 			"MOBAK": "Control del Cuerpo",
@@ -572,7 +602,8 @@
 			"MATERIALS": "Colchonetas blandas, bancas, colchonetas de gimnasia, espladeras",
 			"VARIATIONS": "Agárrate las rodillas mientras ruedas.\r\nLevantate sin usar las manos.\r\nAprieta un juguete de peluche (u otro objeto) entre el menton y el pecho mientras ruedas.\r\nEmpújate con los pies y apoyate con la nuca.\r\nMira tu vientre.\r\nColoca las manos con firmeza.\r\nCuelga las bancas en una barra inferior o superior de las espalderas.\r\nPídale a otro/a niño/a que te sostenga al final.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué cambia cuando pones algo entre la barbilla y el pecho mientras ruedas?\r\n¿Cómo te las arreglas para rodar en línea recta?",
-			"WILLINGNESS": "¿Cómo se siente al realizar la tarea o al no cumplirla? ¿Qué puedes hacer para mejorar si aún no lo has conseguido?\r\n¿Puedes incluso rodar de abajo hacia arriba?"
+			"WILLINGNESS": "¿Cómo se siente al realizar la tarea o al no cumplirla? ¿Qué puedes hacer para mejorar si aún no lo has conseguido?\r\n¿Puedes incluso rodar de abajo hacia arriba?",
+            "PDF": "Rueda hacia adelante por la pendiente."
 		},
 		"PENDULUM": {
 			"MOBAK": "Control del Cuerpo",
@@ -582,7 +613,8 @@
 			"MATERIALS": "Colchoneta, balones, globos, pelotas",
 			"VARIATIONS": "Coloca un balon entre tus piernas.\r\nColoca un balon entre las piernas y el tronco cuando te balanceas hacia adelante y hacia atras, tratando de terminar en posicion de cunclillas.\r\nPasa el balón a otro/a niño/a al balancearte de vuelta y a medida de que te levantas (troca de funciones imediatamente despues de pasar el balon).\r\nBalanceate hacia atras, asegura las piernas e balanceate para adelante, teminando en posicion de cuclillas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo te levantas después de rodar hacia adelante?\r\n¿Cómo se rueda de un lado a otro?",
-			"WILLINGNESS": "Imagina ser una bola de armadillo mientras ruedas. ¿Cómo te sientes?\r\n¿Se puede realizar el movimiento del péndulo al mismo tiempo con otro/a niño/a?\r\n¿Qué cambia cuando aprietas un balon entre tus piernas?"
+			"WILLINGNESS": "Imagina ser una bola de armadillo mientras ruedas. ¿Cómo te sientes?\r\n¿Se puede realizar el movimiento del péndulo al mismo tiempo con otro/a niño/a?\r\n¿Qué cambia cuando aprietas un balon entre tus piernas?",
+            "PDF": "Rueda hacia adelante y hacia atrás sobre tu espalda sin usar los pies."
 		},
 		"JUDO_ROLLS": {
 			"MOBAK": "Control del Cuerpo",
@@ -592,7 +624,8 @@
 			"MATERIALS": "Colchonetas",
 			"VARIATIONS": "Realiza la volterea de judo alternativamente en el hombro izquierdo y derecho.\r\nLa duración de la carrera varía.\r\nLevantate inmediatamente después de la voltereta sin usar las manos para sostenerse.\r\nRueda lentamente y sin prisas.\r\nMira el hombro sobre el que necesitas rodar.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué cambia cuando cambias la duración de la carrera?\r\n¿Haces mejorla voltereta de judo o la voltereta hacia adelante? ¿Porque?",
-			"WILLINGNESS": "¿Cómo te sientes cuando pasas por encima del otro hombro?\r\n¿Se puede hacer la voltereta de judo en una colchoneta o en el suelo?"
+			"WILLINGNESS": "¿Cómo te sientes cuando pasas por encima del otro hombro?\r\n¿Se puede hacer la voltereta de judo en una colchoneta o en el suelo?",
+            "PDF": "Con unos pocos pasos, haz un rollo sobre tu hombro sobre el suelo blando."
 		},
 		"MAT_ROLLS": {
 			"MOBAK": "Control del Cuerpo",
@@ -602,7 +635,8 @@
 			"MATERIALS": "Colchoneta, colchoneton",
 			"VARIATIONS": "Levantate sin usar las manos para sostenerse.\r\nPide ayuda a otro/a niña o al/la profesor/a.\r\nCrea un pasillo usando cuerdas para rodar sobre la colchoneta.\r\nRueda en parejas, sincronizándose una al lado de la otra.\r\nEmpuja más fuerte con las piernas para rodar más rápido. A continuación, coloca las manos delante de ti.\r\nRealiza la voltereta en una colchoneta.\r\nColoca un marcador de posición en la colchoneta y aterriza con los pies sobre él después de la voltereta. Varía la distancia desde tu ubicación de inicio.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo te levantas después de la volteretal?\r\n¿Qué cambia cuando haces la voltereta sin una carrera?",
-			"WILLINGNESS": "¿Qué cambia cuando haces el salto mortal en el lado largo de la colchoneta en comparación con el lado corto?\r\n¿Cómo te sientes cuando puedes levantarte con éxito después del salto mortal?"
+			"WILLINGNESS": "¿Qué cambia cuando haces el salto mortal en el lado largo de la colchoneta en comparación con el lado corto?\r\n¿Cómo te sientes cuando puedes levantarte con éxito después del salto mortal?",
+            "PDF": "Con unos pocos pasos, haga un rollo sobre la alfombra blanda del suelo."
 		},
 		"ROLL_OFF_THE_BOX": {
 			"MOBAK": "Control del Cuerpo",
@@ -612,7 +646,8 @@
 			"MATERIALS": "Cajon de salto con dos cuerpo, colchonetas de gimnasia",
 			"VARIATIONS": "Cambia la altura del cajon de salto.\r\nSujeta una cinta adhesiva entre los tobillos.\r\nEl/la niño/a\"A\" se pone en 4 apoyos. El/la niño/a \"B\" rueda sobre la espalda del/la niño/a A.\r\nRueda sobre una pelota de fisioterapia.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Puedes levantarte después de la voltereta? ¿como?\r\n¿Cómo colocas las manos para rodar lo más recto posible?",
-			"WILLINGNESS": "¿Qué se siente al rodarsobre el cajon?\r\n¿A qué altura ddel cajon te diviertes más? ¿Cuándo se necesita mucho valor?"
+			"WILLINGNESS": "¿Qué se siente al rodarsobre el cajon?\r\n¿A qué altura ddel cajon te diviertes más? ¿Cuándo se necesita mucho valor?",
+            "PDF": "Rodillas en el box de gimnasia. Apoya las manos en la colchoneta del gimnasio y realiza un rodar hacia adelante."
 		},
 		"VARIABLE_ROLLING": {
 			"MOBAK": "Control del Cuerpo",
@@ -622,7 +657,8 @@
 			"MATERIALS": "Colchonetas de gimnasia",
 			"VARIATIONS": "Rueda hacia un lado.\r\nColoca los pies detrás de la pendiente.\r\nAhora salta un poco y rueda por la pendiente.\r\nRueda de abajo hacia arriba.\r\nRueda sobre una superficie plana.\r\nColoca los pies sobre la colchoneta y rueda de arriba a abajo.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo cambia la rodada cuando ruedas de abajo hacia arriba?\r\n¿Qué voltereta realizas mejor? Demuestra y explica.",
-			"WILLINGNESS": "¿Qué tipo de voltereta disfrutas más? ¿Porque?\r\n¿Puedes rodar de otras maneras?"
+			"WILLINGNESS": "¿Qué tipo de voltereta disfrutas más? ¿Porque?\r\n¿Puedes rodar de otras maneras?",
+            "PDF": "Ruede hacia abajo o hacia arriba el plano inclinado de diferentes maneras."
 		},
 		"ROLLING_PRECISELY": {
 			"MOBAK": "Control del Cuerpo",
@@ -632,7 +668,8 @@
 			"MATERIALS": "Colchonetas de gimnasia, cinta adhesiva",
 			"VARIATIONS": "Coloca la cinta en el extremo de la colchoneta y coloca los pies sobre ella después de la voltereta. Cambia la distancia desde el inicio de la colchoneta.\r\nEnrolla la cinta para que se pegue desde un hombro hasta la cadera opuesta.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo hay que empujar con los pies para rodar con la mayor precisión posible?\r\n¿Cómo se rueda en línea recta?",
-			"WILLINGNESS": "¿Puedes rodar sobre la cinta adhesiva tres veces para tener una estrella de cinta adhesiva en la espalda?\r\n¿Cuál es la forma más divertida de rodar sobre cinta adhesiva? ¿Tienes alguna otra idea?"
+			"WILLINGNESS": "¿Puedes rodar sobre la cinta adhesiva tres veces para tener una estrella de cinta adhesiva en la espalda?\r\n¿Cuál es la forma más divertida de rodar sobre cinta adhesiva? ¿Tienes alguna otra idea?",
+            "PDF": "Enrolla la cinta para que se pegue a tu espalda."
 		},
 		"ROLL_UP": {
 			"MOBAK": "Control del Cuerpo",
@@ -642,7 +679,8 @@
 			"MATERIALS": "Cajon de salto con dos elementos, colchonetas de gimnasio",
 			"VARIATIONS": "Cambia el número de cuerpos del cajon.\r\nRealiza una voltereta sobre el cajon.\r\nUsa un trampolín para saltar.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo se rueda sobre el cajon?\r\n¿Qué haces con las piernas mientras ruedas?",
-			"WILLINGNESS": "¿Qué altura requiere de mucho coraje de tu parte? ¿Cómo superaste tus dudas?\r\n¿Cómo puedes ayudar a otro/a niño/a a rodar sobre el cajon?"
+			"WILLINGNESS": "¿Qué altura requiere de mucho coraje de tu parte? ¿Cómo superaste tus dudas?\r\n¿Cómo puedes ayudar a otro/a niño/a a rodar sobre el cajon?",
+            "PDF": "Rueda en el box de gimnasia"
 		},
 		"DIVE_ROLL": {
 			"MOBAK": "Control del Cuerpo",
@@ -652,7 +690,8 @@
 			"MATERIALS": "colchonetas de gimnasia, balones medicinales",
 			"VARIATIONS": "Coloque varias pelotas medicinales seguidas y realice una voltereta sobre cada una.\r\nCambia la distancia entre los balones medicinales. \r\nSalta con ambas piernas.\r\nEn lugar de pelotas medicinales, usa una banda elastica para hacer una voltereta.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué necesitas cambiar para realizar una voltereta en comparación con una voltereta hacia adelante?\r\n¿Qué haces para aterrizar lo más suavemente posible?",
-			"WILLINGNESS": "Establece un objetivo seleccionando una serie de balones medicinales en los que desea realizar una voltereta. ¿Cómo te sientes cuando has logrado este objetivo?\r\nImagina realizar una voltereta sobre un enorme abismo. ¿Cómo te hace sentir?"
+			"WILLINGNESS": "Establece un objetivo seleccionando una serie de balones medicinales en los que desea realizar una voltereta. ¿Cómo te sientes cuando has logrado este objetivo?\r\nImagina realizar una voltereta sobre un enorme abismo. ¿Cómo te hace sentir?",
+            "PDF": "Salta hacia adelante con el rodar sobre una pelota medicinal."
 		},
 		"PARTNER_ROLLS": {
 			"MOBAK": "Control del Cuerpo",
@@ -662,7 +701,8 @@
 			"MATERIALS": "Colchonetas de gimnasia",
 			"VARIATIONS": "Comienza en la otra posición (arriba/abajo).\r\nEjecuta una voltereta de forma sincrónica en paralelo.\r\nRealiza dos o más volteretas seguidas seguidas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo se las arreglan para realizar una voltereta en pareja?\r\n¿A qué prestas más atención en la voltereta en pareja que en la voltereta en solitario?",
-			"WILLINGNESS": "¿Se necesitó mucho coraje para rodar en parejas? Si es así, ¿cómo superaste tu vacilación?\r\n¿Qué consejo le puedes dar a otros/as niños/as para ayudarles a tener éxito en la voltereta en pareja?"
+			"WILLINGNESS": "¿Se necesitó mucho coraje para rodar en parejas? Si es así, ¿cómo superaste tu vacilación?\r\n¿Qué consejo le puedes dar a otros/as niños/as para ayudarles a tener éxito en la voltereta en pareja?",
+            "PDF": "En parejas: Agárrense los tobillos y apoyen la cabeza en el pecho. Desempeñen un rol hacia adelante juntos."
 		}
 	},
 	"Balancing": "Balancing",
@@ -675,7 +715,8 @@
 			"MATERIALS": "Cuerda",
 			"VARIATIONS": "Mantén el equilibrio caminando hacia atrás\r\nMantén el equilibrio con los ojos cerrados.\r\nLanza pedazos de tela al aire y atrápalos.\r\nHace circulos (1 o 2) con los brazos.\r\nElije otro material para mantener el equilibrio (por ejemplo, aros, baldosas del piso, líneas).\r\nElije un material que pueda equilibrarse en una parte del cuerpo (por ejemplo, telas, sombreros, pelotas).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué cambia cuando caminas hacia atrás en lugar de hacia adelante?\r\n¿Por qué es más fácil cuando miras hacia adelante (en lugar de, por ejemplo, en el suelo)?",
-			"WILLINGNESS": "Imagina ser un equilibrista en un circo. ¿Cómo pueden mantener el equilibrio en la cuerda? ¿Se oyen los aplausos?\r\n¿Cómo se puede colocar la cuerda para hacer mas dificil mantener el equilibrio?\r\n¿Por qué podría ser importante saber cómo mantener el equilibrio?"
+			"WILLINGNESS": "Imagina ser un equilibrista en un circo. ¿Cómo pueden mantener el equilibrio en la cuerda? ¿Se oyen los aplausos?\r\n¿Cómo se puede colocar la cuerda para hacer mas dificil mantener el equilibrio?\r\n¿Por qué podría ser importante saber cómo mantener el equilibrio?",
+            "PDF": "Equilibrio en la cuerda."
 		},
 		"BENCH_BALANCING": {
 			"MOBAK": "Control del Cuerpo",
@@ -685,7 +726,8 @@
 			"MATERIALS": "Banca larga",
 			"VARIATIONS": "Cambia la forma en que te mueves (hacia los lados, hacia atrás, gateando).\r\nHaz movimientos adicionales con los brazos.\r\nElije un material que puedas equilibrar con una parte del cuerpo (por ejemplo, telas, sombreros, pelotas).\r\nAgrega obstáculos (por ejemplo, ropa, sombreros) a la banca y camina sobre estos obstáculos.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cuál es la mejor manera de poner los pies en el banco para mantener el equilibrio con éxito?\r\n¿Cómo cambia tu equilibrio cuando miras hacia arriba o hacia abajo en lugar de hacia adelante?",
-			"WILLINGNESS": "¿Qué se siente al poder mantener el equilibrio en la banca?\r\nObserva a algún/a niño/a que tiene dificultades para mantener el equilibrio en la banca y trata de darle consejos.\r\n¿En qué otra cosa podrías mantener el equilibrio además de la banca, para que la tarea sea más difícil para ti?"
+			"WILLINGNESS": "¿Qué se siente al poder mantener el equilibrio en la banca?\r\nObserva a algún/a niño/a que tiene dificultades para mantener el equilibrio en la banca y trata de darle consejos.\r\n¿En qué otra cosa podrías mantener el equilibrio además de la banca, para que la tarea sea más difícil para ti?",
+            "PDF": "Balanceándose hacia adelante sobre el banco largo."
 		},
 		"WOBBLY_BENCH": {
 			"MOBAK": "Control del Cuerpo",
@@ -695,7 +737,8 @@
 			"MATERIALS": "Bancas largas, espalderas",
 			"VARIATIONS": "Realizala tarea sin otros niños, fijando la banca en las espalderas, con colchonetas  en todos los lados para que no se mueva.\r\nCamina hacia los lados o hacia atrás.\r\nAgrega obstáculos (por ejemplo, ropa, sombreros) en la banca y luego pasa por sobre estos obstáculos.\r\nAñade una rotación.\r\nElige materiales que puedan equilibrarse en una parte del cuerpo (por ejemplo, ropa, sombreros, pelotas).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo te mueves para mantener el equilibrio en la banca?\r\n¿Qué posición del brazo te ayuda más a la hora de mantener el equilibrio?",
-			"WILLINGNESS": "¿Qué se siente al mantener el equilibrio en la banca? ¿Necesitas mucho coraje?\r\nPida a los/as otros/as niños/as que muevan la banca más lento o más rápido dependiendo de qué tan seguro se sienta."
+			"WILLINGNESS": "¿Qué se siente al mantener el equilibrio en la banca? ¿Necesitas mucho coraje?\r\nPida a los/as otros/as niños/as que muevan la banca más lento o más rápido dependiendo de qué tan seguro se sienta.",
+            "PDF": "Sujétate al banco mientras se tambalea."
 		},
 		"MOUNTAIN_CLIMBING": {
 			"MOBAK": "Control del Cuerpo",
@@ -705,7 +748,8 @@
 			"MATERIALS": "Banca larga,espalderas, colchonetas en el suelo para mayor seguridad.",
 			"VARIATIONS": "Cambia la forma en que te mueves (hacia los lados, hacia atrás, gateando).\r\nLas colchonetas de seguridad son absolutamente necesarios.\r\nAdemás, tratade realizar círculos con el brazo.\r\nElige materiales que puedan equilibrarse en una parte del cuerpo (por ejemplo, ropa, sombreros, pelotas).\r\nColoca la banca más abajo o más arriba.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Dónde miras mientras subes?\r\n¿Cómo te las arreglas para subir sin perder el equilibrio?",
-			"WILLINGNESS": "¿A qué altura de la banca se te dificulta la tarea?\r\nCronometra el tiempo que necesitas para llegar a la cima y desafía a tus compañeros/as de equipo o a ti mismo. ¿Cómo te sientes al mantener el equilibrio en un desafío?\r\n¿Cómo te sientes cuando hay obstáculos en la banca?"
+			"WILLINGNESS": "¿A qué altura de la banca se te dificulta la tarea?\r\nCronometra el tiempo que necesitas para llegar a la cima y desafía a tus compañeros/as de equipo o a ti mismo. ¿Cómo te sientes al mantener el equilibrio en un desafío?\r\n¿Cómo te sientes cuando hay obstáculos en la banca?",
+            "PDF": "Mantén el equilibrio hacia arriba y hacia abajo en el banco."
 		},
 		"OPPOSING_TRAFFIC": {
 			"MOBAK": "Control del Cuerpo",
@@ -715,7 +759,8 @@
 			"MATERIALS": "Banca",
 			"VARIATIONS": "Gira la banca hacia el otro lado.\r\nColoca la banca sobre una superficie inestable (colchoneta, cuerdas, etc.).\r\nElige materiales que puedan equilibrarse en una parte del cuerpo (por ejemplo, ropa, sombreros, pelotas).\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo pueden ayudarse mutuamente a cruzarse sus caminos?\r\n¿Qué es lo difícil en el cruzamiento?",
-			"WILLINGNESS": "Imagina que estás en la selva y tienes que huir de las serpientes venenosas en el suelo. La banca te salvará de las serpientes. ¡Ayúdense a cruzar para que lleguen al otro lado sin serpientes!\r\n¿Cómo proceden juntos para cruzarse caminos?\r\n¿Qué pueden hacer juntos antes de cruzarse para que puedan ser más valientes?"
+			"WILLINGNESS": "Imagina que estás en la selva y tienes que huir de las serpientes venenosas en el suelo. La banca te salvará de las serpientes. ¡Ayúdense a cruzar para que lleguen al otro lado sin serpientes!\r\n¿Cómo proceden juntos para cruzarse caminos?\r\n¿Qué pueden hacer juntos antes de cruzarse para que puedan ser más valientes?",
+            "PDF": "Grupo: Hay el mismo número de niños a cada lado del banco largo. Mantén el equilibrio en el banco y cruza en el medio."
 		},
 		"SEESAW": {
 			"MOBAK": "Control del Cuerpo",
@@ -725,7 +770,8 @@
 			"MATERIALS": "Banca, parte superior de un cajon de salto",
 			"VARIATIONS": "Elige materiales que pueda equilibrar en una parte del cuerpo (por ejemplo, ropa, sombreros, pelotas).\r\nCambia la forma en que te mueves (hacia los lados, hacia atrás, gateando).\r\nCamina con los ojos cerrados.\r\nDeje que otro/a niño/a le ayude (si es necesario). Te ofrecen su mano y tú la coges cuando la necesitas.\r\nEn lugar del cajon de salto, elige dos trampolines para que la banca pueda balancearse.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué haces para mantener el equilibrio cuando la banca se inclina?\r\n¿Cómo cambia la punta de la banca cuando caminas de lado?",
-			"WILLINGNESS": "¿Tienes alguna idea sobre cómo hacer que la banca se incline a diferentes alturas?\r\n¿Cómo te sientes cuando la banca cae?\r\nTrata de caminar en la banca al mismo tiempo que otro/a niño/a. ¿Cómo cambia el balanceo de la banca?"
+			"WILLINGNESS": "¿Tienes alguna idea sobre cómo hacer que la banca se incline a diferentes alturas?\r\n¿Cómo te sientes cuando la banca cae?\r\nTrata de caminar en la banca al mismo tiempo que otro/a niño/a. ¿Cómo cambia el balanceo de la banca?",
+            "PDF": "Mantén el equilibrio sobre el balancín y deja que se incline lentamente."
 		},
 		"ROPE_DANCER": {
 			"MOBAK": "Control del Cuerpo",
@@ -735,7 +781,8 @@
 			"MATERIALS": "Banca larga, pelota de baloncesto",
 			"VARIATIONS": "Mantén el equilibrio en ambos lados de la banca.\r\nEstablece un límite de tiempo para la tarea.\r\nMantén el equilibrio con los ojos cerrados.\r\nElige otra pelota u objeto para usar.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Por qué la tarea es más fácil si caminas sobre la parte ancha del banco?\r\n¿Qué cambia cuando sostienes una pelota en la cabeza mientras caminas en comparación con cuando lo haces sin una pelota?\r\n¿Cómo cambia la tarea cuando usas un baston en lugar de una pelota?",
-			"WILLINGNESS": "¿Qué otros objetos podrías mantener en tu cabeza mientras caminas y mantienes el equilibrio?\r\n¿En qué parte de tu cuerpo podrías mantener los objetos equilibrados mientras caminas en la banca?\r\nAntes de ir a la banca: Primero, trata de imaginar tus próximos movimientos durante un par de segundos. De esta manera, ¿eres mejor en la tarea?"
+			"WILLINGNESS": "¿Qué otros objetos podrías mantener en tu cabeza mientras caminas y mantienes el equilibrio?\r\n¿En qué parte de tu cuerpo podrías mantener los objetos equilibrados mientras caminas en la banca?\r\nAntes de ir a la banca: Primero, trata de imaginar tus próximos movimientos durante un par de segundos. De esta manera, ¿eres mejor en la tarea?",
+            "PDF": "Daten werden abgerufen. Warten Sie ein paar Sekunden, und versuchen Sie noch mal, auszuschneiden oder zu kopieren."
 		},
 		"BALANCING_ON_BALLS": {
 			"MOBAK": "Control del Cuerpo",
@@ -745,7 +792,8 @@
 			"MATERIALS": "Balones Medicinales",
 			"VARIATIONS": "Camina hacia atrás sobre balones medicinales.\r\nUse pelotas de fisioterapia en lugar de balones medicinales.\r\nTrata de gatear sobre los balones..\r\nDeje que otro/a niño/a le ayude (si es necesario). Te ofrecen su mano y tú la tomas cuando la necesitas.\r\nCaminen uno hacia el otro en parejas y traten de superarse mutuamente.\r\nMantén el equilibrio con los ojos cerrados.\r\nColoque los balones medicinales de manera diferente.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué haces diferente cuando caminas sobre los balones y cuando caminas sobre un banco?\r\n¿Cuál es la mejor manera de colocar los pies sobre las bolas para mantener el equilibrio con éxito?\r\n¿Cómo te las arreglas para mantener el equilibrio y caminar sobre pelotas con los ojos cerrados?",
-			"WILLINGNESS": "¿Qué otros artículos se podrían usar en lugar de balones medicinales?\r\n¿Qué se siente cuado los balones estan más separados?\r\n¿Qué se siente al caminar con los ojos cerrados mientras se mantiene el equilibrio sobre los balones medicinales?"
+			"WILLINGNESS": "¿Qué otros artículos se podrían usar en lugar de balones medicinales?\r\n¿Qué se siente cuado los balones estan más separados?\r\n¿Qué se siente al caminar con los ojos cerrados mientras se mantiene el equilibrio sobre los balones medicinales?",
+            "PDF": "Mantenga el equilibrio hacia adelante sobre los balones medicinales sin tocar el suelo."
 		},
 		"CIRCUS_ARTISTS": {
 			"MOBAK": "Control del Cuerpo",
@@ -755,7 +803,8 @@
 			"MATERIALS": "Banco largo, parches en los ojos",
 			"VARIATIONS": "Mantén el equilibrio con los ojos cerrados.\r\nCompleta la tarea con un límite de tiempo.\r\nDeja que otro/a niño/a le ayude (si es necesario). Te ofrecen su mano y tú la tomas cuando la necesitas.\r\nDa vuelta la banca.\r\nPresiona los brazos cerca del cuerpo.\r\nInclina la parte superior del cuerpo hacia adelante o hacia atrás.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cuál es la mejor manera de mantener el equilibrio en el banco con los ojos vendados?\r\n¿Qué cambia en tus movimientos cuando caminas hacia atrás en comparación con cuando caminas hacia adelante?",
-			"WILLINGNESS": "¿Qué se siente al poder mantener el equilibrio en el banco con los ojos vendados?\r\n¿Cómo puedes ayudar a otros/ niños/as que aún no han tenido éxito en esta tarea?"
+			"WILLINGNESS": "¿Qué se siente al poder mantener el equilibrio en el banco con los ojos vendados?\r\n¿Cómo puedes ayudar a otros/ niños/as que aún no han tenido éxito en esta tarea?",
+            "PDF": "Equilibrio en el banco largo con los ojos vendados."
 		},
 		"BALANCING_ON_MATS": {
 			"MOBAK": "Control del Cuerpo",
@@ -765,7 +814,8 @@
 			"MATERIALS": "Colchonetas de gimnasia",
 			"VARIATIONS": "Cierra los ojos.\r\nUsa la otra pierna. \r\nUsa una colchoneta más gruesa. \r\nIntenta en otras superficies inestables.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cuál es la mejor manera de mantener el equilibrio?\r\n¿Cómo puede la vista ayudarle a mantener el equilibrio?",
-			"WILLINGNESS": "¿Cómo cambia la tarea cuando cierras los ojos e inclinas la cabeza hacia atrás?\r\n¿En qué superficies es más difícil mantener el equilibrio?"
+			"WILLINGNESS": "¿Cómo cambia la tarea cuando cierras los ojos e inclinas la cabeza hacia atrás?\r\n¿En qué superficies es más difícil mantener el equilibrio?",
+            "PDF": "Párate sobre una pierna sobre una colchoneta de gimnasia."
 		},
 		"DONT_WOBBLE": {
 			"MOBAK": "Control del Cuerpo",
@@ -775,7 +825,8 @@
 			"MATERIALS": "-",
 			"VARIATIONS": "Realicza una posición equilibrada sobre una pierna cuando se dé la orden.\r\nUtiliza diferentes comandos (ubicaciones) para ejecutar. Si te balanceas, da la siguiente orden.\r\nBusca diferentes posiciones para mantener el equilibrio.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo te las arreglas para pararte sobre una pierna lo más rápido posible?\r\n¿Qué posiciones de equilibrio son fáciles de mantener?",
-			"WILLINGNESS": "¿Cuánto puedes extender los brazos y las piernas mientras mantienes el equilibrio sobre una pierna?\r\n¿Cómo te sientes cuando pierdes el equilibrio?"
+			"WILLINGNESS": "¿Cuánto puedes extender los brazos y las piernas mientras mantienes el equilibrio sobre una pierna?\r\n¿Cómo te sientes cuando pierdes el equilibrio?",
+            "PDF": "Haz la parada con una sola pierna cuando se te ordene."
 		},
 		"UNSTABLE_DEVICES": {
 			"MOBAK": "Control del Cuerpo",
@@ -785,7 +836,8 @@
 			"MATERIALS": "Diferentes materiales que permitan realizar equilibrio",
 			"VARIATIONS": "Cierra los ojos mientras haces equilibrio.\r\nCambia la posición de tus brazos.\r\nRealiza movimientos adicionales con los brazos (por ejemplo, círculos).\r\nManten el equilibrio en una pierna.\r\nPuedes pedir ayuda a otro/a niño/a.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿A qué hay que prestar atención para mantener el equilibrio en materiales inestables?\r\n¿Cómo cambia el equilibrio en materiales inestables en comparación con superficies estables?",
-			"WILLINGNESS": "¿En qué otros materiales o superficies puedes mantener el equilibrio?\r\n¿Cómo puedes hacer que la tarea sea aún más difícil?"
+			"WILLINGNESS": "¿En qué otros materiales o superficies puedes mantener el equilibrio?\r\n¿Cómo puedes hacer que la tarea sea aún más difícil?",
+            "PDF": "Equilibrio en los dispositivos inestables."
 		}
 	},
 	"catching": "catching",
@@ -799,7 +851,8 @@
 			"MATERIALS": "Con ambas manos, los/as niños/as lanzan la pelota al aire y la vuelven a atrapar con ambas manos.",
 			"VARIATIONS": "Lanza la pelota al aire con ambas manos, aplaude una o varias veces y luego atrapa la pelota con ambas manos.\r\nLanza la pelota al aire con ambas manos y luego atrápala con una sola mano.\r\nLanza la pelota al aire con ambas manos, toca el suelo con ambas manos y luego atrapa la pelota con ambas manos.\r\nLanza la pelota al aire con ambas manos, gira alrededor de tu propio eje y luego atrapa la pelota.\r\nLanza la pelota al aire con ambas manos y luego recógela detrás de tu espalda.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo logras atrapar la pelota nuevamente después de lanzarla?\r\n¿Qué haces con las manos?\r\nObserva a los demás atrapando la pelota: ¿qué hacen con las manos?",
-			"WILLINGNESS": "¿A qué altura puedes lanzar la pelota y atraparla de nuevo?\r\n¿Se puede hacer con diferentes pelotas?\r\nDescribe las emociones que experimentas cuando atrapas la pelota con éxito."
+			"WILLINGNESS": "¿A qué altura puedes lanzar la pelota y atraparla de nuevo?\r\n¿Se puede hacer con diferentes pelotas?\r\nDescribe las emociones que experimentas cuando atrapas la pelota con éxito.",
+            "PDF": "Lanza la pelota al aire con ambas manos y vuelve a atraparla."
 		},
 		"KEEP_THE_WATER_CLEAN": {
 			"MOBAK": "Control de Objetos",
@@ -809,7 +862,8 @@
 			"MATERIALS": "Pelotas, red, raqueta de tenis, bádminton, paleta u otra similar.\r\nAlternativamente: banco largo/hilo para la separación, conos, bolas varias, globos",
 			"VARIATIONS": "Atrapa las pelotas con un cono.\r\nAtrapa las pelotas con la mano izquierda para las pelotas que viene del lado izquierdo y con la mano derecha para las pelotas que vienen por el lado derecho.\r\nAtrapa las pelotas con una raqueta.\r\nAlternar el juego de pelotas cortas y largas (niño/a \"A\").\r\nCambia continuamente de roles.\r\nEl/La niño/a \"A\" lanza la pelota por encima de la red.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo te paras mejor para poder atrapar bien la pelota?\r\n¿Dónde miras para poder atrapar bien la pelota?",
-			"WILLINGNESS": "¿Qué cambia para ti cuando juegas uno contra el otro?\r\n¿Cómo se las arreglan ambos para jugar y atrapar la pelota?"
+			"WILLINGNESS": "¿Qué cambia para ti cuando juegas uno contra el otro?\r\n¿Cómo se las arreglan ambos para jugar y atrapar la pelota?",
+            "PDF": "En parejas: Un niño juega pelotas sobre la red con una raqueta, el otro niño las atrapa."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Control de Objetos",
@@ -819,7 +873,8 @@
 			"MATERIALS": "Aros, diferentes tipos de pelotas",
 			"VARIATIONS": "Sostiene dos aros (niño/a C).\r\nHaz rodar y atrapa la pelota hacia el otro lado (niño A), de modo que esté haciendo la tarea con solo otro niño, que está sosteniendo el aro.\r\nPatea la pelota con el pie.\r\nAmplíe el grupo haciendo que todos los niños se coloquen con una pelota en el lado largo del gimnasio. Trate de golpear con su pelota (rodar, lanzar o patear a través del aro) una pelota de gimnasia o un aro, que el/la profesor/a hace rodar por el gimnasio.\r\nPegale a la pelota con una raqueta a través del aro.\r\nHaz rodar la pelota con la mano.\r\nHaz rodar el aro por el gimnasio y lanza, juega o hace rodar la pelota a través del aro.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo te las arreglas para pasar por el aro?\r\n¿Cómo cambia el movimiento de tus brazos cuando haces rodar la pelota en lugar de lanzarla?",
-			"WILLINGNESS": "¿Cuál de las variaciones es más divertida para ti y por qué?\r\n¿Cuántas veces seguidas puedes atrapar la pelota? Establece una meta y trata de alcanzarla.\r\n¿Cómo se puede rodar/jugar la pelota de otra manera?"
+			"WILLINGNESS": "¿Cuál de las variaciones es más divertida para ti y por qué?\r\n¿Cuántas veces seguidas puedes atrapar la pelota? Establece una meta y trata de alcanzarla.\r\n¿Cómo se puede rodar/jugar la pelota de otra manera?",
+            "PDF": "Tres de ellas: Un niño sostiene una llanta. Los otros dos hacen rodar una pelota a través del aro."
 		},
 		"TIGERBALL": {
 			"MOBAK": "Control de Objetos",
@@ -829,7 +884,8 @@
 			"MATERIALS": "Varias pelotas",
 			"VARIATIONS": "Juega con dos pelotas diferentes al mismo tiempo.\r\nAmplía el círculo gradualmente.\r\nVaríe la altura del paso.\r\nIntegre variaciones de lanzamiento (p. ej., lanzar desde abajo, usando ambas manos, por encima de la cabeza).\r\nNo le pase la pelota al niño que está directamente a su lado.\r\nHaga rodar la pelota al siguiente niño.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cuál es la mejor manera de atrapar la pelota cuando estás en el medio?\r\n¿Cuál es la mejor manera de lanzar la pelota a otro niño para que el niño del medio no la atrape?",
-			"WILLINGNESS": "¿Cuándo es más divertido este juego?\r\n¿Cómo actúas cuando notas que el niño del medio no está atrapando la pelota?\r\n¿Cómo juegan juntos para que el niño del medio no pueda atrapar la pelota?"
+			"WILLINGNESS": "¿Cuándo es más divertido este juego?\r\n¿Cómo actúas cuando notas que el niño del medio no está atrapando la pelota?\r\n¿Cómo juegan juntos para que el niño del medio no pueda atrapar la pelota?",
+            "PDF": "Grupo: Un niño se para en el centro del círculo. Los demás se pasan la pelota entre sí. El niño en el medio intenta atrapar la pelota. Inversión de roles."
 		},
 		"BOXING": {
 			"MOBAK": "Control de Objetos",
@@ -839,7 +895,8 @@
 			"MATERIALS": "Varias pelotas.",
 			"VARIATIONS": "Usa varias pelotas.\r\nCambia la distancia.\r\nVaríe la altura del pasaje (niño A).\r\nIntegre variaciones de lanzamiento (p. ej., lanzar desde abajo, usando ambas manos, por encima de la cabeza).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo puedes lanzar la pelota con precisión?\r\n¿Cómo te ubicas para poder atrapar bien la pelota?",
-			"WILLINGNESS": "¿Cuántas veces seguidas puedes volver a atrapar la pelota a diferentes distancias?\r\n¿Cómo se las arreglan para resolver la tarea juntos?\r\n¿Puedes volver a atrapar la pelota a diferentes distancias?"
+			"WILLINGNESS": "¿Cuántas veces seguidas puedes volver a atrapar la pelota a diferentes distancias?\r\n¿Cómo se las arreglan para resolver la tarea juntos?\r\n¿Puedes volver a atrapar la pelota a diferentes distancias?",
+            "PDF": "En parejas: Un niño tiene una pelota en la mano y juega la pelota con ella."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Control de Objetos",
@@ -849,7 +906,8 @@
 			"MATERIALS": "Varias pelotas",
 			"VARIATIONS": "Ahora lanza la pelota a otro/a un/a niño/a .\r\nCambia la disposición de círculo a otras formas (por ejemplo, cuadrado, triángulo, elipse).\r\nDespués del pase, anda a la ubicación a la que pasó.\r\nIntegra variaciones de lanzamiento (p. ej., lanzar desde abajo, usando ambas manos, por encima de la cabeza).\r\nHaz rodar la pelota con la mano, patea con el pie o pegale con una raqueta.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo te preparas para atrapar la pelota?\r\n¿Qué miras cuando la pelota vuela hacia ti?\r\n¿Por qué es útil mirar al niño al que está a punto de lanzarle la pelota?",
-			"WILLINGNESS": "¿Puedes hacer que cada niño/a en el aro atrape la pelota una vez sin que toque el suelo?\r\n¿Cuál es la forma más rápida y efectiva de lanzar y atrapar la pelota en el círculo?"
+			"WILLINGNESS": "¿Puedes hacer que cada niño/a en el aro atrape la pelota una vez sin que toque el suelo?\r\n¿Cuál es la forma más rápida y efectiva de lanzar y atrapar la pelota en el círculo?",
+            "PDF": "Grupo: Párense en círculo y pasen la pelota entre sí. No se permiten pases dobles."
 		},
 		"REACTING": {
 			"MOBAK": "Control de Objetos",
@@ -859,7 +917,8 @@
 			"MATERIALS": "Pelotas",
 			"VARIATIONS": "Lanza la pelota a diferentes alturas.\r\nHaz rebotar la pelota en el suelo y atrápala.\r\nUsa diferentes pelotas.\r\nDos o tres niños/as se lanzan la pelota entre sí. Ayuda: Deja que la pelota rebote en el suelo una vez.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿A qué le prestas atención para abrir los ojos justo antes de atrapar la pelota?\r\n¿Qué pelota puedes atrapar mejor? Explica.",
-			"WILLINGNESS": "¿Puedes atrapar la pelota a ciegas?\r\n¿Cómo se pasa la pelota a otro niño para que le sea fácil atraparla?"
+			"WILLINGNESS": "¿Puedes atrapar la pelota a ciegas?\r\n¿Cómo se pasa la pelota a otro niño para que le sea fácil atraparla?",
+            "PDF": "Lanza la pelota al aire con los ojos cerrados y vuelve a atraparla."
 		},
 		"WALL_BALL": {
 			"MOBAK": "Control de Objetos",
@@ -869,7 +928,8 @@
 			"MATERIALS": "Pelotas",
 			"VARIATIONS": "Usa diferentes pelotas.\r\nMarque un área objetivo en la pared.\r\nJuega en una pared.\r\nDespués de un punto de rebote, el equipo ganador debe ir detrás de una línea acordada antes de la siguiente ofensiva.\r\nHaz rodar la pelota entre tus compañeros de equipo en lugar de lanzarla.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿A qué prestas atención para poder hacer un punto?\r\n¿Cómo pasas el balón a tus compañeros de equipo para que el equipo contrario no pueda atraparlo?",
-			"WILLINGNESS": "¿Cómo cambia la trayectoria cuando cambia el tipo de pelota?\r\n¿Qué ideas tienes para cambiar las reglas del juego?"
+			"WILLINGNESS": "¿Cómo cambia la trayectoria cuando cambia el tipo de pelota?\r\n¿Qué ideas tienes para cambiar las reglas del juego?",
+            "PDF": "Grupo: Divídanse en dos equipos. Se puede hacer un punto si un miembro del equipo lanza la pelota a la pared y otro miembro del equipo la atrapa."
 		},
 		"TRAJECTORY": {
 			"MOBAK": "Control de Objetos",
@@ -879,7 +939,8 @@
 			"MATERIALS": "Pelotas",
 			"VARIATIONS": "Lanza la pelota contra la pared para que rebote en el suelo antes de atraparla.\r\nLanza a la pared desde diferentes posiciones.\r\nPasarse la pelota en parejas, usando la pared. La pelota debe tocar la pared antes de que el/la otro/a niño/a la atrape.\r\nJugar uno contra uno: Acordar una zona en la que se pueda lanzar la pelota contra la pared y en la que tenga que volver a caer en el suelo. Si el otro/a niño/a no logra atrapar la pelota, tu ganas un punto.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo sabes a dónde va la pelota cuando rebota en la pared?\r\n¿Cómo te preparas para atrapar la pelota?",
-			"WILLINGNESS": "¿Cuántas veces seguidas puedes atrapar la pelota?\r\n¿Cómo te sientes cuando no puedes atrapar la pelota?"
+			"WILLINGNESS": "¿Cuántas veces seguidas puedes atrapar la pelota?\r\n¿Cómo te sientes cuando no puedes atrapar la pelota?",
+            "PDF": "Lanza la pelota a la pared y vuelve a atraparla."
 		},
 		"FLYING_BALL": {
 			"MOBAK": "Control de Objetos",
@@ -889,7 +950,8 @@
 			"MATERIALS": "Pelotas, colchonetas",
 			"VARIATIONS": "Usa diferentes pelotas.\r\nVaría la zona de aterrizaje.\r\nCambia el tamaño del campo de juego.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué tácticas utiliza tu equipo para anotar puntos?\r\n¿Qué cambia cuando el campo de juego se hace más grande?",
-			"WILLINGNESS": "¿Puedes atrapar la pelota con un salto y caer en la zona de aterrizaje?\r\n¿Cómo lanzas la pelota a tu compañero de equipo para que pueda atraparla en la zona de aterrizaje?\r\n¿Qué reglas añadirías para cambiar el juego?"
+			"WILLINGNESS": "¿Puedes atrapar la pelota con un salto y caer en la zona de aterrizaje?\r\n¿Cómo lanzas la pelota a tu compañero de equipo para que pueda atraparla en la zona de aterrizaje?\r\n¿Qué reglas añadirías para cambiar el juego?",
+            "PDF": "Grupo: Divídanse en dos equipos. Se puede anotar un punto si un miembro del equipo puede atrapar la pelota saltando a la zona de aterrizaje."
 		},
 		"FISHERMAN": {
 			"MOBAK": "Control de Objetos",
@@ -899,7 +961,8 @@
 			"MATERIALS": "Pelotas",
 			"VARIATIONS": "Lanza las pelotas rápidamente una tras otra.\r\nEmite un sonido antes de lanzar la pelota.\r\nEl/La niño/a \"A\" dice dónde se lanzará la pelota.\r\nEl/La niño/a \"B\" se prepara con los ojos cerrados y trata de reaccionar lo más rápido posible.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿A qué prestas atención cuando atrapas una pelota?\r\n¿Cómo sostienes las manos y los brazos para atrapar una pelota?",
-			"WILLINGNESS": "¿Tienes una idea de cómo cambiar el juego y hacerlo más emocionante?\r\nComo niño/a \"A\", ¿cómo le lanzas la pelota al/la niño/a \"B\" para que sea desafiante, pero aún asi pueda atrapar la pelotas?"
+			"WILLINGNESS": "¿Tienes una idea de cómo cambiar el juego y hacerlo más emocionante?\r\nComo niño/a \"A\", ¿cómo le lanzas la pelota al/la niño/a \"B\" para que sea desafiante, pero aún asi pueda atrapar la pelotas?",
+            "PDF": "En parejas: Lanzarse pelotas entre sí a diferentes alturas."
 		}
 	},
 	"throwing": "throwing",
@@ -912,7 +975,8 @@
 			"MATERIALS": "pelotitas de malabares (o de tenis), cuadrados de alfombra o goma eva, [varios otros tipos de pelotas]",
 			"VARIATIONS": "Integra variaciones de lanzamiento (p. ej., desde abajo, usando ambas manos, por encima de la cabeza).\r\nUsa diferentes peloas.\r\nAumenta o disminuye la distancia entre las areas.\r\nUsa areas más pequeñas o más grandes.\r\nLa disposición de las areas cambia.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué necesitas cambiar si lanzas en las areas 1 o 12?\r\n¿Cuál es la forma más precisa de lanzar la pelota?",
-			"WILLINGNESS": "¿Cómo organizarías las areas?\r\n¿Qué otras cosas en el gimnasio puedes usar como objetivos?"
+			"WILLINGNESS": "¿Cómo organizarías las areas?\r\n¿Qué otras cosas en el gimnasio puedes usar como objetivos?",
+            "PDF": "Lanza la pelota de malabarismo a la casilla 1 y luego salta de la casilla 2 a la 12 y viceversa. Luego lanza la pelota a la casilla 2 y salta a la casilla 1 y luego 3 - 12 y viceversa. Y así sucesivamente."
 		},
 		"THROWING_STATIONS": {
 			"MOBAK": "Control de Objetos",
@@ -922,7 +986,8 @@
 			"MATERIALS": "Varias pelotas, cajon de salto, aros",
 			"VARIATIONS": "Lanza la pelota sentado.\r\nDe pie sobre el cajon de salto, lanza pelotas a una cesta.\r\nLanzar una pelota (con la mano izquierda y con la derecha) por encima del cajón de saltos e intenta atraparla.\r\nLanzar las pelotas con la mano izquierda y derecha por encima o a través de la espaldera para que otro niño pueda cogerlos.\r\nGolpear los cuatro conos marcadores desde un cajón de salto utilizando cinco pelotas.\r\nLanza la pelota a todos los cuadrados de las espalderas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué cambia cuando lanzas la pelota con una mano o con las dos manos?\r\n¿Cómo te posicionas cuando lanzas?",
-			"WILLINGNESS": "Establece un objetivo específico: ¿cuántas pelotas puedes lanzar a la caja?\r\n¿Qué cambia cuando desafías a otro niño?\r\n¿Puedes golpear la caja incluso desde diferentes distancias?"
+			"WILLINGNESS": "Establece un objetivo específico: ¿cuántas pelotas puedes lanzar a la caja?\r\n¿Qué cambia cuando desafías a otro niño?\r\n¿Puedes golpear la caja incluso desde diferentes distancias?",
+            "PDF": "Lanza la pelota al área"
 		},
 		"KEEP_YOUR_GARDEN_CLEAN": {
 			"MOBAK": "Control de Objetos",
@@ -932,7 +997,8 @@
 			"MATERIALS": "Bancas largas, varias pelotas",
 			"VARIATIONS": "Hay una distancia de 3 m entre los dos equipos. Este espacio es una zona de juego prohibida (puede separarse mediante conos y bancas largas). Las pelotas blandas solo pueden ser lanzadas y solo los balones de fútbol pueden ser pateados. Los equipos también pueden anotar puntos pateando/lanzando balones contra la pared del equipo contrario.\r\nSe juega con dos bancas largas (con cierta distancia entre ellos).\r\nLa banca larga se coloca boca abajo sobre dos cajones de salto. Lanza balones por debajo del banco al campo contrario.\r\nResuelve una tarea después de cada lanzamiento, es decir, tocar una pared, lanzar primero la pelota contra la pared y luego atraparla.\r\nInventa colectivamente reglas adicionales para el juego.\r\nIntegra variaciones de lanzamiento (por ejemplo, lanzar por debajo, con las dos manos, por encima de la cabeza).\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cuál es la forma más rápida de lanzar la pelota al otro lado?\r\n¿Lanzas la pelota de manera diferente cuando la atrapas sobre la marcha que cuando la recoges del suelo?",
-			"WILLINGNESS": "¿Qué hacen juntos como equipo para mantener limpio el jardín?\r\n¿A qué prestas atención para no golpear accidentalmente a otro niño?"
+			"WILLINGNESS": "¿Qué hacen juntos como equipo para mantener limpio el jardín?\r\n¿A qué prestas atención para no golpear accidentalmente a otro niño?",
+            "PDF": "Grupos: Divídanse en dos equipos. Lanza tantas pelotas como sea posible al campo de juego del otro equipo durante el tiempo asignado."
 		},
 		"SCORE_MASTER": {
 			"MOBAK": "Control de Objetos",
@@ -942,7 +1008,8 @@
 			"MATERIALS": "pelotas, varios objetivos (por ejemplo, cuadrados de goma eva, aros, cuerdas)",
 			"VARIATIONS": "Integra variaciones de lanzamiento (p. ej., lanzar desde abajo, usando ambas manos, por encima de la cabeza).\r\nAumenta o disminuye la distancia de los objetivos.\r\nUsa un límite de tiempo para darle a los objetivos.\r\nUsa varios objetivos.\r\nElige diferentes objetivos en la pared.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿A qué objetivo aciertas más fácilmente y por qué?\r\n¿Cómo lanzas mejor para dar en el blanco?",
-			"WILLINGNESS": "Haz un plan: ¿En qué orden quieres golpear los objetivos para necesitar la menor cantidad de lanzamientos posible?\r\nPrueba la tarea en parejas: ¿Cuántos lanzamientos necesitan juntos para golpear todos los objetivos una vez?\r\n¿Puedes golpear cada objetivo con un solo lanzamiento cada uno?"
+			"WILLINGNESS": "Haz un plan: ¿En qué orden quieres golpear los objetivos para necesitar la menor cantidad de lanzamientos posible?\r\nPrueba la tarea en parejas: ¿Cuántos lanzamientos necesitan juntos para golpear todos los objetivos una vez?\r\n¿Puedes golpear cada objetivo con un solo lanzamiento cada uno?",
+            "PDF": "Golpea a todos los objetivos con el menor número de lanzamientos posible."
 		},
 		"FALLING_OVER": {
 			"MOBAK": "Control de Objetos",
@@ -952,7 +1019,8 @@
 			"MATERIALS": "Bancas largas, objetivos (dianas) (por ejemplo, conos, postes, tarros de yogur), varias pelotas",
 			"VARIATIONS": "Cambia la distancia del objetivo.\r\nColoca 2 bancas largas en posición en forma de V, coloca los objetivos sobre ellos e intenta golpearlos desde varias posiciones.\r\nLanzar sentado, arrodillado, etc.\r\nCambiar la disposición de los objetivos.\r\nColoque los objetivos en otro nivel (piso/caja de gimnasio).\r\nLanza con la otra mano.\r\nUsa varias pelotas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cuál es la mejor manera de derribar objetivos?\r\n¿Qué hay que cambiar al rodar o lanzar la pelota?",
-			"WILLINGNESS": "¿Qué otros objetos podrías usar para lanzar y botar los objetivos?\r\nOrganiza un cierto número de objetivos para un compañero de clase. ¿Puedes ayudarlo a golpearlos a todos?"
+			"WILLINGNESS": "¿Qué otros objetos podrías usar para lanzar y botar los objetivos?\r\nOrganiza un cierto número de objetivos para un compañero de clase. ¿Puedes ayudarlo a golpearlos a todos?",
+            "PDF": "Lanza la pelota al objetivo de tal manera que se caiga."
 		},
 		"HIT_THE_TARGET": {
 			"MOBAK": "Control de Objetos",
@@ -962,7 +1030,8 @@
 			"MATERIALS": "Recipientes (por ejemplo, cubos, cajas grandes, cajas pequeñas invertidas), varias pelotas.",
 			"VARIATIONS": "Integra variaciones de lanzamiento (p. ej., lanzar desde abajo, usando ambas manos, por encima de la cabeza).\r\nPida a otros/as niños/as que muevan los contenedores.\r\nColoca los recipientes cerca de una pared y lanza la pelota contra la pared, para que caiga dentro del recipiente.Cambia la distancia entre los contenedores.\r\nUsa varias pelotas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo debes colocar tu brazo para poder apuntar bien al lanzar?\r\n¿Dónde buscas golpear el contenedor?",
-			"WILLINGNESS": "¿Cómo te sientes al golpear con éxito el contenedor con una pelota?\r\n¿Se puede golpear el contenedor al mismo tiempo que otro/a niño/a?\r\n¿Qué otros contenedores podríamos utilizar como objetivos?"
+			"WILLINGNESS": "¿Cómo te sientes al golpear con éxito el contenedor con una pelota?\r\n¿Se puede golpear el contenedor al mismo tiempo que otro/a niño/a?\r\n¿Qué otros contenedores podríamos utilizar como objetivos?",
+            "PDF": "Lanza las bolas en los recipientes en orden (de grande a pequeño)."
 		},
 		"THROWING_OFF": {
 			"MOBAK": "Control de Objetos",
@@ -972,7 +1041,8 @@
 			"MATERIALS": "Cajon de salto, paños o pañuelos, diferentes pelotas.",
 			"VARIATIONS": "Coloca pañuelos y círculos en la pared. Intenta golpear un pañuelo o el interior del círculo.\r\nIntegra variaciones de lanzamiento (p. ej., lanzar desde abajo, usando ambas manos, por encima de la cabeza).\r\nDeja caer más rápido el pañuelo(quine este sobre el cajon de salto).\r\nAumente o disminuya la distancia del objetivo.\r\nDeja caer varios artículos (quien este sobre el cajon de salto).\r\nUsa varias pelotas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cuándo lanzas la pelota para que golpee el pañuelo?\r\n¿Cómo cambia tu lanzamiento cuando cambias la posición de tu brazo?",
-			"WILLINGNESS": "¿Puedes golpear dos pañuelos a la vez?\r\n¿En qué te fijas cuando dejas caer el pañuelo para que el/la otro/a niño/a pueda pegarle bien?"
+			"WILLINGNESS": "¿Puedes golpear dos pañuelos a la vez?\r\n¿En qué te fijas cuando dejas caer el pañuelo para que el/la otro/a niño/a pueda pegarle bien?",
+            "PDF": "Golpea las telas antes de que toquen el suelo."
 		},
 		"DICE": {
 			"MOBAK": "Control de Objetos",
@@ -982,7 +1052,8 @@
 			"MATERIALS": "Diferentes balones, cajon de salto, bancas, dados",
 			"VARIATIONS": "Acércate o aléjate de las áreas de objetivo.\r\nIntegra variaciones de lanzamiento (p. ej., lanzar desde abajo, usando ambas manos, por encima de la cabeza).\r\nAumenta o disminuye la distancia de los objetivos.\r\nUsa varias pelotas.\r\nGolpea los 6 números dos veces con una pelota.\r\nEstablece un límite de tiempo para acertar los 6 números.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué necesitas cambiar cuando quieres golpear el 1 en comparacion con el 6?\r\n¿Cuál es la mejor manera de pegarle a los números?",
-			"WILLINGNESS": "¿Cómo cambia la tarea para ti cuando hay un límite de tiempo para pegarle a todos los números una vez?\r\n¿También aciertas a los números cuando lanzas con la otra mano?"
+			"WILLINGNESS": "¿Cómo cambia la tarea para ti cuando hay un límite de tiempo para pegarle a todos los números una vez?\r\n¿También aciertas a los números cuando lanzas con la otra mano?",
+            "PDF": "Tira los dados y apunta al número que muestra el dado."
 		},
 		"ENCHANT_AND_REDEEM": {
 			"MOBAK": "Control de Objetos",
@@ -992,7 +1063,8 @@
 			"MATERIALS": "pelotas blandas",
 			"VARIATIONS": "Haz rodar una pelota más grande.\r\nColoca dos encantadores en un espacio más grande, donde existan medidas de protección, como cajones de salto, etc. Un/a niñ/a solo puede usar una medida de protección para tomar un descanso hasta que otro/a niño/a busque protección.\r\nColectivamente, encontrar otras posibilidades para ser librados.\r\nCambia el juego según tus ideas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿A qué prestas atención cuando quieres golpear a un niño en movimiento?\r\n¿Cómo se lanza la pelota para que golpee las piernas de los niños?",
-			"WILLINGNESS": "¿Con qué nuevas reglas te divertirías más en el juego?\r\n¿Cómo cambia el juego para ti si hay más encantadores atrapando?\r\n¿Te gusta el juego? ¿Por qué/Por qué no?"
+			"WILLINGNESS": "¿Con qué nuevas reglas te divertirías más en el juego?\r\n¿Cómo cambia el juego para ti si hay más encantadores atrapando?\r\n¿Te gusta el juego? ¿Por qué/Por qué no?",
+            "PDF": "Grupo: Un niño intenta golpear a los demás con una pelota. Cualquiera que sea golpeado se para con las piernas a horcajadas. Eres redimido por alguien que se arrastra bajo tus piernas."
 		},
 		"THROWING_HOOPS": {
 			"MOBAK": "Control de Objetos",
@@ -1002,7 +1074,8 @@
 			"MATERIALS": "Conos, neumaticos, aros",
 			"VARIATIONS": "Lanza con los ojos cerrados.\r\nCambia la posición inicial (p. ej., ponerse en cuclillas, sentarse, girar).\r\nAumenta o disminuye la distancia del cono.\r\nLanzar desde varias direcciones (por ejemplo, desde abajo, desde arriba, hacia un lado).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué cambias cuando lanzas un aro en comparación con una pelota?\r\n¿Desde qué posición golpeas mejor el cono?",
-			"WILLINGNESS": "¿Cuál es la distancia más larga a la que puedes golpear el cono de forma segura?\r\n¿Cómo te sientes al lanzar el aro con los ojos cerrados?\r\n¿Puedes golpear el cono con los ojos cerrados?"
+			"WILLINGNESS": "¿Cuál es la distancia más larga a la que puedes golpear el cono de forma segura?\r\n¿Cómo te sientes al lanzar el aro con los ojos cerrados?\r\n¿Puedes golpear el cono con los ojos cerrados?",
+            "PDF": "Lanza el aro alrededor del cono."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Control de Objetos",
@@ -1012,7 +1085,8 @@
 			"MATERIALS": "Aros, pelotas varias",
 			"VARIATIONS": "Sostener dos aros (niño/a \"C\").\r\nHas rodar y atrapa la pelota tú mismo en el otro lado (niño/a \"A\"), de modo que la tarea se realice solo con otro/a niño/a sosteniendo el aro.\r\nPatea la pelota con el pie.\r\nAmplía el grupo haciendo que todos/as los/as niños/as se coloquen con una pelota en el lado largo del gimnasio. Trata de golpear con tu pelota (rodar, lanzar o patear a través del aro) otra pelota de gimnasia o un aro, que el profesor hará rodar por el gimnasio.\r\nLanza la pelota con una raqueta a través del aro.\r\nHaz rodar la pelota con la mano.\r\nHaga rodar el aro por el gimnasio y lance, juegue o haga rodar la pelota a través del aro.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo haces que la pelota ruede por el aro?\r\n¿Cómo cambia el movimiento de tus brazos cuando haces rodar la pelota en lugar de lanzarla?",
-			"WILLINGNESS": "¿Cuál de las variantes es la más divertida para ti y por qué?\r\n¿Cuántas veces seguidas puedes atrapar la pelota? Establece una meta y trata de alcanzarla.\r\n¿De qué otra manera puedes rodar/jugar la pelota?"
+			"WILLINGNESS": "¿Cuál de las variantes es la más divertida para ti y por qué?\r\n¿Cuántas veces seguidas puedes atrapar la pelota? Establece una meta y trata de alcanzarla.\r\n¿De qué otra manera puedes rodar/jugar la pelota?",
+            "PDF": "Tres de ellas: Un niño sostiene una llanta. Los otros dos hacen rodar una pelota a través del aro."
 		},
 		"TIGER_BALL": {
 			"MOBAK": "Control de Objetos",
@@ -1022,7 +1096,8 @@
 			"MATERIALS": "Varias pelotas",
 			"VARIATIONS": "Juega con dos pelotas (diferentes) al mismo tiempo.\r\nAmplía gradualmente el círculo.\r\nVaría la altura del pase.\r\nIntegra variaciones de lanzamiento (p. ej., lanzar desde abajo, usando ambas manos, por encima de la cabeza).\r\nNo le pases la pelota al/la niño/a que está directamente a su lado.\r\nHacer rodar la pelota al siguiente niño/a",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cuál es la mejor manera de atrapar la pelota cuando estás en el medio?\r\n¿Cuál es la mejor manera de lanzar la pelota a otro/a niño/a para que el/la niño/a del medio no la atrape?",
-			"WILLINGNESS": "¿Cuándo es más divertido este juego?\r\n¿Qué haces cuando notas que el/la niño/a del medio no está atrapando la pelota?\r\n¿Cómo juegan juntos para que el/la niño/a del medio no pueda atrapar la pelota?"
+			"WILLINGNESS": "¿Cuándo es más divertido este juego?\r\n¿Qué haces cuando notas que el/la niño/a del medio no está atrapando la pelota?\r\n¿Cómo juegan juntos para que el/la niño/a del medio no pueda atrapar la pelota?",
+            "PDF": "Grupo: Un niño se para en el centro del círculo. Los demás se pasan la pelota entre sí. El niño en el medio intenta atrapar la pelota. Inversión de roles."
 		},
 		"BOXING": {
 			"MOBAK": "Control de Objetos",
@@ -1032,7 +1107,8 @@
 			"MATERIALS": "Varias pelotas",
 			"VARIATIONS": "Usa varias pelotas.\r\nCambia la distancia.\r\nVaría la altura del pase (niño/a \"A\").\r\nIntegra variaciones de lanzamiento (p. ej., lanzar desde abajo, usando ambas manos, por encima de la cabeza).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo puedes lanzar la pelota con precisión?\r\n¿Cómo te comportas para poder atrapar bien la pelota?",
-			"WILLINGNESS": "¿Cuántas veces seguidas puedes volver a atrapar la pelota a diferentes distancias?\r\n¿Cómo se las arreglan para resolver la tarea juntos?\r\n¿Puedes volver a atrapar la pelota a diferentes distancias?"
+			"WILLINGNESS": "¿Cuántas veces seguidas puedes volver a atrapar la pelota a diferentes distancias?\r\n¿Cómo se las arreglan para resolver la tarea juntos?\r\n¿Puedes volver a atrapar la pelota a diferentes distancias?",
+            "PDF": "En parejas: Un niño tiene una pelota en la mano y juega la pelota con ella."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Control de Objetos",
@@ -1042,7 +1118,8 @@
 			"MATERIALS": "Varias pelotas",
 			"VARIATIONS": "Ahora lanza la pelota de un lado a otro/a niño/a.\r\nCambia la disposición de círculo a otras formas (por ejemplo, cuadrado, triángulo, elipse).\r\nDespués del pase, anda a la ubicación a la que distes el pase.\r\nIntegra variaciones de lanzamiento (p. ej., lanzar desde abajo, usando ambas manos, por encima de la cabeza).\r\nHaz rodar la pelota con la mano, patea con el pie o juega con la raqueta.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo te preparas para atrapar la pelota?\r\n¿Qué miras cuando la pelota vuela hacia ti?\r\n¿Por qué es útil mirar al/la niño/a al que está a punto de lanzarle la pelota?",
-			"WILLINGNESS": "¿Puedes hacer que cada niño/a en el circulo atrape la pelota una vez sin que toque el suelo?\r\n¿Cuál es la forma más rápida y efectiva de lanzar y atrapar la pelota en el círculo?"
+			"WILLINGNESS": "¿Puedes hacer que cada niño/a en el circulo atrape la pelota una vez sin que toque el suelo?\r\n¿Cuál es la forma más rápida y efectiva de lanzar y atrapar la pelota en el círculo?",
+            "PDF": "Grupo: Párense en círculo y pasen la pelota entre sí. No se permiten pases dobles."
 		},
 		"WILD_PIG": {
 			"MOBAK": "Control de Objetos",
@@ -1052,7 +1129,8 @@
 			"MATERIALS": "Balón medicinal, banca, pelotas de tenis",
 			"VARIATIONS": "Prueba diferentes tipos de lanzamientos.\r\nColoca una pelota de baloncesto en el centro como si fuera un \"jabalí\".\r\nCambia la distancia de las bancas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué técnica de lanzamiento es mejor para golpear al \"jabalí\"?\r\n¿Cómo te posicionas para lanzar con la mayor precisión posible?",
-			"WILLINGNESS": "¿Tienes alguna idea sobre cómo hacer que el juego sea más emocionante?\r\n¿Cómo te sientes cuando tu equipo gana?"
+			"WILLINGNESS": "¿Tienes alguna idea sobre cómo hacer que el juego sea más emocionante?\r\n¿Cómo te sientes cuando tu equipo gana?",
+            "PDF": "Grupo: Forma dos equipos. Cada equipo intenta conducir la pelota por el centro contra el banquillo rival."
 		},
 		"DISTANCE_THROWING": {
 			"MOBAK": "Control de Objetos",
@@ -1062,7 +1140,8 @@
 			"MATERIALS": "Balones",
 			"VARIATIONS": "Cambia la distancia después de cada lanzamiento.\r\nPrueba diferentes tipos de lanzamientos.\r\nUsa diferentes balones.\r\nRueda la pelota.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo cambias tu tiro cuando el otro niño está más cerca de ti?\r\n¿Cómo puedes lanzar una pelota lo más lejos y con la mayor precisión posible?",
-			"WILLINGNESS": "¿De qué maneras puedes lanzar la pelota? ¿Cuántos pases puedes hacer sin que la pelota caiga al suelo?\r\n¿Cuál es la distancia máxima a la que puedes lanzar la pelota al otro/a niño/a?"
+			"WILLINGNESS": "¿De qué maneras puedes lanzar la pelota? ¿Cuántos pases puedes hacer sin que la pelota caiga al suelo?\r\n¿Cuál es la distancia máxima a la que puedes lanzar la pelota al otro/a niño/a?",
+            "PDF": "En parejas: Pasarse la pelota el uno al otro a diferentes distancias."
 		}
 	},
 	"bouncing": "bouncing",
@@ -1075,7 +1154,8 @@
 			"MATERIALS": "Varias pelotas, aros, cinta adhesiva (para marcar el cuadrado)",
 			"VARIATIONS": "Cambie el tamaño del cuadrado. Utilice varios balones. Establezca un límite de tiempo para completar la tarea. Cambie el número de aros. Cambie la disposición de los aros.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "«¿Cuál es la mejor manera de botar la pelota?\r\n¿Rebota todas las pelotas de la misma manera?».",
-			"WILLINGNESS": "«¿Puedes seguir botando en el siguiente aro sin parar la pelota? ¿Qué distribución de los aros te resulta más divertida y por qué? ¿Qué se siente al tener un límite de tiempo para esta tarea?»."
+			"WILLINGNESS": "«¿Puedes seguir botando en el siguiente aro sin parar la pelota? ¿Qué distribución de los aros te resulta más divertida y por qué? ¿Qué se siente al tener un límite de tiempo para esta tarea?».",
+            "PDF": "Rebota 5 veces en el aro."
 		},
 		"BOUNCING_STATIONS": {
 			"MOBAK": "Control de Objetos",
@@ -1085,7 +1165,8 @@
 			"MATERIALS": "Diferentes tipos de pelotas, bancas largas.",
 			"VARIATIONS": "Camina por el gimnasio y haz rebotar la pelota sin perderla (usa tanto la mano izquierda como la derecha). \r\nHaz rebotar la pelota alrededor de tu cuerpo sin interrupción. \r\nHaz rebotar dos pelotas simultáneamente sin perderlas. \r\nCamina en una banca larga mientras haces rebotar una pelota en el suelo o en la banca (después de eso, dos pelotas simultáneamente). \r\nDos bancas largas están colocados en paralelo con una distancia de 20 cm. Camina en ambas bancas mientras haces rebotar una pelota en el suelo o en uno de las bancas (después de eso, dos pelotas simultáneamente).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué cambia cuando rebotas cerca de tu cuerpo o con el brazo estirado hacia adelante? \r\n¿Qué partes de tus manos tocan la pelota cuando rebotas?",
-			"WILLINGNESS": "Intente saltar al mismo tiempo con otro niño, ¿cómo se siente? \r\nEstablece un objetivo de rebotes específico: ¿Cuántos rebotes quieres lograr seguidos? \r\n¿Se siente diferente a rebotar sin un gol y, de ser así, de qué manera? ¿\r\nPuedes rebotar un ritmo?"
+			"WILLINGNESS": "Intente saltar al mismo tiempo con otro niño, ¿cómo se siente? \r\nEstablece un objetivo de rebotes específico: ¿Cuántos rebotes quieres lograr seguidos? \r\n¿Se siente diferente a rebotar sin un gol y, de ser así, de qué manera? ¿\r\nPuedes rebotar un ritmo?",
+            "PDF": "Rebota con ambas manos."
 		},
 		"BOUNCING_OVER_CONES": {
 			"MOBAK": "Control de Objetos",
@@ -1095,7 +1176,8 @@
 			"MATERIALS": "Varias bolas, conos",
 			"VARIATIONS": "Lanza la pelota sobre el cono usando ambas manos mientras rebota. \r\nHaz rebotar la pelota alternando con la mano izquierda y la derecha. Haz rebotar la pelota mientras te acercas al cono, haz rebotar la pelota verticalmente justo antes del cono, rodea el cono dando una vuelta completa y luego continúa rebotando. \r\nUsa varias pelotas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo haces rebotar mejor la pelota mientras avanzas al mismo tiempo? \r\n¿Qué buscas cuando rebotas con una sola mano?",
-			"WILLINGNESS": "¿Puedes rebotar alternativamente con la mano izquierda y la derecha? \r\nCada vez que te acercas a un cono: ¿Qué tan seguro estás de volver a atrapar la pelota detrás del cono (1: nada, 5: completamente)? \r\n¿Cómo cambia tu rebote cuando otros niños te están mirando?"
+			"WILLINGNESS": "¿Puedes rebotar alternativamente con la mano izquierda y la derecha? \r\nCada vez que te acercas a un cono: ¿Qué tan seguro estás de volver a atrapar la pelota detrás del cono (1: nada, 5: completamente)? \r\n¿Cómo cambia tu rebote cuando otros niños te están mirando?",
+            "PDF": "Rebota sobre el cono con la pelota."
 		},
 		"SEAT_BOUNCING": {
 			"MOBAK": "Control de Objetos",
@@ -1105,7 +1187,8 @@
 			"MATERIALS": "Varios balones, conos",
 			"VARIATIONS": "Rebota alternativamente hacia la izquierda y hacia la derecha.\r\nDale la vuelta a los conos una vez antes de dejarlos.\r\nRebota hacia los conos, coloca un pie en la punta del cono, rebota tres veces y luego vuelva a bajar el pie.\r\nCuenta quién ha anotado más puntos al final del juego (1 punto por cada acierto: un total de seis rebotes sentado en un cono).\r\nUsa diferentes balones.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué cambia en tu movimiento cuando cambia la distancia entre el suelo y la mano?\r\n¿Qué haces para poder rebotar bien después del salto?",
-			"WILLINGNESS": "¿También consigues sentarte en el suelo rebotando?\r\nImagina que eres un animal de tu elección (por ejemplo, un mono, una serpiente, un pájaro) y trata de rebotar como ese animal. ¿Cómo te sientes cuando rebotas como un animal?\r\nSi ves a un/a niño/a que no tiene éxito, ¿qué consejos puedes darle?"
+			"WILLINGNESS": "¿También consigues sentarte en el suelo rebotando?\r\nImagina que eres un animal de tu elección (por ejemplo, un mono, una serpiente, un pájaro) y trata de rebotar como ese animal. ¿Cómo te sientes cuando rebotas como un animal?\r\nSi ves a un/a niño/a que no tiene éxito, ¿qué consejos puedes darle?",
+            "PDF": "Salta sobre el cono con un aparejo deslizante. Siéntate en el sombrero y rebota 3 veces con la mano izquierda y 3 veces con la mano derecha. Ve al siguiente cono."
 		},
 		"NUMBERBALL_BOUNCING": {
 			"MOBAK": "Control de Objetos",
@@ -1115,7 +1198,8 @@
 			"MATERIALS": "Pelotas, conos, canasta",
 			"VARIATIONS": "Cambie el espacio entre los conos. \r\nColoque obstáculos debajo del arco. \r\nAlgunos niños del equipo contrario pueden tratar de alejar la pelota por el número correspondiente después de disparar.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo puedes llegar al arco más rápido que el niño del otro equipo? \r\n¿Dónde miras cuando conduces el balón en el campo de juego?",
-			"WILLINGNESS": "¿Cómo se puede ayudar a los niños que tienen dificultades para consucir el balon? \r\n¿Tienes alguna idea sobre cómo hacer que el juego sea más emocionante?"
+			"WILLINGNESS": "¿Cómo se puede ayudar a los niños que tienen dificultades para consucir el balon? \r\n¿Tienes alguna idea sobre cómo hacer que el juego sea más emocionante?",
+            "PDF": "Rebota a través de la puerta de la concha y lanza a la canasta cuando se llame tu número."
 		},
 		"SURROUNDING_HOOPS_WHILE_BOUNCING": {
 			"MOBAK": "Control de Objetos",
@@ -1125,7 +1209,8 @@
 			"MATERIALS": "Conos, aros de gimnasia, parte superior de un cajon de salto, una pelota para cada niño/a",
 			"VARIATIONS": "Corre a través de los dos aro con un pie de contacto por cada uno y haz rebotar la pelota de izquierda a derecha. \r\nCambia la distancia entre los aros. \r\nConduce alrededor de los dos círculos con pasos de reposicionamiento (o salto final) en un doble arco / con una rotación completa (1 vez a la derecha y 1 vez a la izquierda).\r\nConstruye otro camino para conducir. \r\nUsa diferentes balones.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo se cambia de dirección rápidamente al conducir el balon? ¿Es más fácil conducir con el balón en el suelo o sobre el cajon de salto? ¿Porque?",
-			"WILLINGNESS": "¿Tienes alguna idea sobre cómo cambiar el camino para divertirte más? \r\nCompite contra un amigo: ¿quién puede completar el recorrido más rápido?"
+			"WILLINGNESS": "¿Tienes alguna idea sobre cómo cambiar el camino para divertirte más? \r\nCompite contra un amigo: ¿quién puede completar el recorrido más rápido?",
+            "PDF": "Rebota a través de la puerta de la concha y lanza a la canasta cuando se llame tu número."
 		},
 		"SHADOW_BOUNCING": {
 			"MOBAK": "Control de Objetos",
@@ -1135,7 +1220,8 @@
 			"MATERIALS": "Pelotas, obstáculos",
 			"VARIATIONS": "Colocar objetos en el gimnasio que sirvan como obstáculos. \r\nIntercambia roles después del tercer cambio de dirección. \r\nUsa diferentes balones. \r\nUsa ambas manos para botar.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Puedes reaccionar rápido ante el/la niño/a \"A\"?\r\n¿Dónde miras cuando eres el/la niño/a \"sombra\"?",
-			"WILLINGNESS": "¿Qué puedes hacer como niño/a \"A\" para asegurarte de que el/la niño/a \"B\" pueda seguirte bien?\r\nComo niño/a \"A\", imagina que eres un animal: ¿cómo conduces? ¿Puede el/la niño/a \"B\" adivinar qué animal es?"
+			"WILLINGNESS": "¿Qué puedes hacer como niño/a \"A\" para asegurarte de que el/la niño/a \"B\" pueda seguirte bien?\r\nComo niño/a \"A\", imagina que eres un animal: ¿cómo conduces? ¿Puede el/la niño/a \"B\" adivinar qué animal es?",
+            "PDF": "En parejas: Un niño abre el camino, con moretones, el otro lo sigue."
 		},
 		"BENCH_BOUNCING": {
 			"MOBAK": "Control de Objetos",
@@ -1145,7 +1231,8 @@
 			"MATERIALS": "Pelotas, bancas largos",
 			"VARIATIONS": "Conduce en la banca.\r\nUsa diferentes balones.\r\nUse otras superficies (por ejemplo, colchonetas) para caminar sobre ellas y conducir junto a ellas.\r\nCamina hacia atrás y haz rebotar la pelota cerca de la banca.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué tienes que cambiar al conducir cerca de la banca, en comparación cuando conduces en el suelo?\r\n¿Puedes conducirsin caerte de la banca?",
-			"WILLINGNESS": "¿Qué otras superficies se pueden utilizar para conducir?\r\n¿Puedes caminar por la banca con los ojos cerrados mientras conduces el balon?"
+			"WILLINGNESS": "¿Qué otras superficies se pueden utilizar para conducir?\r\n¿Puedes caminar por la banca con los ojos cerrados mientras conduces el balon?",
+            "PDF": "Pasa por encima del Lanbank y haz rebotar la pelota junto al banco."
 		},
 		"CIRCLE_BOUNCING": {
 			"MOBAK": "Control de Objetos",
@@ -1155,7 +1242,8 @@
 			"MATERIALS": "balones",
 			"VARIATIONS": "Haz rebotar la pelota tanto en el sentido de las agujas del reloj como en el sentido contrario a las agujas del reloj. \r\nIntenta rebotar a tu alrededor en una posición corporal diferente. \r\nTrata de hacer una figura de ocho alrededor de tu cuerpo. \r\nPara hacer esto, haz rebotar la pelota entre tus piernas en el medio. \r\nUsa diferentes balones. \r\nTambién gira en círculos y haz rebotar la pelota.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Das mejor el bote con la mano izquierda o con la derecha? ¿porque? ¿Dónde miras para no perder la pelota?",
-			"WILLINGNESS": "¿Con qué balón conduces mejor?\r\n¿Tienes alguna idea para que esta tarea te sea más fácil o más difícil?"
+			"WILLINGNESS": "¿Con qué balón conduces mejor?\r\n¿Tienes alguna idea para que esta tarea te sea más fácil o más difícil?",
+            "PDF": "Haz rebotar la pelota en un círculo a tu alrededor."
 		},
 		"BOUNCING_IN_DIFFERENT_POSITIONS": {
 			"MOBAK": "Control de Objetos",
@@ -1165,7 +1253,8 @@
 			"MATERIALS": "Balones",
 			"VARIATIONS": "Túmbate rebotando y levántate de nuevo. Prueba diferentes posiciones del cuerpo mientras rebota. \r\nRebota con la otra mano. Rebota con la mano derecha cuando te sientes, luego rebota alrededor de los pies y ponte de pie mientras rebotas con la mano izquierda. \r\nUsa dos balones (diferentes) al mismo tiempo.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué tienes que cambiar al rebotar para no perder la pelota cuando te sientas? \r\n¿Cuál es la posición de tu mano mientras rebotas?",
-			"WILLINGNESS": "¿Puedes explicarle a otro niño la mejor manera de ponerse de pie mientras está sentado? \r\n¿También se puede cambiar de mano al rebotar mientras se está acostado?  ¿Cuál es la mejor manera de hacerlo?"
+			"WILLINGNESS": "¿Puedes explicarle a otro niño la mejor manera de ponerse de pie mientras está sentado? \r\n¿También se puede cambiar de mano al rebotar mientras se está acostado?  ¿Cuál es la mejor manera de hacerlo?",
+            "PDF": "Rebota la pelota, siéntate en el suelo y levántate de nuevo."
 		}
 	},
 	"dribbling": "dribbling",
@@ -1178,7 +1267,8 @@
 			"MATERIALS": "Balones de fútbol",
 			"VARIATIONS": "Usa diferentes balones.\r\nColoca un obstáculo frente a la pared.\r\nUse varios tipos de tiros (p. ej., planos, altos, con la parte interna del pie, empeine).\r\nVaría la distancia a la pared (ángulo, distancia).\r\nUtilice una superficie irregular (barras de pared, pared con caja).\r\nVaría el tamaño de la zona de parada.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué parte del pie utilizas para hacer el mejor tiro?\r\n¿Cuál es la mejor manera de colocar el pie para parar la pelota de manera segura?",
-			"WILLINGNESS": "¿De qué otra manera podrías pasar la pelota con el pie contra la pared?\r\n¿Cuál es la distancia más larga a la que puedes para la pelota de forma segura?\r\nDesafíate a ti mismo: ¿Cuántas veces seguidas puedes pasar y detener con éxito la pelota sin perderla?"
+			"WILLINGNESS": "¿De qué otra manera podrías pasar la pelota con el pie contra la pared?\r\n¿Cuál es la distancia más larga a la que puedes para la pelota de forma segura?\r\nDesafíate a ti mismo: ¿Cuántas veces seguidas puedes pasar y detener con éxito la pelota sin perderla?",
+            "PDF": "Lanza la pelota contra una pared y detén la pelota que rebota con el pie."
 		},
 		"LINE_DRIBBLING": {
 			"MOBAK": "Control de Objetos",
@@ -1188,7 +1278,8 @@
 			"MATERIALS": "Balones",
 			"VARIATIONS": "Usa diferentes balones.\r\nConduce la pelota a lo largo de las líneas de la cancha de voleibol, sin perderla.\r\nBusca otras líneas por las que puedas conducir el balón",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué parte de tu pie usas para guiar el balón cuando conduces?\r\n¿A qué prestas atención para no perder el balón al conducir?",
-			"WILLINGNESS": "¿Puedes conducir la pelota con el pie de otra manera?\r\n¿Puedes hacerlo con los dos pies?\r\n¿Por qué es útil saber conducir?"
+			"WILLINGNESS": "¿Puedes conducir la pelota con el pie de otra manera?\r\n¿Puedes hacerlo con los dos pies?\r\n¿Por qué es útil saber conducir?",
+            "PDF": "Driblar la pelota a lo largo de toda la sala."
 		},
 		"WALL_OFF": {
 			"MOBAK": "Control de Objetos",
@@ -1198,7 +1289,8 @@
 			"MATERIALS": "Balones",
 			"VARIATIONS": "Pasa la pelota 10 veces con el pie hacia otro/a niño/a sin perder la pelota.\r\nPasa la pelota 10 veces mientras corre con el pie hacia otro/a niño/a sin perder la pelota.\r\nUsa diferentes balones.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo te aseguras de que la pelota siempre regrese a ti?\r\n¿Cuál es la mejor manera de posicionarse en relación con la pared?",
-			"WILLINGNESS": "¿Pueden pasar la pelota por encima de la pared en parejas?\r\nIntenta marcar un ritmo al pasar la pelota a la pared: ¿cómo te sientes?\r\n¿En qué pie te resulta más fácil la tarea? ¿Por qué crees que es así?"
+			"WILLINGNESS": "¿Pueden pasar la pelota por encima de la pared en parejas?\r\nIntenta marcar un ritmo al pasar la pelota a la pared: ¿cómo te sientes?\r\n¿En qué pie te resulta más fácil la tarea? ¿Por qué crees que es así?",
+            "PDF": "Juega la pelota contra la pared diez veces desde corta distancia."
 		},
 		"LIFT_BALL": {
 			"MOBAK": "Control de Objetos",
@@ -1208,7 +1300,8 @@
 			"MATERIALS": "Bancas largas, balones",
 			"VARIATIONS": "Usa diferentes balones.\r\nElige varios objetivos.\r\nLevanta la pelota con el otro pie.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo se puede levantar la pelota con el pie?\r\n¿Qué cambias para levantar la pelota sobre la banca desde una distancia más larga?",
-			"WILLINGNESS": "¿Desde qué distancia se puede hacer bien?\r\nObserve a los otros/as niños7As mientras resuelven la tarea: ¿puede ayudarlos a resolverla?\r\n¿Puedes levantar la pelota encima de otras cosas?"
+			"WILLINGNESS": "¿Desde qué distancia se puede hacer bien?\r\nObserve a los otros/as niños7As mientras resuelven la tarea: ¿puede ayudarlos a resolverla?\r\n¿Puedes levantar la pelota encima de otras cosas?",
+            "PDF": "Levanta la pelota 5 veces con un pie en el cuadrado largo del banco."
 		},
 		"DRIBBLING_1": {
 			"MOBAK": "Control de Objetos",
@@ -1218,7 +1311,8 @@
 			"MATERIALS": "Balones",
 			"VARIATIONS": "Pasa la pelota cuando te encuentres en el medio.\r\nConduce hasta el centro del gimnasio, luego pasar la pelota a otro/a niño/a que espera al otro lado.\r\nConduce lo más rápido que puedas hacia el otro lado.\r\nNo conduzcas directamente hacia el otro lado, sino en diagonal a través del gimnasio (asegúrate de no chocar con otros niños).\r\nUsa diferentes balones.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cuál es la mejor manera de conducir?\r\n¿Dónde miras cuando conduces la pelota?\r\n¿Por qué crees que es más fácil correr sin el balón?",
-			"WILLINGNESS": "¡Trata de chocar las manos en medio del camino mientras te cruzascon otros/as!\r\n¿Cómo puedes ayudar mejor a tu pareja durante esta tarea?\r\n¿Puedes conudcir en parejas simultáneamente?"
+			"WILLINGNESS": "¡Trata de chocar las manos en medio del camino mientras te cruzascon otros/as!\r\n¿Cómo puedes ayudar mejor a tu pareja durante esta tarea?\r\n¿Puedes conudcir en parejas simultáneamente?",
+            "PDF": "En parejas: Un niño tiene la pelota. Corran el uno hacia el otro. El niño con la pelota bota. Cambia de roles después de 5 rondas."
 		},
 		"DRIBBLING_2": {
 			"MOBAK": "Control de Objetos",
@@ -1228,7 +1322,8 @@
 			"MATERIALS": "Colchonetas, conos, balones",
 			"VARIATIONS": "Cambia el recorrido del slalom.\r\nUsa diferentes balones.\r\nEstablezca un límite de tiempo dentro del cual se debe completar la tarea.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cuál es la mejor manera de cambiar de dirección mientras conduces\r\n¿Siempre usas el mismo pie para conducir? ¿Porque?",
-			"WILLINGNESS": "Crea tu propio camino con conos y conduce alrededor de ellos: ¿qué camino es el más divertido?\r\n¿Puedes seguir a otro niño conduciendo a través del slalom?"
+			"WILLINGNESS": "Crea tu propio camino con conos y conduce alrededor de ellos: ¿qué camino es el más divertido?\r\n¿Puedes seguir a otro niño conduciendo a través del slalom?",
+            "PDF": "Regatea por el recorrido de slalom con una pelota y termina con un tiro a puerta."
 		},
 		"IN_THE_LAND_OF_SHELLS_1": {
 			"MOBAK": "Control de Objetos",
@@ -1238,7 +1333,8 @@
 			"MATERIALS": "Varias pelotas, cuerdas (o aros de gimnasia)",
 			"VARIATIONS": "Rodea los moluscoss en una secuencia determinada.\r\nDetenga el tiempo y compárelo con el tiempo de intentos anteriores.\r\nUsa diferentes balones.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cuál es la mejor manera de conducir alrededor de un molusco?\r\n¿Qué ruta eliges cuando tienes que rodear todos los moluscos una vez?\r\n¿Cómo se juega la pelota con el pie?",
-			"WILLINGNESS": "¡Trata de estar lo más silencioso posible para no despertar a los moluscos!\r\nImagina que eres un calamar rebotando por los moluscos, ¿cómo te sientes?\r\n¿Cómo te sientes si lo haces con otra pelota?"
+			"WILLINGNESS": "¡Trata de estar lo más silencioso posible para no despertar a los moluscos!\r\nImagina que eres un calamar rebotando por los moluscos, ¿cómo te sientes?\r\n¿Cómo te sientes si lo haces con otra pelota?",
+            "PDF": "Dribilla la pelota alrededor de las conchas 'dormidas' que yacen en el fondo del mar."
 		},
 		"IN_THE_LAND_OF_SHELLS_2": {
 			"MOBAK": "Control de Objetos",
@@ -1248,7 +1344,8 @@
 			"MATERIALS": "difeentes balones, aros, cuerdas",
 			"VARIATIONS": "Usa diferentes balones.\r\nTrata de ser el primero en rodear todos los moluscos.\r\nAumente el espacio o disminuya el número de \"cangrejos\".\r\nCambie la tarea de los cangrejos (por ejemplo, agarrar la pelota).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cómo puedes proteger tu balon de los cangrejos?\r\n¿Dónde miras cuando conduces para proteger tu balón?",
-			"WILLINGNESS": "¿Qué camino eliges para evitar que te pellizquen?\r\nComo cangrejo, ¿puedes atrapar la pelota de un intruso?\r\nImagina que tienes un poder mágico que puede ayudarte a sobresalir en esta tarea. Describe el poder que elegirías y cómo te motivaría."
+			"WILLINGNESS": "¿Qué camino eliges para evitar que te pellizquen?\r\nComo cangrejo, ¿puedes atrapar la pelota de un intruso?\r\nImagina que tienes un poder mágico que puede ayudarte a sobresalir en esta tarea. Describe el poder que elegirías y cómo te motivaría.",
+            "PDF": "Dribilla la pelota alrededor de las conchas 'dormidas' que yacen en el fondo del mar. No dejes que el cáncer te atrape."
 		},
 		"PROTECT_YOUNG_FISH": {
 			"MOBAK": "Control de Objetos",
@@ -1258,7 +1355,8 @@
 			"MATERIALS": "Varios balones, conos",
 			"VARIATIONS": "Asegúrese de que cada niño/a en el círculo reciba la pelota al menos una vez (por ejemplo, a través de una secuencia fija de pases).\r\nUsa diferentes balones.\r\nUsa varios balones a la vez.\r\nOrganice la tarea como un torneo en el que varios grupos forman un círculo y compiten entre sí.\r\nUse solo un pie a la vez para mover la pelota.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Qué cambia cuando conduces el balón en comparación cuando conduces solo?\r\n¿A qué prestas atención cuando conduces el balón en grupo?",
-			"WILLINGNESS": "Como grupo, ¿pueden mover varios balones a la vez?\r\n¿Cómo pueden ayudarse mutuamente en el grupo?"
+			"WILLINGNESS": "Como grupo, ¿pueden mover varios balones a la vez?\r\n¿Cómo pueden ayudarse mutuamente en el grupo?",
+            "PDF": "Grupo: Forme un círculo y tómense de las manos. Transporta varias pelotas con los pies al otro lado de la sala."
 		},
 		"WITHIN_SHARK_TERRITORY": {
 			"MOBAK": "Control de Objetos",
@@ -1268,7 +1366,8 @@
 			"MATERIALS": "Pelotas, cuerdas",
 			"VARIATIONS": "Cualquiera que sea tocado tiene que resolver una tarea adicional (por ejemplo, conducir la pelota a través de un circuito de slalom hecho de conos). intenta entrar en el territorio del tiburón.\r\nLa tarea del tiburón cambia.\r\nToca a 6 niños lo más rápido que puedas.\r\nUsa diferentes balones\r\n¿Quién es el primero en entrar a territorio 5 veces?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cuál es la mejor manera de llegar al otro lado sin ser atrapado por el tiburón?\r\n¿Cuál es la mejor manera de conducir cuando también estás mirando al tiburón?",
-			"WILLINGNESS": "Como un tiburón, ¿puedes atrapar la pelota de un/a niño/a y seguir conduciendo?\r\n¿Cómo evitas que te atrapen?\r\n¿Cuándo crees que el tiburón debería ser reemplazado por otro/a niño/a y por qué?"
+			"WILLINGNESS": "Como un tiburón, ¿puedes atrapar la pelota de un/a niño/a y seguir conduciendo?\r\n¿Cómo evitas que te atrapen?\r\n¿Cuándo crees que el tiburón debería ser reemplazado por otro/a niño/a y por qué?",
+            "PDF": "Driblar la pelota más allá del tiburón sin perderla."
 		},
 		"DRIBBLING_VARIATIONS": {
 			"MOBAK": "Control de Objetos",
@@ -1278,7 +1377,8 @@
 			"MATERIALS": "Balones",
 			"VARIATIONS": "Trata de conducir la pelota para que no toques ninguna  línea azul (o de otro color).\r\nConducir el balón hacia los lados.\r\nConducir el balón hacia atrás.\r\nBusca diferentes formas de conducir el balón.\r\nColoca obstáculos en el camino y conduce alrededor de ellos.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cuál es la mejor manera de conducir el balón?\r\n¿Con qué parte del pie tocas la pelota?",
-			"WILLINGNESS": "¿Puedes cambiar la dirección de la conduccion suavemente?\r\nInvente una pequeña coreografía de conduccion y presénsela a otro/a niño/a."
+			"WILLINGNESS": "¿Puedes cambiar la dirección de la conduccion suavemente?\r\nInvente una pequeña coreografía de conduccion y presénsela a otro/a niño/a.",
+            "PDF": "Regate con el balón por el pasillo."
 		},
 		"DRIBBLING_NUMBER_BALL": {
 			"MOBAK": "Control de Objetos",
@@ -1288,7 +1388,8 @@
 			"MATERIALS": "Pelotas, conos",
 			"VARIATIONS": "Usa diferentes bolas.\r\nUtilice diferentes puertas.\r\nLos jugadores de los equipos contrarios pueden patear el balón.\r\nJuega sin un equipo contrario.\r\nJueguen el juego en parejas: ¿Quién marca un gol primero cuando se da la señal?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "¿Cuál es la mejor manera de botar la pelota alrededor de los conos?\r\n¿Cómo puedes ser más rápido que el bebé del equipo contrario?",
-			"WILLINGNESS": "¿Cómo te sientes cuando el otro niño es más rápido?\r\nImagina que eres un animal. ¿Cómo un pingüino, un tigre, un elefante, etc., botaría la pelota alrededor de los conos?"
+			"WILLINGNESS": "¿Cómo te sientes cuando el otro niño es más rápido?\r\nImagina que eres un animal. ¿Cómo un pingüino, un tigre, un elefante, etc., botaría la pelota alrededor de los conos?",
+            "PDF": "Driblará la puerta del pilón y dispara a la puerta objetivo cuando llamen a tu número."
 		},
 		"PROTECTING_PERSON_DRIBBLING": {
 			"MOBAK": "Control de Objetos",
@@ -1298,7 +1399,8 @@
 			"WILLINGNESS": "¿Cómo demuestras tus habilidades cuando eres el niño A para que otros niños puedan seguirte?\r\n¿Qué consejo le puede dar a otro niño que tiene dificultades para seguir al niño A?",
 			"QUALIFICATION": "Conducir con el pie",
 			"MATERIALS": "Bolas",
-			"VARIATIONS": "El niño A mira al grupo y los niños imitan el movimiento como en un \"espejo\"."
+			"VARIATIONS": "El niño A mira al grupo y los niños imitan el movimiento como en un \"espejo\".",
+            "PDF": "Grupo: Un niño bota hacia adelante y los demás lo siguen."
 		}
 	},
 	"PDF_TESTRESULT": {

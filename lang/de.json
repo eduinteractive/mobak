@@ -68,6 +68,11 @@
 	"rate_classroom_end_session_dialog_description": "Resultate werden gespeichert und können nicht mehr verändert werden.",
 	"rate_classroom_task_description": "Aufgabenbeschreibung",
 	"rate_classroom_rate_student": "Schüler:innen bewerten",
+    "rate_detail_instruction_demonstration": "Instruktion/ Demonstration",
+    "rate_classroom_longitudinal_analysis": "Langzeitanalyse",
+    "rate_classroom_select_task": "Aufgabe auswählen",
+    "rate_classroom_cancel_selection": "Auswahl verwerfen",
+    "rate_classroom_download_selected": "Download",
 	"rate_dialog_n_a_value": "n/a",
 	"rate_dialog_first_value": "0",
 	"rate_dialog_second_value": "1",
@@ -225,11 +230,11 @@
 		"MATERIAL": "6 Schlagbälle (Durchmesser: 65 mm; Gewicht: 80 g)\r\n1 Zielscheibe (Durchmesser: 40 cm)\r\nKreppband (ca. 30 mm breit)",
 		"TEST_SET-UP": "Die Zielscheibe wird in 1.3 m (Unterkante) Höhe an einer Wand aufgehängt. 2.0 m vor der Zielscheibe wird eine Abwurflinie mit Kreppband markiert.",
 		"TEST_ITEM": "Das Kind wirft von einer Abwurflinie aus sechs Schlagbälle auf die Zielscheibe.",
+        "CRITERIA": "Die Abwurflinie darf nicht übertreten werden.\r\nDie Berührung der Zielscheibe zählt als Treffer.",
 		"VALUATION": "6 Versuche, die Anzahl der Treffer wird notiert. \r\n\r\n0–2 erfolgreiche Versuche = 0 Punkte\r\n3–4 erfolgreiche Versuche = 1 Punkt\r\n5–6 erfolgreiche Versuche = 2 Punkte",
 		"INSTRUCTION_DEMONSTRATION": "Stellt euch hinter die Linie und versucht mit dem Ball die runde Zielscheibe zu treffen. Ihr habt insgesamt sechs Versuche. Die Linie darf nicht übertreten werden. Schaut her, ich mache es euch einmal vor. (Demonstration)",
 		"INFORMATION_FOR_THE_TEST_LEADER": "Die Art des Werfens ist frei wählbar (Stoßen des Balles ist erlaubt).\r\nDemonstration eines Schlagwurfs"
 	},
-	"THROWING_1_CRITERIA": "Die Abwurflinie darf nicht übertreten werden.\r\nDie Berührung der Zielscheibe zählt als Treffer.",
 	"THROWING_3_4": {
 		"MOBAK": "Kompetenzbereich \"Etwas Bewegen\"",
 		"TITLE": "MOBAK 3-4 Aufgabe 1: Werfen",
@@ -324,7 +329,8 @@
 			"MATERIALS": "Koordinationsleiter \r\nalternativ: Gymnastikreifen, Bodenmarkierungen, Teppichfliesen, Kreiden",
 			"VARIATIONS": "Laufe rückwärts.\r\nFühre mehrere Kontakte pro Feld aus.\r\nFühre eine halbe oder ganze Drehung nach jedem zweiten Feld aus.\r\nKombiniere zwei verschiedene Bewegungen.\r\nFühre zusätzliche Armbewegungen aus (Hampelmann, Luftboxen, Arme auf Brusthöhe ausstrecken und heben bzw. senken).\r\nVerändere die Anordnung der Felder.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Welche Teile deines Fußes berühren den Boden?\r\nMit welchen Armbewegungen gelingt es dir am besten?",
-			"WILLINGNESS": "Wo könntest du diese Aufgabe auch außerhalb der Sporthalle machen?\r\nWas ändert sich für dich, wenn du einen Wettlauf gegen ein anderes Kind machst?"
+			"WILLINGNESS": "Wo könntest du diese Aufgabe auch außerhalb der Sporthalle machen?\r\nWas ändert sich für dich, wenn du einen Wettlauf gegen ein anderes Kind machst?",
+            "PDF": "Laufe durch die Koordinationsleiter mit einem Kontakt pro Feld."
 		},
 		"RUNNING_2": {
 			"MOBAK": "Sich Bewegen",
@@ -334,7 +340,8 @@
 			"MATERIALS": "Gymnastikreifen (verschiedenfarbig)\r\nalternativ: Spielbänder, Sportfliesen",
 			"VARIATIONS": "Ändere die Aufgaben in den Farben der Reifen.\r\nVerändere die Anordnung oder den Abstand zwischen den Reifen.\r\nLege die Reifen auf zwei parallele Langbänke.\r\nVerändere die Anordnung der Felder.\r\nWähle mehrere Farben und ordne jeder eine Bewegung zu.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie musst du dich bewegen, damit es dir fehlerfrei gelingt?\r\nWelche Reihenfolge fällt dir am leichtesten? \r\nIn welchem Rhythmus kannst du die Bahn am besten durchlaufen?",
-			"WILLINGNESS": "Warum fühlt es sich anders an, wenn die Reifen auf zwei langen Bänken stehen? Gelingt es dir so auch? Versuche es!\r\nErstelle deinen eigenen Reifenparcours und ordne den verschiedenen Farben ihre eigenen Bewegungen zu! Ist es dir gelungen?"
+			"WILLINGNESS": "Warum fühlt es sich anders an, wenn die Reifen auf zwei langen Bänken stehen? Gelingt es dir so auch? Versuche es!\r\nErstelle deinen eigenen Reifenparcours und ordne den verschiedenen Farben ihre eigenen Bewegungen zu! Ist es dir gelungen?",
+            "PDF": "Laufe durch die Reifenbahn. Berühre den Boden in den blauen Reifen einmal und in den anderen zweimal."
 		},
 		"RUNNING_3": {
 			"MOBAK": "Sich Bewegen",
@@ -344,7 +351,8 @@
 			"MATERIALS": "Koordinationsleiter\r\nalternativ: Gymnastikreifen, Bodenmakrierungen, Teppichfliesen, Kreiden",
 			"VARIATIONS": "Verändere die Anzahl der Kontakte pro Feld.\r\nFühre zusätzliche Armbewegungen aus (Hampelmann, Luftboxen, Arme auf Brusthöhe ausstrecken und heben bzw. senken).\r\nKombiniere zwei verschiedene Bewegungen (rechter Arm – Hampelmann, linker Arm – boxen).\r\nVerändere die Anordnung der Felder.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie kannst du schnelle Richtungsänderungen vornehmen?\r\nWas ändert sich für dich, wenn du Armbewegungen dazu machst?",
-			"WILLINGNESS": "Wie fühlst du dich, wenn ein anderes Kind schneller die Richtung wechselt? Was kannst du in diesem Fall tun?\r\nWie würdest du die Aufgabe verändern, um sie zu erleichtern oder erschweren?\r\nSetze dir ein Ziel und versuche, es zu erreichen (z. B. die Aufgabe ohne Fehler zu beenden; schneller zu sein als im Versuch zuvor). Hast du es geschafft?\r\n"
+			"WILLINGNESS": "Wie fühlst du dich, wenn ein anderes Kind schneller die Richtung wechselt? Was kannst du in diesem Fall tun?\r\nWie würdest du die Aufgabe verändern, um sie zu erleichtern oder erschweren?\r\nSetze dir ein Ziel und versuche, es zu erreichen (z. B. die Aufgabe ohne Fehler zu beenden; schneller zu sein als im Versuch zuvor). Hast du es geschafft?\r\n",
+            "PDF": "Laufe innerhalb und außerhalb der Koordinationsleiter mit je zwei Bodenkontakten pro Feld."
 		},
 		"RUNNING_4": {
 			"MOBAK": "Sich Bewegen",
@@ -354,7 +362,8 @@
 			"MATERIALS": "Koordinationsleiter\r\nalternativ: Gymnastikreifen, Bodenmarkierungen, Teppichfliesen, Kreiden",
 			"VARIATIONS": "Laufe rückwärts.\r\nKreise zusätzlich die Arme: vorwärts, rückwärts,  gegengleich.\r\nVerändere die Anordnung der Felder.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Kannst du den Rhythmus des Hopserhüpfens klatschen?\r\nWas machst du mit deinen Armen, damit dir die Aufgabe gut gelingt?",
-			"WILLINGNESS": "Gelingt es euch, zu zweit gleichzeitig zu laufen?\r\nKannst du zusätzliche Armbewegungen ausführen?\r\nStell dir vor du bist ein glückliches Pferd, das den Lauf absolviert. Wie fühlst du dich?"
+			"WILLINGNESS": "Gelingt es euch, zu zweit gleichzeitig zu laufen?\r\nKannst du zusätzliche Armbewegungen ausführen?\r\nStell dir vor du bist ein glückliches Pferd, das den Lauf absolviert. Wie fühlst du dich?",
+            "PDF": "Laufe im Hopserlauf mit einem Bodenkontakt pro Feld durch die Koordinationsleiter!"
 		},
 		"GIANT_SLALOM": {
 			"MOBAK": "Sich Bewegen",
@@ -364,7 +373,8 @@
 			"MATERIALS": "Gymnastikstab, langes Seil\r\nalternativ: Slalomstangen, Holzklötze, Kegel, große Steine, Stöcke etc. ",
 			"VARIATIONS": "Fordere ein anderes Kind oder eine andere Kindergruppe heraus. Wer ist am schnellsten?\r\nBewege dich in der Hocke, auf den Zehenspitzen/ Fersen, mit Sandsäckchen auf dem Kopf (= Schnee auf dem Kopf) etc. fort.\r\nBaue ein oder mehrere Hindernisse (z. B. kleine Turnkästen) ein.\r\nVerändere dein Tempo/ deine Geschwindigkeit.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was ändert sich, wenn du einen anderen Stock verwendest?\r\nWie läufst du am schnellsten durch den Slalom?",
-			"WILLINGNESS": "Gelingt es dir mit einem anderen Kind einen Parallelslalom zu machen?\r\nWie würdest du das Seil hinlegen um einen schnellen Slalom zu absolvieren?"
+			"WILLINGNESS": "Gelingt es dir mit einem anderen Kind einen Parallelslalom zu machen?\r\nWie würdest du das Seil hinlegen um einen schnellen Slalom zu absolvieren?",
+            "PDF": "Halte einen Gymnastikstab in beiden Händen. Laufe entlang des Seils einen Riesenslalom."
 		},
 		"SIDE_STEP": {
 			"MOBAK": "Sich Bewegen",
@@ -374,8 +384,9 @@
 			"MATERIALS": "Koordinationsleiter\r\nalternativ: Gymnastikreifen, Bodenmarkierungen, Teppichfliesen, Kreiden",
 			"VARIATIONS": "Drehe die rechte Schulter in die Laufrichtung.\r\nLaufe mit einem Bodenkontakt außerhalb der Koordinationsleiter und zwei Bodenkontakten pro Feld.\r\nFühre zusätzliche Armbewegungen aus (mit dem Arm einen Reifen drehen, Hampelmann, Luftboxen, Arme auf Schulterhöhe ausstrecken und heben bzw. senken).\r\nKombiniere zwei verschiedene Bewegungen (rechter Arm – Hampelmann, linker Arm – boxen).\r\nVerändere die Anordnung der Felder.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was veränderst du, damit es dir gelingt, mit der anderen Schulter, in Laufrichtung zu drehen?\r\nWie hoch hebst du deine Knie, damit dir die Aufgabe gut gelingt?\r\n\r\n",
-			"WILLINGNESS": "Wie fühlst du dich, wenn du schneller bist als ein anderes Kind?\r\nWie kannst du einem Kind helfen, dem die Aufgabe noch nicht gelingt?\r\nVersuche die Richtung zu wechseln und rückwärts durch die Koordinationsleiter zu Laufen, ohne zu stoppen. Warst du erfolgreich?"
-		},
+			"WILLINGNESS": "Wie fühlst du dich, wenn du schneller bist als ein anderes Kind?\r\nWie kannst du einem Kind helfen, dem die Aufgabe noch nicht gelingt?\r\nVersuche die Richtung zu wechseln und rückwärts durch die Koordinationsleiter zu Laufen, ohne zu stoppen. Warst du erfolgreich?",
+            "PDF": "Durchlaufe die Koordinationsleiter im Seitschritt."
+        },
 		"RUNNING_COURSE": {
 			"MOBAK": "Sich Bewegen",
 			"QUALIFICATION": "Laufen",
@@ -384,7 +395,8 @@
 			"MATERIALS": "Medizinbälle",
 			"VARIATIONS": "Verwende an Stelle der Medizinbälle Hütchen.\r\nVerändere den Abstand zwischen den Medizinbällen.\r\nVerändere den seitlichen Abstand zwischen den Medizinbällen.\r\nLaufe seit- oder rückwärts.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir im Laufen die Richtung zu wechseln ohne an Tempo zu verlieren?\r\nWelcher Teil des Fusses berührt den Boden beim Slalomlauf?",
-			"WILLINGNESS": "Wie kannst du den Laufparcours für dich spannender gestalten?\r\nFordere ein anderes Kind heraus. Wie fühlst du dich, wenn das andere Kind schneller ist als du?"
+			"WILLINGNESS": "Wie kannst du den Laufparcours für dich spannender gestalten?\r\nFordere ein anderes Kind heraus. Wie fühlst du dich, wenn das andere Kind schneller ist als du?",
+            "PDF": "Laufe im Slalom-Lauf durch die Medizinbälle."
 		},
 		"HEY_SHARK": {
 			"MOBAK": "Sich bewegen",
@@ -394,7 +406,8 @@
 			"MATERIALS": "-",
 			"VARIATIONS": "Wählt Fortbewegungsarten die möglichst aus Lauf- und Sprungformen bestehen (Kniehebelauf, Stampfen, Anfersen, Froschsprünge, Sprunglauf, Rückwärts, Strecksprünge, Hopserlauf, Sidesteps).\r\nVerändert den Laufkorridor.\r\nVerändert die Regeln des Fangspiels.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir auf die andere Seite der Halle zu kommen ohne vom Haifisch erwischt zu werden?\r\nWie gelingt es dir als Haifisch, möglichst viele Kinder zu fangen?",
-			"WILLINGNESS": "Welche Ideen hast du um das Spiel spannender zu gestalten?\r\nWann sollten deiner Meinung nach die Rollen getauscht werden, wenn der Haifisch nicht erfolgreich ist?\r\n"
+			"WILLINGNESS": "Welche Ideen hast du um das Spiel spannender zu gestalten?\r\nWann sollten deiner Meinung nach die Rollen getauscht werden, wenn der Haifisch nicht erfolgreich ist?\r\n",
+            "PDF": "Gruppe: Ein Kind ist der Haifisch und bestimmt, wie sich die anderen fortbewegen sollen. Wer gefangen wird, wird zum Haifisch."
 		},
 		"STAR_RUN": {
 			"MOBAK": "Sich Bewegen",
@@ -404,7 +417,8 @@
 			"MATERIALS": "Hütchen",
 			"VARIATIONS": "Verändert die Abstände der Hütchen.\r\nVerändert die Zeit.\r\nSetze dir selber ein Zeitlimit und versuche dieses zu erreichen.\r\nLaufe die Strecke begleitet von einem anderen Kind mit geschlossenen Augen.\r\nLaufe seit- oder rückwärts.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir, die Zeit möglichst genau einzuhalten?\r\nWas verändert sich für dich beim Laufen, wenn du weniger Zeit zur Verfügung hast?",
-			"WILLINGNESS": "Wie fühlt es sich an, wenn du möglichst genau an die vorgegebene Zeit läufst?\r\nStell dir vor du bist ein Pferd, Gepard, Emu und läufst durch diesen Parcours. Wie laufen diese Tiere?"
+			"WILLINGNESS": "Wie fühlt es sich an, wenn du möglichst genau an die vorgegebene Zeit läufst?\r\nStell dir vor du bist ein Pferd, Gepard, Emu und läufst durch diesen Parcours. Wie laufen diese Tiere?",
+            "PDF": "Versuchen, die bekannte Strecke um die Punkte exakt in einer vorgegebenen Zeit zu laufen."
 		},
 		"VARIABLE_RUNNING": {
 			"MOBAK": "Sich Bewegen",
@@ -414,7 +428,8 @@
 			"MATERIALS": "Hütchen",
 			"VARIATIONS": "Wähle weitere Laufformen.\r\nVerändere die Abstände zwischen den Hütchen.\r\nVerändere die Laufstrecke.\r\nLaufe die Strecke begleitet von einem anderen Kind mit geschlossenen Augen.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir, zwischen den Laufformen schnell zu wechseln?\r\nWie kannst du dir die Laufstrecke und vorgegebenen Laufformen merken?",
-			"WILLINGNESS": "Welche Ideen hast du, um die Laufstrecken zu verändern?\r\nWie begleitest du ein Kind mit geschlossenen Augen, damit sich dieses sicher fühlt?\r\n"
+			"WILLINGNESS": "Welche Ideen hast du, um die Laufstrecken zu verändern?\r\nWie begleitest du ein Kind mit geschlossenen Augen, damit sich dieses sicher fühlt?\r\n",
+            "PDF": "Lege die Strecke mit korrekten Laufformen so schnell wie möglich zurück."
 		}
 	},
 	"Jumping": "Jumping",
@@ -427,7 +442,8 @@
 			"MATERIALS": "Koordinationsleiter\r\nalternativ: Reifen, Sportfliesen, Bodenmarkierungen, Teppichfliesen, Kreide",
 			"VARIATIONS": "Springe so schnell wie möglich.\r\nSpringe seitwärts oder rückwärts.\r\nSpringe zwei Felder vorwärts und eins rückwärts.\r\nSpringe rechts – rechts – beidbeinig – links – links usw. (verschiedene Kombinationen).\r\nSpringe einbeinig: vorwärts, rückwärts, seitwärts (mit der rechten sowie der linken Schulter vorn).\r\nVerbinde das Springen mit Armkreisen (vorwärts, rückwärts, gegengleich).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was veränderst du, wenn du seit- oder rückwärts springst?\r\nWie gelingt es dir so schnell wie möglich zu springen?",
-			"WILLINGNESS": "Welche Anordnung der Felder hilft dir, die Aufgabe am besten zu lösen?\r\nWie verändert es sich für dich, wenn du einen Wettkampf gegen ein anderes Kind machst?\r\nZu zweit: Gib dem anderen Kind einen Springrhythmus vor (z. B. links, rechts, beidbeinig, rechts, links, beidbeinig). Wähle einen Rhythmus, der anspruchsvoll, aber für ihn/sie machbar ist! Habt ihr es geschafft?"
+			"WILLINGNESS": "Welche Anordnung der Felder hilft dir, die Aufgabe am besten zu lösen?\r\nWie verändert es sich für dich, wenn du einen Wettkampf gegen ein anderes Kind machst?\r\nZu zweit: Gib dem anderen Kind einen Springrhythmus vor (z. B. links, rechts, beidbeinig, rechts, links, beidbeinig). Wähle einen Rhythmus, der anspruchsvoll, aber für ihn/sie machbar ist! Habt ihr es geschafft?",
+            "PDF": "Springe beidbeinig vorwärts durch die Koordinationsleiter."
 		},
 		"JUMPING_2": {
 			"MOBAK": "Sich Bewegen",
@@ -437,7 +453,8 @@
 			"MATERIALS": "Seile\r\nalternativ: Klebeband, Schnur, Bodenmarkierungen, Stöcke",
 			"VARIATIONS": "Führe nach jedem Sprung eine 90°-Drehung durch.\r\nSpringe wie ein Frosch.\r\nSpringe im Laufschritt durch die \"Seilleiter\".\r\nKombiniere das Springen mit verschiedenen Armbewegungen.\r\nSpringe rechts – rechts – beidbeinig – links – links usw. (verschiedene Kombinationen).\r\nSpringe einbeinig: vorwärts, rückwärts, seitwärts (mit der rechten sowie der linken Schulter vorn).\r\nVerbinde das Springen mit Armkreisen (vorwärts, rückwärts, gegengleich).\r\nErhöhe oder verringere die Distanz zwischen den Seilen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was verändert sich für dich, wenn du einbeinig oder beidbeinig springst?\r\nWas änderst du, wenn die Seile weiter auseinander liegen?",
-			"WILLINGNESS": "Gelingt es dir auch, wenn die Seile unterschiedliche Abstände haben?\r\nMit welchen Sprungformen kannst du die Bahn absolvieren? Stell dir vor, du bist ein Frosch, Känguruh, Pferd oder ein Heuhüpfer.\r\nMit welchen Sprungarten kannst du die Bahn absolvieren?"
+			"WILLINGNESS": "Gelingt es dir auch, wenn die Seile unterschiedliche Abstände haben?\r\nMit welchen Sprungformen kannst du die Bahn absolvieren? Stell dir vor, du bist ein Frosch, Känguruh, Pferd oder ein Heuhüpfer.\r\nMit welchen Sprungarten kannst du die Bahn absolvieren?",
+            "PDF": "Springe einbeinig, beidbeinig, seitlich oder schräg über die 'Seilleiter'."
 		},
 		"ROPE_JUMPING_1": {
 			"MOBAK": "Sich Bewegen",
@@ -447,7 +464,8 @@
 			"MATERIALS": "Seil\r\nalternativ: Pylonen, Bodenmarkierungen, Pizzakartons",
 			"VARIATIONS": "Springe mit jedem Schritt über das Seil.\r\nVariiere die Laufgeschwindigkeit.\r\nVariiere die Anzahl der Schritte, nach denen du über das Seil springst.\r\nLaufe und springe rückwärts durch das Seil.\r\nFühre ein Slalom-Rennen (z. B. mit Pylonen) durch.\r\nLaufe vorwärts und springe bei jedem zweiten Schritt über einen Gegenstand.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Worauf achtest du beim Springen über das Seil?\r\nIn welchem Tempo/Rhythmus gelingt es dir am besten?",
-			"WILLINGNESS": "Gelingt es dir, während des Springens das Tempo zu ändern?\r\nErkläre einem anderen Kind, wie du über das Seil springst. Macht ihr es auf die gleiche Weise?\r\nLauft und springt in einer kleinen Gruppe von Kindern an einem bestimmten Ort über die Seile, ohne euch gegenseitig zu berühren. Habt ihr es geschafft?\r\n"
+			"WILLINGNESS": "Gelingt es dir, während des Springens das Tempo zu ändern?\r\nErkläre einem anderen Kind, wie du über das Seil springst. Macht ihr es auf die gleiche Weise?\r\nLauft und springt in einer kleinen Gruppe von Kindern an einem bestimmten Ort über die Seile, ohne euch gegenseitig zu berühren. Habt ihr es geschafft?\r\n",
+            "PDF": "Laufe vorwärts mit dem Seil und springe bei jedem zweiten Schritt über das Seil."
 		},
 		"ROPE_JUMPING_2": {
 			"MOBAK": "Sich Bewegen",
@@ -457,7 +475,8 @@
 			"MATERIALS": "Koordinationsleiter, Seil",
 			"VARIATIONS": "Laufe rückwärts.\r\nLaufe mit zwei Bodenkontakten pro Feld.\r\nLaufe so schnell wie möglich.\r\nFühre verschiedene Sprungformen durch.\r\nOrdne die Felder anders an.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Worauf achtest du, damit du je einen Bodenkontakt pro Feld hast?\r\nIn welcher Sprungform gelingt es dir am besten?",
-			"WILLINGNESS": "Fordere dich selbst heraus: Stoppe deine  Zeit.  Schaffst du es beim nächsten Mal schneller?\r\nDies ist eine ziemlich schwierige Aufgabe. Wenn du sie lösen kannst, kannst du dann anderen helfen, die noch nicht erfolgreich sind?\r\nWas ändert sich, wenn du die Aufgabe in verschiedenen Geschwindigkeiten löst?"
+			"WILLINGNESS": "Fordere dich selbst heraus: Stoppe deine  Zeit.  Schaffst du es beim nächsten Mal schneller?\r\nDies ist eine ziemlich schwierige Aufgabe. Wenn du sie lösen kannst, kannst du dann anderen helfen, die noch nicht erfolgreich sind?\r\nWas ändert sich, wenn du die Aufgabe in verschiedenen Geschwindigkeiten löst?",
+            "PDF": "Laufe mit einem Seil und einem Bodenkontakt pro Feld durch die Koordinationsleiter."
 		},
 		"ROPE_JUMPING_3": {
 			"MOBAK": "Sich Bewegen",
@@ -467,7 +486,8 @@
 			"MATERIALS": "Seil",
 			"VARIATIONS": "Springe mit oder ohne Zwischensprung.\r\nSchwinge das Seil rückwärts.\r\nSpringe mit dem Seil und bewege dich dabei nach vorn und nach hinten (oder nach links und rechts) über eine vorgegebene Linie.\r\nFühre beim Seilspringen Kniebeugen aus.\r\nSpringe auf einer dünnen Matte.\r\nFerse deine Beine beim Springen an.\r\nZiehe deine Knie beim Springen hoch.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Worauf achtest du, damit du rechtzeitig abspringst?\r\nMit welchem Teil des Fußes springst du ab?",
-			"WILLINGNESS": "Versuche, dein Tempo beim Springen zu ändern - welches Tempo macht dir am meisten Spaß?\r\nSetze dir ein Ziel: Wie viele Sprünge möchtest du hintereinander machen, ohne dich zu verheddern?\r\nKannst du mit einem anderen Kind gleichzeitig springen?"
+			"WILLINGNESS": "Versuche, dein Tempo beim Springen zu ändern - welches Tempo macht dir am meisten Spaß?\r\nSetze dir ein Ziel: Wie viele Sprünge möchtest du hintereinander machen, ohne dich zu verheddern?\r\nKannst du mit einem anderen Kind gleichzeitig springen?",
+            "PDF": "Springe beidbeinig mit dem Seil."
 		},
 		"ROPE_JUMPING_4": {
 			"MOBAK": "Sich Bewegen",
@@ -477,7 +497,8 @@
 			"MATERIALS": "Seil\r\nalternativ: Klebeband, Kordel, Bodenmarkierung",
 			"VARIATIONS": "Springe mit oder ohne Zwischensprung.\r\nSpringe mit dem anderen Bein.\r\nSchwinge das Seil rückwärts.\r\nWechsle nach jedem zweiten Schwung das Bein (\"Hopsen an Ort und Stelle\").\r\nSpringe ohne Seil.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie hältst du die Arme, um das Seil regelmäßig zu schwingen?\r\nHast du etwas verändert, damit es dir auch mit dem anderen Bein gelingt?",
-			"WILLINGNESS": "Gelingt es dir mit jedem Bein gleich oft? Setze dir ein Ziel und versuche es zu erreichen.\r\nFrag ein anderes Kind, was ihm beim Seilspringen gefällt. Kannst du ohne Zwischensprung springen? Versuche es!"
+			"WILLINGNESS": "Gelingt es dir mit jedem Bein gleich oft? Setze dir ein Ziel und versuche es zu erreichen.\r\nFrag ein anderes Kind, was ihm beim Seilspringen gefällt. Kannst du ohne Zwischensprung springen? Versuche es!",
+            "PDF": "Springe auf einem Bein am Platz mit dem Seil."
 		},
 		"MAT_HIGHWAY": {
 			"MOBAK": "Sich Bewegen",
@@ -487,7 +508,8 @@
 			"MATERIALS": "Turnmatten\r\nalternativ: Gymnastikreifen, Bodenmarkierungen Teppichfliesen, Kreide",
 			"VARIATIONS": "Springe in deinem Rhythmus durch den Sprungpfad, einbeinig, beidbeinig und abwechselnd.\r\nLege einen Sprungpfad mit unterschiedlichen Materialien/Farben. Springe durch den Sprungpfad und mache pro Material/Farbe eine andere Sprungform (beidbeinig, einbeinig).\r\nOrdne die Matten anders an.\r\nVariiere die Anzahl der Kontakte auf den Matten.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "In welchem Rhythmus kannst du die Bahn am besten absolvieren?\r\nWas ändert sich für dich, wenn die Matten aneinander liegen?",
-			"WILLINGNESS": "Tut euch zu zweit zusammen und versucht, in verschiedenen Rhythmen über die Matten zu springen. Welcher Rhythmus gefällt euch am besten?\r\nVersuche, mit einem anderen Kind über die Matten zu springen, während ihr euch an den Händen haltet! Habt ihr es geschafft?\r\nWie könnt ihr die Matten anordnen, um die Aufgabe schwieriger oder leichter zu machen?"
+			"WILLINGNESS": "Tut euch zu zweit zusammen und versucht, in verschiedenen Rhythmen über die Matten zu springen. Welcher Rhythmus gefällt euch am besten?\r\nVersuche, mit einem anderen Kind über die Matten zu springen, während ihr euch an den Händen haltet! Habt ihr es geschafft?\r\nWie könnt ihr die Matten anordnen, um die Aufgabe schwieriger oder leichter zu machen?",
+            "PDF": "Springe von Matte zu Matte."
 		},
 		"GROUND_ROPE_JUMPING_1": {
 			"MOBAK": "Sich Bewegen",
@@ -497,7 +519,8 @@
 			"MATERIALS": "Seile\r\nalternativ: Klebeband, Bodenmarkierungen, Kreide",
 			"VARIATIONS": "Lass zwei Kinder die Höhe variieren, indem sie das Seil vom Boden abheben.\r\nLass zwei Kinder das Seil schwingen und führe verschiedene Sprünge aus (z. B. mit/ohne Zwischensprung, ein- oder beidbeinig, mit 180°-Drehung).\r\nSpringe Kunststücke.\r\nSinge und Springe: „Teddybär, Teddybär, dreh dich um” (180°-Drehung); „…, mach dich krumm” (gebückt springen); „…, bau ein Haus” (Hände über dem Kopf zusammenführen); „…, schau heraus”  (Handfläche auf die Stirn); „…, heb einen Fuß” (einbeinig springen); „…, bestell einen Gruß” (Spiel wird beendet).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Springst du anders, wenn das Seil erhöht ist?\r\nWie änderst du die Bewegung, wenn du seitwärts oder vor- und rückwärts springst?",
-			"WILLINGNESS": "Gelingen dir Kunststücke beim Springen? Zeige sie einem anderen Kind.\r\nWelche Seilhöhe kannst du gut überspringen? Fordere dich selbst heraus!"
+			"WILLINGNESS": "Gelingen dir Kunststücke beim Springen? Zeige sie einem anderen Kind.\r\nWelche Seilhöhe kannst du gut überspringen? Fordere dich selbst heraus!",
+            "PDF": "Stehe parallel zum Seil und springe mehrere Male über das Seil."
 		},
 		"GROUND_ROPE_JUMPING_2": {
 			"MOBAK": "Sich Bewegen",
@@ -507,7 +530,8 @@
 			"MATERIALS": "Seile, Nummern\r\nalternativ: Bodenmarkierungen, Matten, Reifen, Klebeband",
 			"VARIATIONS": "Springe immer mit einem Bein (also nur das rechte oder das linke Bein).\r\nSpringe mit beiden Beinen in das nächste Feld.\r\nMache mehr Felder und nummeriere sie.\r\nSteigere das Tempo.\r\nKind A denkt sich eine Geheimzahl aus, die aus drei Ziffern (jeweils zwischen 1 und 4) besteht. Kind B muss die Zahl erraten, indem es in die entsprechenden Felder springt. Kind A gibt eine Rückmeldung. Wenn Kind B falsch springt, muss es von vorne anfangen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was ändert sich, wenn du die Reihenfolge der aufgerufenen Zahlen kennst, im Vergleich dazu, wenn du nicht weißt, welche Zahl als nächstes kommt?\r\nFällt es dir leichter ein- oder beidbeinig zu springen? Warum?",
-			"WILLINGNESS": "Was machst du, um schnell auf das Zurufen zu reagieren?\r\nWie kannst du als Zurufer*in die Aufgabe für das Kind erleichtern oder erschweren?\r\nZu zweit: Überlegt euch ein \"High-Five\"-Ritual, das ihr macht, wenn ein Kind von euch zehn Versuche ohne Fehler geschafft hat. Wie fühlst du dich, wenn Sie ein \"High Five\" bekommst?"
+			"WILLINGNESS": "Was machst du, um schnell auf das Zurufen zu reagieren?\r\nWie kannst du als Zurufer*in die Aufgabe für das Kind erleichtern oder erschweren?\r\nZu zweit: Überlegt euch ein \"High-Five\"-Ritual, das ihr macht, wenn ein Kind von euch zehn Versuche ohne Fehler geschafft hat. Wie fühlst du dich, wenn Sie ein \"High Five\" bekommst?",
+            "PDF": "Zu Zweit: Ein Kind ruft die Nummern zu. Das andere stellt sich mit demeinem Bein in ein Feld und springt auf Zuruf einer Nummer in das entsprechende Feld und landen dort auf dem anderen Fuß. "
 		},
 		"ROPE_ROLLER": {
 			"MOBAK": "Sich Bewegen",
@@ -517,7 +541,8 @@
 			"MATERIALS": "Seile (1 Seil pro 6-8 Kinder)",
 			"VARIATIONS": "Haltet das Seil niedriger oder höher.\r\nBewegt das Seil schneller oder langsamer durch die Reihe.\r\nVariiere die Sprünge (z. B. beidbeinig, einbeinig, mit Körperdrehungen).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wann springst du am besten ab?\r\nWie springst du, wenn links und rechts von dir ein Kind steht?",
-			"WILLINGNESS": "Wie könnten wir die Aufgabe verändern, wenn wir keine Seile zur Verfügung haben?\r\nWas kannst du machen, damit die Aufgabe als Gruppe gelingt?\r\nWie fühlt es sich für dich an, wenn alle zusammenarbeiten, um die Aufgabe erfolgreich zu lösen?"
+			"WILLINGNESS": "Wie könnten wir die Aufgabe verändern, wenn wir keine Seile zur Verfügung haben?\r\nWas kannst du machen, damit die Aufgabe als Gruppe gelingt?\r\nWie fühlt es sich für dich an, wenn alle zusammenarbeiten, um die Aufgabe erfolgreich zu lösen?",
+            "PDF": "Gruppe: Zwei Kinder halten ein Seil gespannt auf Wadenhöhe. Die anderen Kinder springen sobald das Seil bei ihnen ist."
 		},
 		"MASTER_OF_RHYTHM": {
 			"MOBAK": "Sich Bewegen",
@@ -527,7 +552,8 @@
 			"MATERIALS": "Reifen\r\nalternativ: Bodenmarkierungen, Seile, Kreide",
 			"VARIATIONS": "Springe ohne Armbewegungen durch den Reifenpfad.\r\nSpringe so schnell du kannst durch den Reifenpfad.\r\nStrecke jeweils den Arm der Gegenseite aus. Bei den beidbeinigen Sprüngen strecke die Arme nach oben aus.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was ändert sich für dich, wenn du ohne Armbewegungen springst?\r\nWas kannst du machen, wenn dir die Aufgabe nicht gleich gelingt?\r\nWie gelingt es dir, jeweils den passenden Arm seitlich rauszustrecken?",
-			"WILLINGNESS": "Wie kannst du einem anderen Kind durch die Reifen folgen, ohne entdeckt zu werden?\r\nWie kannst du die Reifen so anordnen, dass es für dich schwieriger wird?\r\nErfinde andere Armbewegungen! Welche Varianten gelingen dir am besten?"
+			"WILLINGNESS": "Wie kannst du einem anderen Kind durch die Reifen folgen, ohne entdeckt zu werden?\r\nWie kannst du die Reifen so anordnen, dass es für dich schwieriger wird?\r\nErfinde andere Armbewegungen! Welche Varianten gelingen dir am besten?",
+            "PDF": "Lege mehrere Reifen hintereinander auf den Boden und springe nach folgenden Vorgaben durch den Reifenpfad: \n- Sprung linkes Bein, linker Arm seitlich raus\n- Sprung rechtes Bein, rechter Arm seitlich raus\n- Sprung beidbeinig, beide Arme seitlich raus"
 		},
 		"SWINGING_KING_QUEEN": {
 			"MOBAK": "Sich Bewegen",
@@ -537,7 +563,8 @@
 			"MATERIALS": "Seil",
 			"VARIATIONS": "Bitte die Lehrperson oder Kinder, das Seil schneller oder langsamer zu schwingen.\r\nBitte die Lehrperson oder Kinder, das Seil in die andere Richtung zu schwingen (also von dir weg).\r\nVariiere die Sprünge (z. B. beidbeinig, einbeinig, mit Körperdrehungen).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was ist einfacher für dich? Langsam oder schnell zu springen? Und warum?\r\nWas änderst du, wenn das Seil auf die andere Seite schwingt?\r\nWann ist der richtige Zeitpunkt zum Abspringen?",
-			"WILLINGNESS": "Wie oft kannst du springen und das schwingende Seil kontrolliert verlassen? Setze dir ein Ziel oder fordere ein anderes Kind heraus.\r\nGelingt es dir, in das schwingende Seil zu laufen und dann zu springen? Versuche es!\r\nKannst du einem anderen Kind von außen sagen, wann es abspringen muss?"
+			"WILLINGNESS": "Wie oft kannst du springen und das schwingende Seil kontrolliert verlassen? Setze dir ein Ziel oder fordere ein anderes Kind heraus.\r\nGelingt es dir, in das schwingende Seil zu laufen und dann zu springen? Versuche es!\r\nKannst du einem anderen Kind von außen sagen, wann es abspringen muss?",
+            "PDF": "Gruppe: Ein langes Seil wird von zwei Kindern  geschwungen. Die anderen Kinder laufen viermal durch das schwingende Seil, ohne es zu berühren."
 		},
 		"JUMP_IN_AND_OUT": {
 			"MOBAK": "Sich Bewegen",
@@ -547,7 +574,8 @@
 			"MATERIALS": "Reifen",
 			"VARIATIONS": "Ordne die Reifen anders an.\r\nSuche möglichst viele verschiedene Sprungformen.\r\nGestalte deine Sprungfolge aus zwei Sprungformen.\r\nSchliesse die Augen und springe deine Sprungfolge ohne die Reifen zu berühren.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gestaltest du eine Sprungfolge, die du oft wiederholen kannst?\r\nWelcher Teil deines Fusses berührt beim Springen den Boden?",
-			"WILLINGNESS": "Zeige deine Sprungfolge einem anderen Kind. Kannst du die Sprungfolge des Kindes nachmachen?\r\nKannst du deine Sprungfolge mit geschlossenen Augen wiederholen?\r\nStell dir vor du bist ein Tier und absolvierst die Sprungfolge. Wie sieht dies aus?"
+			"WILLINGNESS": "Zeige deine Sprungfolge einem anderen Kind. Kannst du die Sprungfolge des Kindes nachmachen?\r\nKannst du deine Sprungfolge mit geschlossenen Augen wiederholen?\r\nStell dir vor du bist ein Tier und absolvierst die Sprungfolge. Wie sieht dies aus?",
+            "PDF": "Führe Sprungfolgen und -formen aus, die in den Reifen hinein und wieder hinaus führen."
 		},
 		"JUMPING_COURSE": {
 			"MOBAK": "Sich Bewegen",
@@ -557,7 +585,8 @@
 			"MATERIALS": "Medizinbälle, Hütchen",
 			"VARIATIONS": "Verändere den Sprungparcours.\r\nVerwende weitere Hindernisse.\r\nSpringe den Sprungparcours mit geschlossenen Augen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie müssen die Hindernisse angeordnet sein, damit du einfach darüberspringen kannst?\r\nWie gelingt es dir am besten über die Hindernisse zu springen?",
-			"WILLINGNESS": "Hast du noch weitere Ideen für Hindernisse?\r\nWelchen Tipp kannst du einem Kind geben, dass Mühe hat mit dem Sprungparcours?"
+			"WILLINGNESS": "Hast du noch weitere Ideen für Hindernisse?\r\nWelchen Tipp kannst du einem Kind geben, dass Mühe hat mit dem Sprungparcours?",
+            "PDF": "Springe über die Hindernisse."
 		}
 	},
 	"Rolling": "Rolling",
@@ -570,7 +599,8 @@
 			"MATERIALS": "Weichbodenmatten, Turnbänke, Turnmatten, Sprossenwand",
 			"VARIATIONS": "Hänge die Langbänke auf einer niedrigeren oder höheren Sprosse der Sprossenwand ein.\r\nLasse ein anderes Kind kontrollieren, ob du beim Rollen ganz gestreckt bist.\r\nWechsle die Seiten beim Rollen.\r\nLass dich von einem anderen Kind am Ende der Rollfläche auffangen.\r\nStrecke die Arme nach oben aus.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was ändert sich für dich, wenn du die Seite änderst beim Rollen?\r\nWas machst du mit den Beinen/Armen beim Seitwärtsrollen?\r\n",
-			"WILLINGNESS": "Kannst du zusammen mit einem anderen Kind rollen?\r\nAuf welcher Höhe der Bänke hast du am meisten Spaß? Wann brauchst du besonders viel Mut?\r\nWo könntest du auch seitwärts runterrollen? "
+			"WILLINGNESS": "Kannst du zusammen mit einem anderen Kind rollen?\r\nAuf welcher Höhe der Bänke hast du am meisten Spaß? Wann brauchst du besonders viel Mut?\r\nWo könntest du auch seitwärts runterrollen?",
+            "PDF": "Rolle den Hang quer herunter."
 		},
 		"FORWARD_ROLL": {
 			"MOBAK": "Sich Bewegen",
@@ -580,7 +610,8 @@
 			"MATERIALS": "Weichbodenmatten, Turnbänke, Turnmatten, Sprossenwand",
 			"VARIATIONS": "Umfasse beim Rollen deine Knie.\r\nStehe ohne Hilfe der Hände auf.\r\nKlemme beim Rollen ein Kuscheltier (oder einen anderen Gegenstand) zwischen Kinn und Brust ein.\r\nDrücke dich mit den Füßen ab und setze mit dem Nacken auf.\r\nSchaue deinen Bauch an.\r\nSetze die Hände fest auf.\r\nHänge die Langbänke auf einer niedrigeren oder höheren Sprosse der Sprossenwand ein.\r\nLass dich von einem anderen Kind am Ende der Rollfläche auffangen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was ändert sich, wenn du etwas zwischen Kinn und Brust einklemmst?\r\nWie gelingt es dir, gerade zu rollen?",
-			"WILLINGNESS": "Wie fühlt es sich an, die Aufgabe erfolgreich zu lösen/nicht lösen zu können? Was kannst du tun, um dich zu verbessern, wenn du noch nicht erfolgreich warst?\r\nGelingt es dir auch, von unten nach oben rollen?"
+			"WILLINGNESS": "Wie fühlt es sich an, die Aufgabe erfolgreich zu lösen/nicht lösen zu können? Was kannst du tun, um dich zu verbessern, wenn du noch nicht erfolgreich warst?\r\nGelingt es dir auch, von unten nach oben rollen?",
+            "PDF": "Rolle den Hang vorwärts hinunter. "
 		},
 		"PENDULUM": {
 			"MOBAK": "Sich Bewegen",
@@ -590,7 +621,8 @@
 			"MATERIALS": "Bodenmatte, Luftballons, Ball",
 			"VARIATIONS": "Klemme einen Luftballon oder Ball zwischen die Beine.\r\nKlemme einen Luftballon zwischen Beine und Oberkörper, während du zurückrollst und wieder in die Kniebeugeposition aufstehst.\r\nÜbergib einem anderen Kind den Ball, indem du zuerst zurückrollst und beim Aufstehen den Ball übergibst (Rollenwechsel unmittelbar nach der Ballübergabe).\r\nRolle zurück, halte dich an deinen Beinen fest und rolle in die Kniebeugeposition hoch.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir am besten, nach dem Vorwärtsrollen aufzustehen?\r\nWie gelingt es dir, vor und zurück zu rollen?",
-			"WILLINGNESS": "Stell dir vor du bist ein Kugelgürteltier, das rollt. Wie fühlst du dich?\r\nGelingt es dir mit einem anderen Kind gleichzeitig zu pendeln?\r\nWas ändert sich, wenn du einen Luftballon zwischen den Beinen einklemmst?"
+			"WILLINGNESS": "Stell dir vor du bist ein Kugelgürteltier, das rollt. Wie fühlst du dich?\r\nGelingt es dir mit einem anderen Kind gleichzeitig zu pendeln?\r\nWas ändert sich, wenn du einen Luftballon zwischen den Beinen einklemmst?",
+            "PDF": "Rolle auf dem Rücken vor und zurück, ohne die Füße einzusetzen."
 		},
 		"JUDO_ROLLS": {
 			"MOBAK": "Sich Bewegen",
@@ -600,7 +632,8 @@
 			"MATERIALS": "Weichboden",
 			"VARIATIONS": "Führe die Judorolle abwechselnd über die linke und die rechte Schulter aus.\r\nVariiere die Anlauflänge.\r\nStehe direkt nach der Rolle ohne Abstützen der Hände auf.\r\nRolle langsam und ohne Anlauf.\r\nRichte den Blick zu der Schulter, über die gerollt werden soll.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was ändert sich, wenn du die Anlauflänge veränderst?\r\nGelingt dir die Judorolle besser als die Rolle vorwärts? Wieso?",
-			"WILLINGNESS": "Wie fühlt es sich an, über die andere Schulter zu rollen?\r\nKannst du die Judorolle auch auf einer Matte oder auf dem Boden ausführen?"
+			"WILLINGNESS": "Wie fühlt es sich an, über die andere Schulter zu rollen?\r\nKannst du die Judorolle auch auf einer Matte oder auf dem Boden ausführen?",
+            "PDF": "Mache mit ein paar Schritten Anlauf eine Rolle über die Schulter auf dem Weichboden."
 		},
 		"MAT_ROLLS": {
 			"MOBAK": "Sich Bewegen",
@@ -610,7 +643,8 @@
 			"MATERIALS": "Weichbodenmatte",
 			"VARIATIONS": "Stehe ohne Hilfe der Hände auf.\r\nLass dir von einem anderen Kind oder der Lehrperson helfen.\r\nLege mit Seilen einen Korridor zum Rollen auf die Matte und rolle darin.\r\nRollt zu zweit synchron nebeneinander.\r\nStoße kräftiger ab mit den Beinen, damit du schneller rollst. Nimm deine Hände anschließend nach vorn!\r\nFühre die Rolle auf einer Turnmatte aus.\r\nLege eine Bodenmarkierung auf die Matte und lande mit den Füßen darauf nach der Rolle. Variiere den Abstand zu deiner Startposition.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir, nach dem Rollen aufzustehen?\r\nWas ändert sich, wenn du ohne Anlauf die Rolle auf die Weichbodenmatte machst?",
-			"WILLINGNESS": "Verändert sich dein Gefühl, wenn du die Rolle auf der langen Seite der Matte machst, im Vergleich zur kurzen Seite?\r\nWie fühlt es sich an, nach der Rolle erfolgreich aufzustehen?"
+			"WILLINGNESS": "Verändert sich dein Gefühl, wenn du die Rolle auf der langen Seite der Matte machst, im Vergleich zur kurzen Seite?\r\nWie fühlt es sich an, nach der Rolle erfolgreich aufzustehen?",
+            "PDF": "Führe mit ein paar Schritten Anlauf eine Rolle über die Weichbodenmatte aus."
 		},
 		"ROLL_OFF_THE_BOX": {
 			"MOBAK": "Sich Bewegen",
@@ -620,7 +654,8 @@
 			"MATERIALS": "Turnkasten mit zwei Elementen, Turnmatte",
 			"VARIATIONS": "Verändere die Höhe des Turnkastens.\r\nKlemme ein Spielband zwischen den Fussgelenken ein.\r\nRolle von einem Kind, welches im Vierfüsserstand ist, auf eine Matte.\r\nRolle über einen Physioball.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Gelingt es dir nach dem Abrollen aufzustehen? Wie?\r\nWie setzt du deine Hände auf um möglichst gerade zu rollen?",
-			"WILLINGNESS": "Wie fühlt es sich für dich an, vom Kasten zu rollen?\r\nAuf welcher Höhe des Kastens hast du am meisten Spaß? Wann brauchst du besonders viel Mut?"
+			"WILLINGNESS": "Wie fühlt es sich für dich an, vom Kasten zu rollen?\r\nAuf welcher Höhe des Kastens hast du am meisten Spaß? Wann brauchst du besonders viel Mut?",
+            "PDF": "Knie auf dem Turnkasten. Stütze deine Hände auf der Turnmatte ab und führe eine Rolle vorwärts aus."
 		},
 		"VARIABLE_ROLLING": {
 			"MOBAK": "Sich Bewegen",
@@ -630,7 +665,8 @@
 			"MATERIALS": "Turnmatten",
 			"VARIATIONS": "Rolle seitwärts.\r\nStell deine Füsse hinter die schiefe Ebene. Springe nun etwas ab und rolle die schiefe Ebene hinunter.\r\nRolle von unten nach oben.\r\nRolle auf der geraden Ebene.\r\nStell deine Füsse auf die Matte und rolle von oben nach unten.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie verändert sich das Rollen für dich, wenn du von unten nach oben rollst?\r\nWelche Rolle gelingt dir am besten? Zeige und erkläre.",
-			"WILLINGNESS": "Welche Rollart macht dir am meisten Spass? Wieso?\r\nGelingt es dir auf alle Arten zu rollen?"
+			"WILLINGNESS": "Welche Rollart macht dir am meisten Spass? Wieso?\r\nGelingt es dir auf alle Arten zu rollen?",
+            "PDF": "Rolle auf verschiedene Arten die schiefe Ebene hinunter oder hinauf."
 		},
 		"ROLLING_PRECISELY": {
 			"MOBAK": "Sich Bewegen",
@@ -640,7 +676,8 @@
 			"MATERIALS": "Turnmatten, Klebeband",
 			"VARIATIONS": "Klebe das Klebeband an das Ende der Matte und lande nach der Rolle mit den Füssen darauf. Verändere den Abstand zum Mattenanfang.\r\nRolle schräg über das Klebeband, so dass es von einer Schulter zur gegenüberliegenden Hüfte kleben bleibt.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie musst du dich mit den Füssen abstossen um möglichst präzise zu rollen?\r\nWie gelingt es dir gerade zu rollen?",
-			"WILLINGNESS": "Kannst du dreimal so über das Klebeband rollen, dass du danach einen Klebeband-Stern am Rücken hast?\r\nWie macht es dir am meisten Spass über das Klebeband zu rollen? Hast du noch weitere Ideen?"
+			"WILLINGNESS": "Kannst du dreimal so über das Klebeband rollen, dass du danach einen Klebeband-Stern am Rücken hast?\r\nWie macht es dir am meisten Spass über das Klebeband zu rollen? Hast du noch weitere Ideen?",
+            "PDF": "Rolle so über das Klebeband, dass dieses gerade a deinem Rücken kleben bleibt."
 		},
 		"ROLL_UP": {
 			"MOBAK": "Sich Bewegen",
@@ -650,7 +687,8 @@
 			"MATERIALS": "Turnkasten mit zwei Elementen, Turnmatten",
 			"VARIATIONS": "Verändere die Anzahl der Elemente.\r\nFühre eine Rolle auf dem Turnkasten aus.\r\nNutze ein Sprungbrett um abzuspringen.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir auf den Turnkasten aufzurollen?\r\nWas machst du mit deinen Beinen während dem Rollen?",
-			"WILLINGNESS": "Welche Höhe erfordert von dir viel Mut? Wie hast du dich überwunden?\r\nWie kannst du einem anderen Kind beim Aufrollen helfen?"
+			"WILLINGNESS": "Welche Höhe erfordert von dir viel Mut? Wie hast du dich überwunden?\r\nWie kannst du einem anderen Kind beim Aufrollen helfen?",
+            "PDF": "Rolle auf den Turnkasten."
 		},
 		"DIVE_ROLL": {
 			"MOBAK": "Sich Bewegen",
@@ -660,7 +698,8 @@
 			"MATERIALS": "Turnmatten, Medizinbälle",
 			"VARIATIONS": "Lege mehrere Medizinbälle in eine Reihe und springe darüber.\r\nVerändere den Abstand zum Medizinball.\r\nSpringe beidbeinig ab.\r\nVerwende an Stelle des Medizinballs ein Seil, über das du springst.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was musst du im Vergleich zu einer Rolle vorwärts verändern um eine Sprungrolle auszuführen?\r\nWas machst du um möglichst sanft zu landen?",
-			"WILLINGNESS": "Setze dir eine Anzahl Medizinbälle, die du überspringen möchtest als Ziel. Wie fühlst du dich, wenn du dieses Ziel erreicht hast?\r\nStell dir vor, du überspringst mit der Rolle einen grossen Abgrund. Wie fühlt sich das Springen an für dich?"
+			"WILLINGNESS": "Setze dir eine Anzahl Medizinbälle, die du überspringen möchtest als Ziel. Wie fühlst du dich, wenn du dieses Ziel erreicht hast?\r\nStell dir vor, du überspringst mit der Rolle einen grossen Abgrund. Wie fühlt sich das Springen an für dich?",
+            "PDF": "Springe mit der Rolle vorwärts über einen Medizinball."
 		},
 		"PARTNER_ROLLS": {
 			"MOBAK": "Sich Bewegen",
@@ -670,7 +709,8 @@
 			"MATERIALS": " Turnmatten",
 			"VARIATIONS": "Starte in der anderen Position (oben/unten).\r\nFührt eine Rolle vorwärts synchron nebeneinander aus.\r\nMacht zwei oder mehr Rollen hintereinander.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es euch gemeinsam eine Partnerrolle zu machen?\r\nWorauf achtest du mehr bei der Partnerrolle im Gegensatz zu der Rolle alleine?",
-			"WILLINGNESS": "Hat es viel Mut gebraucht zu zweit zu rollen? Wenn ja, wie hast du dich überwunden?\r\nWelche Tipps könnt ihr anderen Kindern geben, damit ihnen die Partnerrolle gelingt?"
+			"WILLINGNESS": "Hat es viel Mut gebraucht zu zweit zu rollen? Wenn ja, wie hast du dich überwunden?\r\nWelche Tipps könnt ihr anderen Kindern geben, damit ihnen die Partnerrolle gelingt?",
+            "PDF": "Zu Zweit: Fasst euch an den Knöcheln und legt den Kopf auf die Brust. Führt gemeinsam eine Rolle vorwärts aus."
 		}
 	},
 	"Balancing": "Balancing",
@@ -683,7 +723,8 @@
 			"MATERIALS": "Seil",
 			"VARIATIONS": "Balanciere rückwärts.\r\nBalanciere mit geschlossenen Augen.\r\nWirf zusätzlich Tücher in die Höhe und fange sie wieder.\r\nDrehe zusätzlich Reifen mit den Armen.\r\nWähle anderes Material, auf dem du balancieren kannst (z. B. Reifen, Bodenfliesen, Linien).\r\nWähle Material, das du zusätzlich auf einem Körperteil balancieren kannst (z. B. Tücher, Hütchen, Bälle, Keulen).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was ändert sich für dich, wenn du seitwärts oder rückwärts balancierst?\r\nWarum ist es einfacher, wenn du den Blick nach vorne richtest (bspw.  als nach unten?)\r\n",
-			"WILLINGNESS": "Stellt euch vor, ihr seid Seiltänzer in einem Zirkus. Wie könnt ihr gemeinsam über das Seil balancieren? Könnt ihr den Applaus hören?\r\nWie kannst du das Seil hinlegen, um das Balancieren zu erschweren?\r\nWarum könnte es wichtig sein, balancieren zu können?"
+			"WILLINGNESS": "Stellt euch vor, ihr seid Seiltänzer in einem Zirkus. Wie könnt ihr gemeinsam über das Seil balancieren? Könnt ihr den Applaus hören?\r\nWie kannst du das Seil hinlegen, um das Balancieren zu erschweren?\r\nWarum könnte es wichtig sein, balancieren zu können?",
+            "PDF": "Balanciere auf dem Seil."
 		},
 		"BENCH_BALANCING": {
 			"MOBAK": "Sich Bewegen",
@@ -693,7 +734,8 @@
 			"MATERIALS": "Langbank",
 			"VARIATIONS": "Ändere die Bewegungsart (seitwärts, rückwärts, auf allen Vieren).\r\nFühre zusätzlich Armbewegungen durch.\r\nWähle Material, das du zusätzlich auf einem Körperteil balancieren kannst (z. B. Tücher, Hütchen, Bälle, Keulen).\r\nLege dir zusätzlich Hindernisse (z.B. Hütchen) auf die Bank, die du übersteigen musst.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie stellst du deine Füße auf die Bank, damit es dir gelingt zu Balancieren?\r\nWie verändert sich das Balancieren für dich, wenn du die Blickrichtung nach unten oder oben änderst?",
-			"WILLINGNESS": "Wie fühlt es sich an, wenn man erfolgreich über die Bank balanciert?\r\nBeobachte ein Kind, das Schwierigkeiten hat, über die Bank zu balancieren, und versuche, ihm Tipps zu geben!\r\nWo kannst du, abgesehen von der Bank, noch balancieren, um die Aufgabe für dich zu erschweren?"
+			"WILLINGNESS": "Wie fühlt es sich an, wenn man erfolgreich über die Bank balanciert?\r\nBeobachte ein Kind, das Schwierigkeiten hat, über die Bank zu balancieren, und versuche, ihm Tipps zu geben!\r\nWo kannst du, abgesehen von der Bank, noch balancieren, um die Aufgabe für dich zu erschweren?",
+            "PDF": "Balanciere vorwärts über die Langbank."
 		},
 		"WOBBLY_BENCH": {
 			"MOBAK": "Sich Bewegen",
@@ -703,7 +745,8 @@
 			"MATERIALS": "Langbank, Gymnastikstäbe",
 			"VARIATIONS": "Führe die Übung ohne andere Kinder durch, indem die Langbank auf den Gymnastikstäben seitlich mit Turnmatten begrenzt ist und so nicht wegrollt.\r\nGehe seitwärts oder rückwärts.\r\nLege dir zusätzlich Hindernisse (z.B. Tücher, Hütchen) auf die Bank, die du übersteigen musst.\r\nFüge eine Drehung ein.\r\nWähle Material, das du zusätzlich auf einem Körperteil balancieren kannst (z. B. Tücher, Hütchen, Bälle, Keulen).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Worauf achtest du, wenn du über die Wackelbank balancierst?\r\nWelche Armhaltung hilft dir am meisten beim Balancieren?",
-			"WILLINGNESS": "Wie fühlt es sich an, über die wackelige Bank zu balancieren? Brauchst du viel Mut?\r\nBitte die anderen Kinder, die Bank langsamer/schneller zu bewegen, je nachdem wie sicher du dich fühlst."
+			"WILLINGNESS": "Wie fühlt es sich an, über die wackelige Bank zu balancieren? Brauchst du viel Mut?\r\nBitte die anderen Kinder, die Bank langsamer/schneller zu bewegen, je nachdem wie sicher du dich fühlst.",
+            "PDF": "Halte dich auf der Bank während sie wackelt."
 		},
 		"MOUNTAIN_CLIMBING": {
 			"MOBAK": "Sich Bewegen",
@@ -713,7 +756,8 @@
 			"MATERIALS": "Langbank, Sprossenwand, Matten zur Sicherung am Boden",
 			"VARIATIONS": "Ändere die Bewegungsart (seitwärts, rückwärts, auf allen Vieren).\r\nHänge die Langbank in die Schaukelringe ein und balanciere darüber. Matten zur Sicherung sind zwingend notwendig!\r\nDrehe zusätzlich einen Reifen mit dem Arm.\r\nWähle Material, das du zusätzlich auf einem Körperteil balancieren kannst (z. B. Tücher, Hütchen, Bälle, Keulen).\r\nHänge die Langbank auf einer niedrigeren oder höheren Sprosse der Sprossenwand ein.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wohin richtest du den Blick beim Aufwärtsbalancieren?\r\nWie steigst du nach oben, ohne die Balance zu verlieren?",
-			"WILLINGNESS": "Ab welcher Höhe der Bank wird die Aufgabe für dich zur Herausforderung?\r\nHalte die Zeit an, die du brauchst, um nach oben zu balancieren und fordere ein anderes Kind oder dich selbst heraus. Wie fühlst du dich beim Balancieren in einer Herausforderung?\r\nWie fühlt es sich an, wenn auf der Bank noch Hindernisse stehen?"
+			"WILLINGNESS": "Ab welcher Höhe der Bank wird die Aufgabe für dich zur Herausforderung?\r\nHalte die Zeit an, die du brauchst, um nach oben zu balancieren und fordere ein anderes Kind oder dich selbst heraus. Wie fühlst du dich beim Balancieren in einer Herausforderung?\r\nWie fühlt es sich an, wenn auf der Bank noch Hindernisse stehen?",
+            "PDF": "Balanciere auf der Bank hoch und runter."
 		},
 		"OPPOSING_TRAFFIC": {
 			"MOBAK": "Sich Bewegen",
@@ -723,7 +767,8 @@
 			"MATERIALS": "Langbank",
 			"VARIATIONS": "Dreht die Langbank um.\r\nStellt die Langbank auf eine instabile Unterlage (Matte, Sprungbrett, Gymnastikstäbe etc.).\r\nWähle Material, das du zusätzlich auf einem Körperteil balancieren kannst (z. B. Tücher, Hütchen, Bälle, Keulen).\r\nBalanciert auf einem Seil.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie könnt ihr euch gegenseitig helfen beim Kreuzen?\r\nWas ist schwierig beim Kreuzen?",
-			"WILLINGNESS": "Stellt euch vor, ihr seid im Dschungel und müsst den giftigen Schlangen auf dem Boden entkommen. Die Bank wird euch vor ihnen retten. Helft euch gegenseitig, die andere Seite zu erreichen! Wie seid ihr vorgegangen, um die Überquerung gemeinsam zu lösen?\r\nWas könnt ihr vor der Überquerung gemeinsam tun, um bei der Überquerung mutiger zu sein?"
+			"WILLINGNESS": "Stellt euch vor, ihr seid im Dschungel und müsst den giftigen Schlangen auf dem Boden entkommen. Die Bank wird euch vor ihnen retten. Helft euch gegenseitig, die andere Seite zu erreichen! Wie seid ihr vorgegangen, um die Überquerung gemeinsam zu lösen?\r\nWas könnt ihr vor der Überquerung gemeinsam tun, um bei der Überquerung mutiger zu sein?",
+            "PDF": "Gruppe: Auf jeder Seite der Langbank stehen gleich viele Kinder. Balanciert über die Bank und kreuzt in der Mitte."
 		},
 		"SEESAW": {
 			"MOBAK": "Sich Bewegen",
@@ -733,7 +778,8 @@
 			"MATERIALS": "Langbank, Kastenoberteil",
 			"VARIATIONS": "Wähle Material, das du zusätzlich auf einem Körperteil balancieren kannst (z. B. Tücher, Hütchen, Bälle, Keulen).\r\nÄndere die Bewegungsart (seitwärts, rückwärts, auf allen Vieren).\r\nBalanciere mit geschlossenen Augen.\r\nLass dir (bei Bedarf) von einem anderen Kind helfen. Es hält dir seine Hand hin und du fasst sie, wenn es nötig ist.\r\nWähle anstelle des Kastenoberteils zwei Sprungbretter, damit die Bank kippen kann.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was machst du, wenn die Bank kippt, um das Gleichgewicht zu halten?\r\nWie verändert sich das Kippen der Bank, wenn du seitwärts balancierst?",
-			"WILLINGNESS": "Hast du Ideen, wie wir die Bank unterschiedlich hoch kippen lassen können?\r\nWie fühlt es sich an, wenn die Bank kippt?\r\nBalanciere zu zweit: Wie verändert sich das Kippen der Bank, wenn ihr zu zweit hintereinander balanciert?"
+			"WILLINGNESS": "Hast du Ideen, wie wir die Bank unterschiedlich hoch kippen lassen können?\r\nWie fühlt es sich an, wenn die Bank kippt?\r\nBalanciere zu zweit: Wie verändert sich das Kippen der Bank, wenn ihr zu zweit hintereinander balanciert?",
+            "PDF": "Balanciere über die Wippe und lasse sie langsam kippen."
 		},
 		"ROPE_DANCER": {
 			"MOBAK": "Sich Bewegen",
@@ -743,7 +789,8 @@
 			"MATERIALS": "Langbank, Basketball",
 			"VARIATIONS": "Balanciere auf der breiten Seite der Langbank.\r\nFühre die Aufgabe mit einem Zeitlimit durch.\r\nBalanciere auf einem Seil.\r\nBalanciere mit geschlossenen Augen.\r\nWähle einen anderen Ball oder Gegenstand zum Balancieren.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wieso ist die Aufgabe einfacher, wenn du auf der breiten Seite der Bank balancierst?\r\nWas fühlt sich anders an, wenn du mit einem Ball über den Kopf zu balancierst im Gegensatz zum Balancieren ohne Ball?\r\nWie verändert sich die Aufgabe, wenn du einen Stab anstelle des Balles verwendest?",
-			"WILLINGNESS": "Welche Gegenstände könntest du beim Balancieren noch über dem Kopf halten?\r\nAuf welchen Körperteilen könntest du Gegenstände balancieren, während du über die Bank gehst?\r\nBevor du auf die Bank gehst: Versuche zunächst, dir deine folgenden Bewegungen einige Sekunden lang vorzustellen. Schaffst du die Aufgabe auf diese Weise besser?"
+			"WILLINGNESS": "Welche Gegenstände könntest du beim Balancieren noch über dem Kopf halten?\r\nAuf welchen Körperteilen könntest du Gegenstände balancieren, während du über die Bank gehst?\r\nBevor du auf die Bank gehst: Versuche zunächst, dir deine folgenden Bewegungen einige Sekunden lang vorzustellen. Schaffst du die Aufgabe auf diese Weise besser?",
+            "PDF": "Halte einen Basketball über dem Kopf und balanciere vorwärts über die Langbank. Mach in der Mitte eine halbe Drehung und balanciere rückwärts weiter."
 		},
 		"BALANCING_ON_BALLS": {
 			"MOBAK": "Sich Bewegen",
@@ -753,7 +800,8 @@
 			"MATERIALS": "Medizinbälle, Ringe (zum Fixieren der Medizinbälle)",
 			"VARIATIONS": "Gehe rückwärts über die Medizinbälle.\r\nNimm anstelle der Medizinbälle Physio-/Pezzibälle.\r\nGehe auf allen vieren über die Medizinbälle.\r\nLass dir (bei Bedarf) von einem anderen Kind helfen. Es hält dir seine Hand hin und du fasst sie, wenn es nötig ist.\r\nGeht zu zweit aufeinander zu und versucht, aneinander vorbeizugehen.\r\nBalanciere mit geschlossenen Augen.\r\nLege die Medizinbälle anders hin.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was machst du anders, wenn du statt über eine Bank über Bälle balancierst?\r\nWie stellst du die Füsse am besten auf die Bälle um erfolgreich balancieren zu können?\r\nWie gelingt es dir, mit geschlossenen Augen über die Bälle zu balancieren?\r\n\r\n",
-			"WILLINGNESS": "Welche Gegenstände könnten anstelle der Medizinbälle verwendet werden?\r\nWie fühlt es sich an, wenn die Bälle weiter auseinander stehen?\r\nWie fühlt es sich an, mit geschlossenen Augen über die Bälle zu balancieren?\r\n"
+			"WILLINGNESS": "Welche Gegenstände könnten anstelle der Medizinbälle verwendet werden?\r\nWie fühlt es sich an, wenn die Bälle weiter auseinander stehen?\r\nWie fühlt es sich an, mit geschlossenen Augen über die Bälle zu balancieren?\r\n",
+            "PDF": "Balanciere vorwärts über die Medizinbälle, ohne den Boden zu berühren."
 		},
 		"CIRCUS_ARTISTS": {
 			"MOBAK": "Sich Bewegen",
@@ -763,7 +811,8 @@
 			"MATERIALS": "Langbank, Augenbinden",
 			"VARIATIONS": "Balanciere mit geschlossenen Augen.\r\nFühre die Aufgabe mit einem Zeitlimit durch.\r\nLass dir (bei Bedarf) von einem anderen Kind helfen. Es hält dir seine Hand hin und du fasst sie, wenn es nötig ist.\r\nDrehe die Langbank um.\r\nPresse die Arme nahe an den Körper.\r\nNeige den Oberkörper nach vorne oder hinten.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir am besten, mit verbundenen Augen über die Bank zu balancieren?\r\nWas änderst du zwischen dem Vorwärts- und Rückwärtsbalancieren?",
-			"WILLINGNESS": "Wie unterscheidet es sich für dich, wenn du die Augen schließt oder sie verbunden werden?\r\nWie kannst du einem anderen Kind helfen, diese Aufgabe zu lösen?"
+			"WILLINGNESS": "Wie unterscheidet es sich für dich, wenn du die Augen schließt oder sie verbunden werden?\r\nWie kannst du einem anderen Kind helfen, diese Aufgabe zu lösen?",
+            "PDF": "Balanciere auf der Langbank mit verbundenen Augen."
 		},
 		"BALANCING_ON_MATS": {
 			"MOBAK": "Sich Bewegen",
@@ -773,7 +822,8 @@
 			"MATERIALS": "Turnmatten",
 			"VARIATIONS": "Schliesse die Augen.\r\nStell dich auf das andere Bein.\r\nStell dich auf eine dickere Matte.\r\nStell dich auf andere labile Unterlagen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir am besten das Gleichgewicht zu halten?\r\nWie kann dir der Blick helfen, das Gleichgewicht zu halten?",
-			"WILLINGNESS": "Wie verändert sich die Aufgabe für dich, wenn du die Augen schliesst oder den Kopf in den Nacken legst?\r\nAuf welchen Unterlagen kann das Balancieren erschwert werden?"
+			"WILLINGNESS": "Wie verändert sich die Aufgabe für dich, wenn du die Augen schliesst oder den Kopf in den Nacken legst?\r\nAuf welchen Unterlagen kann das Balancieren erschwert werden?",
+            "PDF": "Steh auf einem Bein auf einer Turnmatte."
 		},
 		"DONT_WOBBLE": {
 			"MOBAK": "Sich Bewegen",
@@ -783,7 +833,8 @@
 			"MATERIALS": "-",
 			"VARIATIONS": "Stell dich beim Kommando in eine Standwage.\r\nHalte die Balance im Kommando im Schwebesitz.\r\nVerwendet verschiedene Kommandos (Positionen) die ausgeführt werden müssen. Wer wackelt gibt das nächste Kommando.\r\nSuche verschiedene Positionen um das Gleichgewicht zu halten.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir möglichst schnell im Einbeinstand ruhig zu stehen?\r\nWelche Balancepositionen sind einfach zu halten?",
-			"WILLINGNESS": "Wie weit kannst du Arme und Beine im Einbeinstand auseinander strecken und das Gleichgewicht halten?\r\nWie fühlst du dich, wenn du das Gleichgewicht nicht halten kannst?"
+			"WILLINGNESS": "Wie weit kannst du Arme und Beine im Einbeinstand auseinander strecken und das Gleichgewicht halten?\r\nWie fühlst du dich, wenn du das Gleichgewicht nicht halten kannst?",
+            "PDF": "Mache auf das Kommando den Einbeinstand."
 		},
 		"UNSTABLE_DEVICES": {
 			"MOBAK": "Sich Bewegen",
@@ -793,7 +844,8 @@
 			"MATERIALS": "Balanciergeräte, Bälle, Pedalo, Sportkreisel, etc.",
 			"VARIATIONS": "Schliesse die Augen beim Balancieren.\r\nVerändere die Position deiner Arme.\r\nFühre mit den Armen zusätzliche Bewegungen (bspw. Kreisen) aus.\r\nBalanciere auf einem Bein auf dem Gerät.\r\nLass dir von einem anderen Kind helfen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Worauf achtest du, damit du auf einem instabilen Gerät das Gleichgewicht halten kannst?\r\nWie ändert sich das Gleichgewicht auf einem instabilen Gerät im Gegensatz zu einem stabilen Gerät?",
-			"WILLINGNESS": "Auf welche Geräten kannst du noch balancieren?\r\nWie kannst du die Aufgabe für dich noch schwieriger machen?"
+			"WILLINGNESS": "Auf welche Geräten kannst du noch balancieren?\r\nWie kannst du die Aufgabe für dich noch schwieriger machen?",
+            "PDF": "Balanciere auf den instabilen Geräten."
 		}
 	},
 	"catching": "catching",
@@ -807,7 +859,8 @@
 			"MATERIALS": "Verschiedene Bälle",
 			"VARIATIONS": "Wirf den Ball mit beiden Händen in die Luft, klatsche ein- oder mehrmals in die Hände und fange ihn mit beiden Händen wieder auf.\r\nWirf den Ball mit beiden Händen in die Luft und fange ihn  mit einer Hand wieder auf.\r\nWirf den Ball mit beiden Händen in die Luft, berühre den Boden mit beiden Händen und fange den Ball wieder mit beiden Händen auf.\r\nWirf den Ball mit beiden Händen in die Luft, drehe dich einmal um die eigene Achse und fange ihn wieder auf.\r\nWirf den Ball mit beiden Händen in die Luft und fange ihn hinter deinem Rücken wieder auf.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir, dass du den Ball nach dem Werfen wieder fangen kannst?\r\nBeobachte andere Kinder - Was machen sie mit ihren Händen?",
-			"WILLINGNESS": "Wie hoch gelingt es dir, den Ball zu werfen und wieder zu fangen? \r\nKannst du die Aufgaben mit verschiedenen Bällen durchführen?\r\nBeschreibe dein Gefühl, wenn du den Ball erfolgreich fängst."
+			"WILLINGNESS": "Wie hoch gelingt es dir, den Ball zu werfen und wieder zu fangen? \r\nKannst du die Aufgaben mit verschiedenen Bällen durchführen?\r\nBeschreibe dein Gefühl, wenn du den Ball erfolgreich fängst.",
+            "PDF": "Wirf den Ball mit beiden Händen in die Luft und fange ihn wieder auf."
 		},
 		"KEEP_THE_WATER_CLEAN": {
 			"MOBAK": "Etwas Bewegen",
@@ -817,7 +870,8 @@
 			"MATERIALS": "Bälle, Netz, Holzbrett-, Badminton- oder (Soft-)Tennisschläger\r\nalternativ: Langbank/Schnur zur Trennung, Hütchen, verschiedene Bälle, Ballone\r\n",
 			"VARIATIONS": "Fange die Bälle mit einem Hütchen.\r\nFange die Bälle mit der linken Hand bei Bällen auf der linken Seite und mit der rechten Hand bei Bällen auf der rechten Seite.\r\nFange die Bälle mit dem Schläger.\r\nSpiele abwechselnd kurze und lange Bälle (Kind A).\r\nTauscht fortlaufend die Rollen.\r\nKind A wirft den Ball über das Netz.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie stehst du bereit, damit du den Ball fangen kannst?\r\nWorauf achtest du, damit du den Ball fangen kannst?",
-			"WILLINGNESS": "Was ändert sich für dich, wenn du gegen ein anderes Kind spielst?\r\nWie gelingt es euch, dass beide den Ball spielen und fangen können?"
+			"WILLINGNESS": "Was ändert sich für dich, wenn du gegen ein anderes Kind spielst?\r\nWie gelingt es euch, dass beide den Ball spielen und fangen können?",
+            "PDF": "Zu Zweit: Ein Kind spielt mit einem Schläger Bälle über das Netz, das andere Kind fängt diese."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Etwas Bewegen",
@@ -827,7 +881,8 @@
 			"MATERIALS": "Reifen, verschiedene Bälle",
 			"VARIATIONS": "Halte zwei Reifen (Kind C).\r\nRolle und fange den Ball wieder selbst auf der anderen Seite auf (Kind A), so dass du die Übung nur mit einem anderen Kind durchführst, das den Reifen hält.\r\nSchieße den Ball mit dem Fuß.\r\nVergrößert die Gruppe, indem alle Kinder sich mit je einem Ball auf der Längsseite der Turnhalle aufstellen. Versucht, einen Gymnastikball oder einen Reifen, der von der Lehrkraft durch die Halle gerollt wird, mit eurem Ball zu treffen (rollen, werfen oder durch den Reifen schießen).\r\nSpiele den Ball mit einem Schläger durch den Reifen.\r\nRolle den Ball mit der Hand.\r\nRollt den Reifen durch die Halle und werft, spielt oder rollt den Ball durch den Reifen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir, den Ball durch den Reifen zu rollen?\r\nWas änderst du mit deinen Armen, wenn du den Ball wirfst anstatt zu Rollen?",
-			"WILLINGNESS": "Wie kannst du den Ball noch durch den Reifen rollen/spielen?\r\nWie viele Male hintereinander kannst du den Ball fangen? Setze ein Ziel und versuche es zu erreichen.\r\nWie kannst du den Ball auf eine andere Art und Weise rollen/spielen?"
+			"WILLINGNESS": "Wie kannst du den Ball noch durch den Reifen rollen/spielen?\r\nWie viele Male hintereinander kannst du den Ball fangen? Setze ein Ziel und versuche es zu erreichen.\r\nWie kannst du den Ball auf eine andere Art und Weise rollen/spielen?",
+            "PDF": "Zu Dritt: Ein Kind hält einen Reifen. Die anderen beiden rollen sich einen Ball durch den Reifen zu."
 		},
 		"TIGERBALL": {
 			"MOBAK": "Etwas Bewegen",
@@ -837,7 +892,8 @@
 			"MATERIALS": "Verschiedene Bälle",
 			"VARIATIONS": "Spielt mit zwei (verschiedenen) Bällen gleichzeitig.\r\nVergrößert nach und nach den Kreis.\r\nVariiere die Passhöhe.\r\nBeziehe Wurfvarianten mit ein, wirf z. B. von unten, beidhändig, überkopf, Prellwurf etc..\r\nSpiele den Ball nicht direkt zum Kind neben dir.\r\nRolle den Ball dem nächsten Kind zu.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir am besten, den Ball zu fangen, wenn du in der Mitte stehst?\r\nWie spielst du den Ball einem anderen Kind zu, damit das Kind in der Mitte diesen nicht fangen kann?",
-			"WILLINGNESS": "Wie macht das Spiel am meisten Spass?\r\nWie reagierst du, wenn du merkst, dass das Kind in der Mitte den Ball nicht fangen kann?\r\nWie spielt ihr zusammen, sodass das Kind in der Mitte den Ball nicht fangen kann?"
+			"WILLINGNESS": "Wie macht das Spiel am meisten Spass?\r\nWie reagierst du, wenn du merkst, dass das Kind in der Mitte den Ball nicht fangen kann?\r\nWie spielt ihr zusammen, sodass das Kind in der Mitte den Ball nicht fangen kann?",
+            "PDF": "Gruppe: Ein Kind steht in der Mitte des Kreises. Die anderen spielen sich den Ball zu. Das Kind in der Mitte versucht den Ball zu fangen. Rollentausch."
 		},
 		"BOXING": {
 			"MOBAK": "Etwas Bewegen",
@@ -847,7 +903,8 @@
 			"MATERIALS": "Verschiedene Bälle",
 			"VARIATIONS": "Setzt verschiedene Bälle ein.\r\nVerändert den Abstand.\r\nVariiere die Zuspielhöhe (Kind A).\r\nBeziehe Wurfvarianten mit ein, wirf z. B. von unten, beidhändig, überkopf etc.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie kannst du den Ball zielgenau werfen?\r\nWorauf achtest du, damit du den Ball gut fangen kannst?",
-			"WILLINGNESS": "Wie oft hintereinander schafft ihr es, den Ball in unterschiedlichen Entfernungen wieder zu fangen?\r\nWie schafft ihr es, die Aufgabe gemeinsam zu lösen?\r\nSchafft ihr es, den Ball in verschiedenen Abständen wieder zu fangen?"
+			"WILLINGNESS": "Wie oft hintereinander schafft ihr es, den Ball in unterschiedlichen Entfernungen wieder zu fangen?\r\nWie schafft ihr es, die Aufgabe gemeinsam zu lösen?\r\nSchafft ihr es, den Ball in verschiedenen Abständen wieder zu fangen?",
+            "PDF": "Zu Zweit: Ein Kind hat einen Ball in der Hand und spielt den zugeworfenen Ball damit zurück."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Etwas Bewegen",
@@ -857,7 +914,8 @@
 			"MATERIALS": "Verschiedene Bälle",
 			"VARIATIONS": "Werft den Ball zu zweit hin und her.\r\nWerft den Ball allen Kindern einmal zu und wiederholt die Reihenfolge. Nehmt mehrere verschiedene Bälle dazu.\r\nWechsle nach dem Pass an die Stelle, zu der du gepasst hast.\r\nBeziehe Wurfvarianten mit ein, wirf z. B. von unten, beidhändig, überkopf etc.\r\nRolle den Ball mit deiner Hand, schieße mit deinem Fuß oder spiele mit dem Schläger.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie bereitest du dich vor, damit du den Ball gut fangen kannst?\r\nWorauf achtest du, wenn der Ball zu dir fliegt?\r\nWieso hilft es, wenn du das Kind anschaust, dem du den Ball zuspielen willst?\r\n",
-			"WILLINGNESS": "Gelingt es uns, dass jedes Kind im Kreis einmal den Ball fängt, ohne dass er den Boden berührt?\r\nWie funktioniert das Werfen und Fangen des Balls im Kreis am schnellsten?"
+			"WILLINGNESS": "Gelingt es uns, dass jedes Kind im Kreis einmal den Ball fängt, ohne dass er den Boden berührt?\r\nWie funktioniert das Werfen und Fangen des Balls im Kreis am schnellsten?",
+            "PDF": "Gruppe: Stellt euch in einen Kreis und spielt einander den Ball zu. Doppelpässe sind nicht erlaubt."
 		},
 		"REACTING": {
 			"MOBAK": "Etwas Bewegen",
@@ -867,7 +925,8 @@
 			"MATERIALS": "Bälle",
 			"VARIATIONS": "Wirf den Ball unterschiedlich hoch.\r\nPrell den Ball auf den Boden und Fange ihn wieder.\r\nVerwende verschiedene Bälle.\r\nZwei oder drei Kinder werfen sich einen Ball gegenseitig zu. Hilfe: Den Ball eimal auf dem Boden aufprellen lassen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Worauf achtest du, damit du die Augen erst kurz vor dem Fangen öffnest?\r\nWelchen Ball kannst du am besten fangen? Begründe.",
-			"WILLINGNESS": "Gelingt es dir auch den Ball blind zu fangen?\r\nWie spielst du den Ball einem anderen Kind zu, damit es ihm leicht fällt, den Ball zu fangen?"
+			"WILLINGNESS": "Gelingt es dir auch den Ball blind zu fangen?\r\nWie spielst du den Ball einem anderen Kind zu, damit es ihm leicht fällt, den Ball zu fangen?",
+            "PDF": "Wirf den Ball mit geschlossenen Augen in die Luft und fange ihn wieder."
 		},
 		"WALL_BALL": {
 			"MOBAK": "Etwas Bewegen",
@@ -877,7 +936,8 @@
 			"MATERIALS": "Bälle",
 			"VARIATIONS": "Verwendet verschiedene Bälle.\r\nMarkiert an der Wand eine Zielzone.\r\nSpielt auf nur eine Wand. Nach einem Reboundpunkt muss das erfolgreiche Team hinter eine abgemachte Linie vor dem nächsten Angriff.\r\nRollt euch den Ball zu anstatt ihn zu werfen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Worauf achtest du, damit es dir gelingt einen Reboundpunkt zu machen?\r\nWie spielst du den Ball deinen Teammitgliedern zu, damit das gegnerische Team ihn nicht ergattern kann?",
-			"WILLINGNESS": "Wie verändert sich die Flugbahn, wenn der Ball sich ändert?\r\nWelche Ideen hast du um das Spiel zu verändern?"
+			"WILLINGNESS": "Wie verändert sich die Flugbahn, wenn der Ball sich ändert?\r\nWelche Ideen hast du um das Spiel zu verändern?",
+            "PDF": "Gruppe: Teilt euch in zwei Teams. Ein Punkt kann gemacht werden, wenn ein Teammitglied den Ball an die Wand wirft und ein anderes Teammitglied ihn fängt."
 		},
 		"TRAJECTORY": {
 			"MOBAK": "Etwas Bewegen",
@@ -887,7 +947,8 @@
 			"MATERIALS": "Bälle",
 			"VARIATIONS": "Wirf den Ball so an die Wand, dass er auf dem Boden aufspringt, bevor du ihn wieder fängst.\r\nWirf von unterschiedlichen Positionen auf die Wand.\r\nSpielt euch den Ball zu zweit über die Wand zu.\r\nSpielt zu zweit gegeneinander: Vereinbart eine Zone in der der Ball an die Wand gespielt werden darf und wo er wieder auf dem Boden aufkommen muss. Wenn das andere Kind den Ball nicht fangen kann, erhälst du einen Punkt.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie weisst du, wo der Ball hinfliegt, wenn er an der Wand abprallt?\r\nWie stehst du bereit um den Ball zu fangen?",
-			"WILLINGNESS": "Wie oft schaffst du es hintereinander den Ball wieder zu fangen?\r\nWie fühlst du dich, wenn du den Ball nicht fangen kannst?"
+			"WILLINGNESS": "Wie oft schaffst du es hintereinander den Ball wieder zu fangen?\r\nWie fühlst du dich, wenn du den Ball nicht fangen kannst?",
+            "PDF": "Wirf den Ball an die Wand und fange ihn wieder auf."
 		},
 		"FLYING_BALL": {
 			"MOBAK": "Etwas Bewegen",
@@ -897,7 +958,8 @@
 			"MATERIALS": "Ball, Turnmatten",
 			"VARIATIONS": "Verwendet verschiedene Bälle.\r\nVariiert die Landezone.\r\nVerändert die Grösse des Spielfeldes.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mit welcher Taktik gelingt es deinem Team Punkte zu erzielen?\r\nWas verändert sich, wenn das Spielfeld grösser wird?",
-			"WILLINGNESS": "Gelingt es dir den Ball im Sprung zu fangen und in der Landezone zu landen?\r\nWie wirfst du den Ball deinem Teammitglied zu, damit es ihm gelingt, den Ball in der Landezone zu fangen?\r\nWelche Regeln würdest du ergänzen um das Spiel zu verändern?"
+			"WILLINGNESS": "Gelingt es dir den Ball im Sprung zu fangen und in der Landezone zu landen?\r\nWie wirfst du den Ball deinem Teammitglied zu, damit es ihm gelingt, den Ball in der Landezone zu fangen?\r\nWelche Regeln würdest du ergänzen um das Spiel zu verändern?",
+            "PDF": "Gruppe: Teilt euch in zwei Teams. EIn Punkt kann erzielt werden, wenn ein Teammitglied mit einem Sprung in die Landezone den Ball fangen kann."
 		},
 		"FISHERMAN": {
 			"MOBAK": "Etwas Bewegen",
@@ -907,7 +969,8 @@
 			"MATERIALS": "Bälle",
 			"VARIATIONS": "Wirf die Bälle schnell nacheinander.\r\nGib ein akustisches Signal bevor du den Ball wirfst.\r\nKind A sagt wohin der Ball geworfen wird. Kind B steht mit geschlossenen Augen bereit und versucht möglichst schnell zu reagieren.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Worauf achtest du, wenn du die Bälle fängst?\r\nWie hältst du deine Hände und Arme um die Bälle zu fangen?\r\n",
-			"WILLINGNESS": "Hast du eine Idee um das Spiel zu verändern und spannender zu machen?\r\nWie wirfst du als Kind A dem Kind B den Ball zu, damit es eine Herausforderung aber trotzdem machbar ist, die Bälle zu fangen?"
+			"WILLINGNESS": "Hast du eine Idee um das Spiel zu verändern und spannender zu machen?\r\nWie wirfst du als Kind A dem Kind B den Ball zu, damit es eine Herausforderung aber trotzdem machbar ist, die Bälle zu fangen?",
+            "PDF": "Zu Zweit: Werft euch Bälle auf unterschiedlichen Höhen zu."
 		}
 	},
 	"throwing": "throwing",
@@ -920,7 +983,8 @@
 			"MATERIALS": "Jonglagebälle, Teppichfliesen, [verschiedene weitere Bälle]",
 			"VARIATIONS": "Beziehe Wurfvarianten mit ein, wirf z. B. von unten, beidhändig, überkopf etc.\r\nSetze verschiedene Bälle ein.\r\nVergrößere oder verkleinere den Abstand der Teppichfliesen.\r\nNutze kleinere oder größere Teppichfliesen.\r\nOrdne die Teppichfliesen anders an.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was änderst du an deiner Bewegung, wenn du auf das Feld 1 oder Feld 12 wirfst?\r\nWie wirfst du den Ball am zielgenausten?",
-			"WILLINGNESS": "Wie würdest du die Felder anordnen?\r\nWo findest du weitere Ziele?"
+			"WILLINGNESS": "Wie würdest du die Felder anordnen?\r\nWo findest du weitere Ziele?",
+            "PDF": "Wirf den Jonglierball auf Feld 1 und springe danach von Feld 2 - 12 und zurück. Wirf danach den Ball in Feld 2 und springe auf Feld 1 und dann 3 - 12 und zurück. Und so weiter."
 		},
 		"THROWING_STATIONS": {
 			"MOBAK": "Etwas Bewegen",
@@ -930,7 +994,8 @@
 			"MATERIALS": "Verschiedene Bälle, Turnkästen, Reifen.",
 			"VARIATIONS": "Wirf den Ball im Sitzen.\r\nStelle dich auf einen Turnkasten, wirf die Bälle in einen Basketballkorb.\r\nWirf einen Ball (mit der linken und rechten Hand) auf ein Kastenoberteil und versuche, den Ball wieder aufzufangen.\r\nWirf die Bälle mit der linken und rechten Hand über und durch die Sprossenwand, sodass ein anderes Kind sie fangen kann.\r\nWirf mit fünf Bällen alle vier Hütchen von einem Turnkasten herunter.\r\nWirf den Ball in alle Quadrate der großen Sprossenwand.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was verändert sich für dich, wenn du den Ball ein- oder beidhändig wirfst?\r\nWie stellst du die Beine beim Werfen hin?",
-			"WILLINGNESS": "Stetze dir ein Ziel: Wie viele Bälle in Folge kannst du in die Box werfen?\r\nWas ändert sich, wenn du ein anderes Kind herausforderst?\r\nGelingt es dir auch mit unterschiedlichen Abständen, in den Kasten zu treffen?"
+			"WILLINGNESS": "Stetze dir ein Ziel: Wie viele Bälle in Folge kannst du in die Box werfen?\r\nWas ändert sich, wenn du ein anderes Kind herausforderst?\r\nGelingt es dir auch mit unterschiedlichen Abständen, in den Kasten zu treffen?",
+            "PDF": "Wirf den Ball in den Turnkasten."
 		},
 		"KEEP_YOUR_GARDEN_CLEAN": {
 			"MOBAK": "Etwas Bewegen",
@@ -940,7 +1005,8 @@
 			"MATERIALS": "Langbänke, verschiedene Bälle",
 			"VARIATIONS": "Zwischen den beiden Teams besteht ein Abstand von 3m. Dieser Raum ist eine spielfreie Zone (er kann mit Hütchenn oder Langbänken abgegrenzt werden). Die weichen Bälle dürfen nur geworfen und die Fußbälle nur getreten werden. Die Teams können auch Punkte bekommen, wenn sie die Bälle an die Wand des gegnerischen Teams schießen/werfen.\r\nSpielt das Spiel mit zwei Langbänken (mit etwas Abstand dazwischen).\r\nDie Langbank wird umgedreht und auf zwei Kästen gestellt. Wirf die Bälle unter der Bank durch ins gegnerische Feld.\r\nLöse nach jedem Wurf eine Aufgabe, z. B. eine Wand berühren, den Ball zuerst an die Wand werfen und wieder fangen.\r\nErfindet gemeinsam weitere Regeln für das Spiel.\r\nBeziehe Wurfvarianten mit ein, wirf z. B. von unten, beidhändig, überkopf etc.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie wirfst du den Ball am schnellsten auf die andere Seite?\r\nWirfst du den Ball anders, wenn du ihn aus der Luft fängst oder vom Boden aufhebst?",
-			"WILLINGNESS": "Was macht ihr als Team gemeinsam, um den Garten sauber zu halten?\r\nWorauf achtest du, damit du kein anderes Kind triffst?"
+			"WILLINGNESS": "Was macht ihr als Team gemeinsam, um den Garten sauber zu halten?\r\nWorauf achtest du, damit du kein anderes Kind triffst?",
+            "PDF": "Gruppen: Teilt euch in zwei Teams. Werft während der vorgegebenen Zeit möglichst viele Bälle ins Spiefeld des anderen Teams."
 		},
 		"SCORE_MASTER": {
 			"MOBAK": "Etwas Bewegen",
@@ -950,7 +1016,8 @@
 			"MATERIALS": "Bälle, verschiedene Ziele (z. B. Teppichfliesen, Reifen, Matten etc.)",
 			"VARIATIONS": "Beziehe Wurfvarianten mit ein, wirf z. B. von unten, beidhändig, überkopf etc.\r\nVergrößere oder verkleinere den Abstand zu den Zielen.\r\nSetze ein Zeitlimit, um die Ziele zu treffen.\r\nSetze verschiedene Ziele ein.\r\nWähle verschiedene Ziele an der Wand.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Welches Ziel triffst du am besten?\r\nWie wirfst du am besten, um ein Ziel zu treffen?",
-			"WILLINGNESS": "Mache dir einen Plan: In welcher Reihenfolge möchtest du die Ziele treffen, damit du möglichst wenig Würfe benötigst?\r\nArbeitet in Tandems: Wie viele Würfe benötigt ihr, um alle Ziele einmal zu treffen?\r\nSchaffst du es, mit je einem Wurf jedes Ziel zu treffen?\r\n"
+			"WILLINGNESS": "Mache dir einen Plan: In welcher Reihenfolge möchtest du die Ziele treffen, damit du möglichst wenig Würfe benötigst?\r\nArbeitet in Tandems: Wie viele Würfe benötigt ihr, um alle Ziele einmal zu treffen?\r\nSchaffst du es, mit je einem Wurf jedes Ziel zu treffen?\r\n",
+            "PDF": "Triff alle Ziele mit möglichst wenig Würfen."
 		},
 		"FALLING_OVER": {
 			"MOBAK": "Etwas Bewegen",
@@ -960,7 +1027,8 @@
 			"MATERIALS": "Langbänke, Ziele (z.B. Hütchen, Joghurtbecher, Keulen), verschiedene Bälle",
 			"VARIATIONS": "Verändere den Abstand zum Ziel.\r\nStelle zwei Langbänke in einem V auf. Stelle deine Ziele darauf und versuche diese aus verschiedenen Positionen zu treffen.\r\nWirf aus dem Sitz, aus dem Kniestand etc.\r\nOrdne deine Ziele anders an.\r\nStelle deine Ziele auf eine andere Höhe (Boden/Kasten).\r\nWirf mit der anderen Hand.\r\nSetze verschiedene Bälle ein.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir am besten, die Ziele umzuwerfen?\r\nWas machst du anders, wenn du den Ball rollst oder wirfst?",
-			"WILLINGNESS": "Welche Wurfgegenstände könntest du noch verwenden?\r\nGib einem Klassenkameraden eine Reihe von Zielen vor. Kannst du ihm/ihr helfen, alle zu treffen?"
+			"WILLINGNESS": "Welche Wurfgegenstände könntest du noch verwenden?\r\nGib einem Klassenkameraden eine Reihe von Zielen vor. Kannst du ihm/ihr helfen, alle zu treffen?",
+            "PDF": "Wirf den Ball so auf das Ziel, dass es umfällt."
 		},
 		"HIT_THE_TARGET": {
 			"MOBAK": "Etwas Bewegen",
@@ -970,7 +1038,8 @@
 			"MATERIALS": "Behälter (z. B. Eimer, große Kisten, kleine Kisten (umgedreht)), verschiedene Bälle",
 			"VARIATIONS": "Beziehe Wurfvarianten mit ein, wirf z. B. von unten, beidhändig, überkopf etc.\r\nLass die Behälter durch andere Kinder bewegen.\r\nStelle die Behälter neben eine Wand und wirf den Ball gegen die Wand, damit er in den Behälter fällt.\r\nVariiere die Abstände der Behälter.\r\nSetze verschiedene Bälle ein.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie hälst du deine Arme beim Werfen, damit du gut zielen kannst?\r\nWorauf schaust du, damit du in den Behälter triffst?",
-			"WILLINGNESS": "Wie fühlst du dich, wenn du mit dem Ball in den Behälter getroffen hast?\r\nSchafft ihr es zu zweit, gleichzeitig in den Behälter zu treffen?\r\nWelche Behälter könnten wir noch als Ziele nehmen?"
+			"WILLINGNESS": "Wie fühlst du dich, wenn du mit dem Ball in den Behälter getroffen hast?\r\nSchafft ihr es zu zweit, gleichzeitig in den Behälter zu treffen?\r\nWelche Behälter könnten wir noch als Ziele nehmen?",
+            "PDF": "Wirf die Bälle der Reihe nach (von groß zu klein) in die Behälter."
 		},
 		"THROWING_OFF": {
 			"MOBAK": "Etwas Bewegen",
@@ -980,7 +1049,8 @@
 			"MATERIALS": "Turnkästen, Tücher, verschiedene Bälle",
 			"VARIATIONS": "Befestige Tücher und Reifen an der Wand. Versuche dann ein Tuch zu treffen oder in einen Reifen zu zielen.\r\nBeziehe Wurfvarianten mit ein, wirf z. B. von unten, beidhändig, überkopf etc.\r\nLass die Tücher schneller herunterfallen (Kind auf Turnkasten).\r\nVergrössere oder verkleinere den Abstand zum Ziel.\r\nLass verschiedene Gegenstände herunterfallen (Kind auf Turnkasten).\r\nSetze verschiedene Bälle ein.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wann wirfst du den Ball, damit du das Tuch triffst?\r\nWie verändert sich dein Wurf, wenn du die Armposition veränderst?",
-			"WILLINGNESS": "Gelingt es dir, zwei Tücher gleichzeitig zu treffen?\r\nWorauf schaust du, wenn du das Tuch fallen lässt, damit das andere Kind es gut treffen kann?"
+			"WILLINGNESS": "Gelingt es dir, zwei Tücher gleichzeitig zu treffen?\r\nWorauf schaust du, wenn du das Tuch fallen lässt, damit das andere Kind es gut treffen kann?",
+            "PDF": "Triff die Tücher bevor sie am Boden sind."
 		},
 		"DICE": {
 			"MOBAK": "Etwas Bewegen",
@@ -990,7 +1060,8 @@
 			"MATERIALS": "Verschiedene Bälle, Turnkasten, Langbank, Würfel",
 			"VARIATIONS": "Vergrößere oder verkleinere die Zielbereiche.\r\nBeziehe Wurfvarianten mit ein, wirf z. B. von unten, beidhändig, überkopf etc.\r\nVergrößere oder verkleinere die Distanz zu den Zielen.\r\nSetze verschiedene Bälle ein.\r\nTriff alle sechs Zahlen zweimal mit einem Ball.\r\nSetze ein Zeitlimit, um die sechs Zahlen zu treffen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was veränderst du, wenn du die 1 oder 6 treffen sollst?\r\nWie gelingt es dir am besten, die Zahlen zu treffen?",
-			"WILLINGNESS": "Wie verändert sich die Aufgabe für dich, wenn du ein Zeitlimit hast, um alle Nummern einmal zu treffen?\r\nTriffst du die Zahlen auch, wenn du mit der anderen Hand wirfst?"
+			"WILLINGNESS": "Wie verändert sich die Aufgabe für dich, wenn du ein Zeitlimit hast, um alle Nummern einmal zu treffen?\r\nTriffst du die Zahlen auch, wenn du mit der anderen Hand wirfst?",
+            "PDF": "Würfle und ziele auf die Zahl, die der Würfel anzeigt."
 		},
 		"ENCHANT_AND_REDEEM": {
 			"MOBAK": "Etwas Bewegen",
@@ -1000,7 +1071,8 @@
 			"MATERIALS": "Weiche Bälle",
 			"VARIATIONS": "Rolle mit einem großen Ball.\r\nStellt zwei Fänger:innen in ein größeres Feld, in dem es Schutzmaßnahmen gibt, wie Kästen usw. Ein Kind kann eine Schutzmaßnahme nur solange in Anspruch nehmen, um eine Pause einzulegen, bis ein anderes Kind Schutz sucht.\r\nSucht gemeinsam andere Möglichkeiten zum Verzaubern oder Erlösen.\r\nVerändert das Spiel mit euren Ideen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Worauf achtest du, wenn du ein Kind mit dem Ball treffen möchtest?\r\nWie wirfst du den Ball, damit du die Beine der Kinder triffst?",
-			"WILLINGNESS": "Mit welchen neuen Regeln würde das Spiel für dich (noch) mehr Spaß machen?\r\nWie verändert sich das Spiel für dich, wenn mehr Fänger fangen?\r\nMagst du das Spiel? Warum?"
+			"WILLINGNESS": "Mit welchen neuen Regeln würde das Spiel für dich (noch) mehr Spaß machen?\r\nWie verändert sich das Spiel für dich, wenn mehr Fänger fangen?\r\nMagst du das Spiel? Warum?",
+            "PDF": "Gruppe: Ein Kind versucht die anderen mit einem Ball zu treffen. Wer getroffen wird stellt sich mit gegrätschten Beinen hin. Erlöst wird man, indem jemand unter den Beinen durchkriecht."
 		},
 		"THROWING_HOOPS": {
 			"MOBAK": "Etwas Bewegen",
@@ -1010,7 +1082,8 @@
 			"MATERIALS": "Hütchen, Reifen",
 			"VARIATIONS": "Wirf mit geschlossenen Augen.\r\nVerändere die Ausgangsposition (z. B. Hockposition, Sitzposition, Drehbewegung).\r\nVergrößere oder verkleinere den Abstand zu dem Hütchen.\r\nWirf aus unterschiedlichen Richtungen (von unten, oben, seitwärts).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was änderst du, wenn du einen Reifen oder einen Ball wirfst?\r\nWie stellst du dich am besten hin, um den Kegel zu treffen?",
-			"WILLINGNESS": "Welches ist die größte Entfernung, aus der du den Kegel sicher triffst?\r\nWie fühlt es sich an, den Reifen mit geschlossenen Augen zu werfen?\r\nGelingt es dir, den Kegel mit geschlossenen Augen zu treffen?\r\n"
+			"WILLINGNESS": "Welches ist die größte Entfernung, aus der du den Kegel sicher triffst?\r\nWie fühlt es sich an, den Reifen mit geschlossenen Augen zu werfen?\r\nGelingt es dir, den Kegel mit geschlossenen Augen zu treffen?\r\n",
+            "PDF": "Wirf den Reifen um das Hütchen."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Etwas Bewegen",
@@ -1020,7 +1093,8 @@
 			"MATERIALS": "Reifen, verschiedene Bälle",
 			"VARIATIONS": "Halte zwei Reifen (Kind C).\r\nRolle und fange den Ball wieder selbst auf der anderen Seite auf (Kind A), sodass du die Übung nur mit einem anderen Kind durchführst, das den Reifen hält.\r\nSchieße den Ball mit dem Fuß.\r\nVergrößert die Gruppe, indem alle Kinder sich mit je einem Ball auf der Längsseite der Turnhalle aufstellen. Versucht, einen Gymnastikball oder einen Reifen, der von der Lehrkraft oder einem Kind durch die Halle gerollt wird, mit eurem Ball zu treffen (rollen, werfen oder durch den Reifen schießen).\r\nSpiele den Ball mit einem Schläger durch den Reifen.\r\nRolle den Ball mit der Hand.\r\nRollt den Reifen durch die Halle und werft, spielt oder rollt den Ball durch den Reifen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir, durch den Reifen zu rollen?\r\nWas änderst du mit deinen Armen, wenn du den Ball wirfst, anstatt ihn zu rollen?",
-			"WILLINGNESS": "Wie kannst du den Ball noch durch den Reifen rollen/spielen?\r\nWelche der Varianten macht dir am meisten Spaß und warum?\r\nWie viele Male hintereinander kannst du den Ball fangen? Setze dir ein Ziel und versuche, es zu erreichen.\r\n"
+			"WILLINGNESS": "Wie kannst du den Ball noch durch den Reifen rollen/spielen?\r\nWelche der Varianten macht dir am meisten Spaß und warum?\r\nWie viele Male hintereinander kannst du den Ball fangen? Setze dir ein Ziel und versuche, es zu erreichen.\r\n",
+            "PDF": "Zu Dritt: Ein Kind hält einen Reifen. Die anderen beiden rollen sich einen Ball durch den Reifen zu."
 		},
 		"TIGER_BALL": {
 			"MOBAK": "Etwas Bewegen",
@@ -1030,7 +1104,8 @@
 			"MATERIALS": "Verschiedene Bälle",
 			"VARIATIONS": "Spielt mit zwei (verschiedenen) Bällen gleichzeitig.\r\nVergrößert nach und nach den Kreis.\r\nVariiere die Passhöhe.\r\nBeziehe Wurfvarianten mit ein, wirf z. B. von unten, beidhändig, überkopf, Prellwurf etc.\r\nSpiele den Ball nicht direkt zum Kind neben dir.\r\nRolle den Ball dem nächsten Kind zu.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir am besten, den Ball zu fangen wenn du in der Mitte stehts?\r\nWie spielst du den Ball einem anderen Kind zu, damit das Kind in der Mitte diesen nicht fangen kann?",
-			"WILLINGNESS": "Wie macht das Spiel am meisten Spaß?\r\nWie reagierst du, wenn du merkst, dass das Kind in der Mitte den Ball nicht fangen kann?\r\nWie spielt ihr zusammen, damit das Kind in der Mitte den Ball nicht fangen kann?"
+			"WILLINGNESS": "Wie macht das Spiel am meisten Spaß?\r\nWie reagierst du, wenn du merkst, dass das Kind in der Mitte den Ball nicht fangen kann?\r\nWie spielt ihr zusammen, damit das Kind in der Mitte den Ball nicht fangen kann?",
+            "PDF": "Gruppe: Ein Kind steht in der Mitte des Kreises. Die anderen spielen sich den Ball zu. Das Kind in der Mitte versucht den Ball zu fangen. Rollentausch."
 		},
 		"BOXING": {
 			"MOBAK": "Etwas Bewegen",
@@ -1040,7 +1115,8 @@
 			"MATERIALS": "Verschiedene Bälle",
 			"VARIATIONS": "Setze verschiedene Bälle ein.\r\nVerändere den Abstand.\r\nVariiere die Zuspielhöhe (Kind A).\r\nBeziehe Wurfvarianten mit ein, wirf z. B. von unten, beidhändig, überkopf etc.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie kannst du den Ball zielgenau werfen?\r\nWorauf achtest du, damit du den Ball gut fangen kannst?",
-			"WILLINGNESS": "Wie oft hintereinander schafft ihr es, den Ball in unterschiedlichen Entfernungen wieder zu fangen?\r\nWie schafft ihr es, die Aufgabe gemeinsam zu lösen?\r\nSchafft ihr es, den Ball aus verschiedenen Abständen zu fangen?"
+			"WILLINGNESS": "Wie oft hintereinander schafft ihr es, den Ball in unterschiedlichen Entfernungen wieder zu fangen?\r\nWie schafft ihr es, die Aufgabe gemeinsam zu lösen?\r\nSchafft ihr es, den Ball aus verschiedenen Abständen zu fangen?",
+            "PDF": "Zu Zweit: Ein Kind hat einen Ball in der Hand und spielt den zugeworfenen Ball damit zurück."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Etwas Bewegen",
@@ -1050,7 +1126,8 @@
 			"MATERIALS": "Verschiedene Bälle",
 			"VARIATIONS": "Wirf dir den Ball mit nur einem anderen Kind zu.\r\nVerändert die Aufstellung von einem Kreis zu anderen Formen (z. B. Quadrat, Dreieck, Ellipse).\r\nWechsle nach dem Pass an die Stelle, zu der du gepasst hast.\r\nBeziehe Wurfvarianten mit ein, wirf z. B. von unten, beidhändig, überkopf etc.\r\nRolle den Ball mit deiner Hand, schieße mit deinem Fuß oder spiele mit dem Schläger.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie bereitest du dich vor, damit du den Ball gut fangen kannst?\r\nWorauf achtest du, wenn der Ball zu dir fliegt?\r\nWieso hilft es, wenn du das Kind anschaust, dem du den Ball zuspielen willst?\r\n",
-			"WILLINGNESS": "Gelingt es uns, dass jedes Kind im Kreis einmal den Ball fängt, ohne dass er den Boden berührt?\r\nWie funktioniert das Werfen und Fangen des Balls im Kreis am schnellsten?"
+			"WILLINGNESS": "Gelingt es uns, dass jedes Kind im Kreis einmal den Ball fängt, ohne dass er den Boden berührt?\r\nWie funktioniert das Werfen und Fangen des Balls im Kreis am schnellsten?",
+            "PDF": "Gruppe: Stellt euch in einen Kreis und spielt einander den Ball zu. Doppelpässe sind nicht erlaubt."
 		},
 		"WILD_PIG": {
 			"MOBAK": "Etwas Bewegen",
@@ -1060,7 +1137,8 @@
 			"MATERIALS": "Medizinball, Langbank, Tennisbälle ",
 			"VARIATIONS": "Probiere unterschiedliche Wurfarten aus.\r\nLegt einen Basketball oder Softball in die Mitte als (\"wilde Sau\").\r\nVerändert den Abstand der Langbänke.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mit welcher Wurftechnik gelingt es dir am besten, die \"wilde Sau\" zu treffen?\r\nWie stellst du dich hin um möglichst genau zu werfen?",
-			"WILLINGNESS": "Hast du eine Idee, wie das Spiel spannender gestaltet werden könnte?\r\nWie fühlst du dich wenn dein Team gewinnt?"
+			"WILLINGNESS": "Hast du eine Idee, wie das Spiel spannender gestaltet werden könnte?\r\nWie fühlst du dich wenn dein Team gewinnt?",
+            "PDF": "Gruppe: Bildet zwei Teams. Jedes Team versucht den Ball in der Mitte gegen die gegnerische Bank zu treiben."
 		},
 		"DISTANCE_THROWING": {
 			"MOBAK": "Etwas Bewegen",
@@ -1070,7 +1148,8 @@
 			"MATERIALS": "Bälle",
 			"VARIATIONS": "Verändert den Abstand nach jedem Wurf.\r\nProbiert verschiedene Wurfarten aus.\r\nNehmt verschiedene Bälle.\r\nRollt den Ball.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was veränderst du beim Werfen wenn das andere Kind näher bei dir steht?\r\nWie kannst du einen Ball möglichst weit und genau werfen?",
-			"WILLINGNESS": "Auf welche Arten kannst du den Ball werfen?\r\nWieviele Würfe schafft ihr ohne dass der Ball auf den Boden fällt?\r\nWelches ist die weiteste Distanz über die du den Ball dem anderen Kind zuwerfen kannst?"
+			"WILLINGNESS": "Auf welche Arten kannst du den Ball werfen?\r\nWieviele Würfe schafft ihr ohne dass der Ball auf den Boden fällt?\r\nWelches ist die weiteste Distanz über die du den Ball dem anderen Kind zuwerfen kannst?",
+            "PDF": "Zu Zweit: Passt euch den Ball über verschiedene Distanzen zu."
 		}
 	},
 	"bouncing": "bouncing",
@@ -1083,7 +1162,8 @@
 			"MATERIALS": "Verschiedene Bälle, Reifen, Tapeband (um das Quadrat zu markieren)",
 			"VARIATIONS": "Verändere die Größe des Quadrats.\r\nVerwende verschiedene Bälle.\r\nSetze ein Zeitlimit, um die Aufgabe zu erfüllen.\r\nVerändere die Anzahl der Reifen.\r\nÄndere die Anordnung der Reifen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie kannst du den Ball am besten Prellen?\r\nPrellst du jeden Ball auf dieselbe Art?\r\n",
-			"WILLINGNESS": "Gelingt es dir, im nächsten Reifen weiter zu prellen, ohne den Ball zu stoppen?\r\nWie fühlt es sich an, die Aufgabe mit einem Zeitlimit zu machen?"
+			"WILLINGNESS": "Gelingt es dir, im nächsten Reifen weiter zu prellen, ohne den Ball zu stoppen?\r\nWie fühlt es sich an, die Aufgabe mit einem Zeitlimit zu machen?",
+            "PDF": "Prelle 5x in den Reifen."
 		},
 		"BOUNCING_STATIONS": {
 			"MOBAK": "Etwas Bewegen",
@@ -1093,7 +1173,8 @@
 			"MATERIALS": "Verschiedene Bälle, evtl. Langbänke",
 			"VARIATIONS": "Gehe durch die Halle und prelle den Ball, ohne ihn zu verlieren (nutze die linke und rechte Hand).\r\nPrelle den Ball ohne Unterbrechung um deinen Körper herum.\r\nPrelle im Stand mit zwei Bällen, ohne diese zu verlieren.\r\nGehe auf einer Langbank, während du einen Ball auf dem Boden oder auf der Bank prellst (anschließend zwei Bälle gleichzeitig).\r\nZwei Langbänke stehen nebeneinander in einem Abstand von 20cm. Gehe auf den beiden Bänken, während du einen Ball auf dem Boden oder auf einer der Langbänke prellst (anschließend zwei Bälle gleichzeitig).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was ändert sich, wenn du nahe am Körper oder mit nach vorne gestrecktem Arm prellst?\r\nWelche Teile deiner Hände berühren den Ball beim Prellen?",
-			"WILLINGNESS": "Kannst du mit einem anderen Kind gleichzeitig Prellen? Wie fühlt sich das an?\r\nSetze dir ein konkretes Ziel: Wie oft möchtest du hintereinander prellen? Fühlt es sich anders an als das Prellen ohne Ziel und wenn ja, inwiefern?\r\nGelingt es dir, einen Rhythmus zu prellen?"
+			"WILLINGNESS": "Kannst du mit einem anderen Kind gleichzeitig Prellen? Wie fühlt sich das an?\r\nSetze dir ein konkretes Ziel: Wie oft möchtest du hintereinander prellen? Fühlt es sich anders an als das Prellen ohne Ziel und wenn ja, inwiefern?\r\nGelingt es dir, einen Rhythmus zu prellen?",
+            "PDF": "Prelle mit beiden Händen."
 		},
 		"BOUNCING_OVER_CONES": {
 			"MOBAK": "Etwas Bewegen",
@@ -1103,7 +1184,8 @@
 			"MATERIALS": "Verschiedene Bälle, Hütchen",
 			"VARIATIONS": "Wirf den Ball aus dem Prellen heraus beidhändig über das Hütchen.\r\nPrelle abwechselnd mit der linken und rechten Hand.\r\nPrelle auf das Hütchen zu, prelle kurz davor den Ball senkrecht auf den Boden, laufe um das Hütchen und prelle dann weiter.\r\nVerwende verschiedene Bälle.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir, mit dem Ball prellend vorwärts zu gehen?\r\nWie kannst du den Ball am besten kontrollieren?",
-			"WILLINGNESS": "Gelingt es dir, abwechselnd mit der linken und der rechten Hand zu prellen?\r\nWie sicher kannst du den Ball hinter dem Hütchen wieder fangen (1: gar nicht, 5: sehr gut)?\r\nWie verändert sich das Prellen für dich, wenn andere Kinder dich beobachten?"
+			"WILLINGNESS": "Gelingt es dir, abwechselnd mit der linken und der rechten Hand zu prellen?\r\nWie sicher kannst du den Ball hinter dem Hütchen wieder fangen (1: gar nicht, 5: sehr gut)?\r\nWie verändert sich das Prellen für dich, wenn andere Kinder dich beobachten?",
+            "PDF": "Überprelle das Hütchen mit dem Ball."
 		},
 		"SEAT_BOUNCING": {
 			"MOBAK": "Etwas Bewegen",
@@ -1113,7 +1195,8 @@
 			"MATERIALS": "Verschiedene Bälle, Hütchen",
 			"VARIATIONS": "Prelle abwechselnd links und rechts.\r\nUmlaufe die Hütchen vor dem Absetzen einmal prellend.\r\nPrelle auf die Hütchen zu, stelle einen Fuß auf die Hütchenspitze, prelle dreimal und setze dann den Fuß wieder ab.\r\nZähle, wer am Ende der Spielzeit die meisten Punkte  erreicht hat (1 Punkt für jedes korrekte, insgesamt sechsmalige Prellen auf einem Hütchen sitzend).\r\nVerwende verschiedene Bälle.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was ändert sich in deiner Bewegung, wenn sich der Abstand zwischen Boden und Hand verändert?\r\nWas machst du, damit du nach dem Sprung gut weiterprellen kannst?\r\n",
-			"WILLINGNESS": "Gelingt es dir auch, prellend auf den Boden zu sitzen?\r\nStell dir vor, du bist ein Tier deiner Wahl (z. B. ein Affe, eine Schlange, ein Vogel) und versuche, wie dieses Tier zu prellen! Wie fühlst du dich, wenn du wie ein Tier prellst?\r\nWenn du ein Kind siehst, dem dies nicht gelingt, welche Tipps kannst du ihm geben?"
+			"WILLINGNESS": "Gelingt es dir auch, prellend auf den Boden zu sitzen?\r\nStell dir vor, du bist ein Tier deiner Wahl (z. B. ein Affe, eine Schlange, ein Vogel) und versuche, wie dieses Tier zu prellen! Wie fühlst du dich, wenn du wie ein Tier prellst?\r\nWenn du ein Kind siehst, dem dies nicht gelingt, welche Tipps kannst du ihm geben?",
+            "PDF": "Springe mit einer Grätsche über das Hütchen. Setz dich auf das Hütchen und prelle 3x mit der linken und 3x mit der rechten Hand. Geh zum nächsten Hütchen."
 		},
 		"NUMBERBALL_BOUNCING": {
 			"MOBAK": "Etwas Bewegen",
@@ -1123,7 +1206,8 @@
 			"MATERIALS": "Bälle, Hütchen, Korb",
 			"VARIATIONS": "Verändert das Hütchentor.\r\nPlaziert Hindernisse unter dem Korb.\r\nEinige Kinder des gegnerischen Teams dürfen nach dem Zurufen versuchen der entsprechenden Nummer den Ball wegzuschlagen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir schneller beim Korb zu sein als das Kind aus dem anderen Team?\r\nWohin richtest du deinen Blick beim Prellen im Spielfeld?",
-			"WILLINGNESS": "Wie könnte Kindern geholfen werden, die Mühe haben, den Ball zu prellen?\r\nHast du eine Idee, wie man das Spiel spannender gestalten könnte?"
+			"WILLINGNESS": "Wie könnte Kindern geholfen werden, die Mühe haben, den Ball zu prellen?\r\nHast du eine Idee, wie man das Spiel spannender gestalten könnte?",
+            "PDF": "Durchprelle das Hütchentor und wirf auf den Korb wenn deine Nummer aufgerufen wird."
 		},
 		"SURROUNDING_HOOPS_WHILE_BOUNCING": {
 			"MOBAK": "Etwas Bewegen",
@@ -1133,7 +1217,8 @@
 			"MATERIALS": "Hütchen, Gymnastikreifen, Kastenoberteil, 1 Ball je Kind",
 			"VARIATIONS": "Laufe mit je einem Fußkontakt durch die zwei Reifen und prelle rechts und links daneben.\r\nVerändere den Reifenabstand.\r\nPrelle um die zwei Reifen mit Nachstellschritten (bzw. im Schlusssprung) in einem Doppelbogen/mit einer ganzen Drehung (1 x rechts- und 1x linksherum).\r\nBaue dir einen anderen Prell-Parcours.\r\nVerwende verschiedene Bälle.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingen dir schnelle Richtungswechsel beim Prellen?\r\nIst es einfacher den Ball auf dem Boden oder auf dem Schwedenkastenoberteil zu prellen?",
-			"WILLINGNESS": "Welche Ideen hast du um den Prellparcours zu verändern, damit es mehr Spaß macht?\r\nTrete gegen einen Freund an - wer schafft den Prellparcours schneller?"
+			"WILLINGNESS": "Welche Ideen hast du um den Prellparcours zu verändern, damit es mehr Spaß macht?\r\nTrete gegen einen Freund an - wer schafft den Prellparcours schneller?",
+            "PDF": "Laufe prellend durch den Parcours."
 		},
 		"SHADOW_BOUNCING": {
 			"MOBAK": "Etwas Bewegen",
@@ -1143,7 +1228,8 @@
 			"MATERIALS": "Bälle, evtl. Geräte als Hindernisse",
 			"VARIATIONS": "Platziert Gegenstände in der Halle, die umprellt werden müssen.\r\nWechselt die Rollen nach dem dritten Richtungswechsel.\r\nVerwendet verschiedene Bälle.\r\nNutzt beide Hände um zu prellen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir, möglichst schnell auf Kind A zu reagieren?\r\nWohin richtest du deinen Blick, wenn du das Schattenkind bist?",
-			"WILLINGNESS": "Wie kannst du als Kind A handeln, damit Kind B gut folgen kann?\r\nStell dir als Kind A vor, du bist ein Tier - wie prellst du? Kann Kind B erraten, welches Tier vorangeht?"
+			"WILLINGNESS": "Wie kannst du als Kind A handeln, damit Kind B gut folgen kann?\r\nStell dir als Kind A vor, du bist ein Tier - wie prellst du? Kann Kind B erraten, welches Tier vorangeht?",
+            "PDF": "Zu zweit: Ein Kind geht prellend voraus, das andere folgt."
 		},
 		"BENCH_BOUNCING": {
 			"MOBAK": "Etwas Bewegen",
@@ -1153,7 +1239,8 @@
 			"MATERIALS": "Bälle, Langbänke",
 			"VARIATIONS": "Prelle auf der Bank.\r\nVerwende verschiedene Bälle.\r\nVerwende weitere Geräte (Matten, Kanstendeckel) um darauf zu gehen und daneben zu prellen.\r\nLaufe rückwärts und prelle den Ball neben der Bank.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was musst du beim Prellen ändern, damit es dir gelingt neben der Bank zu prellen?\r\nWie gelingt es dir zu Prellen und nicht von der Bank zu fallen?",
-			"WILLINGNESS": "Welche Geräte könnten noch verwendet werden um darauf zu prellen?\r\nGelingt es dir mit geschlossenen Augen über die Bank zu gehen und zu prellen?"
+			"WILLINGNESS": "Welche Geräte könnten noch verwendet werden um darauf zu prellen?\r\nGelingt es dir mit geschlossenen Augen über die Bank zu gehen und zu prellen?",
+            "PDF": "Geh über die Langbank und prelle den Ball neben der Bank."
 		},
 		"CIRCLE_BOUNCING": {
 			"MOBAK": "Etwas Bewegen",
@@ -1163,7 +1250,8 @@
 			"MATERIALS": "Bälle",
 			"VARIATIONS": "Prelle den Ball in die andere Richtung.\r\nVersuche in einer anderen Körperlage um dich herum zu prellen.\r\nVersuche eine Acht um deinen Körper zu machen. Prelle dazu in der Mitte den Ball zwischen deinen Beinen hindurch.\r\nVerwende verschiedene Bälle.\r\nDrehe dich auch im Kreis und prelle so den Ball.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Kannst du mit der linken oder rechten Hand besser Prellen? Beschreibe wieso?\r\nWohin richtest du deinen Blick um den Ball nicht zu verlieren?",
-			"WILLINGNESS": "Mit welchem Ball gelingt es dir am Besten?\r\nWelche Idee hast du um die Aufgabe für dich schwieriger oder einfacher zu machen?"
+			"WILLINGNESS": "Mit welchem Ball gelingt es dir am Besten?\r\nWelche Idee hast du um die Aufgabe für dich schwieriger oder einfacher zu machen?",
+            "PDF": "Prelle den den Ball im Kreis um dich herum."
 		},
 		"BOUNCING_IN_DIFFERENT_POSITIONS": {
 			"MOBAK": "Etwas Bewegen",
@@ -1173,7 +1261,8 @@
 			"MATERIALS": "Bälle",
 			"VARIATIONS": "Lege dich prellend hin und stehe wieder auf.\r\nProbiere andere Körperpositionen während des Prellens aus.\r\nPrelle mit dern anderen Hand.\r\nPrelle beim Hinsetzen mit der rechten Hand, prelle dann um deine Füsse und stehe auf während du mit der linken Hand prellst.\r\nVerwende zwei (verschiedene) Bälle gleichzeitig.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was musst du ändern beim Prellen, damit du beim Hinsetzen den Ball nicht verlierst?\r\nWie hälst du deine Hand beim Prellen?",
-			"WILLINGNESS": "Kannst du einem anderen Kind erklären wie es im Sitzen am besten prellt?\r\nKannst du im Liegen auch die Hand wechseln beim Prellen? - Wie gelingt dir das am besten?\r\n"
+			"WILLINGNESS": "Kannst du einem anderen Kind erklären wie es im Sitzen am besten prellt?\r\nKannst du im Liegen auch die Hand wechseln beim Prellen? - Wie gelingt dir das am besten?\r\n",
+            "PDF": "Prelle den Ball, setz dich dabei auf den Boden und steh wieder auf."
 		}
 	},
 	"dribbling": "dribbling",
@@ -1186,7 +1275,8 @@
 			"MATERIALS": "Fußbälle",
 			"VARIATIONS": "Setze verschiedene Bälle ein.\r\nStelle ein Hindernis vor die Wand.\r\nNutze unterschiedliche Schussarten (z. B. flach, hoch, \r\nInnenseite, Spann).\r\nVariiere den Abstand zur Wand (Winkel, Entfernung).\r\nNutze eine unebene Fläche (Sprossen-, Kastenwand).\r\nVariiere die Größe der Stoppzone.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mit welchem Teil des Fußes gelingt dir der Schuss am besten?\r\nWie hältst du den Fuß am besten, um den Ball zu stoppen?",
-			"WILLINGNESS": "Wie könntest du den Ball noch mit dem Fuß an die Wand spielen?\r\nWelches ist die längste Distanz in der dir das Stoppen sicher gelingt?\r\nFordere dich heraus: Wie oft kannst du den Ball in Folge an die Wand passen und stoppen, ohne ihn zu verlieren?"
+			"WILLINGNESS": "Wie könntest du den Ball noch mit dem Fuß an die Wand spielen?\r\nWelches ist die längste Distanz in der dir das Stoppen sicher gelingt?\r\nFordere dich heraus: Wie oft kannst du den Ball in Folge an die Wand passen und stoppen, ohne ihn zu verlieren?",
+            "PDF": "Schieße den Ball gegen eine Wand und stoppe den zurückspringenden Ball mit dem Fuß."
 		},
 		"LINE_DRIBBLING": {
 			"MOBAK": "Etwas Bewegen",
@@ -1196,7 +1286,8 @@
 			"MATERIALS": "Bälle",
 			"VARIATIONS": "Setze verschiedene Bälle ein.\r\nSpiele den Ball entlang der vier Linien des Volleyballfelds, ohne ihn zu verlieren.\r\nSuche andere Linien entlang denen du den Ball dribbeln kannst.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Mit welchem Teil des Fußes führst du den Ball?\r\nWorauf achtest du, damit du den Ball nicht verlierst?",
-			"WILLINGNESS": "Kannst du den Ball noch anders mit dem Fuß führen?\r\nGelingt es dir mit beiden Füßen?\r\nWieso ist es gut, wenn du dribbeln kannst?"
+			"WILLINGNESS": "Kannst du den Ball noch anders mit dem Fuß führen?\r\nGelingt es dir mit beiden Füßen?\r\nWieso ist es gut, wenn du dribbeln kannst?",
+            "PDF": "Dribbele den Ball über die gesamte Länge der Halle."
 		},
 		"WALL_OFF": {
 			"MOBAK": "Etwas Bewegen",
@@ -1206,7 +1297,8 @@
 			"MATERIALS": "Bälle",
 			"VARIATIONS": "Spiele den Ball zehnmal mit deinem Fuß zu einem anderen Kind, ohne ihn zu verlieren.\r\nSpiele den Ball aus dem Lauf heraus zehnmal mit deinem Fuß zu einem anderen Kind, ohne ihn zu verlieren.\r\nSetze verschiedene Bälle ein.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir, dass der Ball immer zu dir zurück kommt?\r\nWie stellst du dich am besten zur Wand?",
-			"WILLINGNESS": "Gelingt es euch, zu zweit einander den Ball über die Wand zuzuspielen?\r\nVersuche, einen Rhythmus zu finden, wenn du den Ball an die Wand spielst - wie fühlt sich das an?\r\nMit welchem Fuß ist die Aufgabe für dich leichter? Was denkst du, warum ist das so?"
+			"WILLINGNESS": "Gelingt es euch, zu zweit einander den Ball über die Wand zuzuspielen?\r\nVersuche, einen Rhythmus zu finden, wenn du den Ball an die Wand spielst - wie fühlt sich das an?\r\nMit welchem Fuß ist die Aufgabe für dich leichter? Was denkst du, warum ist das so?",
+            "PDF": "Spiele den Ball zehnmal aus kurzer Distanz gegen die Wand."
 		},
 		"LIFT_BALL": {
 			"MOBAK": "Etwas Bewegen",
@@ -1216,7 +1308,8 @@
 			"MATERIALS": "Langbänke, Bälle",
 			"VARIATIONS": "Setze verschiedene Bälle ein.\r\nWähle verschiedene Ziele.\r\nHeb den Ball mit dem anderen Fuß.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie kannst du den Ball mit dem Fuß heben?\r\nWas veränderst du, um aus einer weiteren Distanz den Ball über die Langbank zu heben?",
-			"WILLINGNESS": "Aus welcher Distanz gelingt es dir gut?\r\nBeobachte andere Kinder - kannst du ihnen helfen, damit ihnen die Aufgabe gelingt?\r\nÜber welche weiteren Geräte kannst du den Ball heben?\r\n"
+			"WILLINGNESS": "Aus welcher Distanz gelingt es dir gut?\r\nBeobachte andere Kinder - kannst du ihnen helfen, damit ihnen die Aufgabe gelingt?\r\nÜber welche weiteren Geräte kannst du den Ball heben?\r\n",
+            "PDF": "Hebe den Ball 5x mit einem Fuß in das Langbank-Quadrat."
 		},
 		"DRIBBLING_1": {
 			"MOBAK": "Etwas Bewegen ",
@@ -1226,7 +1319,8 @@
 			"MATERIALS": "Bälle",
 			"VARIATIONS": "Übergib den Ball beim Zusammentreffen in der Mitte.\r\nDribble den Ball nur bis zur Mitte der Turnhalle,  passe ihn dann zu einem anderen Kind, das auf der gegenüberliegenden Seite wartet.\r\nDribble so schnell wie möglich zur anderen Seite.\r\nDribble nicht direkt auf die andere Seite, sondern  quer durch die Turnhalle (achte darauf, nicht in andere Kinder hineinzulaufen).\r\nSetze verschiedene Bälle ein.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt dir das Dribbeln am besten?\r\nWohin richtest du deinen Blick beim Dribbeln?\r\nWieso ist es deiner Meinung nach einfacher, ohne Ball zu laufen?",
-			"WILLINGNESS": "Versucht, euch in der Mitte der Strecke gegenseitig ein High Five zu geben, wenn ihr aneinander vorbeilauft!\r\nWie kannst du deinem Partner bei dieser Aufgabe am besten helfen?\r\nKönnt ihr zu zweit gleichzeitig dribbeln?"
+			"WILLINGNESS": "Versucht, euch in der Mitte der Strecke gegenseitig ein High Five zu geben, wenn ihr aneinander vorbeilauft!\r\nWie kannst du deinem Partner bei dieser Aufgabe am besten helfen?\r\nKönnt ihr zu zweit gleichzeitig dribbeln?",
+            "PDF": "Zu Zweit: Ein Kind hat den Ball. Lauft aufeinander zu. Das Kind mit dem Ball dribbelt. Wechselt die Rollen nach 5 Durchgängen."
 		},
 		"DRIBBLING_2": {
 			"MOBAK": "Etwas Bewegen",
@@ -1236,7 +1330,8 @@
 			"MATERIALS": "Gymnastikmatten, Hütchen, Bälle",
 			"VARIATIONS": "Verändere den Slalom-Parcours.\r\nSetze verschiedene Bälle ein.\r\nSetze ein Zeitlimit, in dem die Aufgabe durchgeführt werden soll.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie kannst du beim Dribbeln am besten die Richtung wechseln?\r\nBeobachte, ob du immer denselben Fuß benutzt - wenn nicht, wann benutzt du den anderen?\r\nDribbelst du immer mit dem selben Fuß? Wieso?",
-			"WILLINGNESS": "Gestalte deinen eigenen Parcours mit den Kegeln und dribbel um sie herum - wessen Parcours macht am meisten Spaß?\r\nKannst du einem anderen Kind dribbelnd durch den Slalom folgen?"
+			"WILLINGNESS": "Gestalte deinen eigenen Parcours mit den Kegeln und dribbel um sie herum - wessen Parcours macht am meisten Spaß?\r\nKannst du einem anderen Kind dribbelnd durch den Slalom folgen?",
+            "PDF": "Dribbele mit einem Ball durch den Slalom­-Parcours und schließe mit einem Torschuss ab."
 		},
 		"IN_THE_LAND_OF_SHELLS_1": {
 			"MOBAK": "Etwas Bewegen",
@@ -1246,7 +1341,8 @@
 			"MATERIALS": "Verschiedene Bälle, Seile (oder Gymnastikreifen)",
 			"VARIATIONS": "Umkreise die Muscheln in einer vorgegebenen Reihenfolge.\r\nStoppt die Zeit und vergleicht sie mit deiner Zeit in vorangehenden Versuchen.\r\nSetze verschiedene Bälle ein.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir am besten, eine Muschel zu umdribbeln?\r\nWelchen Weg wählst du, wenn du einmal um jede Muschel dribbeln musst?\r\nWie spielst du den Ball mit dem Fuß?",
-			"WILLINGNESS": "Jeder versucht, so leise wie möglich zu sein, um die Muscheln nicht aufzuwecken!\r\nStellt euch vor, ein Tintenfisch zu sein, während ihr um die Muscheln dribbelt - wie fühlt sich das an?\r\nWie fühlt es sich an, wenn du einen anderen Ball nimmst?"
+			"WILLINGNESS": "Jeder versucht, so leise wie möglich zu sein, um die Muscheln nicht aufzuwecken!\r\nStellt euch vor, ein Tintenfisch zu sein, während ihr um die Muscheln dribbelt - wie fühlt sich das an?\r\nWie fühlt es sich an, wenn du einen anderen Ball nimmst?",
+            "PDF": "Dribble den Ball um die auf dem Meeresgrund liegenden „schlafenden“  Muscheln."
 		},
 		"IN_THE_LAND_OF_SHELLS_2": {
 			"MOBAK": "Etwas Bewegen",
@@ -1256,7 +1352,8 @@
 			"MATERIALS": "Verschiedene Bälle, Gymnastikreifen (oder Seile)  ",
 			"VARIATIONS": "Setzt verschiedene Bälle ein.\r\nVersuche, so schnell wie möglich alle Muscheln zu umkreisen.\r\nVergrößert den Raum oder verringert die Anzahl der Krebskinder.\r\nVerändert die Aufgabe der Krebse (z. B. Ball wegschnappen).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie kannst du deinen Ball vor den Krebsen schützen?\r\nWohin richtest du deinen Blick beim Dribbeln um deinen Ball zu schützen?",
-			"WILLINGNESS": "Welchen Weg wählst du, um nicht gezwickt zu werden?\r\nGelingt es dir als Krebs, einem Eindringling den Ball wegzuschnappen?\r\nStell dir vor, du hättest eine magische Kraft, die dir helfen könnte, diese Aufgabe zu meistern. Beschreibe die Kraft, die du wählen würdest, und wie sie dich motivieren würde."
+			"WILLINGNESS": "Welchen Weg wählst du, um nicht gezwickt zu werden?\r\nGelingt es dir als Krebs, einem Eindringling den Ball wegzuschnappen?\r\nStell dir vor, du hättest eine magische Kraft, die dir helfen könnte, diese Aufgabe zu meistern. Beschreibe die Kraft, die du wählen würdest, und wie sie dich motivieren würde.",
+            "PDF": "Dribble den Ball um die auf dem Meeresgrund liegenden „schlafenden“  Muscheln. Lass dich nicht vom Krebs erwischen."
 		},
 		"PROTECT_YOUNG_FISH": {
 			"MOBAK": "Etwas Bewegen",
@@ -1266,7 +1363,8 @@
 			"MATERIALS": "Verschiedene Bälle, Hütchen",
 			"VARIATIONS": "Stellt sicher, dass jedes Kind im Kreis den Ball einmal erhält (z. B. über eine feste Passreihenfolge).\r\nSetzt verschiedene Bälle ein.\r\nNutzt mehrere Bälle gleichzeitig.\r\nOrganisiert die Übung als Wettkampf, indem verschiedene Gruppen einen Kreis bilden und gegeneinander antreten.\r\nNutze jeweils nur einen Fuß.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Was ändert sich, wenn du den Ball mit anderen gemeinsam dribbelst, im Vergleich zum Dribbeln alleine?\r\nWorauf achtest du beim Dribbeln in der Gruppe?",
-			"WILLINGNESS": "Gelingt es euch als Gruppe, mehrere Bälle gleichzeitig zu transportieren?\r\nWie könnt ihr euch in der Gruppe gegenseitig helfen?\r\nVersucht diese Aufgabe als Wettbewerb (mehrere Gruppen machen es gleichzeitig - die schnellste Gruppe gewinnt): Löst du die Aufgabe lieber mit oder ohne Wettbewerb? Warum?"
+			"WILLINGNESS": "Gelingt es euch als Gruppe, mehrere Bälle gleichzeitig zu transportieren?\r\nWie könnt ihr euch in der Gruppe gegenseitig helfen?\r\nVersucht diese Aufgabe als Wettbewerb (mehrere Gruppen machen es gleichzeitig - die schnellste Gruppe gewinnt): Löst du die Aufgabe lieber mit oder ohne Wettbewerb? Warum?",
+            "PDF": "Gruppe: Bildet einen Kreis und fasst euch an den Händen. Transportiert verschiedene Bälle mit den Füßen  zur anderen Hallenseite."
 		},
 		"WITHIN_SHARK_TERRITORY": {
 			"MOBAK": "Etwas Bewegen",
@@ -1276,7 +1374,8 @@
 			"MATERIALS": "Bälle, Seile",
 			"VARIATIONS": "Wer berührt ist, muss eine Zusatzaufgabe lösen (z. B.  den Ball durch einen Slalom-Parcours aus Hütchen führen).\r\nPasst euch zu zweit einen Ball zu und versucht, in das Haifischrevier einzudringen.\r\nVerändert die Aufgabe des Haifischs.\r\nBerühre so schnell wie möglich sechs Kinder.\r\nSetze verschiedene Bälle ein.\r\nWer dringt zuerst fünfmal in das Revier ein?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir am besten, auf die andere Seite zu kommen, ohne vom Haifisch erwischt zu werden?\r\nWie gelingt dir das Dribbeln am besten, wenn du auch auf den Haifisch schaust?",
-			"WILLINGNESS": "Gelingt es dir als Haifisch, den Ball eines Kindes zu schnappen und weiter zu dribbeln?\r\nWie gehst du vor, damit du nicht erwischt wirst?\r\nWann sollte deiner Meinung nach der Haifisch ausgewechselt werden und wieso?"
+			"WILLINGNESS": "Gelingt es dir als Haifisch, den Ball eines Kindes zu schnappen und weiter zu dribbeln?\r\nWie gehst du vor, damit du nicht erwischt wirst?\r\nWann sollte deiner Meinung nach der Haifisch ausgewechselt werden und wieso?",
+            "PDF": "Dribble den Ball am Haifisch vorbei ohne ihn zu verlieren."
 		},
 		"DRIBBLING_VARIATIONS": {
 			"MOBAK": "Etwas Bewegen",
@@ -1286,7 +1385,8 @@
 			"MATERIALS": "Bälle",
 			"VARIATIONS": "Versuche den Ball so zu dribbeln, dass du keine blaue (oder ander Farbe) Linie berührst.\r\nDribble den Ball seitwärts.\r\nDribble den Ball rückwärts.\r\nSuche verschiedene Möglichikeiten um den Ball zu Dribbeln.\r\nStellt Hindernisse in den Weg, die ihr umdribbelt.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie gelingt es dir am besten den Ball zu dribbeln?\r\nWann berührst du den Ball mit welchem Teil des Fußes?",
-			"WILLINGNESS": "Kannst du die Richtung des Dribblings fliessend wechseln?\r\nÜberlege dir eine kleine Dribblingchoreographie und zeige es einem anderen Kind."
+			"WILLINGNESS": "Kannst du die Richtung des Dribblings fliessend wechseln?\r\nÜberlege dir eine kleine Dribblingchoreographie und zeige es einem anderen Kind.",
+            "PDF": "Dribble mit dem Ball durch die Halle."
 		},
 		"DRIBBLING_NUMBER_BALL": {
 			"MOBAK": "Etwas Bewegen",
@@ -1296,7 +1396,8 @@
 			"MATERIALS": "Bälle, Hütchen",
 			"VARIATIONS": "Verwendet verschiedene Bälle.\r\nVerwendet verschiedene Tore.\r\nSpieler der generischen Teams dürfen den Ball wegschießen.\r\nSpielt ohne gegnerisches Team.\r\nSpielt das Spiel zu zweit: wer hat auf Kommando zuerst ein Tor geschoßen?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wie kannst du den Ball am besten um die Hütchen dribbeln?\r\nWie kannst du schneller sein als das Kind aus dem gegnerischen Team?",
-			"WILLINGNESS": "Wie fühlt es sich für dich an, wenn das andere Kind schneller ist?\r\nStellt Euch vor, ihr wärt ein Tier. Wie würde ein Pinguin, Tiger, Elefant etc. den Ball um die Hütchen dribbeln?"
+			"WILLINGNESS": "Wie fühlt es sich für dich an, wenn das andere Kind schneller ist?\r\nStellt Euch vor, ihr wärt ein Tier. Wie würde ein Pinguin, Tiger, Elefant etc. den Ball um die Hütchen dribbeln?",
+            "PDF": "Dribble um das Pylonentor und schieße auf das Zieltor wenn deine Nummer aufgerufen wird."
 		},
 		"PROTECTING_PERSON_DRIBBLING": {
 			"MOBAK": "Etwas Bewegen",
@@ -1306,7 +1407,8 @@
 			"WILLINGNESS": "Was machst du als Kind A damit die anderen Kinder dir folgen können?\r\nWelchen Tipp kannst du einem anderen Kind geben, welches Mühe hat Kind A zu folgen?",
 			"QUALIFICATION": "Dribbeln",
 			"MATERIALS": "Bälle",
-			"VARIATIONS": "Kind A schaut zur Gruppe und die Kinder imitieren die Bewegung als „Spiegel\""
+			"VARIATIONS": "Kind A schaut zur Gruppe und die Kinder imitieren die Bewegung als „Spiegel\"",
+            "PDF": "Gruppe: Ein Kind dribbelt voraus und die anderen folgen ihm."
 		}
 	},
 	"PDF_TESTRESULT": {

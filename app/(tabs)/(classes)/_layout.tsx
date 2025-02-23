@@ -20,7 +20,7 @@ const ClassesLayout = () => {
 			<Stack.Screen
 				name="new"
 				options={{
-					presentation: "modal",
+					presentation: "fullScreenModal",
 					animation: "slide_from_bottom",
 				}}
 			/>
@@ -31,6 +31,22 @@ const ClassesLayout = () => {
 					return {
 						headerShown: true,
 						headerTitle: getClass(params.classId)?.name,
+                        headerLeft: () => (
+                            <TouchableOpacity
+									onPress={() => router.back()}
+									style={{
+										backgroundColor: "white",
+										padding: 7.5,
+										borderRadius: 7.5,
+									}}
+								>
+									<MaterialIcons
+										name="keyboard-double-arrow-left"
+										size={24}
+										color="black"
+									/>
+								</TouchableOpacity>
+                        ),
 						headerRight: () => (
 							<TouchableOpacity
 								onPressIn={() =>
@@ -52,14 +68,14 @@ const ClassesLayout = () => {
 			<Stack.Screen
 				name="[classId]/new-student"
 				options={{
-					presentation: "modal",
+					presentation: "fullScreenModal",
 					animation: "slide_from_bottom",
 				}}
 			/>
 			<Stack.Screen
 				name="[classId]/edit"
 				options={{
-					presentation: "modal",
+					presentation: "fullScreenModal",
 					animation: "slide_from_bottom",
 				}}
 			/>
@@ -85,7 +101,7 @@ const ClassesLayout = () => {
 					};
 					const taskObject = getTaskObjectByTaskGroup(params.task);
 					return {
-						presentation: "modal",
+						presentation: "fullScreenModal",
 						animation: "slide_from_bottom",
 						header: () => (
 							<View

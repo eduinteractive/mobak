@@ -73,6 +73,11 @@
 	"rate_classroom_end_session_dialog_description": "Hodnocení budou uložena, nebude je možné upravovat.",
 	"rate_classroom_task_description": "Popis úkolu",
 	"rate_classroom_rate_student": "Ohodnoťte studenty",
+    "rate_detail_instruction_demonstration": "Instruktáž/ Demonstrace",
+    "rate_classroom_longitudinal_analysis":"Longitudinální analýza",
+    "rate_classroom_select_task": "Výběr úkolů",
+    "rate_classroom_cancel_selection": "zrušit výběr",
+    "rate_classroom_download_selected": "stáhnout vybrané",
 	"rate_dialog_n_a_value": "Nelze použít",
 	"rate_dialog_first_value": "0",
 	"rate_dialog_second_value": "1",
@@ -229,11 +234,11 @@
 		"MATERIAL": "6 míčků (průměr 65 mm, hmotnost 80 g)\r\n1 terč (průměr 40 cm)\r\nPáska (cca 3 cm široká)\r\n",
 		"TEST_SET-UP": "Terč je umístěný na stěně ve výšce 1,3 m (dolní okraj).\r\nČára pro odhod se vyznačí páskou ve vzdálenosti 2 m.",
 		"TEST_ITEM": "Dítě hází z vyznačené čáry na terč 6 míčků. ",
+        "CRITERIA": "Odhodová čára nesmí být překročena.\r\nZásah terče se počítá za bod.",
 		"VALUATION": "2 pokusy, zaznamenává se počet úspěšných pokusů. \r\n0-2 úspešné pokusy = 0 bodů\r\n3-4 úspěšné pokusy = 1 bod\r\n5-6 úspěšných pokusů = 2 body",
 		"INSTRUCTION_DEMONSTRATION": "Postav se za čáru a pokus se míčkem trefit cíl.\r\nMáš 6 pokusů.\r\nNesmíš překročit čáru během odhodu, po něm ano. \r\nPodívej se, jednou ti to ukážu (ukázka).",
 		"INFORMATION_FOR_THE_TEST_LEADER": "Způsob odhodu je volitelný (je dovolený i vrh)."
 	},
-	"THROWING_1_CRITERIA": "Odhodová čára nesmí být překročena.\r\nZásah terče se počítá za bod.",
 	"THROWING_3_4": {
 		"MOBAK": "Kompetenční oblast \"Pohyb s náčiním\"",
 		"TITLE": "MOBAK 3-4 Úloha 3: Házení",
@@ -328,7 +333,8 @@
 			"MATERIALS": "Koordinační žebřík, alternativně gymnastické obruče, podlahové značky, kobercové čtverce, křídy",
 			"VARIATIONS": "Proběhni dráhu pozpátku.\r\nDo každého pole došlápni vícekrát. \r\nV každém druhém poli proveď jeden (180°) nebo dva (360°) obraty. \r\nKombinuj v polích dva různé cviky. \r\nProváděj u skákání další pohyby paží (skákání panáka, boxování, upažení a vzpažení nebo připažení).\r\nMěň uspořádání čtverců.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Které části tvého chodidla se dotýkají podložky?\r\nKteré pohyby paží ti nejvíc pomáhají?",
-			"WILLINGNESS": "Kde všude mimo tělocvičnu můžeš tento úkol ještě plnit?\r\nCo se pro tebe změní, když úkol plníš jako výzvu proti jinému dítěti?"
+			"WILLINGNESS": "Kde všude mimo tělocvičnu můžeš tento úkol ještě plnit?\r\nCo se pro tebe změní, když úkol plníš jako výzvu proti jinému dítěti?",
+            "PDF": "Běž skrz koordinační žebřík s jedním dotykem nohy na každé pole."
 		},
 		"RUNNING_2": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -338,7 +344,8 @@
 			"MATERIALS": "Gymnastické obruče (různé barvy)\r\nalternativně: pásky, nášlapné pomůcky",
 			"VARIATIONS": "Měň úkoly podle barvy obručí.\r\nMěň uspořádání nebo vzdálenost mezi obručemi.\r\nUmísti obruče na dvě rovnoběžné lavičky.\r\nMěň uspořádání polí.\r\nZvol více barev a ke každé z nich přiřaď nějaký cvik.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se musíš pohybovat, abys úkol zvládl/a bez chyb?\r\nJaké pořadí obručí je pro tebe jednodušší? Proč?\r\nV jakém rytmu se ti nejlépe běhá? Proč?",
-			"WILLINGNESS": "V čem je to jiné,  když jsou obruče položené na dvou lavičkách? Jde ti to? Zkus to!\r\nVytvoř si svou vlastní dráhu s obručemi a k jednotlivým barvám obručí si vytvoř vlastní cviky! Jak ti to jde?"
+			"WILLINGNESS": "V čem je to jiné,  když jsou obruče položené na dvou lavičkách? Jde ti to? Zkus to!\r\nVytvoř si svou vlastní dráhu s obručemi a k jednotlivým barvám obručí si vytvoř vlastní cviky! Jak ti to jde?",
+            "PDF": "Běž skrz dráhu z obručí. Dotkni se země v modrých obručích jednou a v ostatních dvakrát."
 		},
 		"RUNNING_3": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -348,7 +355,8 @@
 			"MATERIALS": "Koordinační žebřík\r\nalternativně: gymnastické obruče, žíněnky, kobercové dlaždice, křídy",
 			"VARIATIONS": "Měň počet došlapů v poli.\r\nPřidej si další pohyby paží (jumping jack, boxování, upažení, vzpažení, připažení).\r\nKombinuj dva různé cviky (pravá paže - jumping jack, levá paže - box).\r\nMěň uspořádání polí.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak rychle dokážeš měnit směry?\r\nCo se pro tebe změní, když přidáváš pohyby paží?",
-			"WILLINGNESS": "Jaké to je, když jiné dítě mění směry rychleji? Co s tím můžeš dělat?\r\nJak bys změnil/a úkol, aby byl snazší nebo težší?\r\nZvol si úkol a zkus ho splnit (např. dokonči úkol bez chyby, buď rychlejší než v předešlém pokusu). Zvládnul/a jsi to?\r\n"
+			"WILLINGNESS": "Jaké to je, když jiné dítě mění směry rychleji? Co s tím můžeš dělat?\r\nJak bys změnil/a úkol, aby byl snazší nebo težší?\r\nZvol si úkol a zkus ho splnit (např. dokonči úkol bez chyby, buď rychlejší než v předešlém pokusu). Zvládnul/a jsi to?\r\n",
+            "PDF": "Běž uvnitř i vně koordinačního žebříku s dvěma došlapy na každé pole."
 		},
 		"RUNNING_4": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -358,7 +366,8 @@
 			"MATERIALS": "Koordinační žebřík\r\nalternativně: gymnastické obruče, podlahové nášlapné značky, kobercové dlaždice, křídy",
 			"VARIATIONS": "Běž pozpátku.\r\nPřidej pohyb pažemi: dopředu, dozadu, v opačných směrech.\r\nMěň uspořádání polí.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Uměl/a bys vytleskat rytmus poskoků?\r\nJak si pomáháš pažemi, abys úkol dobře zvládnul/a?",
-			"WILLINGNESS": "Zvládnete běžet s jiným dítětem ve dvojici najednou?\r\nZvládáš přidané pohyby paží?\r\nPředstav si, že jsi veselý kůň, který finišuje. Jak se cítíš?"
+			"WILLINGNESS": "Zvládnete běžet s jiným dítětem ve dvojici najednou?\r\nZvládáš přidané pohyby paží?\r\nPředstav si, že jsi veselý kůň, který finišuje. Jak se cítíš?",
+            "PDF": "Prováděj poskoky skrz koordinační žebřík s jedním došlapem na každé pole!"
 		},
 		"GIANT_SLALOM": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -368,7 +377,8 @@
 			"MATERIALS": "Gymnastické tyče, dlouhé lano\r\nAlternativně: slalomové tyče, dřevěné bloky, kužely, velké kameny, tyče atd. ",
 			"VARIATIONS": "Vyzvi jiné dítě nobo rovnou celou skupinu dětí. Kdo je nejrychlejší?\r\nPohybuj se ve dřepu, po špičkách/patách, s pytlíkem písku na hlavě (= se sněhem na hlavě) atd.\r\nPřidej si na trasu překážky (např. malé gymnastické bedýnky).\r\nMěň tempo/rychlost.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co se změní, když použiješ jinou tyč?\r\nJak dokážeš nejrychleji proběhnout slalom?",
-			"WILLINGNESS": "Dokážeš zajet s jiným dítětem paralelní slalom?\r\nJak si položíš lano na zem, abys slalom proběhnul/a rychleji?"
+			"WILLINGNESS": "Dokážeš zajet s jiným dítětem paralelní slalom?\r\nJak si položíš lano na zem, abys slalom proběhnul/a rychleji?",
+            "PDF": "Drž gymnastickou tyč oběma rukama. Běž podél lana obří slalom."
 		},
 		"SIDE_STEP": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -378,7 +388,8 @@
 			"MATERIALS": "Koordinační žebřík\r\nalternativně: gymnastické obruče, nášlapné podlahové značky, kobercové čtverce, křídy",
 			"VARIATIONS": "Natoč pravé rameno do směru běhu.\r\nProběhni vždy s jedním došlapem mimo koordinační žebřík a dvěma došlapy do každého pole žebříku.\r\nPřidej další pohyby paží (otáčení obruče rukama, panák, boxování, upažení, vzpažení, připažení).\r\nKombinuj dva různé cviky (pravá paže - jumping jack, levá paže - box).\r\nZměň uspořádání polí.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co musíš změnit, aby se ti podařilo natočit druhým ramenem do směru běhu?\r\nJak vysoko zvedáš kolena, aby si úkol dobře zvládnul/a? ",
-			"WILLINGNESS": "Jaké to je, když jsi rychlejší než jiné dítě?\r\nJak bys pomohl/a jinému dítěti, kterému se cvičení nedaří?\r\nZkus změnit směr a proběhnout koordinačním žebříkem pozpátku bez zastavení. Jak ti to jde?"
+			"WILLINGNESS": "Jaké to je, když jsi rychlejší než jiné dítě?\r\nJak bys pomohl/a jinému dítěti, kterému se cvičení nedaří?\r\nZkus změnit směr a proběhnout koordinačním žebříkem pozpátku bez zastavení. Jak ti to jde?",
+            "PDF": "Proveď cval stranou skrz koordinační žebřík."
 		},
 		"RUNNING_COURSE": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -388,7 +399,8 @@
 			"MATERIALS": "Medicinbaly",
 			"VARIATIONS": "Místo medicinbalů použij kužely.\r\nMěň rozestupy mezi medicinbaly.\r\nRozházej medicinbaly do stran.\r\nBěž stranou nebo pozadu.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak ti jde změna směru, abys při ní neztrácel/a rychlost?\r\nKterá část chodidla se při slalomu dotýká země?",
-			"WILLINGNESS": "Jak bys běžecký parkur ještě oživil/a, aby byl zábavnější?\r\nVyzvy jiné děti. Jaké to je, když jsou rychlejší než ty?"
+			"WILLINGNESS": "Jak bys běžecký parkur ještě oživil/a, aby byl zábavnější?\r\nVyzvy jiné děti. Jaké to je, když jsou rychlejší než ty?",
+            "PDF": "Proběhni slalom mezi medicinbaly."
 		},
 		"HEY_SHARK": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -398,7 +410,8 @@
 			"MATERIALS": "-",
 			"VARIATIONS": "Vol různé druhy lokomoce, které kombinují běh se skoky (zvedání kolen, našlapávání shora, přes paty, žabáky, odpichy, běh pozpátku, výskoky se vzpažením,  klus poskočný, cval stranou).\r\nZměň běžecký koridor.\r\nMěň pravidla hry.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti podařilo dostat se na druhou stranu tělocvičny, aniž by tě chytil žralok?\r\nJak se ti v roli žraloka daří ulovit co nejvíce rybiček?",
-			"WILLINGNESS": "Máš nějaký tip, jak hru udělat zajímavější?\r\nKdy bude dobré podle tebe vyměnit žraloka, když se mu nedaří lovit?\r\n"
+			"WILLINGNESS": "Máš nějaký tip, jak hru udělat zajímavější?\r\nKdy bude dobré podle tebe vyměnit žraloka, když se mu nedaří lovit?\r\n",
+            "PDF": "Skupina: Jedno dítě je žralok a určuje, jak se ostatní budou pohybovat. Kdo je chycen, stává se žralokem."
 		},
 		"STAR_RUN": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -408,7 +421,8 @@
 			"MATERIALS": "Kužely",
 			"VARIATIONS": "Změň vzdálenost mezi kužely.\r\nZměň čas.\r\nStanov si časový limit a snaž se ho dodržet.\r\nProběhni trať se zavřenýma očima ve dvojici s jiným dívajícím se dítětem. \r\nPohybuj se bokem napřed nebo pozpátku.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti daří dodržet časový limit?\r\nCo se ve tvém běhu změní, když  máš méně času?",
-			"WILLINGNESS": "Jaké to je, když se ti daří přiblížit se časové výzvě?\r\nPředstav si, že jsi kůň, gepard nebo emu. Jak poběží tato zvířata?"
+			"WILLINGNESS": "Jaké to je, když se ti daří přiblížit se časové výzvě?\r\nPředstav si, že jsi kůň, gepard nebo emu. Jak poběží tato zvířata?",
+            "PDF": "Pokuste se proběhnout známou trasu kolem vyznačených bodů přesně v určeném čase."
 		},
 		"VARIABLE_RUNNING": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -418,7 +432,8 @@
 			"MATERIALS": "Kužely",
 			"VARIATIONS": "Vyber si jiné formy běhu.\r\nZměň vzdálenosti mezi kužely.\r\nZměň dráhu běhu.\r\nProběhni trať se zavřenýma očima v doprovodu jiného dívajícího se dítěte. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti daří rychle měnit formy běhu? \r\nJe to pro tebe těžké, zapamatovat si trasu běhu a různé běžecké formy?",
-			"WILLINGNESS": "Jaké máš tipy na změnu běžeckých tras?\r\nJak budeš doprovázet jiné dítě, které má zavřené oči, aby se cítilo bezpečně?\r\n"
+			"WILLINGNESS": "Jaké máš tipy na změnu běžeckých tras?\r\nJak budeš doprovázet jiné dítě, které má zavřené oči, aby se cítilo bezpečně?\r\n",
+            "PDF": "Uběhni trasu co nejrychleji, přičemž dodržuj správnou běžeckou techniku."
 		}
 	},
 	"Jumping": "Jumping",
@@ -431,7 +446,8 @@
 			"MATERIALS": "Koordinační žebřík\r\nAletrnativně: obruče, sportovní podložky, podlahové značky, kobercové čtverce, křídy",
 			"VARIATIONS": "Skákej co nejrychleji.\r\nSkákej do stran nebo vzad.\r\nSkákej o dvě místa dopředu a jedno vzad.\r\nSkákej pravá - pravá - snožmo - levá - levá, atd. (různé kombinace).\r\nSkákej jednonož: vpřed, vzad, do strany (s pravým nebo levým ramenem vpředu).\r\nKombinuj skákání s kroužením paží (dopředu, dozadu, protisměrně, atd.).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co změníš, když skáčeš do stran nebo vzad?\r\nJak se ti daří skákat co nejrychleji?",
-			"WILLINGNESS": "Při jakém uspořádání polí se ti nejlépe cvičení daří?\r\nJak se pro tebe úkol změní, když soutěžíš s jiným dítětem?\r\nVe dvojici: Udávej druhému dítěti rytmus skákání (např. levá, pravá, snožmo, pravá, levá, snožmo). Zvol rytmus, který je pro něj náročný, ale pořád proveditelný! Zvládli jste to?"
+			"WILLINGNESS": "Při jakém uspořádání polí se ti nejlépe cvičení daří?\r\nJak se pro tebe úkol změní, když soutěžíš s jiným dítětem?\r\nVe dvojici: Udávej druhému dítěti rytmus skákání (např. levá, pravá, snožmo, pravá, levá, snožmo). Zvol rytmus, který je pro něj náročný, ale pořád proveditelný! Zvládli jste to?",
+            "PDF": "Skákej oběma nohama vpřed skrz koordinační žebřík."
 		},
 		"JUMPING_2": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -441,7 +457,8 @@
 			"MATERIALS": "Lana\r\nalternativně: lepicí páska, provázek, podlahové značky, tyče.",
 			"VARIATIONS": "Po každém skoku proveď půlobrat (otočku o 90°).\r\nSkákej žabáky.\r\nSkákej přes provazový žebřík v běžeckém rytmu.\r\nKombinuj skákání s různými pohyby paží.\r\nSkákejte vpravo - vpravo - snožmo - vlevo - vlevo, atd. (různé kombinace).\r\nSkákej jednonož: vpřed, vzad, do stran (s pravým nebo levým ramenem vpředu).\r\nKombinuj skoky s kroužením paží (dopředu, dozadu, protisměrně).\r\nZvětšuj nebo zmenšuj vzdálenost mezi švihadly.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co se pro tebe změní, když skáčeš po jedné noze nebo snožmo?\r\nCo se pro tebe změní, když jsou provazy umístěné dál od sebe?",
-			"WILLINGNESS": "Dokážeš plnit úkol, i když jsou lana v různých vzdálenostech?\r\nJakými způsoby skoků zvládneš absolvovat dráhu? Představ si, že jsi žába, klokan, kůň nebo kobylka.\r\nJakými různými druhy skoků můžeš dráhu absolvovat?"
+			"WILLINGNESS": "Dokážeš plnit úkol, i když jsou lana v různých vzdálenostech?\r\nJakými způsoby skoků zvládneš absolvovat dráhu? Představ si, že jsi žába, klokan, kůň nebo kobylka.\r\nJakými různými druhy skoků můžeš dráhu absolvovat?",
+            "PDF": "Skákej na jedné noze, oběma nohama, bokem nebo šikmo přes 'lanový žebřík'."
 		},
 		"ROPE_JUMPING_1": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -451,7 +468,8 @@
 			"MATERIALS": "Lano\r\nalternativa: pylony, podlahové značení, krabice od pizzy",
 			"VARIATIONS": "Přeskakuj přes švihadlo při každém kroku.\r\nMěň rychlost běhu.\r\nMěň počet kroků, po kterých přeskakuješ přes švihadlo.\r\nBěhej a skákej přes švihadlo pozpátku.\r\nPřiprav si závod ve slalomu (např. s pylony).\r\nBěž dopředu a každý druhý krok přeskoč nějaký předmět.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Na co si dáváš pozor, když přeskakuješ přes švihadlo?\r\nJakou rychlostí/rytmem se ti cvičení daří nejlépe?",
-			"WILLINGNESS": "Dokážeš během skákání měnit tempo?\r\nVysvětli jinému dítěti, jak skáčeš přes švihadlo. Děláte to stejně?\r\nV malé skupině dětí běhejte a skákejte přes švihadla v určeném prostoru, aniž byste se navzájem dotýkali. Podařilo se vám to?\r\n"
+			"WILLINGNESS": "Dokážeš během skákání měnit tempo?\r\nVysvětli jinému dítěti, jak skáčeš přes švihadlo. Děláte to stejně?\r\nV malé skupině dětí běhejte a skákejte přes švihadla v určeném prostoru, aniž byste se navzájem dotýkali. Podařilo se vám to?\r\n",
+            "PDF": "Běž vpřed a zároveň skákej přes švihadlo. Přeskoč při každém druhém kroku."
 		},
 		"ROPE_JUMPING_2": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -461,7 +479,8 @@
 			"MATERIALS": "Koordinační žebřík, lano",
 			"VARIATIONS": "Běž pozpátku.\r\nDo každého pole koordinačního žebříku stoupni dvakrát.\r\nBěž co nejrychleji.\r\nProváděj různé typy skoků.\r\nUspořádej pole jinak.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Na co si dáváš pozor, abys v každém poli měl pouze jeden kontakt se zemí?\r\nPři jakém typu skoků ti to jde nejlépe?",
-			"WILLINGNESS": "Připrav si výzvu sám pro sebe: stopuj si svůj čas. Dokážeš to příště zvládnout rychleji?\r\nToto je poměrně obtížný úkol. Pokud ho sám zvládneš, můžeš pomoci ostatním, kterým se to zatím nedaří?\r\nCo se změní, když úlohu řešíš s různou rychlostí?"
+			"WILLINGNESS": "Připrav si výzvu sám pro sebe: stopuj si svůj čas. Dokážeš to příště zvládnout rychleji?\r\nToto je poměrně obtížný úkol. Pokud ho sám zvládneš, můžeš pomoci ostatním, kterým se to zatím nedaří?\r\nCo se změní, když úlohu řešíš s různou rychlostí?",
+            "PDF": "Běž a zároveď skákej přes švihadlo, jeden došlap v každém poli koordinačního žebříku."
 		},
 		"ROPE_JUMPING_3": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -471,7 +490,8 @@
 			"MATERIALS": "Švihadla",
 			"VARIATIONS": "Skákej s meziskokem nebo bez něj.\r\nSkákej pozadu.\r\nSkákej přes švihadlo a pohybuj se přitom vpřed a vzad (nebo doleva a doprava) po stanovené čáře.\r\nProváděj při skákání přes švihadlo dřepy.\r\nSkákej na tenké podložce.\r\nPři skákání se dotýkej patami (sraž paty).\r\nZvedej při skákání kolena .",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Na co si dáváš pozor, aby ses včas odrazil?\r\nJakou částí nohy se odrážíš?",
-			"WILLINGNESS": "Zkus při skocích měnit rychlost - jaká rychlost tě baví nejvíc?\r\nStanov si cíl: kolik skoků bys chtěl udělat za sebou bez přerušení?\r\nDokážeš skákat s jiným dítětem současně?"
+			"WILLINGNESS": "Zkus při skocích měnit rychlost - jaká rychlost tě baví nejvíc?\r\nStanov si cíl: kolik skoků bys chtěl udělat za sebou bez přerušení?\r\nDokážeš skákat s jiným dítětem současně?",
+            "PDF": "Skákej sounož přes švihadlo."
 		},
 		"ROPE_JUMPING_4": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -481,7 +501,8 @@
 			"MATERIALS": "Švihadlo\r\nAlternativně: lepící páska, provaz, podlahové značení",
 			"VARIATIONS": "Skákej s meziskokem nebo bez něj.\r\nSkákej po druhé noze.\r\nSkákejte přes švihadlo pozadu.\r\nPo každém druhém přeskoku vyměň nohy (přeskakování na místě). Skákej bez švihadla.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak držííš ruce, abys zvládnul/a otáčet švihadlem?\r\nPotřebuješ něco změnit, abys mohl/a skákat po druhé noze?",
-			"WILLINGNESS": "Dokážeš přeskočit švihadlo levou i pravou nohou stejněkrát? Stanov si výzvu a pokus se ji zvládnout.\r\nZeptej se jiného dítěte, co se mu na skákání přes švihadlo líbí. Dokážeš skákat bez meziskoku? Zkus to!"
+			"WILLINGNESS": "Dokážeš přeskočit švihadlo levou i pravou nohou stejněkrát? Stanov si výzvu a pokus se ji zvládnout.\r\nZeptej se jiného dítěte, co se mu na skákání přes švihadlo líbí. Dokážeš skákat bez meziskoku? Zkus to!",
+            "PDF": "Skákej přes švihadlo jednonož na místě."
 		},
 		"MAT_HIGHWAY": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -491,7 +512,8 @@
 			"MATERIALS": "Gymnastické žíněnky\r\nalternativně: gymnastické obruče, podlahové značky, kobercové dlaždice, křídy",
 			"VARIATIONS": "Skákej ve vlastním rytmu po vytvořené dráze, jednonož, snožmo a střídavě.\r\nPostav si skokanskou dráhu z různých materiálů/barev. Přeskákej dráhu a pro každý materiál/barvu proveď jinou formu skoku (snožmo, jednonož).\r\nRozestav si  žíněnky jinak.\r\nMěň počet kontaktů na žíněnkách.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "V jakém rytmu se ti daří absolvovat dráhu úspěšně?\r\nCo se pro tebe změní, když jsou žíněnky vedle sebe?",
-			"WILLINGNESS": "Skákejte  ve dvojicích a zkuste měnit rytmus skoků na žíněnkách. Který rytmus se vám líbí nejvíce?\r\nZkuste skákat přes žíněnky s jiným dítětem a držte se přitom za ruce! Podařilo se vám to?\r\nJak můžete uspořádat žíněnky, abyste si úkol ztížili nebo usnadnili?"
+			"WILLINGNESS": "Skákejte  ve dvojicích a zkuste měnit rytmus skoků na žíněnkách. Který rytmus se vám líbí nejvíce?\r\nZkuste skákat přes žíněnky s jiným dítětem a držte se přitom za ruce! Podařilo se vám to?\r\nJak můžete uspořádat žíněnky, abyste si úkol ztížili nebo usnadnili?",
+            "PDF": "Skákej z žíněnky na žíněnku."
 		},
 		"GROUND_ROPE_JUMPING_1": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -501,7 +523,8 @@
 			"MATERIALS": "Lana\r\nalternativně: lepicí páska, podlahové značení, křída.",
 			"VARIATIONS": "Nech dvě děti měnit výšku, ve které drží švihadlo nad zemí. \r\nNech dvě děti otáčet lanem a provádět různé skoky (např. s meziskoky/bez meziskoků, na jedné nebo na obou nohách, s otočkou o 180°).\r\nProváděj skokanské triky.\r\nZpívejte a skákejte: Medvídku, medvídku, otoč se\" (otočka o 180°); \"..., předkloň se\" (předklon a skok); \"..., postav dům\" (spojené dlaně nad hlavu); \"..., dívej se ven\" (dlaně na čelo); \"..., zvedni nohu\" (skok na jedné noze); \"..., zamávej na pozdrav\" (hra končí).\"",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Skáčeš jinak, když je lano zvednuté?\r\nJak se mění pohyb, když skáčeš do stran nebo vpřed a vzad?",
-			"WILLINGNESS": "Daří se ti provádět při skákání nějaké triky? Ukaž je jinému dítěti.\r\nJakou výšku lana dokážeš ještě přeskočit? Splň si svoji výzvu!"
+			"WILLINGNESS": "Daří se ti provádět při skákání nějaké triky? Ukaž je jinému dítěti.\r\nJakou výšku lana dokážeš ještě přeskočit? Splň si svoji výzvu!",
+            "PDF": "Stůj paralelně ke švihadlu a několikrát přes něj přeskoč."
 		},
 		"GROUND_ROPE_JUMPING_2": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -511,7 +534,8 @@
 			"MATERIALS": "Lana, čísla\r\nalternativně: podlahové značení, rohože, pneumatiky, lepicí pásky.",
 			"VARIATIONS": "Skákejte vždy jen po jedné noze (tj. pouze po pravé nebo levé).\r\nDo dalšího čtverce skoč snožmo.\r\nVytvoř další pole a očísluj je.\r\nZvyšuj rychlost.\r\nDítě A si vymyslí tajné číslo složené ze tří číslic (každá z nich je v rozmezí 1 až 4). Dítě B musí číslo uhodnout skokem do odpovídajících políček. Dítě A dává zpětnou vazbu. Pokud dítě B skočí špatně, musí začít znovu od začátku.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co se změní, když znáš pořadí vyvolaných čísel ve srovnání s tím, když nevíš, které číslo je na řadě?\r\nJe pro tebe snazší skákat po jedné noze nebo snožmo? Proč?",
-			"WILLINGNESS": "Co děláš, abys co nejrychleji reagoval na vyvolané číslo?\r\nJak můžete jako volající usnadnit nebo ztížit úkol jinému dítěti?\r\nVe dvojicích: Vymyslete si High-five  plácnutí\", které uděláte, když jedno z dětí dokončí deset pokusů bez chyby. Jak se cítíte, když si plácnete?"
+			"WILLINGNESS": "Co děláš, abys co nejrychleji reagoval na vyvolané číslo?\r\nJak můžete jako volající usnadnit nebo ztížit úkol jinému dítěti?\r\nVe dvojicích: Vymyslete si High-five  plácnutí\", které uděláte, když jedno z dětí dokončí deset pokusů bez chyby. Jak se cítíte, když si plácnete?",
+            "PDF": "Ve dvojici: Jedno dítě vyvolává čísla. Druhé dítě se postaví jednou nohou do pole a na povel (vyvolané číslo)skočí do příslušného pole, kde doskočí na druhou nohu."
 		},
 		"ROPE_ROLLER": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -521,7 +545,8 @@
 			"MATERIALS": "Lana (1 lano na 6-8 dětí)",
 			"VARIATIONS": "Drž lano níže nebo výše.\r\nPohybuj lanem v řadě rychleji nebo pomaleji.\r\nMěň skoky (např. snožmo, jednonož, s otočkami).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Kdy je nejlepší čas pro odraz?\r\nJak se ti skáče, když máš po levici a po pravici  jiné děti?",
-			"WILLINGNESS": "Jak bychom mohli změnit úkol, když nemáme k dispozici žádná lana?\r\nCo můžete udělat, aby jste úkol splnili jako celá skupina?\r\nJaké to je, když všichni spolupracují na úspěšném splnění úkolu?"
+			"WILLINGNESS": "Jak bychom mohli změnit úkol, když nemáme k dispozici žádná lana?\r\nCo můžete udělat, aby jste úkol splnili jako celá skupina?\r\nJaké to je, když všichni spolupracují na úspěšném splnění úkolu?",
+            "PDF": "Skupina: Dvě děti drží švihadlo napnuté ve výšce lýtek. Ostatní děti ho přeskočí, jakmile se švihadlo dostane k nim."
 		},
 		"MASTER_OF_RHYTHM": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -531,7 +556,8 @@
 			"MATERIALS": "Obruče\r\nAlternativně: podlahové značení, švihadla, křídy",
 			"VARIATIONS": "Proskákej dráhu bez pohybu paží. \r\nProskákej dráhu co nejrychleji.\r\nUpaž na opačnou stranu. Při skocích snožmo vzpaž obě ruce.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co se pro tebe změní, když skáčeš bez pohybů paží?\r\nCo můžeš udělat, když se ti úkol nepodaří splnit hned?\r\nJak se ti daří upažit na příslušnou stranu?",
-			"WILLINGNESS": "Jak bys mohl/a následovat jiné dítě při přeskakování obručí, aniž bys byl/a odhalen/a?\r\nJak můžeš uspořádat obruče tak, aby to pro tebe bylo obtížnější?\r\nVymýšlej si další pohyby pažemi! Které varianty ti jdou nejlépe?"
+			"WILLINGNESS": "Jak bys mohl/a následovat jiné dítě při přeskakování obručí, aniž bys byl/a odhalen/a?\r\nJak můžeš uspořádat obruče tak, aby to pro tebe bylo obtížnější?\r\nVymýšlej si další pohyby pažemi! Které varianty ti jdou nejlépe?",
+            "PDF": "Polož několik obručí za sebou na zem a skákej podle následujících pokynů skrz dráhu z obručí:\n- Skok na levé noze, levá ruka upažiz.\n- Skok na pravé noze, pravá ruka upažit.\n- Skok sounož, obě ruce upažit."
 		},
 		"SWINGING_KING_QUEEN": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -541,7 +567,8 @@
 			"MATERIALS": "Švihadla",
 			"VARIATIONS": "Požádej učitele nebo děti, aby s lanem otáčeli rychleji nebo pomaleji.\r\nPožádej učitele nebo děti, aby otáčeli lanem v opačném směru (tj. proti směru pohybu dítěte).\r\nObměňuj skoky (např. snožmo, po jedné noze, s otočkami).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co je pro tebe jednodušší? Skákat pomalu nebo rychle? A proč?\r\nCo změníš, když se švihadlo otáčí na druhou stranu?\r\nKdy je správný čas na odraz?",
-			"WILLINGNESS": "Kolikrát dokážeš kontrolovaně přeskočit a opustit otáčející se lano? Stanov si úkol nebo vyzvi jiné dítě.\r\nDokážeš se rozběhnout do otáčejícího se lana a pak skočit? Zkust to!\r\nDokážeš jinému dítěti napovědět, kdy má skočit?"
+			"WILLINGNESS": "Kolikrát dokážeš kontrolovaně přeskočit a opustit otáčející se lano? Stanov si úkol nebo vyzvi jiné dítě.\r\nDokážeš se rozběhnout do otáčejícího se lana a pak skočit? Zkust to!\r\nDokážeš jinému dítěti napovědět, kdy má skočit?",
+            "PDF": "Skupina: Dvě děti točí lanem. Ostatní děti probíhají čtyřikrát skrz točící se lano, aniž by se ho dotkly."
 		},
 		"JUMP_IN_AND_OUT": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -551,7 +578,8 @@
 			"MATERIALS": "Obruče",
 			"VARIATIONS": "Změň rozmíštění obručí.\r\nPoužij všechny možné typů odrazů.\r\nVytvoř si svou sestavu se dvěma typy odrazů. \r\nZavři oči a skákej sestavu se zavřenýma očima.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jakou skokovou sestavu si vymyslíš, aby se ti dobře opakovala?\r\nKterá část nohy se při skoku dotýká země?",
-			"WILLINGNESS": "Ukaž svou skokovou sestavu jinému dítěti. Dokážeš předvést jeho skokovou sestavu?\r\nDokážeš zvládnout svou skokovou sestavu se zavřenýma očima?\r\nZkus svoji sestavu odskákat jako nějaké zvíře. Jak to bude vypadat?"
+			"WILLINGNESS": "Ukaž svou skokovou sestavu jinému dítěti. Dokážeš předvést jeho skokovou sestavu?\r\nDokážeš zvládnout svou skokovou sestavu se zavřenýma očima?\r\nZkus svoji sestavu odskákat jako nějaké zvíře. Jak to bude vypadat?",
+            "PDF": "Prováděj skoky a skokové varianty z a do obručí."
 		},
 		"JUMPING_COURSE": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -561,7 +589,8 @@
 			"MATERIALS": "Medicinbaly, kužely",
 			"VARIATIONS": "Měn v parkuru jednotlivé prvky. \r\nPoužij více překážek.\r\nBěž parkur se zavřenýma očima.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak by měly být překážky uspořádány, abys je přeskákal/a snadno?\r\nJakým způsobem se ti překážky nejlépe přeskakují?",
-			"WILLINGNESS": "Máš nějaké další nápady, co všechno by se dalo použít jako překážka do parkuru?\r\nJaké tipy a triky vymyslíš pro ostatní, kterým parkur moc nejde?"
+			"WILLINGNESS": "Máš nějaké další nápady, co všechno by se dalo použít jako překážka do parkuru?\r\nJaké tipy a triky vymyslíš pro ostatní, kterým parkur moc nejde?",
+            "PDF": "Skákejte přes překážky"
 		}
 	},
 	"Rolling": "Rolling",
@@ -574,7 +603,8 @@
 			"MATERIALS": "Měkké žíněnky, lavičky, dopadové žíněnky, žebřiny",
 			"VARIATIONS": "Zavěs lavičku na nižší nebo vyšší příčky žebřin.\r\nPožádej další dítě, aby zkontrolovalo, jak jsi  při válení sudů zpevněný.\r\nStřídej strany.\r\nNech další dítě, aby tě na konci svahu chytilo.\r\nPři válení sudů vzpaž.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co se změní, když při válení změníš strany?\r\nCo děláš při válení s nohama/pažemi?\r\n",
-			"WILLINGNESS": "Zvládneš válet sudy dohromady s jiným dítětem?\r\nV jaké výšce lavičky je to nejvíc zábavné? V jaké výšce už to chce odvahu?\r\nKde všude ještě můžeš válet sudy? "
+			"WILLINGNESS": "Zvládneš válet sudy dohromady s jiným dítětem?\r\nV jaké výšce lavičky je to nejvíc zábavné? V jaké výšce už to chce odvahu?\r\nKde všude ještě můžeš válet sudy? ",
+            "PDF": "Kutálej se stranou dolů ze svahu."
 		},
 		"FORWARD_ROLL": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -584,7 +614,8 @@
 			"MATERIALS": "Měkké žíněnky, lavičky, dopadové žíněnky, žebřiny",
 			"VARIATIONS": "Při kotoulu se chytni za kolena.\r\nVstaň bez použití rukou.\r\nPři kotoulu si mezi bradu a hrudník dej měkkou hračku (nebo jiný předmět).\r\nOdraž se nohama a zahaj kotoul dopadem na lopatky.\r\nKoukni se na břicho.\r\nOpři se rukama pevně o podložku.\r\nPověs si laviču na nižší nebo vyšší příčku žebřin.\r\nNa konci šikminy se nech chytit od jiného dítěte. \r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co se změní, když tiskneš  bradu s hračkou na hrudník?\r\nJak se ti daří udělat kotoul rovně?",
-			"WILLINGNESS": "Jaké to je vyřešit/nevyřešit tento úkol úspěšně? \r\nJak se můžeš zlepšit, když tento úkol nzvládáš?\r\nDokážeš udělat kotoul do kopce? "
+			"WILLINGNESS": "Jaké to je vyřešit/nevyřešit tento úkol úspěšně? \r\nJak se můžeš zlepšit, když tento úkol nzvládáš?\r\nDokážeš udělat kotoul do kopce? ",
+            "PDF": "Prováděj kotoul vpřed ze svahu."
 		},
 		"PENDULUM": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -594,7 +625,8 @@
 			"MATERIALS": "Žíněnky, nafukovací balónky, míče",
 			"VARIATIONS": "Mezi nohama stiskni balónek nebo míč.\r\nPři kolébce a zhoupnutí vzad udrž balónek umístěný mezi nohama a břichem a pak se postav do dřepu.\r\nPředávej si s dalším dítětem míč tak, že se nejdřív zhoupneš dozadu a předáš mu míč při přechodu do dřepu (po předání míče si vyměňte role).\r\nZhoupni se v kolébce vzad, přitom si pevně drž nohy a přejdi do dřepu. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti po kolébce nejlépe vstává?\r\nJak se ti daří zhoupnutí dopředu a dozadu?",
-			"WILLINGNESS": "Představ si, že seš pásovec, který se jen kutálí. Jak se cítíš?\r\nDokážete se kolíbat s dalším dítětem současně?\r\nCo se změní, když se zhoupneš v kolébce s balonkem mezi nohama?"
+			"WILLINGNESS": "Představ si, že seš pásovec, který se jen kutálí. Jak se cítíš?\r\nDokážete se kolíbat s dalším dítětem současně?\r\nCo se změní, když se zhoupneš v kolébce s balonkem mezi nohama?",
+            "PDF": "Převaluj se na zádech dopředu a dozadu bez použití nohou."
 		},
 		"JUDO_ROLLS": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -604,7 +636,8 @@
 			"MATERIALS": "Měkká podložka/žíněnka",
 			"VARIATIONS": "Dělej judo kotouly střídavě přes levé a pravé rameno.\r\nMěň různě délku rozběhu.\r\nPo judo kotoulu se postav bez pomoci rukou.\r\nPřeval se teď naopak pomalu a bez rozběhu.\r\nDívej se se směrem k rameni, přes které se chceš převalit.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "V čem pro tebe bude judo kotoul jiný, když změníš délku rozběhu?\r\nDělá se ti judo kotoul lépe než kotoul vpřed? Proč?",
-			"WILLINGNESS": "Jak se ti převaluje přes druhé rameno?\r\nZvládneš judo kotoul na žíněnce a pak ho zkusíš i bez žíněnky na podlaze?"
+			"WILLINGNESS": "Jak se ti převaluje přes druhé rameno?\r\nZvládneš judo kotoul na žíněnce a pak ho zkusíš i bez žíněnky na podlaze?",
+            "PDF": "Rozběhni se několika kroky a udělej kotoul přes rameno na měkké žíněnce."
 		},
 		"MAT_ROLLS": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -614,7 +647,8 @@
 			"MATERIALS": "Měkké podložky/žíněnky",
 			"VARIATIONS": "Postav se bez pomoci rukou.\r\nŘekni si o dopomoc jinému dítěti nebo učiteli/ce. \r\nPomocí švihadel vytvořt na žíněnce koridor a prováděj kotoul v koridoru.\r\nProváděj kotoul ve dvojicích synchronizovaně vedle sebe.\r\nOdraz se nohama důrazněji, aby ses mohl převalit rychleji. Přitom dávej ruce před sebe!\r\nProváděj kotouly na gymnastické podložce.\r\nNa žíněnce si udělej značku a po kotoulu se na ni snaž dopadnout nohama. \r\nMěň vzdálenosti od výchozí pozice. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti daří po kotoulu vstát?\r\nCo se změní, když kotoul děláš bez rozběhu na měkké podložce?",
-			"WILLINGNESS": "Je to jiný pocit, když děláš kotoul na delší straně žíněnky a pak na kratší straně?\r\nJaké to je, když se ti po kotoulu podaří postavit😉?"
+			"WILLINGNESS": "Je to jiný pocit, když děláš kotoul na delší straně žíněnky a pak na kratší straně?\r\nJaké to je, když se ti po kotoulu podaří postavit😉?",
+            "PDF": "Rozběhni se několika kroky a proveď kotoul na žíněnce."
 		},
 		"ROLL_OFF_THE_BOX": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -624,7 +658,8 @@
 			"MATERIALS": "2 horní díly švédské bedny, žíněnky",
 			"VARIATIONS": "Změň výšku švédské bedny.\r\nMezi kontníky drž například list papíru, hračku.\r\nProveď kotoul na žíněnku ze zad dítěte, které klečí na všech čtyřech.\r\nProveď kotoul přes fyziomíč.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Dokážeš se po kotoulu postavit? Jak to uděláš?\r\nJak si musíš položit ruce, abys provedl/a kotoul rovně?",
-			"WILLINGNESS": "Jaké to je provádět kotoul ze švédské bedny?\r\nJaká výška bedny je nejvíc zábavná? Pro jakou výšku bedny už to chce odvahu?"
+			"WILLINGNESS": "Jaké to je provádět kotoul ze švédské bedny?\r\nJaká výška bedny je nejvíc zábavná? Pro jakou výšku bedny už to chce odvahu?",
+            "PDF": "Klekni si na švédskou bednu. Polož ruce na žíněnku a proveď kotoul vpřed."
 		},
 		"VARIABLE_ROLLING": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -634,7 +669,8 @@
 			"MATERIALS": "Žíněnky",
 			"VARIATIONS": "Převaluj se stranou.\r\nPostav se za žíněnky. Naskoč na šikminu a skutálejte se dolů.\r\nPřevaluj se odspoda nahoru.\r\nPřevaluj se na rovině.\r\nPostav se na žíněnku a převaluj se shora dolů.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "V čem je jiné převalování odspoda nahoru?\r\nKteré převalování ti jde nejlépe? Ukaž to a zkus vysvětlit.",
-			"WILLINGNESS": "Jaké převalování  tě nejvíc bavilo? Proč?\r\nDaří se ti převalování na všechny možné způsoby?"
+			"WILLINGNESS": "Jaké převalování  tě nejvíc bavilo? Proč?\r\nDaří se ti převalování na všechny možné způsoby?",
+            "PDF": "Převaluj se různými způsoby dolů nebo nahoru po šikmé ploše."
 		},
 		"ROLLING_PRECISELY": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -644,7 +680,8 @@
 			"MATERIALS": "Žíněnky, lepící páska",
 			"VARIATIONS": "Polož pásku na konec žíněnky a po kotoulu na ni dopadni nohama. \r\nMěň vzdálenost od začátku podložky.\r\nPřevaluj se šikmo přes pásku tak, aby se na zádech přilepila diagonálně od ramena k opačnému boku.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se musíš odrazit nohama, aby ses převalil co nejpřesněji?\r\nJak se ti daří převalovat se rovně?",
-			"WILLINGNESS": "Zvládneš tři převalení tak, abys měl/a na konci na zádech nalepenou hvězdu?\r\nJaký kotou přes lepící pásku tě baví nejvíce? Vymyslíš něco dalšího?"
+			"WILLINGNESS": "Zvládneš tři převalení tak, abys měl/a na konci na zádech nalepenou hvězdu?\r\nJaký kotou přes lepící pásku tě baví nejvíce? Vymyslíš něco dalšího?",
+            "PDF": "Proveď kotoul přes lepicí pásku, aby zůstala rovně nalepená na tvých zádech."
 		},
 		"ROLL_UP": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -654,7 +691,8 @@
 			"MATERIALS": "Švédská bedna se dvěma horními díly, žíněnky",
 			"VARIATIONS": "Měň počet dílů švédské bedny.\r\nProveď kotoul vpřed na švédské bedně.\r\nPoužij pro naskočení odrazový můstek. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti daří se dostat na švédskou bednu?\r\nCo děláš s nohama, když provádíš kotoul?",
-			"WILLINGNESS": "Jaká výška bedny je pro tebe už velká výzva? Jak se ti daří přitom překonat sám sebe?\r\nJak bys mohl pomoci jinému dítěti dostat se na švédskou bednu?"
+			"WILLINGNESS": "Jaká výška bedny je pro tebe už velká výzva? Jak se ti daří přitom překonat sám sebe?\r\nJak bys mohl pomoci jinému dítěti dostat se na švédskou bednu?",
+            "PDF": "Proveď kotoul na švédské bedně."
 		},
 		"DIVE_ROLL": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -664,7 +702,8 @@
 			"MATERIALS": "Žíněnky, medicinbaly",
 			"VARIATIONS": "Postav si do řady několik medicinbalů  a proveď přes ně kotoul vpřed.\r\nMěň různě vzdálenosti mezi medicinbaly.\r\nOdrážej se přes medicinbaly snožmo.\r\nMísto medicinbalu použij pro přeskakování skákací gumu. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co musíš v kotoulu letmo udělat jinak oproti kotoulu vpřed?\r\nCo uděláš, abys dokázal/a přistát co nejvíc měkce?",
-			"WILLINGNESS": "Stanov si úkol, kolik medicinbalů v řadě za sebou dokážeš překonat. Jak se cítíš, když to zvládneš?\r\nPředstav si, že přeskakuješ kotoulem letmo hlubokou propast. Jaké to je?"
+			"WILLINGNESS": "Stanov si úkol, kolik medicinbalů v řadě za sebou dokážeš překonat. Jak se cítíš, když to zvládneš?\r\nPředstav si, že přeskakuješ kotoulem letmo hlubokou propast. Jaké to je?",
+            "PDF": "Proveď kotoul letmo přes medicinbal."
 		},
 		"PARTNER_ROLLS": {
 			"MOBAK": "Pohyb vlastním tělem",
@@ -674,7 +713,8 @@
 			"MATERIALS": "Žíněnky",
 			"VARIATIONS": "Začněte v opačné poloze - měňte polohy (nahoře/dole).\r\nProveďte kotoul synchronně vedle sebe.\r\nProveďte dva nebo více kotoulu za sebou.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se vám daří cvičení ve dvojici?\r\nČemu musíš věnovat při cvičení ve dvojici pozornost oproti tomu, když provádíš kotoul sám/sama? ",
-			"WILLINGNESS": "Byla to velká výzva, provádět kotouly ve dvou? Pokud ano, jak jste výzvu zvládli?\r\nCo bys poradil dítěti, se kterým provádíš kotoul (dva v jednom), aby se vám koutoul podařil?"
+			"WILLINGNESS": "Byla to velká výzva, provádět kotouly ve dvou? Pokud ano, jak jste výzvu zvládli?\r\nCo bys poradil dítěti, se kterým provádíš kotoul (dva v jednom), aby se vám koutoul podařil?",
+            "PDF": "Ve dvojicích: Chytněte se navzájem za kotníky, opřete bradu o hruď. Společně proveďte kotoul vpřed."
 		}
 	},
 	"Balancing": "Balancing",
@@ -687,7 +727,8 @@
 			"MATERIALS": "Lano",
 			"VARIATIONS": "Balancuj pozpátku.\r\nBalancuj se zavřenýma očima.\r\nVyhazuj přitom do vzduchu šátky a znovu je chytej.\r\nRoztáčej při balancování rukama obruče.\r\nVyber si jiný materiál, na kterém můžeš balancovat (např. obruče, podlahové dlaždice, čáry).\r\nZvol si pomůcku, se kterou můžeš balancovat na laně a zároveň ji vyvažovat na některé části těla (např. šátky, kužely, míče, gymnastické kužely).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co se pro tebe mění, když vyvažuješ do stran nebo dozadu?\r\nProč je vyvažování snazší, když tvůj pohled směřuje dopředu (než např. dolů)?\r\n",
-			"WILLINGNESS": "Představte si, že jste provazochodci v cirkuse. Jak dokážete společně balancovat na laně? Slyšíte potlesk?\r\nJak ještě můžeš položit lano, aby se balancování ztížilo?\r\nProč si myslíš, že je důležité umět balancovat?"
+			"WILLINGNESS": "Představte si, že jste provazochodci v cirkuse. Jak dokážete společně balancovat na laně? Slyšíte potlesk?\r\nJak ještě můžeš položit lano, aby se balancování ztížilo?\r\nProč si myslíš, že je důležité umět balancovat?",
+            "PDF": "Balancuj na laně."
 		},
 		"BENCH_BALANCING": {
 			"MOBAK": "Pohyb celého těla",
@@ -697,7 +738,8 @@
 			"MATERIALS": "Lavička",
 			"VARIATIONS": "Změň typ lokomoce (do stran, pozadu, po čtyřech).\r\nProváděj přitom pohyby pažemi.\r\nZvol si pomůcku, se kterou můžeš balancovat na lavičce a zároveň ji vyvažovat na některé části těla (např. šátky, kužely, míče, gymnastické kužely).\r\nUmísti na lavičku překážky (např. kužely), které musíš překročit.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak pokládáš nohy na lavičku, abys udržel/a rovnováhu?\r\nJak se pro tebe mění vyvažování, pokud směřuješ pohled nahoru nebo dolů?",
-			"WILLINGNESS": "Jaký je to pocit, když se ti na lavičce daří udržet rovnováhu?\r\nPozoruj jiné děti, které mají s udržením rovnováhy potíže a zkus jim poradit!\r\nKde jinde než na lavičce můžeš ještě balancovat, abys se pro tebe úkol stal obtížnějším?"
+			"WILLINGNESS": "Jaký je to pocit, když se ti na lavičce daří udržet rovnováhu?\r\nPozoruj jiné děti, které mají s udržením rovnováhy potíže a zkus jim poradit!\r\nKde jinde než na lavičce můžeš ještě balancovat, abys se pro tebe úkol stal obtížnějším?",
+            "PDF": "Balancuj vpřed na lavičce."
 		},
 		"WOBBLY_BENCH": {
 			"MOBAK": "Pohyb celého těla",
@@ -707,7 +749,8 @@
 			"MATERIALS": "Lavička, gymnastické tyče",
 			"VARIATIONS": "Cvičení prováděj bez ostatních dětí tak, že lavičku umístěnou na tyčích ze stran zajistíš žíněnkami, aby se nemohla pohybovat.\r\nChoď stranou nebo pozpátku.\r\nNa lavičku umísti další překážky (např. šátky, kužely), které se musí překračovat.\r\nPřidej otočku.\r\nZvol si pomůcku, se kterou můžeš balancovat na lavičce a zároveň ji vyvažovat na některé části těla (např. šátky, kužely, míče, gymnastické kužely).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Na co si dáváš pozor, když balancuješ na nestabilní  lavičce?\r\nKterá poloha paží ti při balancování nejvíce pomáhá?",
-			"WILLINGNESS": "Jaké to je balancovat na nestabilní lavičce? Potřebuješ hodně odvahy?\r\nPožádej ostatní děti, aby lavičkou pohybovaly pomaleji/rychleji podle toho, jak jistý/á se cítíš."
+			"WILLINGNESS": "Jaké to je balancovat na nestabilní lavičce? Potřebuješ hodně odvahy?\r\nPožádej ostatní děti, aby lavičkou pohybovaly pomaleji/rychleji podle toho, jak jistý/á se cítíš.",
+            "PDF": "Udrž se na lavičce, i když se kýve."
 		},
 		"MOUNTAIN_CLIMBING": {
 			"MOBAK": "Pohyb celého těla",
@@ -717,7 +760,8 @@
 			"MATERIALS": "Lavička, žebřiny, žíněnky k zajištění bezpečnosti ",
 			"VARIATIONS": "Měň způsoby lokomoce (pohyb stranou, pozpátku, na všech čtyřech).\r\nZavěs lavičku do gymnastických kruhů a vyvažuj na ní. Žíněnky jsou pro zajištění bezpečnosti zcela nezbytné!\r\nPři vyvažování ještě přidej roztočení obruče rukou. \r\nZvol si pomůcku, se kterou můžeš balancovat na lavičce a zároveň ji vyvažovat na některé části těla (např. šátky, kužely, míče, gymnastické kužely).\r\nLavičku zavěs na nižší nebo vyšší příčku žebřin. \r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Kam směřuješ pohled, když balancuješ směrem nahoru?\r\nJak postupuješ vzhůru, aniž bys ztratil/a rovnováhu?",
-			"WILLINGNESS": "V jaké výšce lavičky se pro tebe úkol stává náročnou výzvou?\r\nStanov si časový limit potřebný k vystoupání vzhůru a vyzvi jiné dítě nebo sám sebe. Jak se při úkolu v rámci výzvy cítíš?\r\nJaké to je, když jsou na lavičce umístěny překážky?"
+			"WILLINGNESS": "V jaké výšce lavičky se pro tebe úkol stává náročnou výzvou?\r\nStanov si časový limit potřebný k vystoupání vzhůru a vyzvi jiné dítě nebo sám sebe. Jak se při úkolu v rámci výzvy cítíš?\r\nJaké to je, když jsou na lavičce umístěny překážky?",
+            "PDF": "Balancuj na lavičce nahoru a dolů."
 		},
 		"OPPOSING_TRAFFIC": {
 			"MOBAK": "Pohyb celého těla",
@@ -727,7 +771,8 @@
 			"MATERIALS": "Lavička",
 			"VARIATIONS": "Otoč lavičku.\r\nPolož lavičku na nestabilní podklad (žíněnka, trampolína, gymnastické tyče atd.).\r\nZvol si pomůcku, se kterou můžeš balancovat na lavičce a zároveň ji vyvažovat na některé části těla (např. šátky, kužely, míče, gymnastické kužely).\r\nBalancuj na laně.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak si můžete při vyhýbání navzájem pomoci?\r\nCo je při vyhýbání obtížné?",
-			"WILLINGNESS": "Představ si, že jsi v džungli a musíš utéct před jedovatými hady plazícími se po zemi. Lavička vás před nimi chrání. Pomozte si navzájem, abyste se dostali na druhou stranu! Jak jste postupovali při společném řešení vyhýbání se?\r\nCo byste před přechodem lavičky mohli udělat, abyste při přechodu byli odvážnější. "
+			"WILLINGNESS": "Představ si, že jsi v džungli a musíš utéct před jedovatými hady plazícími se po zemi. Lavička vás před nimi chrání. Pomozte si navzájem, abyste se dostali na druhou stranu! Jak jste postupovali při společném řešení vyhýbání se?\r\nCo byste před přechodem lavičky mohli udělat, abyste při přechodu byli odvážnější. ",
+            "PDF": "Skupina: Na každé straně lavičky stojí stejný počet dětí. Balancujte po lavičce a uprostřed se navzájem vyhněte."
 		},
 		"SEESAW": {
 			"MOBAK": "Pohyb celého těla",
@@ -737,7 +782,8 @@
 			"MATERIALS": "Lavička, švédská bedna - horní díl",
 			"VARIATIONS": "Zvol si pomůcku, se kterou můžeš balancovat na lavičce a zároveň ji vyvažovat na některé části těla (např. šátky, kužely, míče, gymnastické kužely).\r\nMěň způsob lokomoce (pohyb stranou, pozpátku, po čtyřech).\r\nBalancuj se zavřenýma očima.\r\nNech si pomoci jiným dítětem (pokud potřebuješ). Jiné dítě natáhne ruku a ty se jí chytíš v případě potřeby.\r\nMísto horní části švédské bedny zvol jako podporu dva odrazové můstky, aby se lavička mohla překlápět. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co musíš dělat pro udržení rovnováhy, když se lavička překlápí?\r\nJak se změní překlopení lavičky, pokud se pohybuješ stranou?\r\n",
-			"WILLINGNESS": "Měl/a bys nějaký nápad, čím lavičku ještě podepříp, aby se nakláněla v různých výškách? Jakým máš pocit, když se lavička překlápí?\r\nBalancujte ve dvojici: Jak se změní překlopení lavičky, když jdete ve dvou za sebou?\r\n"
+			"WILLINGNESS": "Měl/a bys nějaký nápad, čím lavičku ještě podepříp, aby se nakláněla v různých výškách? Jakým máš pocit, když se lavička překlápí?\r\nBalancujte ve dvojici: Jak se změní překlopení lavičky, když jdete ve dvou za sebou?\r\n",
+            "PDF": "Balancuj přes houpačku a nech ji pomalu překlápět."
 		},
 		"ROPE_DANCER": {
 			"MOBAK": "Pohyb celého těla",
@@ -747,7 +793,8 @@
 			"MATERIALS": "Lavička, basketbalový míč",
 			"VARIATIONS": "Balancuj po širší straně lavičky.\r\nSplň úkol v časovém limitu.\r\nBalancuj na laně.\r\nBalancuj se zavřenýma očima.\r\nVybert si jiný míč nebo nářadí, na kterém zkusíš balancovat.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Proč je úkol snazší, když balancuješ na širší straně lavičky?\r\nJaký rozdíl cítíš při balancování s míčem nad hlavou a bez něj?\r\nJak se úloha změní, když místo míče použiješ tyč?",
-			"WILLINGNESS": "Jaké další předměty bys při balancování ještě dokázal/a udržet nad hlavou?\r\nJakými částmi těla bys dokázal/a ještě balancovat s předměty při chůzi po lavičce?\r\nNež si stoupneš na lavičku, zkus si představit své další pohyby na pár vteřin dopředu. Zvládneš ten úkol potom lépe?"
+			"WILLINGNESS": "Jaké další předměty bys při balancování ještě dokázal/a udržet nad hlavou?\r\nJakými částmi těla bys dokázal/a ještě balancovat s předměty při chůzi po lavičce?\r\nNež si stoupneš na lavičku, zkus si představit své další pohyby na pár vteřin dopředu. Zvládneš ten úkol potom lépe?",
+            "PDF": "Drž basketbalový míč nad hlavou a balancuj vpřed na lavičce. Uprostřed se otoč o 180 stupňů a pokračuj v balancování pozpátku."
 		},
 		"BALANCING_ON_BALLS": {
 			"MOBAK": "Pohyb celého těla",
@@ -757,7 +804,8 @@
 			"MATERIALS": "Medicinbaly, kroužky (pro fixaci medicinbalů)",
 			"VARIATIONS": "Jdi přes medicinbaly pozpátku.\r\nMísto medicinbalů použij fyzioterapeutické/pezzi míče.\r\nPřejdi přes medicinbaly po čtyřech.\r\nNech si pomoci od někoho jiného (pokud chceš). Jiné dítě natáhne ruku směrem k tobě a ty se jí chytíš jen, když to bude potřeba.\r\nPřecházejte míče ve dvojicích proti sobě a snažte se obejít.\r\nBalancuj se zavřenýma očima.\r\nUspořádej medicinbaly jinak.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se liší balancování na míči oproti balancování na lavičce?\r\nJak nejlépe našlapovat na míč, abys byl/a v balancování úspěšný/á?\r\nJak se ti daří balancovat na míčích se zavřenýma očima?\r\n\r\n",
-			"WILLINGNESS": "Jaké jiné předměty by se daly použít místo medicimbalů?\r\nJaké to je, když jsou míče dál od sebe?\r\nJaké to je balancovat na míčích se zavřenýma očima?\r\n"
+			"WILLINGNESS": "Jaké jiné předměty by se daly použít místo medicimbalů?\r\nJaké to je, když jsou míče dál od sebe?\r\nJaké to je balancovat na míčích se zavřenýma očima?\r\n",
+            "PDF": "Balancuj vpřed přes medicinbaly, aniž by ses dotkl země."
 		},
 		"CIRCUS_ARTISTS": {
 			"MOBAK": "Pohyb celého těla",
@@ -767,7 +815,8 @@
 			"MATERIALS": "Lavička, šátky",
 			"VARIATIONS": "Balancuj se zavřenýma očima.\r\nProveď úkol v časovém limitu.\r\nŘekni si o pomoc jinému dítěti (pokud je to nutné). Natáhne ruku a ty se chytni, jen když budeš potřebovat.\r\nOtočt lavičku.\r\nPřitiskni ruce k tělu.\r\nNakloň trup dopředu nebo dozadu.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak nejlépe se ti daří balancovat na lavičce se zavřenýma očima?\r\nCo měníš při balancování dopředu a dozadu?",
-			"WILLINGNESS": "V čem je to pro tebe jiné, když zavřeš oči nebo je máš zavázané?\r\nJak můžeš pomoci jinému dítěti vyřešit tento úkol?"
+			"WILLINGNESS": "V čem je to pro tebe jiné, když zavřeš oči nebo je máš zavázané?\r\nJak můžeš pomoci jinému dítěti vyřešit tento úkol?",
+            "PDF": "Balancuj na lavičce se zavázanýma očima."
 		},
 		"BALANCING_ON_MATS": {
 			"MOBAK": "Pohyb celého těla",
@@ -777,7 +826,8 @@
 			"MATERIALS": "Žíněnky",
 			"VARIATIONS": "Zavři oči.\r\nPostav se na druhou nohu.\r\nPostav se na silnější žíněnku.\r\nPostavte se na jinou nestabilní podložku.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jakým způsobem se ti nejlépe udržuje rovnováha?\r\nJak ti pomáhá pohled při udržování rovnováhy?",
-			"WILLINGNESS": "V čem je pro tebe úkol jíný, když zavřeš oči nebo zakloníš hlavu?\r\nNa jakých podkladech může být balancování obtížnější?"
+			"WILLINGNESS": "V čem je pro tebe úkol jíný, když zavřeš oči nebo zakloníš hlavu?\r\nNa jakých podkladech může být balancování obtížnější?",
+            "PDF": "Stůj na jedné noze na gymnastické žíněnce."
 		},
 		"DONT_WOBBLE": {
 			"MOBAK": "Pohyb celého těla",
@@ -787,7 +837,8 @@
 			"MATERIALS": "-",
 			"VARIATIONS": "Na povel se zastav v různých pozicích.\r\nNa povel udržuj rovnováhu ve zvolené nestabilní poloze.\r\nPoužívej s různými povely různé polohy. Když se zakymácíš, dáváš další povel.\r\nVyzkoušej si různé další pozice pro udržení rovnováhy.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti podaří co nejrychleji se zastavit do klidu ve stoji na jedné noze?\r\nKteré rovnovážné polohy se dají snadno zvládnout?",
-			"WILLINGNESS": "Jak moc dokážeš rozpažit a roznožit a přitom udržet rovnováhu ve stoji na jedné noze?\r\nJak se cítíš, když nezvládáš rovnováhu udržet?"
+			"WILLINGNESS": "Jak moc dokážeš rozpažit a roznožit a přitom udržet rovnováhu ve stoji na jedné noze?\r\nJak se cítíš, když nezvládáš rovnováhu udržet?",
+            "PDF": "Na povel proveď stoj na jedné noze."
 		},
 		"UNSTABLE_DEVICES": {
 			"MOBAK": "Pohyb celého těla",
@@ -797,7 +848,8 @@
 			"MATERIALS": "Balanční pomůcky, míče, šlapadla, gyroskopy, atd.",
 			"VARIATIONS": "Při balancování zavři oči.\r\nZměň polohu paží.\r\nProváděj při balancování další pohyby pažemi (např. kruhy).\r\nBalancuj na jedné noze.\r\nNechte si pomoci od jiného dítěte.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Na co si musíš dávat pozor, abys udržel/a rovnováhu na nestabilní balanční pomůcce?\r\nJak se změní rovnováha na nestabilním zařízení ve srovnání se stabilním?",
-			"WILLINGNESS": "Na jakém jiném zařízení můžeš balancovat?\r\nJak si můžeš úkol ještě více ztížit?"
+			"WILLINGNESS": "Na jakém jiném zařízení můžeš balancovat?\r\nJak si můžeš úkol ještě více ztížit?",
+            "PDF": "Balancuj na nestabilních pomůckách."
 		}
 	},
 	"catching": "catching",
@@ -811,7 +863,8 @@
 			"MATERIALS": "Různé míče",
 			"VARIATIONS": "Vyhoď míč do vzduchu, jednou nebo vícekrát zatleskej a znovu míč oběma rukama chyť.\r\nVyhoď míč oběma rukama do vzduchu a potom ho chyť pouze do jedné.\r\nVyhoď míč do vzduchu oběma rukama, dotkni se oběma rukama podlahy a potom ho znovu chyť do obou rukou.\r\nVyhoď míč do vzduchu oběma rukama, otoč se 3x kolem vlastní osy a znovu ho chyť. \r\nVyhoď míč do vzduchu oběma rukama a pokus se jej chytit za zády. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti daří chytat míč po vlastním vyhození?\r\nPozoruj ostatní děti - co dělají se svýma rukama?\r\n",
-			"WILLINGNESS": "Jak vysoko zvládneš vyhodit míč, abys ho opět úspěšně chytil/a?\r\nZkus popsat svůj pocit, když se ti míč podaří po vlastním vyhození úspěšně chytit?"
+			"WILLINGNESS": "Jak vysoko zvládneš vyhodit míč, abys ho opět úspěšně chytil/a?\r\nZkus popsat svůj pocit, když se ti míč podaří po vlastním vyhození úspěšně chytit?",
+            "PDF": "Vyhoď míč oběma rukama do vzduchu a znovu ho chyť."
 		},
 		"KEEP_THE_WATER_CLEAN": {
 			"MOBAK": "Pohyb s náčiním",
@@ -821,7 +874,8 @@
 			"MATERIALS": "Míče, síť, dřevěné prkénko nebo alternativně badmintonová nebo tenisová (líný tenis) raketa, lavička nebo provázek na oddělení prostoru, kužely, míčky, balóny.",
 			"VARIATIONS": "Chytej míčky do obráceného kuželu.\r\nChytej levou rukou míče, které letí na levou stranu hřiště a pravou rukou míče, které letí vpravo.\r\nChytej míče pomocí rakety.\r\nOdehrávej střídavě krátké a dlouhé míče (dítě A).\r\nPrůběžně si měňte role.\r\nDítě A hází míč přes sít.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se musíš připravit, abys zvládnul míč úspěšně chytit?\r\nNa co si dáváš pozor, když chceš úspěšně chytit míč?\r\n",
-			"WILLINGNESS": "Co se pro tebe mění, když hraješ proti někomu jinému?\r\nJak se ti daří obě činnosti, házení a chytání míče?"
+			"WILLINGNESS": "Co se pro tebe mění, když hraješ proti někomu jinému?\r\nJak se ti daří obě činnosti, házení a chytání míče?",
+            "PDF": "Ve dvojicích: Jedno dítě hraje míčky přes síť raketou, druhé dítě je chytá."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Pohyb s náčiním",
@@ -831,7 +885,8 @@
 			"MATERIALS": "Obruče, různé míče",
 			"VARIATIONS": "Drž dvě obruče (dítě C).\r\nKutálej a chytej si míč obručí sám. Cvičení prováděj ve dvojici s jiným dítětem, které ti obruč podrží.\r\nMíč si přihraj (kopni) nohou.\r\nRozšiřte skupinu tak, že se děti s míči rozmístií po delší straně tělocvičny. Pokus se svým míčem trefit do gymnastického míče nebo do obručí, které učitel kutálí po tělocvičně (kutálení, házení nebo střelba do obruče).\r\nOdehraj míč do obruče raketou.\r\nKutálej míč rukou.\r\nKutálej obručí a současně házej, odehrávej nebo kutálej míč obručí. \r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti daří kutálet míč obručí?\r\nCo musíš upravit, když místo kutálení míče obručí míč prohazuješ?\r\n",
-			"WILLINGNESS": "Jakými dalšími způsoby můžeš ještě míč obručí kutálet/odehrát?\r\nKolikrát v řadě za sebou dokážeš míč chytit? Stanov si cíl a pokus se ho splnit.\r\nJakými jinými způsoby dokážeš míč kutálet/odehrát?"
+			"WILLINGNESS": "Jakými dalšími způsoby můžeš ještě míč obručí kutálet/odehrát?\r\nKolikrát v řadě za sebou dokážeš míč chytit? Stanov si cíl a pokus se ho splnit.\r\nJakými jinými způsoby dokážeš míč kutálet/odehrát?",
+            "PDF": "Ve trojici: Jedno dítě drží obruč, ostatní dvě si přes obruč přihrávají míč."
 		},
 		"TIGERBALL": {
 			"MOBAK": "Pohyb s náčiním",
@@ -841,7 +896,8 @@
 			"MATERIALS": "Různé míče",
 			"VARIATIONS": "Hrajte se dvěma míči současně.\r\nPostupně zvětšujte velikost kruhu.\r\nMěň výšku přihrávky.\r\nZařaď různé způsoby hodu, např. spodem, obouruč, přes hlavu, s odrazem o zem, apod.).\r\nNenahrávej míč kamarádovi stojícímu přímo vedle tebe. \r\nKutálej míč dalšímu dítěti.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti daří nejlépe chytit míč, když stojíš uprostřed kruhu?\r\nJak budeš přihrávat míč někomu jinému tak, aby dítě uprostřed tvoji přihrávku nechytilo?",
-			"WILLINGNESS": "Kdy je tato hra nejvíce zábavná?\r\nJak se zachováš, když zjistíš, že dítě uprostřed kruhu má potíže chytit míč?\r\nJak musíte spolupracovat, aby dítě uprostřed vaše přihrávky nechytilo?"
+			"WILLINGNESS": "Kdy je tato hra nejvíce zábavná?\r\nJak se zachováš, když zjistíš, že dítě uprostřed kruhu má potíže chytit míč?\r\nJak musíte spolupracovat, aby dítě uprostřed vaše přihrávky nechytilo?",
+            "PDF": "Skupina: Jedno dítě stojí uprostřed kruhu. Ostatní si přihrávají míč. Dítě uprostřed se snaží míč chytit. Poté si vymění role."
 		},
 		"BOXING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -851,7 +907,8 @@
 			"MATERIALS": "Rúzné míče",
 			"VARIATIONS": "Použij různé míče.\r\nMěňte vzdálenost.\r\nVolte různou výšku přihrávky (dítě A).\r\nZařaďte různé způsoby házení, např. spodem, obouruč, přes hlavu, apod.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak dokážeš přesně zamířit?\r\nNa co se zaměřuješ, abys míč spolehlivě chytil?",
-			"WILLINGNESS": "Kolikrát za sebou se vám podaří chytit míč při různých vzdálenostech mezi vámi? Jak se vám daří spolupracovat při plnění tohoto úkolu?\r\nJak si vedete při chytání míče při různých vzdálenostech?"
+			"WILLINGNESS": "Kolikrát za sebou se vám podaří chytit míč při různých vzdálenostech mezi vámi? Jak se vám daří spolupracovat při plnění tohoto úkolu?\r\nJak si vedete při chytání míče při různých vzdálenostech?",
+            "PDF": "Ve dvojici: Jedno dítě drží míč v ruce a odehrává jím hozený míč zpět."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Pohyb s náčiním",
@@ -861,7 +918,8 @@
 			"MATERIALS": "Různé míče",
 			"VARIATIONS": "Přihrávej si míč opakovaně ve dvojici.\r\nPřihrávej míč každému dítěti pouze jednou a poté zopakuj jednotlivé přihrávky ve stejném pořadí. Použij přitom různé míče.\r\nPo přihrávce přejdi na místo, kam jsi přihrál/a. \r\nZařaď různé způsoby hodů, např. házení spodem, obouruč, přes hlavu, apod.\r\nKutálej míč, přihrávej ho nohou nebo ho odehraj raketou.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se musíš připravit, abys zvládnul/a míč dobře chytit?\r\nNa co se soustředíš, když na tebe letí míč?\r\nČím to je, že tvůj pohled pomůže chytajícímu dítěti?",
-			"WILLINGNESS": "Podaří se nám, aby každé dítě v kruhu úspěšně chytlo míč, aniž by se dotkl země?\r\nJaký způsob házení a chytání míče v kruhu je nejrychlejší?"
+			"WILLINGNESS": "Podaří se nám, aby každé dítě v kruhu úspěšně chytlo míč, aniž by se dotkl země?\r\nJaký způsob házení a chytání míče v kruhu je nejrychlejší?",
+            "PDF": "Skupina: Postavte se do kruhu a přihrávejte si míč. Dvojité přihrávky nejsou povoleny."
 		},
 		"REACTING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -871,7 +929,8 @@
 			"MATERIALS": "Míče",
 			"VARIATIONS": "Vyhazuj míč do různých výšek.\r\nOdraž míč od podlahy a znovu ho chyť.\r\nPoužij různé míče.\r\nDvě nebo tři děti si navzájem přihrávají. Varianta: Přihrávej míč odrazem od podlahy.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Na co se musíš soustředit, abys otevřel oči až těsně před chycením míče?\r\nJaký míč dokážeš nejlépe chytat? Vysvětli proč?",
-			"WILLINGNESS": "Podaří se ti míč chytit i poslepu?\r\nJak přihraješ míč jinému dítěti, aby ho snadno chytlo?\r\n\r\n"
+			"WILLINGNESS": "Podaří se ti míč chytit i poslepu?\r\nJak přihraješ míč jinému dítěti, aby ho snadno chytlo?\r\n\r\n",
+            "PDF": "Vyhoďte míč do vzduchu se zavřenýma očima a chyťte jej znovu."
 		},
 		"WALL_BALL": {
 			"MOBAK": "Pohyb s náčiním",
@@ -881,7 +940,8 @@
 			"MATERIALS": "Míče",
 			"VARIATIONS": "Požij různé míče.\r\nVyznačte na stěně cílové zóny.\r\nHraj pouze na jednu stěnu. Po získání bodu se musí úspěšný tým před dalším útokem vrátit za vyznačenou linii.\r\nMísto přihrávání si míč navzájem kutálejte.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Na co si musíš dát pozor, aby se ti dařilo skórovat? Jak musíte v týmu spolupracovat při předávání míče, aby se ho soupeř nezmocnil?",
-			"WILLINGNESS": "Jak se mění dráha letu míče při použití různých typů míčů?\r\nJaké napady bys měl pro změnu hry?\r\n"
+			"WILLINGNESS": "Jak se mění dráha letu míče při použití různých typů míčů?\r\nJaké napady bys měl pro změnu hry?\r\n",
+            "PDF": "Skupina: Rozdělte se na dva týmy. Bod může být získán, pokud jeden člen týmu hodí míč na zeď a jiný člen týmu ho chytí."
 		},
 		"TRAJECTORY": {
 			"MOBAK": "Pohyb s náčiním",
@@ -891,7 +951,8 @@
 			"MATERIALS": "Míče",
 			"VARIATIONS": "Házej míč proti stěně tak, aby se od podlahy odrazil před tím, než ho znovu chytíš. \r\nOdhazuj míč na stěnu z různých pozic.\r\nPřihrávejte si míč o stěnu ve dvojicích. \r\nHrajte ve dvojicích proti sobě: Dohodněte se na zóně, ve které smí být míč odražen o stěnu a kam musí míč po odrazu o stěnu dopadnout. Pokud tvůj protihráč/ka nedokáže míč po odrazu chytit, získáváš bod. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Dokážeš odhadnout, kam míč po odrazu od stěny poletí?\r\nJak se připravíš na chycení míče?",
-			"WILLINGNESS": "Kolikrát v řadě za sebou dokážeš míč chytit?\r\nJak se cítíš, když se ti nedaří míč chytat?"
+			"WILLINGNESS": "Kolikrát v řadě za sebou dokážeš míč chytit?\r\nJak se cítíš, když se ti nedaří míč chytat?",
+            "PDF": "Hoďte míč na zeď a znovu ho chyťte."
 		},
 		"FLYING_BALL": {
 			"MOBAK": "Pohyb s náčiním",
@@ -901,7 +962,8 @@
 			"MATERIALS": "Míč, gymnastické žíněnky",
 			"VARIATIONS": "Požijte různé míče.\r\nMěňte přistávací plochu.\r\nZměňte velikost hrací plochy.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Pomocí jaké taktiky se daří tvému týmu získat body?\r\nCo se změní, pokud zvětšíme hrací plochu?",
-			"WILLINGNESS": "Daří se ti chytat míč ve výskoku a dopadat na přistávací plochu?\r\nJakým způsobem musíš přihrát míč spoluhráči, aby se mu dařilo ho chytit v přistávací zóně?\r\nJaká pravidla bys doplnil pro obměnu hry?\r\n"
+			"WILLINGNESS": "Daří se ti chytat míč ve výskoku a dopadat na přistávací plochu?\r\nJakým způsobem musíš přihrát míč spoluhráči, aby se mu dařilo ho chytit v přistávací zóně?\r\nJaká pravidla bys doplnil pro obměnu hry?\r\n",
+            "PDF": "Skupina: Rozdělte se do dvou týmů. Bod získáte, pokud člen týmu chytí míč skokem do přistávací zóny."
 		},
 		"FISHERMAN": {
 			"MOBAK": "Pohyb s náčiním",
@@ -911,7 +973,8 @@
 			"MATERIALS": "Míče",
 			"VARIATIONS": "Házej míče rychle za sebou.\r\nPřed každým hodem dej zvukový signál. \r\nDítě A oznámí, kam se má míč hodit. Dítě B stojí připravené se zavřenýma očima a snaží se co nejrychleji reagovat.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Na co se soustředíš, když chytáš míč?\r\nV jaké pozici by měly být tvoje ruce a paže, abys dokázal/a míč chytit?\r\n\r\n",
-			"WILLINGNESS": "Máš nějaký nápad, jak hru obměnit a udělat ji napínavější?\r\nJak přihraješ jako dítě A míč dítěti B, aby to pro něj byla stále ještě výzva, při které zvládá míče chytat?\""
+			"WILLINGNESS": "Máš nějaký nápad, jak hru obměnit a udělat ji napínavější?\r\nJak přihraješ jako dítě A míč dítěti B, aby to pro něj byla stále ještě výzva, při které zvládá míče chytat?\"",
+            "PDF": "Ve dvojicích: Házejte si míčky v různých výškách."
 		}
 	},
 	"throwing": "throwing",
@@ -924,7 +987,8 @@
 			"MATERIALS": "Míčky, kobercové čtverce, další různé míče",
 			"VARIATIONS": "Zkust jiné techniky házení, např. spodním obloukem, obouruč, přes hlavu, apod.\r\nPoužij různé míče.\r\nZvětši nebo zmenšete mezery mezi koberci.\r\nPoužij různou velikost kobercových čtverců.\r\nZměň rozmíštění kobercových čtverců.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jaké změny zaznamenáš, když házíš na pole 1 a na pole 12?\r\nJakým způsobem hodíš míč tak, aby ses co nejpřesněji trefil/a?",
-			"WILLINGNESS": "Jak bys jinak uspořádal/a kobercové čtverce?\r\nJaké jiné cíle by sis mohl/a stanovit?"
+			"WILLINGNESS": "Jak bys jinak uspořádal/a kobercové čtverce?\r\nJaké jiné cíle by sis mohl/a stanovit?",
+            "PDF": "Hoď žonglovací míček na pole 1 a poté skoč z pole 2 na 12 a zpět. Poté hoď míček na pole 2, skoč na pole 1 a pak na 3 až 12 a zpět. A pokračuj stejným způsobem."
 		},
 		"THROWING_STATIONS": {
 			"MOBAK": "Pohyb s náčiním",
@@ -934,7 +998,8 @@
 			"MATERIALS": "Různé míče, švédská bedna, obruče",
 			"VARIATIONS": "Odhazuj míč ze sedu.\r\nPostav se na švédskou bednu a házej míče do basketbalového koše.\r\nHázej míč (levou i pravou rukou) na horní díl švédské bedny a snaž se ho opět chytit.\r\nHázej míče levou a pravou rukou nad velkými žebřinami se čtvercovými poli nebo o žebřiny tak, aby je mohlo chytat jiné dítě.\r\nPěti míči shoď čtyři kužely postavené na švédské bedně. \r\nTrefuj se míčem do všech polí velkých žebřin. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se změní odhod, když házíš míč jednou rukou oproti obouruč?\r\nV jakém postavení máš při odhodu nohy?",
-			"WILLINGNESS": "Vytvoř si vlastní výzvu: Kolika míči v řadě za sebou se dokážeš trefit do švédské bedny?\r\nCo se změní, když do výzvy připojíš další dítě? Dokážeš se do švédské bedny trefovat i z různých vzdáleností?"
+			"WILLINGNESS": "Vytvoř si vlastní výzvu: Kolika míči v řadě za sebou se dokážeš trefit do švédské bedny?\r\nCo se změní, když do výzvy připojíš další dítě? Dokážeš se do švédské bedny trefovat i z různých vzdáleností?",
+            "PDF": "Hoď míč do švédské bedny."
 		},
 		"KEEP_YOUR_GARDEN_CLEAN": {
 			"MOBAK": "Pohyb s náčiním",
@@ -944,7 +1009,8 @@
 			"MATERIALS": "Lavička, různé míče",
 			"VARIATIONS": "Mezi oběma týmy je vzdálenost 3 metry. V tomto prostoru se nehraje (prostor může být vymezen kužely nebo lavičkami). Měkkými míči se smí jen házet a fotbalovými míči pouze kopat. Týmy mohou také získat body, pokud míče kopnou/hodí na zeď soupeřova týmu.\r\nHru hrajte se dvěma lavičkami (s danou mezerou mezi nimi).\r\nLavička se obrátí a postaví na díly švédská bedny. \r\nHázejte míče pod lavičkou do soupeřova pole.\r\nPo každém hodu splňte úkol, např. dotkněte se zdi, přihrajte si míč odrazem o zeď a pak ho zase chyťte.\r\nVymyslete společně nějaká další pravidla hry.\r\nZahrňte různé varianty házení, např. házení spodem, obouruč, nad hlavou atd.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jakým způsobem dokážeš míč co nejrychleji hodit na druhu stranu?\r\nBudeš házet míč jinak, když ho následně chytáš ze vzduch nebo zvedáš ze země?",
-			"WILLINGNESS": "Jak musíte v týmu spolupracovat, aby vaše zahrada zůstala čistá?\r\nNa co si musíš dávat pozor, abys náhodou někoho jiného míčem nezasáhnul/a?"
+			"WILLINGNESS": "Jak musíte v týmu spolupracovat, aby vaše zahrada zůstala čistá?\r\nNa co si musíš dávat pozor, abys náhodou někoho jiného míčem nezasáhnul/a?",
+            "PDF": "Skupiny: Rozdělte se do dvou týmů. Během stanoveného času se snažte hodit co nejvíce míčů do hracího pole druhého týmu."
 		},
 		"SCORE_MASTER": {
 			"MOBAK": "Pohyb s náčiním",
@@ -954,7 +1020,8 @@
 			"MATERIALS": "Míče, různé cíle (např. koborcové díly, obruče, žíněnky, atd.)",
 			"VARIATIONS": "Zařaď různé varianty odhodu míče, např. házení spodem, oběma rukama, přes hlavu, atd.\r\nZvětši nebo naopak zmenšete vzdálenost od terčů.\r\nStanov si časový limit pro trefení všech terčů. \r\nPoužívej různé míče.\r\nVyber si na stěně různé cíle. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jaký terč se ti trefuje nejsnadněji?\r\nJaký je nejlepší způsob házení pro úspěšné zasažení terče?",
-			"WILLINGNESS": "Vytvoř si plán: V jakém pořadí bys chtěl/a trefovat terče, abys při tom použil/a co nejméně pokusů?\r\nPracuj ve dvojici: Kolik odhodů budete potřebovat společně, abyste každý terč trefili právě jednou?\r\nZvládnul/a bys každý cíl zasáhnout právě jedním hodem? "
+			"WILLINGNESS": "Vytvoř si plán: V jakém pořadí bys chtěl/a trefovat terče, abys při tom použil/a co nejméně pokusů?\r\nPracuj ve dvojici: Kolik odhodů budete potřebovat společně, abyste každý terč trefili právě jednou?\r\nZvládnul/a bys každý cíl zasáhnout právě jedním hodem? ",
+            "PDF": "Zasáhni všechny cíle co nejmenším počtem hodů."
 		},
 		"FALLING_OVER": {
 			"MOBAK": "Pohyb s náčiním",
@@ -964,7 +1031,8 @@
 			"MATERIALS": "Lavičky, cíle (např. kloboučky, jogurtové kelímky, tyče), různé míče",
 			"VARIATIONS": "Měň vzdálenost k terči.\r\nPostav dvě lavičky do V. Umísti na ně terče a snaž se je zasáhnout z různých pozic.\r\nOdhazuj ze sedu, z kleku atd.\r\nZměň rozmístění terčů.\r\nUmísti terče do různé výšky (podlaha/švédská bedna).\r\nHázej druhou rukou.\r\nPoužívej různé míče.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\nJakým způsobem se ti daří nejlépe srážet cíle?\r\nCo je jiné při házení nebo kutálení míče?",
-			"WILLINGNESS": "Jaké další předměty bys mohl/a  použít k házení?\r\nPřiprav pro ostatní děti sérii terčů. Pomůžeš jim shodit všechny?"
+			"WILLINGNESS": "Jaké další předměty bys mohl/a  použít k házení?\r\nPřiprav pro ostatní děti sérii terčů. Pomůžeš jim shodit všechny?",
+            "PDF": "Hoď míč na cíl tak, aby spadl."
 		},
 		"HIT_THE_TARGET": {
 			"MOBAK": "Pohyb s náčiním",
@@ -974,7 +1042,8 @@
 			"MATERIALS": "Nádoby (např. koše, velké krabice, malé otočené bedny, vozíky na míče), různé míče",
 			"VARIATIONS": "Zařaď různé způsoby hodů, např. házení spodem, obouruč, přes hlavu apod.\r\nNech ostatní děti přemisťovat nádoby.\r\nUmísti nádoby vedle stěny a trefuj ji odrazem o stěnu. \r\nMěň vzdálenosti mezi nádobami.\r\nPoužívej různé míče.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "V jakém postavení máš paže, abys dokázal/a dobře mířit?\r\nKam směřuješ zrak při míření na terč?",
-			"WILLINGNESS": "Jaké máš pocity, když se ti podaří zasáhnout nádobu?\r\nZvládnete se ve dvojici trefovat do jedné nádoby?\r\nJaké další nádoby můžeme použít jako cíle?"
+			"WILLINGNESS": "Jaké máš pocity, když se ti podaří zasáhnout nádobu?\r\nZvládnete se ve dvojici trefovat do jedné nádoby?\r\nJaké další nádoby můžeme použít jako cíle?",
+            "PDF": "Házej míče postupně (od největšího po nejmenší) do nádob."
 		},
 		"THROWING_OFF": {
 			"MOBAK": "Pohyb s náčiním",
@@ -984,7 +1053,8 @@
 			"MATERIALS": "Švédské bedny, šátky, různé míče",
 			"VARIATIONS": "Připevni na stěnu šátky a gymnastické obruče a poté se snaž zasáhnout šátek nebo zamířit do obruče.\r\nVyzkoušej různé způsoby házení, například spodní hod, obouručný hod, nebo házení přes hlavu.\r\nZrychli pád šátků (dítě stojí na švédské bedně).\r\nZměň vzdálenost k cíli podle potřeby.\r\nNech různě těžké předměty padat (dítě na švédské bedně).\r\nPoužívej různé typy míčů.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Kdy musíš odhodit míč, abys zasáhnul/a padající šátek?\r\nJak se změní tvůj hod, když použiješ jiné postavení paží?",
-			"WILLINGNESS": "Podaří se ti zasáhnout dva šátky zároveň ?\r\nCo sleduješ při upouštění šátků, pokud se má házející dítě správně trefit?\r\n"
+			"WILLINGNESS": "Podaří se ti zasáhnout dva šátky zároveň ?\r\nCo sleduješ při upouštění šátků, pokud se má házející dítě správně trefit?\r\n",
+            "PDF": "Zasáhni šátky dříve, než dopadnou na zem."
 		},
 		"DICE": {
 			"MOBAK": "Pohyb s náčiním",
@@ -994,7 +1064,8 @@
 			"MATERIALS": "Různé míče, švédské bedny, lavička, hrací kostky",
 			"VARIATIONS": "Zvětši nebo zmenši velikost cílové plochy.\r\nZahrň různé způsoby hodu, např. hod spodem, obouruč, přes hlavu, atd.\r\nZvětši nebo zmenši vzdálenost od terčů.\r\nPoužívej různé míče.\r\nZasáhni míčem všech šest čísel dvakrát  za sebou.\r\nStanov si časový limit pro zasažení šesti čísel.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co musíš změnit, pokud máš zasáhnout číslici 1 a číslici 6?\r\nJak se ti nejlépe daří trefovat číslice?",
-			"WILLINGNESS": "Jak se pro tebe změní úkol zasažení všech číslic právě jednou, pokud pracuječ v časovém limitu?\r\nZasahuješ číslice, i když odhazuješ druhou rukou?"
+			"WILLINGNESS": "Jak se pro tebe změní úkol zasažení všech číslic právě jednou, pokud pracuječ v časovém limitu?\r\nZasahuješ číslice, i když odhazuješ druhou rukou?",
+            "PDF": "Hoď kostkou a zamiř na číslo, které kostka ukazuje."
 		},
 		"ENCHANT_AND_REDEEM": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1004,7 +1075,8 @@
 			"MATERIALS": "Měkké míčky",
 			"VARIATIONS": "Kutálej velkým míčem.\r\nVyužijte dvě \"baby\" ve větším prostoru, kam umístíte \"domeček\", např. švédskou bednu. Dítě může domeček využít jen tak dlouho, dokud ho nevyhledá jiné dítě. \r\nSpolečně hledejte další způsoby začarování a vysvobozování.\r\nZměňte hru podle svých dalších nápadů.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Na co si musíš dávat pozor, pokud chceš někoho trefit míčem?\r\nJak se budeš snažit odhodit míč, abys trefil nohy kamaráda?\r\n",
-			"WILLINGNESS": "S jakými novými pravidli by se pro tebe stala hra ještě zábavnější?\r\nJak se pro tebe změní hra, pokud chytá více dětí?\r\nHraješ tuto hru rád? Proč?\r\n"
+			"WILLINGNESS": "S jakými novými pravidli by se pro tebe stala hra ještě zábavnější?\r\nJak se pro tebe změní hra, pokud chytá více dětí?\r\nHraješ tuto hru rád? Proč?\r\n",
+            "PDF": "Skupina: Jedno dítě se snaží trefit ostatní míčem. Kdo je zasažen, postaví se s rozkročenýma nohama. Zachránit ho může někdo, kdo mu proleze pod nohama."
 		},
 		"THROWING_HOOPS": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1014,7 +1086,8 @@
 			"MATERIALS": "Kužely, kroužky",
 			"VARIATIONS": "Házej se zavřenýma očima.\r\nZměň výchozí polohu (např. dřep, sed, obrat).\r\nZvětši nebo naopak zmenšete vzdálenost ke kuželu.\r\nHázej z různých směrů (zespodu, shora, ze stran).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jaké rozdíly pozoruješ při házení kroužkem a míčem?\r\nJak se můžeš nejlépe postavit, aby se ti podařilo navléknout kroužek na kužel?\r\n",
-			"WILLINGNESS": "Z jak velké vzdálenosti dokážeš s jistotou zasáhnout kužel?\r\nJaký je to pocit házet na kužel se zavřenýma očima?\r\nDaří se ti trefovat kužel se zavřenýma očima?"
+			"WILLINGNESS": "Z jak velké vzdálenosti dokážeš s jistotou zasáhnout kužel?\r\nJaký je to pocit házet na kužel se zavřenýma očima?\r\nDaří se ti trefovat kužel se zavřenýma očima?",
+            "PDF": "Hoď obruč tak, aby dopadla kolem kuželu."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1024,7 +1097,8 @@
 			"MATERIALS": "Obruče, různé míče",
 			"VARIATIONS": "Drž dvě obruče (dítě C).\r\nKutálej a chytej  si míč sám na druhé straně (dítě A) tak, abys cvičení prováděl/a pouze s dítětem, které drží obruč.\r\nKopej míč nohou.\r\nRozšiř skupinu tak, že se všechny děti postaví do řady na delší straně tělocvičny, každé s vlastním míčem. Pokuste se trefit (kutálením, házením nebo kopem) gymnastický míč nebo obruč, které halou kutálí učitel nebo jiné dítě.\r\nOdehraj míč raketou tak, aby prošel obručí.\r\nKutálej míč.\r\nKutálej obruč po tělocvičně a zároveň s míčem házej, hraj nebo kutálej skrz obruč.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti daří míč kutálet obručí?\r\nJak se změní práce paží, když místo kutálení míč házíš?",
-			"WILLINGNESS": "Jakými dalšími způsoby můžeš ještě prohodit/zahrát míč skrz obruč?\r\nKterá z variant tě baví nejvíce a proč?\r\nKolikrát za sebou dokážeš chytit míč? Stanov si výzvu a pokus se jí dosáhnout."
+			"WILLINGNESS": "Jakými dalšími způsoby můžeš ještě prohodit/zahrát míč skrz obruč?\r\nKterá z variant tě baví nejvíce a proč?\r\nKolikrát za sebou dokážeš chytit míč? Stanov si výzvu a pokus se jí dosáhnout.",
+            "PDF": "Ve trojici: Jedno dítě drží obruč, zatímco ostatní dvě si přes ni přihrávají míč."
 		},
 		"TIGER_BALL": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1034,7 +1108,8 @@
 			"MATERIALS": "Různé míče",
 			"VARIATIONS": "Hrajte se dvěma různými míči současně.\r\nPostupně zvětšujte kruh.\r\nMěňte výšku přihrávky.\r\nZařaďte různé způsoby házení, např. hod spodem, obouruč, přes hlavu, odrazem o zem, atd.\r\nNepřihrávej míč dítěti, které stojí hned vedle tebe.\r\nKutálej míč k dalšímu dítěti.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti nejlépe chytá míč, když jsi ve středu hřiště?\r\nJakým způsobem budeš přihrávat míč, aby ho dítě uprostřed nemohlo chytit?",
-			"WILLINGNESS": "Co je na hře nejzábavnější?\r\nJak zareaguješ, když zjistíš, že dítě uprostřed nedokáže chytit míč?\r\nJak spolupracujete v kruhu, aby dítě uprostřed nemohlo míč chytit?"
+			"WILLINGNESS": "Co je na hře nejzábavnější?\r\nJak zareaguješ, když zjistíš, že dítě uprostřed nedokáže chytit míč?\r\nJak spolupracujete v kruhu, aby dítě uprostřed nemohlo míč chytit?",
+            "PDF": "Skupina: Jedno dítě stojí uprostřed kruhu. Ostatní si přihrávají míč, zatímco dítě uprostřed se ho snaží chytit. Po chycení si vymění role."
 		},
 		"BOXING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1044,7 +1119,8 @@
 			"MATERIALS": "Různé míče",
 			"VARIATIONS": "Používej různé míče.\r\nMěň vzdálenost.\r\nMěň výšku přihrávky (dítě A).\r\nZařaď různé způsoby házení, např. spodem, obouruč, přes hlavu, atd.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak dokážeš házet míč co nejpřesněji na cíl?\r\nNa co si dáváš pozor, abys zvládnul/a dobře chytit míč?",
-			"WILLINGNESS": "Kolikrát v řadě za sebou dokážete chytit míč z různých vzdáleností?\r\nJak se vám daří spolupracovat při řešení úkolu?\r\nDaří se vám házet míč přesně na cíl i z různých vzdáleností?"
+			"WILLINGNESS": "Kolikrát v řadě za sebou dokážete chytit míč z různých vzdáleností?\r\nJak se vám daří spolupracovat při řešení úkolu?\r\nDaří se vám házet míč přesně na cíl i z různých vzdáleností?",
+            "PDF": "Ve dvojici: Jedno dítě drží míč v ruce a pomocí něj odehrává hozený míč zpět."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1054,7 +1130,8 @@
 			"MATERIALS": "Různé míče",
 			"VARIATIONS": "Přihrávej si míč ve dvojici.\r\nMěňte kruh na jiné další tvary (např. čtverec, trojúhelník, elipsa).\r\nPo přihrávce přejdi na místo, kam jsi přihrál.\r\nZařaď různé varianty házení, např. házení spodem, obouruč, přes hlavu, atd.\r\nKutálej míč, přihrávej ho nohou nebo ho odehraj raketou.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se připravíš, abs dokázal míč správě chytit?\r\nNa co si musíš dát pozor, když se k tobě blíží přihrávka?\r\nProč pomáhá pohled na kamaráda, kterému chceš přihrávat?",
-			"WILLINGNESS": "Podaří se nám, aby každé dítě v kruhu úspěšně chytlo míč, aniž by se dotkl země?\r\nJaký způsob házení a chytání míče v kruhu je nejrychlejší?"
+			"WILLINGNESS": "Podaří se nám, aby každé dítě v kruhu úspěšně chytlo míč, aniž by se dotkl země?\r\nJaký způsob házení a chytání míče v kruhu je nejrychlejší?",
+            "PDF": "Skupina: Postavte se do kruhu a přihrávejte si míč. Dvojité přihrávky nejsou povoleny."
 		},
 		"WILD_PIG": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1064,7 +1141,8 @@
 			"MATERIALS": "Medicinbal, lavička, tenisové míčky",
 			"VARIATIONS": "Vyzkoušej si různé způsoby hodů.\r\nUmístěte doprostřed jako divoké prase basketbalový nebo softbalový míč.\r\nMěňte vzdálenost mezi lavičkami.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jaká technika házení je pro zasažení divokého prasete nejlepší?\r\nZ jakého postavení se ti odhazuje nejpřesněji?",
-			"WILLINGNESS": "Mátš nějaký nápad, jak hru učinit napínavější?\r\nJak se cítíš, když zvítězí tvůj tým?"
+			"WILLINGNESS": "Mátš nějaký nápad, jak hru učinit napínavější?\r\nJak se cítíš, když zvítězí tvůj tým?",
+            "PDF": "Skupina: Vytvořte dva týmy. Každý tým se snaží dostat míč do středu hřiště proti lavičce soupeře."
 		},
 		"DISTANCE_THROWING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1074,7 +1152,8 @@
 			"MATERIALS": "Míče",
 			"VARIATIONS": "Po každém hodu měňte vzájemnou vzdálenost.\r\nVyzkoušejte různé typy hodů.\r\nPoužívejte různé míče.\r\nKutálejte míč.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co měníš na svém hodu, když druhé dítě stojí blíž?\r\nJak můžeš házet míč co nejdále a co nejpřesněji?",
-			"WILLINGNESS": "Jakými způsoby můžeš házet míč?\r\nKolik hodů zvládnete společně provést, aniž by vám míč spadnul na zem?\r\nNa jakou nejdelší vzdálenost můžeš přihrát míč druhému dítěti?"
+			"WILLINGNESS": "Jakými způsoby můžeš házet míč?\r\nKolik hodů zvládnete společně provést, aniž by vám míč spadnul na zem?\r\nNa jakou nejdelší vzdálenost můžeš přihrát míč druhému dítěti?",
+            "PDF": "Ve dvojicích: Přihrávejte si míč na různé vzdálenosti."
 		}
 	},
 	"bouncing": "bouncing",
@@ -1087,7 +1166,8 @@
 			"MATERIALS": "Různé míče, obruče, lepící páska (pro vyznačení čtverce)",
 			"VARIATIONS": "Změň velikost čtverce.\r\nPoužij různé míče.\r\nStanov časový limit pro splnění úkolu.\r\nZměň počet obručí.\r\nZměň uspořádání obručí.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti dribluje nejlépe?\r\nDribluješ s různými míči pořád stejně, stejným způsobem?\r\n",
-			"WILLINGNESS": "Zlvádneš nepřerušit driblink při přecházení z obruče do obruče?\r\nJaké to je, když máš časový limit?"
+			"WILLINGNESS": "Zlvádneš nepřerušit driblink při přecházení z obruče do obruče?\r\nJaké to je, když máš časový limit?",
+            "PDF": "Odrazte míč 5x do obruče."
 		},
 		"BOUNCING_STATIONS": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1097,7 +1177,8 @@
 			"MATERIALS": "Různé míče, lavičky",
 			"VARIATIONS": "Procházej tělocvičnou a dribluj bez ztráty kontroly nad míčem (používej levou i pravou ruku).\r\nDribluj s míčem bez přerušení všude okolo sebe.\r\nDribluj současně se dvěma míči, aniž bys nad nimi ztratil/a kontrolu.\r\nPřejdi po lavičce a současně odrážej míč od země nebo od lavičky (později i dva míče zároveň).\r\nDvě lavičky jsou umístěné vedle sebe s mezerou 20 cm. Přecházej po obou lavičkách a současně dribluj o podlahu nebo  jednu z laviček (později dva míče současně).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co se změní, když odrážíš míč blízko u těla nebo s rukou nataženou dopředu?\r\nJakými částmi ruky se při odrážení dotýkáš míče?",
-			"WILLINGNESS": "Zvládneš driblovat s jiným dítětem jedním míčem současně? Jaké to je? \r\nJak dlouho dokážeš driblovat nebo kolikrát v řadě dokážeš odrazit míč? Vnímáš rozdíl v tom, když dribluješ bez cíle či výzvy a jestli ano, v čem?\r\nZvládnš driblovat v rytmu?"
+			"WILLINGNESS": "Zvládneš driblovat s jiným dítětem jedním míčem současně? Jaké to je? \r\nJak dlouho dokážeš driblovat nebo kolikrát v řadě dokážeš odrazit míč? Vnímáš rozdíl v tom, když dribluješ bez cíle či výzvy a jestli ano, v čem?\r\nZvládnš driblovat v rytmu?",
+            "PDF": "Odrazte míč oběma rukama."
 		},
 		"BOUNCING_OVER_CONES": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1107,7 +1188,8 @@
 			"MATERIALS": "Různé míče, kužely",
 			"VARIATIONS": "Házej míč přes kužel oběma rukama.\r\nDribluj střídavě levou a pravou rukou. \r\nPři driblinku se přibliž co nejtěsněji ke kuželu. Odraž míč přes kužel, kužel oběhni tak, že uděláš obrat a pokračuj v driblinku.\r\nPoužij různé míče. \r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti nejlépe daří driblovat, když se současně pohybuješ vpřed?\r\nJak se ti nejlépe udržuje míč pod kontrolou?\r\n",
-			"WILLINGNESS": "Daří se ti driblovat střídavě levou a pravou rukou?\r\nJak se ti daří chytit míč za kuželem (1: vůbec ne, 5: s velkými úspěchy)?\r\nJak se tvůj driblink změní, když tě při něm sledují ostatní děti?"
+			"WILLINGNESS": "Daří se ti driblovat střídavě levou a pravou rukou?\r\nJak se ti daří chytit míč za kuželem (1: vůbec ne, 5: s velkými úspěchy)?\r\nJak se tvůj driblink změní, když tě při něm sledují ostatní děti?",
+            "PDF": "Odrazte míč přes kužel s míčem."
 		},
 		"SEAT_BOUNCING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1117,7 +1199,8 @@
 			"MATERIALS": "Různé míče, kloboučky.",
 			"VARIATIONS": "Dribluj střídavě levou a pravou rukou.\r\nPředtím, než se posadíš na klobouček, ho jednou oběhni kolem dokola.\r\nDriblinkem se přibliž ke kloboučku, bez přerušení odrážení míče postav jednu nohu na klobouček, odraž takto 3x míč a polož nohu zpět na zem.\r\nSpočítej, kdo měl na konci hrací doby nejvíce bodů (1 bod za každý správný šestinásobný driblink v sedu na kloboučku).\r\nPoužij různé míče. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jakou změnu sleduješ v tvém driblinku při změnách vzdáleností driblující ruky od podlahy?\r\nCo musíš udělat, abys mohl po skoku úspěšně pokračovat v driblinku. \r\n",
-			"WILLINGNESS": "Dokážeš driblovat, i když sedíš na podlaze?\r\nPředstav si, že jsi libovolné zvíře (např. opice, had, ptáček) a pokus se driblovat jako zvolené zvíře. Jaké to je?\r\nKdyž uvidíš jiné dítě, kterému se toto cvičení nedaří, co mu poradíš, jaké mu dáš tipy?"
+			"WILLINGNESS": "Dokážeš driblovat, i když sedíš na podlaze?\r\nPředstav si, že jsi libovolné zvíře (např. opice, had, ptáček) a pokus se driblovat jako zvolené zvíře. Jaké to je?\r\nKdyž uvidíš jiné dítě, kterému se toto cvičení nedaří, co mu poradíš, jaké mu dáš tipy?",
+            "PDF": "Přeskoč kužel s roznožkou. Sedni si na kužel a třikrát dribluj levou rukou a třikrát pravou rukou. Poté přejdi k dalšímu kuželu.Přeskoč kužel s roznožkou. Sedni si na kužel a třikrát dribluj levou rukou a třikrát pravou rukou. Poté přejdi k dalšímu kuželu."
 		},
 		"NUMBERBALL_BOUNCING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1127,7 +1210,8 @@
 			"MATERIALS": "Míče, kužely, koš",
 			"VARIATIONS": "Změň branku z kuželů.\r\nUmísti pod koš překážky.\r\nPo vyvolání čísla se děti ze soupeřova týmu mohou pokusit odrazit míč soupeřícího dítěte, aby mu zabránily v dosažení koše.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti daří být u koše rychleji než tvému soupeři?\r\nKam směřuje při driblování v hracím poli tvůj pohled?\r\n",
-			"WILLINGNESS": "Jak bychom mohli pomoci dětem, kterým  driblink moc nejde?\r\nMáš nápad, jak udělat hru ještě napínavější?"
+			"WILLINGNESS": "Jak bychom mohli pomoci dětem, kterým  driblink moc nejde?\r\nMáš nápad, jak udělat hru ještě napínavější?",
+            "PDF": "Dribluj skrz branku z kuželů a hoď na koš, když bude vyvoláno tvé číslo."
 		},
 		"SURROUNDING_HOOPS_WHILE_BOUNCING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1137,7 +1221,8 @@
 			"MATERIALS": "Kužely, gymnastické obruče, vrchní díl švédské bedny, míč pro každé dítě",
 			"VARIATIONS": "Proběhni obručemi tak, že do každé vstoupíš jen jednou nohou a současně dribluj s míčem vlevo nebo vpravo vedle obručí.\r\nDribluj s míčem kolem dokola obručí a jdi krok sun krok (nebo finální skok) 1 x s levou a 1 x s pravou nohou vepředu.\r\nPostav si svůj vlastní driblovací parkur.\r\nPoužij různé míče.\r\n\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti daří rychlá změna směru při driblinku?\r\nJe snažší odrážet míč od podlahy nebo od horního dílu švédské bedny?",
-			"WILLINGNESS": "Jaké změny v driblovacím parkuru bys udělal, aby byl ještě zábavnější?\r\nSoutěžte s ostatními dětmi ve dvojici o to, kdo zvládne driblovací parkur rychleji."
+			"WILLINGNESS": "Jaké změny v driblovacím parkuru bys udělal, aby byl ještě zábavnější?\r\nSoutěžte s ostatními dětmi ve dvojici o to, kdo zvládne driblovací parkur rychleji.",
+            "PDF": "Běhej a dribluj skrz překážkovou dráhu."
 		},
 		"SHADOW_BOUNCING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1147,7 +1232,8 @@
 			"MATERIALS": "Míče, event. nářadí jako překážky",
 			"VARIATIONS": "Umísti na hřiště různé předměty sloužící jako překážky.\r\nVyměň si role po třetí změně směru.\r\nPoužij různé míče.\r\nPři odrážení míče použij obě ruce.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti daří co nejrychleji stínovat kamarády?\r\nKam směřuje při stínování kamarádů tvůj pohled?",
-			"WILLINGNESS": "Jak by ses měl chovat jako dítě A, aby tě dítě B dokázalo co nejlépe stínovat?\r\nPředstav si, že jsi libovolné zvíře - jak budeš driblovat? Uhádne dítě B, o jaké zvíře jde?\r\n"
+			"WILLINGNESS": "Jak by ses měl chovat jako dítě A, aby tě dítě B dokázalo co nejlépe stínovat?\r\nPředstav si, že jsi libovolné zvíře - jak budeš driblovat? Uhádne dítě B, o jaké zvíře jde?\r\n",
+            "PDF": "Ve dvojici: Jedno dítě jde vpřed a dribluje, druhé ho následuje."
 		},
 		"BENCH_BOUNCING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1157,7 +1243,8 @@
 			"MATERIALS": "Míče, lavička",
 			"VARIATIONS": "Odrážej míč na lavičce.\r\nPoužij různé míče.\r\nVyužij pro chůzi různé nářadí (žíněnky, horní díl švédské bedny) a dribluj vedle nich. \r\nUstupuj dozadu a odrážej míčem vedle lavičky.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co musíš při driblinku změnit, aby se ti dařilo odrážet míč vedle lavičky?\r\nJak se ti daří driblovat a nespadnout přitom z lavičky?",
-			"WILLINGNESS": "Jaké nářadí bys mohl/a pro driblink ještě využít?\r\nZvládneš přejít po lavičce se zavřenýma očima a driblovat přitom?"
+			"WILLINGNESS": "Jaké nářadí bys mohl/a pro driblink ještě využít?\r\nZvládneš přejít po lavičce se zavřenýma očima a driblovat přitom?",
+            "PDF": "Přejdi přes dlouhou lavičku a dribluj míčem vedle ní."
 		},
 		"CIRCLE_BOUNCING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1167,7 +1254,8 @@
 			"MATERIALS": "Míče",
 			"VARIATIONS": "Dribluj v opačném směru.\r\nZkus driblovat okolo sebe v různých polohách. \r\nPokus se vydriblovat osmičku okolo svého těla. Míč přitom odrážej mezi nohama.\r\nPoužij různé míče. \r\nOtáčej se při driblinku kolem vlastní osy .\r\n\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Kterou rukou se ti míč lépe odráží? Popiš proč?\r\nKam směřuješ svůj pohled, abys nad míčem neztratil kontrolu?\r\n",
-			"WILLINGNESS": "S jakým míčem se ti cvičení daří nejlépe?\r\nMáš nějaké nápady, jak cvičení ztížit nebo naopak usnadnit?"
+			"WILLINGNESS": "S jakým míčem se ti cvičení daří nejlépe?\r\nMáš nějaké nápady, jak cvičení ztížit nebo naopak usnadnit?",
+            "PDF": "Odrážet míč v kruhu kolem sebe."
 		},
 		"BOUNCING_IN_DIFFERENT_POSITIONS": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1177,7 +1265,8 @@
 			"MATERIALS": "Míče",
 			"VARIATIONS": "Lehni si během driblinku a znovu se postav.\r\nPři driblinku vyzkoušej různé polohy.\r\nDribluj druhou rukou.\r\nDribluj pravou rukou, posaď se. V sedu dribluj okolo nohou. Znovu se postav a přitom odrážej míč levou rukou.\r\nDribluj se dvěma (různými) míči současně.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co musíš při driblinku změnit, abys míč neztratil, když si sedáš?\r\nJak držíš ruku (v jaké je pozici) během driblinku?\r\n",
-			"WILLINGNESS": "Můžeš jiném dítěti vysvětlit, jak nejlépe driblovat v sedu?\r\nUměl bys při driblinku vleže vyměnit ruce? Jakým způsobem se ti to daří nejlépe?\r\n\r\n"
+			"WILLINGNESS": "Můžeš jiném dítěti vysvětlit, jak nejlépe driblovat v sedu?\r\nUměl bys při driblinku vleže vyměnit ruce? Jakým způsobem se ti to daří nejlépe?\r\n\r\n",
+            "PDF": "Odrážej míč, posaď se přitom na zem a znovu vstaň."
 		}
 	},
 	"dribbling": "dribbling",
@@ -1190,7 +1279,8 @@
 			"MATERIALS": "Fotbalové míče",
 			"VARIATIONS": "Používej různé míče.\r\nPřed stěnu umístěte překážku.\r\nPoužívej různé způsoby kopů (např. plochý ze země, vysoký, vnitřní stranou nohy, nártem).\r\nMěň vzdálenost od stěny (úhel, pozici).\r\nPoužijte nerovný povrch (žebřiny, švédské bedny u stěny).\r\nMěňte velikost oblasti, kde se míč zastavuje.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Kterou částí nohy se ti kop nejlépe daří?\r\nV jaké pozici musíš mít nohu, abys dokázal/a nejlépe zastavit míč?",
-			"WILLINGNESS": "Jakými dalšími způsoby můžeš zahrát míč nohou o zeď?\r\nNa jakou největší vzdálenost od stěny se ti daří míč bezpečně zastavit?\r\nVýzva pro každého: Kolikrát v řadě za sebou dokážeš odehrát míč o zeď a zastavit ho, aniž bys nad ním ztratil/a kontrolu?"
+			"WILLINGNESS": "Jakými dalšími způsoby můžeš zahrát míč nohou o zeď?\r\nNa jakou největší vzdálenost od stěny se ti daří míč bezpečně zastavit?\r\nVýzva pro každého: Kolikrát v řadě za sebou dokážeš odehrát míč o zeď a zastavit ho, aniž bys nad ním ztratil/a kontrolu?",
+            "PDF": "Kopni míč proti zdi a zastav vracející se míč nohou."
 		},
 		"LINE_DRIBBLING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1200,7 +1290,8 @@
 			"MATERIALS": "Míče",
 			"VARIATIONS": "Používej různé míče.\r\nVeď míč po čtyřech čarách vymezujících  volejbalové hřiště bez ztráty jeho kontroly.\r\nHledej další čáry v tělocvičně, podél kterých můžeš míč vést.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jakými částmi nohy vedeš míč?\r\nNa co se soustředíš, abys neztratil/a kontrolu nad míčem?\r\n",
-			"WILLINGNESS": "Můžeš vést míč nohou ještě jinými způsoby?\r\nDaří se ti vedení míče oběma nohama?\r\nProč je dobré umět vést nohou míč?\r\n"
+			"WILLINGNESS": "Můžeš vést míč nohou ještě jinými způsoby?\r\nDaří se ti vedení míče oběma nohama?\r\nProč je dobré umět vést nohou míč?\r\n",
+            "PDF": "Veď míč po celé délce haly."
 		},
 		"WALL_OFF": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1210,7 +1301,8 @@
 			"MATERIALS": "Míče",
 			"VARIATIONS": "Přihraj jimnému dítěti míč 10-krát tak, že nad ním neztratíš kontrolu.\r\nPřihraj jinému dítěti míč v pohybu 10-krát tak, že nad ním neztratíš kontrolu.\r\nPoužívej různé míče.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jakým způsobem se ti daří, aby se míč vždy vracel zpět k tobě?\r\nJak se nejlépe postavit proti stěně?",
-			"WILLINGNESS": "Podaří se vám přihrávat si o zeď ve dvojici?\r\nPokus se najít rytmus, ve kterém budeš míč odehrávat o zeď - jak to jde?\r\nKterou nohou je pro tebe snažší míč odehrávat?\r\nProč si myslíš, že to tak je?"
+			"WILLINGNESS": "Podaří se vám přihrávat si o zeď ve dvojici?\r\nPokus se najít rytmus, ve kterém budeš míč odehrávat o zeď - jak to jde?\r\nKterou nohou je pro tebe snažší míč odehrávat?\r\nProč si myslíš, že to tak je?",
+            "PDF": "Odehraj míčem desetkrát z krátké vzdálenosti proti zdi."
 		},
 		"LIFT_BALL": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1220,7 +1312,8 @@
 			"MATERIALS": "Lavičky, míče",
 			"VARIATIONS": "Používej různé míče.\r\nVybírej různé cíle.\r\nPoužij ke kopu druhou nohu.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak můžeš zvednout nohou míč ze země?\r\nCo bys měl/a změnit, abys míč do lavičkového území odkopnul/a z větší vzdálenosti?\r\n",
-			"WILLINGNESS": "Z jaké vzdálenosti se ti cvičení daří?\r\nPozoruj jiné dítě - dokážeš mu poradit tak, aby se mu cvičení dařilo?\r\nJaké další překážky bys mohl/a překonávat zvedáním míče nohou ze země?\r\n\r\n\r\n"
+			"WILLINGNESS": "Z jaké vzdálenosti se ti cvičení daří?\r\nPozoruj jiné dítě - dokážeš mu poradit tak, aby se mu cvičení dařilo?\r\nJaké další překážky bys mohl/a překonávat zvedáním míče nohou ze země?\r\n\r\n\r\n",
+            "PDF": "Přehraj míč 5x jednou nohou do čtverce vytvořeného lavičkami."
 		},
 		"DRIBBLING_1": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1230,7 +1323,8 @@
 			"MATERIALS": "Míče",
 			"VARIATIONS": "Předej míč druhému dítěti, jakmile se společně setkáte ve středu hřiště.\r\nVeď míč pouze do středu tělocvičny a pak ho přihraj dítěti, které čeká na druhé straně.\r\nVeď míč nohou na druhou stranu hřiště co nejrychleji dokážeš.\r\nNeběž s míčem na druhou stranu tělocvičny, ale po diagonále (dávejte přitom pozor, abys nenarážel do ostatních dětí).\r\nPoužívej různé míče.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jakým způsobem se ti míč vede nohou nejlépe?\r\nKam směřuje tvůj pohled při vedení míče?\r\nProč je podle tvého názoru jednodušší běžet bez míče?",
-			"WILLINGNESS": "Až se budeš míjet se spoluhráčem/kou uprostřed tělocvičny, plácněte si High Five. \r\nJak bys mohl/a s tímto úkolem co nejlépe pomoci jinému dítěti?\r\nDokážete vést míč společně ve dvojici?\r\n"
+			"WILLINGNESS": "Až se budeš míjet se spoluhráčem/kou uprostřed tělocvičny, plácněte si High Five. \r\nJak bys mohl/a s tímto úkolem co nejlépe pomoci jinému dítěti?\r\nDokážete vést míč společně ve dvojici?\r\n",
+            "PDF": "Ve dvojici: Jedno dítě má míč. Běžte proti sobě, dítě s míčem vede míč. Po pěti kolech si vyměňte role."
 		},
 		"DRIBBLING_2": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1240,7 +1334,8 @@
 			"MATERIALS": "Gymnastické žíněnky, kužely, míče",
 			"VARIATIONS": "Měň slalom - parkur.\r\nPoužij různé míče.\r\nStanov si časový limit, ve kterém máš cvičení splnit.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti nejlépe daří měnit směr při vedení míče?\r\nSleduj, jestli při vedení míče používáš stále stejnou nohu - pokud ne, kdy použiješ tu druhou?\r\nVedeš míč vždy stejnou nohou? Proč?",
-			"WILLINGNESS": "Vytvoř si vlastní dráhy, pužij k tomu kužely a veď jimi míč - čí dráha je nejzábavnější?\r\nDokážeš následovat jiné dítě, které vede míč slalomem?\r\n"
+			"WILLINGNESS": "Vytvoř si vlastní dráhy, pužij k tomu kužely a veď jimi míč - čí dráha je nejzábavnější?\r\nDokážeš následovat jiné dítě, které vede míč slalomem?\r\n",
+            "PDF": "Veď míč skrz slalomovou dráhu a zakonči střelou na bránu."
 		},
 		"IN_THE_LAND_OF_SHELLS_1": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1250,7 +1345,8 @@
 			"MATERIALS": "Různé míče, lana (obruče)",
 			"VARIATIONS": "Obíhej ulity v předem stanoveném pořadí.\r\nMěř si čas a porovnávej ho se svými předchozími pokusy.\r\nPoužívej různé míče.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jakými způsoby se ti daří nejlépe vést míč okolo ulit?\r\nJakou dráhu si zvolíš, jestliže máš oběhnout každou ulitu právě jednou?\r\nJakým způsobem vedeš míč?\r\n",
-			"WILLINGNESS": "Všichni se snaží chovat se co nejtiššeji tak, aby neprobudili spící mušle!\r\nPředstavte si, že jste chobotnice, které obeplouvají ulity - jaké to je?\r\nJak to je používat různé míče?\r\n\r\n"
+			"WILLINGNESS": "Všichni se snaží chovat se co nejtiššeji tak, aby neprobudili spící mušle!\r\nPředstavte si, že jste chobotnice, které obeplouvají ulity - jaké to je?\r\nJak to je používat různé míče?\r\n\r\n",
+            "PDF": "Veď míč kolem 'spících' mušlí ležících na dně moře."
 		},
 		"IN_THE_LAND_OF_SHELLS_2": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1260,7 +1356,8 @@
 			"MATERIALS": "Různé míče, obruče (nebo lana)",
 			"VARIATIONS": "Použij různé míče.\r\nSnaž se co nejrychleji oběhnout všechny mušle.\r\nZvětši hrací prostor nebo sniž počet krabů.\r\nZměň úkol krabů (např. zmocnit se míče). \r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak si můžeš ochránit svůj míč před kraby?\r\nKam při vedení míče směřuješ svůj pohled, abys nejlépe ubránil/a svůj míč?\r\n\r\n",
-			"WILLINGNESS": "Jakou taktiku zvolíš, aby ses vyhnul/a štípnutí?\r\nDaří se ti jako krabovi zmocnit se míče vetřelce?\r\nPředstav si, že si můžeš vykouzlit schopnost, která ti pomůže tento úkol lépe zvládnout. Popiš, jakou schopnost by sis vybral/a a jak by ti mohla pomoci.\r\n\r\n"
+			"WILLINGNESS": "Jakou taktiku zvolíš, aby ses vyhnul/a štípnutí?\r\nDaří se ti jako krabovi zmocnit se míče vetřelce?\r\nPředstav si, že si můžeš vykouzlit schopnost, která ti pomůže tento úkol lépe zvládnout. Popiš, jakou schopnost by sis vybral/a a jak by ti mohla pomoci.\r\n\r\n",
+            "PDF": "Dribluj míč kolem „spících“ mušlí ležících na mořském dně. Dávej pozor, aby tě nechytl krab!"
 		},
 		"PROTECT_YOUNG_FISH": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1270,7 +1367,8 @@
 			"MATERIALS": "Různé míče,  kloboučky",
 			"VARIATIONS": "Dbej na to, aby každé dítě v kruhu dostalo míč (např. pomocí stanoveného pořadí přihrávek).\r\nPoužívejte různé míče.\r\nPoužij několik míčů najednou.\r\nCvičení zorganizuj jako soutěž, kdy různé skupiny dětí  vytváří své kruhy a soutěží pak mezi sebou navzájem.\r\nPoužívejte vždy pouze jednu nohu.\r\n\r\n\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Co se změní, když vedeš míč současně s ostatními v porovnání se samostatným vedením míče?\r\nNa co si dáváš pozor, když vedete míče současně všichni ve skupině?",
-			"WILLINGNESS": "Zvládnete společně ve skupině přemísťovat více míčů najednou?\r\nJak si můžete ve skupině navzájem pomáhat?\r\nVyzkoušejte si tento úkol jako soutěž (několik skupin ho plní současně - vyhrává nejrychlejší skupina): Dáváte přednost plnění úkolu při soutěži nebo mimo ni? Proč?"
+			"WILLINGNESS": "Zvládnete společně ve skupině přemísťovat více míčů najednou?\r\nJak si můžete ve skupině navzájem pomáhat?\r\nVyzkoušejte si tento úkol jako soutěž (několik skupin ho plní současně - vyhrává nejrychlejší skupina): Dáváte přednost plnění úkolu při soutěži nebo mimo ni? Proč?",
+            "PDF": "Skupina: Utvořte kruh a chytněte se za ruce. Pomocí nohou přesuťe různé míče na druhou stranu haly."
 		},
 		"WITHIN_SHARK_TERRITORY": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1280,7 +1378,8 @@
 			"MATERIALS": "Míče, lana",
 			"VARIATIONS": "Koho se žralok dotkne, musí plnit další zadaný úkol (např. provést míč slalomovou dráhou z kuželů).\r\nPřihrávej si míč ve dvojici a snažte se vstupovat do žraločího teritoria.\r\nZměň žralokův úkol - např. dotkni se co nejrychleji šesti dětí.\r\nPoužívej různé míče.\r\nKdo zvládne jako první vstoupit do území pětkrát?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti nejlépe daří dostat se na druhou stranu, aniž by tě žralok chytil?\r\nJaký je pro tebe nejlepší způsob vedení míče, když současně sleduješ žraloka?\r\n",
-			"WILLINGNESS": "Zvládneš v roli žraloka sebrat míč někomu jinému a pokračovat ve vedení míče?\r\nCo budeš dělat proto, aby ses nenechal/a chytit?\r\nKdy by se podle vás měl měnit žralok a proč?"
+			"WILLINGNESS": "Zvládneš v roli žraloka sebrat míč někomu jinému a pokračovat ve vedení míče?\r\nCo budeš dělat proto, aby ses nenechal/a chytit?\r\nKdy by se podle vás měl měnit žralok a proč?",
+            "PDF": "Veď míč kolem žraloka, aniž bys ho ztratil."
 		},
 		"DRIBBLING_VARIATIONS": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1290,7 +1389,8 @@
 			"MATERIALS": "Míče",
 			"VARIATIONS": "Snaž se vést míč tak, aby ses nedotkl/a modré (nebo jinak barevné) čáry.\r\nVeď  míč do stran.\r\nVeď míč pozadu.\r\nHledej další způsoby vední míče.\r\nPostav do cesty překážky a veď míč okolo nich.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jakým způsobem se ti nejlépe vede míč?\r\nKdy se kterou částí nohy dotýkáš míče?",
-			"WILLINGNESS": "Umíš při vedení míče plynule měnit směry?\r\nVymysli si malou choreografii s vedením míče nohou a předveď ji jinému dítěti."
+			"WILLINGNESS": "Umíš při vedení míče plynule měnit směry?\r\nVymysli si malou choreografii s vedením míče nohou a předveď ji jinému dítěti.",
+            "PDF": "Veď míč po celé hale."
 		},
 		"DRIBBLING_NUMBER_BALL": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1300,7 +1400,8 @@
 			"MATERIALS": "Míče, kloboučky",
 			"VARIATIONS": "Použij různé míče.\r\nPoužij různé branky.\r\nHráči soupeřova týmu mohou míč odkopnout pryč.\r\nHraj bez soupeřova týmu.\r\nHraj hru ve dvojici: kdo první na pokyn vstřelí gól?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Jak se ti nejlépe vede míč okolo kuželů?\r\nJak můžeš být rychlejší než dítě ze soupeřova týmu?",
-			"WILLINGNESS": "Jaké to je, když je někdo jiný rychlejší?\r\nPředstav si, že jsi zvíře. Jak by např. tučňák, tygr, slon apod. vedli míč okolo kloboučků? "
+			"WILLINGNESS": "Jaké to je, když je někdo jiný rychlejší?\r\nPředstav si, že jsi zvíře. Jak by např. tučňák, tygr, slon apod. vedli míč okolo kloboučků? ",
+            "PDF": "Když bude vyvoláno tvoje číslo, veď míč kolem branky z kuželů a vystřel na cílovou branku."
 		},
 		"PROTECTING_PERSON_DRIBBLING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1310,7 +1411,8 @@
 			"WILLINGNESS": "Co bys měl/a jako dítě A dělat, aby tě ostatní děti mohly napodobovat?\r\nJakou radu bys dal/a jinému dítěti, které se snaží dítě A napodobovat?",
 			"QUALIFICATION": "Vedení míče nohou",
 			"MATERIALS": "Míče",
-			"VARIATIONS": "Dítě A stojí ke skupině čelem a děti zrdcadlově napodobují jeho pohyby."
+			"VARIATIONS": "Dítě A stojí ke skupině čelem a děti zrdcadlově napodobují jeho pohyby.",
+            "PDF": "Skupina: Jedno dítě vede míč vpředu a ostatní ho následují."
 		}
 	},
 	"PDF_TESTRESULT": {

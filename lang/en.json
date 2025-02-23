@@ -73,6 +73,11 @@
 	"rate_classroom_end_session_dialog_description": "Rates will be saved, you will not be able to modify them.",
 	"rate_classroom_task_description": "Task description",
 	"rate_classroom_rate_student": "Rate Students",
+    "rate_detail_instruction_demonstration": "Instruction / Demonstration",
+    "rate_classroom_longitudinal_analysis": "Longitudinal Analysis",
+    "rate_classroom_select_task": "select tasks",
+    "rate_classroom_cancel_selection": "cancel selection",
+    "rate_classroom_download_selected": "download selected",
 	"rate_dialog_n_a_value": "n/a",
 	"rate_dialog_first_value": "0",
 	"rate_dialog_second_value": "1",
@@ -229,11 +234,11 @@
 		"MATERIAL": "6 rounders (diameter: 65 mm; weight: 80 g)\r\n1 target (diameter: 40 cm)\r\nTape (approx. 30 mm wide).",
 		"TEST_SET-UP": "The target is placed at a 1.3 m height (lower edge) on a wall. A scratch line is marked 2.0 m away from the target using tape.",
 		"TEST_ITEM": "The child throws six rounders from a scratch line at a target.",
+        "CRITERIA": "Scratch line must not be overstepped.\r\nHitting the target counts as a point.",
 		"VALUATION": "6 attempts, amount of hits is recorded. \r\n\r\n0–2 hits = 0 points\r\n3–4 hits = 1 point\r\n5–6 hits= 2 points.",
 		"INSTRUCTION_DEMONSTRATION": "Position yourself behind the line and try to hit the target with the ball. You have 6 attempts. You are not allowed to overstep the scratch line. Have a look, I’ll show it once. (demonstration).\r\n",
 		"INFORMATION_FOR_THE_TEST_LEADER": "The type of throwing is selected freely (pushing the ball is allowed).\r\nDemonstration of an impact throw.\r\n"
 	},
-	"THROWING_1_CRITERIA": "Scratch line must not be overstepped.\r\nHitting the target counts as a point.",
 	"THROWING_3_4": {
 		"MOBAK": "Competence area 'Object movement'",
 		"TITLE": "MOBAK 3–4 Task 1: Throwing",
@@ -328,7 +333,8 @@
 			"MATERIALS": "Coordination ladder \r\nalternatively: gymnastic hoops, floor markers, carpet tiles, chalks",
 			"VARIATIONS": "Run backwards.\r\nPerform multiple contacts per field.\r\nPerform a half or full turn after every second square.\r\nCombine two different movements.\r\nPerform additional arm movements (jumping jacks, air boxing, extend and raise or lower arms to chest level).\r\nChange the arrangement of the fields.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Which parts of your feet touch the floor?\r\nWhich arm movements are you most successful with?",
-			"WILLINGNESS": "Where could you do this task outside the gym?\r\nWhat changes for you when you do a race against another child?"
+			"WILLINGNESS": "Where could you do this task outside the gym?\r\nWhat changes for you when you do a race against another child?",
+            "PDF": "Run through the coordination ladder. Touch each field once with your feet."
 		},
 		"RUNNING_2": {
 			"MOBAK": "Self movement",
@@ -338,7 +344,8 @@
 			"MATERIALS": "Gymnastic hoops (different colors)\r\nalternatively: play tapes, sports tiles",
 			"VARIATIONS": "Change the tasks according to the hoops' colors.\r\nChange the arrangement or the distance between the hoops.\r\nPlace the hoops on two parallel long benches.\r\nChange the arrangement of the fields.\r\nChoose several colors and assign a specific movement to each one.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you need to move in order to run smoothly?\r\nWhich order of hoops is easiest for you? Why?\r\nIn which rhythm can you run through the course best? Why?",
-			"WILLINGNESS": "Why does it feel different when the hoops are on two long benches? Do you also succeed? Try!\r\nCreate your own hoop course and assign your own movements to the different colours! Have you succeeded?"
+			"WILLINGNESS": "Why does it feel different when the hoops are on two long benches? Do you also succeed? Try!\r\nCreate your own hoop course and assign your own movements to the different colours! Have you succeeded?",
+            "PDF": "Run through the hoop course. Touch the floor once in the blue hoops and twice in the others."
 		},
 		"RUNNING_3": {
 			"MOBAK": "Self movement",
@@ -348,7 +355,8 @@
 			"MATERIALS": "Coordination ladder\r\nalternatively: gymnastic hoops, floor markings, carpet tiles, chalks",
 			"VARIATIONS": "Change the number of contacts per field.\r\nPerform additional arm movements (jumping jacks, air boxing, extend and raise or lower arms to chest level).\r\nCombine two different movements (right arm - jumping jack, left arm - boxing).\r\nChange the arrangement of the fields.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How can you make quick changes of direction?\r\nHow do different arm movements change your running?",
-			"WILLINGNESS": "How do you feel, if another child changes directions more quickly? What can you do in this case?\r\nHow would you change the task to make it easier or harder?\r\nSet a goal for yourself and try to achieve it (e.g., finish the task without a mistake; be faster than in the trial before). Have you succeeded?"
+			"WILLINGNESS": "How do you feel, if another child changes directions more quickly? What can you do in this case?\r\nHow would you change the task to make it easier or harder?\r\nSet a goal for yourself and try to achieve it (e.g., finish the task without a mistake; be faster than in the trial before). Have you succeeded?",
+            "PDF": "Run inside and outside the coordination ladder while touching each field twice."
 		},
 		"RUNNING_4": {
 			"MOBAK": "Self movement",
@@ -358,7 +366,8 @@
 			"MATERIALS": "Coordination ladder\r\nalternatively: gymnastic hoops, floor markings, carpet tiles, chalks",
 			"VARIATIONS": "Run backwards.\r\nIn addition, perform arm circles: forward, backward, opposite.\r\nChange the arrangement of the fields. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Can you clap the rhythm of the hop run?\r\nWhat do you do with your arms to do the task well?",
-			"WILLINGNESS": "Can you do the task with another child simultaneously?\r\nCan you do additional arm movements?\r\nImagine being a happy horse while doing the hop run! How do you feel?"
+			"WILLINGNESS": "Can you do the task with another child simultaneously?\r\nCan you do additional arm movements?\r\nImagine being a happy horse while doing the hop run! How do you feel?",
+            "PDF": "Run through the coordination ladder in a hop run with one floor touch per field!"
 		},
 		"GIANT_SLALOM": {
 			"MOBAK": "Self movement",
@@ -368,7 +377,8 @@
 			"MATERIALS": "Poles, bamboo or round wooden sticks (= ski pole), long rope\r\nalternatively: slalom poles, wooden blocks, cones, large stones, balancing hedgehogs, etc.",
 			"VARIATIONS": "Challenge another child or group of children. Who is the fastest?\r\nMove around in squat position, on your toes/heels, with sandbags on your head (= snow on your head), etc.\r\nBuild in one or more obstacles (e.g., small gymnastics boxes).\r\nChange your pace/speed.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What changes when you use a different pole?\r\nWhat is the fastest way to go through the slalom?",
-			"WILLINGNESS": "Can you do a parallel slalom with another child?\r\nHow would you put the rope down to complete a fast slalom?"
+			"WILLINGNESS": "Can you do a parallel slalom with another child?\r\nHow would you put the rope down to complete a fast slalom?",
+            "PDF": "Hold a gymnastics stick in both hands. Run a giant slalom along the rope."
 		},
 		"SIDE_STEP": {
 			"MOBAK": "Self movement",
@@ -378,7 +388,8 @@
 			"MATERIALS": "Coordination ladder\r\nalternatively: gymnastic hoops, floor markings, carpet tiles, chalks",
 			"VARIATIONS": "Turn the right shoulder into the running direction.\r\nRun with one ground contact outside the coordination ladder and two ground contacts per field.\r\nPerform additional arm movements (rotate a hoop with your arm, jumping jacks, air boxing, extend and raise/lower your arms to shoulder level).\r\nCombine two different movements (right arm - jumping jack, left arm - boxing).\r\nChange the arrangement of the fields.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What do you change so that you can turn with the other shoulder in the direction of movement?\r\nHow high do you raise your knees so that you can do the task well?\r\nWhat do you have to change so that you can turn with the other shoulder in the direction of movement?",
-			"WILLINGNESS": "How do you feel if you are faster than another child?\r\nIf you see another child being unsuccessful in this task: How can you help him/her?\r\nTry changing direction to run back at the end of the coordination ladder without stopping! Have you succeeded?"
+			"WILLINGNESS": "How do you feel if you are faster than another child?\r\nIf you see another child being unsuccessful in this task: How can you help him/her?\r\nTry changing direction to run back at the end of the coordination ladder without stopping! Have you succeeded?",
+            "PDF": "Run through the coordination ladder in a side-step."
 		},
 		"RUNNING_COURSE": {
 			"MOBAK": "Self movement",
@@ -388,7 +399,8 @@
 			"MATERIALS": "medicine balls",
 			"VARIATIONS": "Use cones instead of medicine balls. \r\nChange the distance between the medicine balls. \r\nChange the lateral distance between the medicine balls. \r\nWalk sideways or backwards.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you manage to change direction while running without losing speed? \r\nWhich part of the foot touches the ground in the slalom course?",
-			"WILLINGNESS": "How can you make the running course more exciting for you? \r\nDare another child to run the course with you. How do you feel when the other child is faster than you?"
+			"WILLINGNESS": "How can you make the running course more exciting for you? \r\nDare another child to run the course with you. How do you feel when the other child is faster than you?",
+            "PDF": "Run through the medicine balls in a slalom run."
 		},
 		"HEY_SHARK": {
 			"MOBAK": "Self movement",
@@ -398,7 +410,8 @@
 			"MATERIALS": "-",
 			"VARIATIONS": "Choose different moving forms such as running and jumping forms (knee lifts, stomping, heels, frog jumps, jumping runs, backwards, stretch jumps, hopscotch runs, sidesteps). \r\nChange the running corridor. \r\nChange the rules of the catching game.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you manage to get to the other side of the hall without getting caught by the shark? \r\nAs a shark, how do you manage to catch as many children as possible?",
-			"WILLINGNESS": "What ideas do you have to make the game more exciting? \r\nWhen do you think the roles should be reversed if the shark is not successful?"
+			"WILLINGNESS": "What ideas do you have to make the game more exciting? \r\nWhen do you think the roles should be reversed if the shark is not successful?",
+            "PDF": "Group: One child is the shark and determines how the others should move. Whoever is caught becomes the shark."
 		},
 		"STAR_RUN": {
 			"MOBAK": "Self movement",
@@ -408,7 +421,8 @@
 			"MATERIALS": "cones",
 			"VARIATIONS": "Change the spacing of the cones. \r\nChange the target time. \r\nSet yourself a time limit and try to reach it. \r\nWalk the route accompanied by another child with his/her eyes closed. \r\nWalk sideways or backwards.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you manage stay within the given time limit? \r\nWhat changes in your run when you have less time to complete the course?",
-			"WILLINGNESS": "How does it feel when you run as accurately as possible to the given time? \r\nImagine you are a horse, cheetah, emu and you are running through this course. How do these animals walk?"
+			"WILLINGNESS": "How does it feel when you run as accurately as possible to the given time? \r\nImagine you are a horse, cheetah, emu and you are running through this course. How do these animals walk?",
+            "PDF": "Try to run the known route around the points exactly in the given time."
 		},
 		"VARIABLE_RUNNING": {
 			"MOBAK": "Self movement",
@@ -418,7 +432,8 @@
 			"MATERIALS": "cones",
 			"VARIATIONS": "Choose other types of running. \r\nChange the distances between the cones. \r\nChange the running route. \r\nWalk the route accompanied by another child with his/her eyes closed.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you manage to switch between the types of running quickly? \r\nHow can you remember the running route and given types of running?",
-			"WILLINGNESS": "What ideas do you have to change the running routes? \r\nHow do you accompany a child with his/her eyes closed so that he/she feels safe?"
+			"WILLINGNESS": "What ideas do you have to change the running routes? \r\nHow do you accompany a child with his/her eyes closed so that he/she feels safe?",
+            "PDF": "Cover the distance as fast as possible with the correct forms of running."
 		}
 	},
 	"Jumping": "Jumping",
@@ -431,7 +446,8 @@
 			"MATERIALS": "Coordination ladder\r\nalternatively: gym hoops, sports tiles, floor markings, carpet tiles, chalk",
 			"VARIATIONS": "Jump as fast as possible.\r\nJump sideways or backwards.\r\nJump two fields forward and one backward.\r\nJump right - right - two-legged - left - left, etc. (various combinations).\r\nJump single-legged: forward, backward, sideways (with the right as well as the left shoulder in front).\r\nCombine jumping with arm circles (forward, backward, opposite).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What do you change when you jump backward or sideways instead of forward?\r\nHow do you manage to jump as fast as possible?",
-			"WILLINGNESS": "Which arrangement of the squares helps you to solve the task best?\r\nWhat changes for you when you compete against another child?\r\nGet together in pairs. Create a rhythm of jumping for your partner (e.g., left, right, both-legged, right, left, both-legged). Chose a rhythm that is challenging but doable for him/her! Have you succeeded?"
+			"WILLINGNESS": "Which arrangement of the squares helps you to solve the task best?\r\nWhat changes for you when you compete against another child?\r\nGet together in pairs. Create a rhythm of jumping for your partner (e.g., left, right, both-legged, right, left, both-legged). Chose a rhythm that is challenging but doable for him/her! Have you succeeded?",
+            "PDF": "Jump forward on both legs through the coordination ladder."
 		},
 		"JUMPING_2": {
 			"MOBAK": "Self movement",
@@ -441,7 +457,8 @@
 			"MATERIALS": "Ropes\r\nalternatively: tape, string, floor markers, sticks",
 			"VARIATIONS": "Perform a 90° rotation after each jump.\r\nJump like a frog.\r\nJump through the \"rope ladder\" with running steps.\r\nCombine jumping with different arm movements.\r\nJump right - right - two-legged - left - left, etc. (various combinations).\r\nJump single-legged: forward, backward, sideways (with the right as well as the left shoulder in front).\r\nCombine jumping with arm circles (forwards, backwards, in opposite directions).\r\nIncrease or decrease the distance between the ropes.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What changes in your movements when you jump with one leg or with both legs?\r\nHow does your movements change when the ropes are further apart?",
-			"WILLINGNESS": "Do you also succeed when the ropes have different distances?\r\nWhat types of jumps can you complete the course with? Imagine you are a frog, cangaroo, a horse or a grasshopper.\r\nWhich way of jumping over the ropes is most fun for you?"
+			"WILLINGNESS": "Do you also succeed when the ropes have different distances?\r\nWhat types of jumps can you complete the course with? Imagine you are a frog, cangaroo, a horse or a grasshopper.\r\nWhich way of jumping over the ropes is most fun for you?",
+            "PDF": "Jump one-legged, two-legged, sideways or diagonally over the 'rope ladder'."
 		},
 		"ROPE_JUMPING_1": {
 			"MOBAK": "Self movement",
@@ -451,7 +468,8 @@
 			"MATERIALS": "Rope\r\nalternatively: marking cone, floor markings, pizza boxes",
 			"VARIATIONS": "Jump over the rope with every step.\r\nVary the running speed.\r\nVary the number of steps after which you jump over the rope.\r\nRun and jump backwards over the rope.\r\nPerform a slalom race (e.g., with marking cones).\r\nWalk forward and jump over an object every second step.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What's important for you to jump over the rope?\r\nAt what speed/rhythm do you do it best?",
-			"WILLINGNESS": "Can you change your pace during the jump? Try!\r\nExplain to another child how you jump over the rope. Do you do it the same way?\r\nIn a small group of children, run and jump over the ropes in a defined place without touching each other. Have you succeeded?\r\n"
+			"WILLINGNESS": "Can you change your pace during the jump? Try!\r\nExplain to another child how you jump over the rope. Do you do it the same way?\r\nIn a small group of children, run and jump over the ropes in a defined place without touching each other. Have you succeeded?\r\n",
+            "PDF": "Run forward with the rope and jump over the rope with every other step."
 		},
 		"ROPE_JUMPING_2": {
 			"MOBAK": "Self movement",
@@ -461,7 +479,8 @@
 			"MATERIALS": "Coordination ladder, rope",
 			"VARIATIONS": "Run backwards.\r\nRun with two ground contacts per field.\r\nRun as fast as possible.\r\nPerform different forms of jumping.\r\nArrange the fields differently.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What are you looking for so that you have one ground contact per field?\r\nIn which jump form do you succeed best?",
-			"WILLINGNESS": "Challenge yourself: Stop your time for finishing the task. Can you do it faster in the next round?\r\nThis is a rather difficult task. If you are able to solve it, can you help others who aren't successful yet?\r\nWhat changes when you do the task in different speeds?"
+			"WILLINGNESS": "Challenge yourself: Stop your time for finishing the task. Can you do it faster in the next round?\r\nThis is a rather difficult task. If you are able to solve it, can you help others who aren't successful yet?\r\nWhat changes when you do the task in different speeds?",
+            "PDF": "Run through the coordination ladder with a rope. Touch each field only once."
 		},
 		"ROPE_JUMPING_3": {
 			"MOBAK": "Self movement",
@@ -471,7 +490,8 @@
 			"MATERIALS": "Rope ",
 			"VARIATIONS": "Jump with or without intermediate jump.\r\nSwing the rope backwards.\r\nJump with the rope, moving forward and backward (or left and right) across a given line.\r\nPerform squats while skipping rope.\r\nJump on a thin mat.\r\nHeel your legs when jumping.\r\nPull your knees up when jumping.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What do you pay attention to in order to solve the task successfully?\r\nWhich part of the foot do you jump off with?",
-			"WILLINGNESS": "Try changing your pace during jumping - which pace do you enjoy most?\r\nSet a goal: How many consecutive jumps do you want to accomplish without getting tangled?\r\nCan you jump with another child simultaneously?"
+			"WILLINGNESS": "Try changing your pace during jumping - which pace do you enjoy most?\r\nSet a goal: How many consecutive jumps do you want to accomplish without getting tangled?\r\nCan you jump with another child simultaneously?",
+            "PDF": "Jump with the rope on both legs."
 		},
 		"ROPE_JUMPING_4": {
 			"MOBAK": "Self movement",
@@ -481,7 +501,8 @@
 			"MATERIALS": "Rope\r\nalternatively: tape, cord, floor marking",
 			"VARIATIONS": "Jump with or without intermediate jump.\r\nJump with the other leg.\r\nSwing the rope backward.\r\nChange legs after every second swing (\"jump in place\").\r\nJump without rope.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you hold your arms to swing the rope at a constant speed?\r\nDo you need to change anything so that you can jump with the other leg?",
-			"WILLINGNESS": "Can you do it the same number of times with each leg? Set yourself a goal and try to achieve it.\r\nAsk another child what they like about jumping rope. Can you jump without jumping in between? Try it!"
+			"WILLINGNESS": "Can you do it the same number of times with each leg? Set yourself a goal and try to achieve it.\r\nAsk another child what they like about jumping rope. Can you jump without jumping in between? Try it!",
+            "PDF": "Jump on one leg with the rope."
 		},
 		"MAT_HIGHWAY": {
 			"MOBAK": "Self movement",
@@ -491,7 +512,8 @@
 			"MATERIALS": "Gymnastic mats\r\nalternatively: gymnastic hoops, floor markings, carpet tiles, chalk",
 			"VARIATIONS": "Jump through the jumping path in your own rhythm, one-legged, two-legged and alternating legs.\r\nLay a jump path with different materials/colors. Jump through the jump path and perform a different jump per material/color (double-legged, single-legged).\r\nArrange the mats differently.\r\nVary the number of contacts on the mats.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "In which rhythm can you jump over the mats best?\r\nWhat changes in your movement when the mats are next to each other?",
-			"WILLINGNESS": "Get together in pairs and try jumping over the mats in different rhythms. Which one do you like most?\r\nTry jumping over the mats with a classmate while holding hands! Have you succeeded?\r\nHow can you arrange the mats to make the task harder or easier?"
+			"WILLINGNESS": "Get together in pairs and try jumping over the mats in different rhythms. Which one do you like most?\r\nTry jumping over the mats with a classmate while holding hands! Have you succeeded?\r\nHow can you arrange the mats to make the task harder or easier?",
+            "PDF": "Jump from mat to mat."
 		},
 		"GROUND_ROPE_JUMPING_1": {
 			"MOBAK": "Self movement",
@@ -501,7 +523,8 @@
 			"MATERIALS": "Ropes\r\nalternatively: tape, floor markers, chalk",
 			"VARIATIONS": "Have two children changing the height by lifting the rope off the ground.\r\nHave two children swinging the rope and performing different jumps (e.g. with/without intermediate jump, one-legged or two-legged, with 180° turn).\r\nJump tricks.\r\nSing and jump: \"Teddy bear, teddy bear, turn around \" (180° turn); \"..., make yourself crooked\" (bend down jump); \"..., build a house\" (join hands above the head ); \"..., look out\" (palm on forehead); \"..., look out\" (palm on forehead) ; \"..., lift one foot\" (jump with one leg);  \"..., order a greeting\" (game finishes).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Do you jump differently when the rope is raised?\r\nHow do you change the movement when you jump sideways or back and forth?",
-			"WILLINGNESS": "Can you do tricks when you jump? Show and teach it to another child.\r\nWhat is the highest height you can jump? Challenge yourself!"
+			"WILLINGNESS": "Can you do tricks when you jump? Show and teach it to another child.\r\nWhat is the highest height you can jump? Challenge yourself!",
+            "PDF": "Stand parallel to the rope and jump over the rope several times."
 		},
 		"GROUND_ROPE_JUMPING_2": {
 			"MOBAK": "Self movement",
@@ -511,7 +534,8 @@
 			"MATERIALS": "Ropes, numbers\r\nalternatively: floor markings, mats, gymnastic hoops, tape",
 			"VARIATIONS": "Always jump with one leg (i.e., only the right or left leg).\r\nJump with both legs in the next field.\r\nJump in several fields and number them.\r\nIncrease the speed.\r\nChild A thinks up a secret number consisting of three digits (each between 1 and 4). Child B has to guess the number by jumping into the corresponding fields. Child A gives feedback. If child B jumps incorrectly, he must start over.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What changes when you know the order of the numbers being called compared to not knowing which number comes next?\r\nIs it easier to jump with one or both legs? Why?",
-			"WILLINGNESS": "What do you do to respond quickly to the shouting?\r\nHow can you, as a furnisher, make the task easier or more difficult for the child?\r\nGet together in pairs. Think up a high-five ritual that you perform when one of you makes it through 10 attempts without a mistake. How do you feel if you get a hight-five?"
+			"WILLINGNESS": "What do you do to respond quickly to the shouting?\r\nHow can you, as a furnisher, make the task easier or more difficult for the child?\r\nGet together in pairs. Think up a high-five ritual that you perform when one of you makes it through 10 attempts without a mistake. How do you feel if you get a hight-five?",
+            "PDF": "In pairs: A child calls out the numbers. The other stands with one leg in a field and jumps into the corresponding field at the call of a number and lands there on the other foot."
 		},
 		"ROPE_ROLLER": {
 			"MOBAK": "Self movement",
@@ -521,7 +545,8 @@
 			"MATERIALS": "Ropes (1 rope per 6-8 children)",
 			"VARIATIONS": "Hold the rope lower or higher.\r\nMove the rope faster or slower through the row.\r\nVary the jumping style (e.g., double-leg, single-leg, with body rotations).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "When is the correct time to jump off?\r\nHow do you jump best when there is a child to your left and right?",
-			"WILLINGNESS": "How could we change the task if we have no rope available?\r\nWhat can you do to solve the task successfully as a group?\r\nHow does it feel if everyone works together to solve the task successfully?"
+			"WILLINGNESS": "How could we change the task if we have no rope available?\r\nWhat can you do to solve the task successfully as a group?\r\nHow does it feel if everyone works together to solve the task successfully?",
+            "PDF": "Group: Two children hold a rope stretched at calf height. The other children jump over the rope as soon as the rope reaches them."
 		},
 		"MASTER_OF_RHYTHM": {
 			"MOBAK": "Self movement",
@@ -531,7 +556,8 @@
 			"MATERIALS": "Gymnastic hoops\r\nalternatively: floor markings, ropes, chalk",
 			"VARIATIONS": "Jump through the hoop path without arm movements.\r\nJump through the hoop path as fast as you can.\r\nExtend the arm of the opposite side. For the two-legged jumps, extend the arms upward.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What changes when you jump with arm movements compared to jumping without them?\r\nWhat can you do if you have difficulties solving this task at first?\r\nHow do you manage to stick your arm out to the side?",
-			"WILLINGNESS": "How can you follow another child through the hoops without being discovered?\r\nHow can you arrange the hoops to make it more difficult for you?\r\nInvent other arm movements that go along with your jumps! In which variations do you succeed?"
+			"WILLINGNESS": "How can you follow another child through the hoops without being discovered?\r\nHow can you arrange the hoops to make it more difficult for you?\r\nInvent other arm movements that go along with your jumps! In which variations do you succeed?",
+            "PDF": "Place several hoops on the floor in a row and jump through the hoop path according to the following instructions: \n- Jump on your left leg, left arm out to the side \n- Jump on your right leg, right arm out to the side\n- Jump on both legs, both arms out to the sides"
 		},
 		"SWINGING_KING_QUEEN": {
 			"MOBAK": "Self movement",
@@ -541,7 +567,8 @@
 			"MATERIALS": "Rope",
 			"VARIATIONS": "Ask the teacher or children to swing the rope faster or slower.\r\nAsk the teacher or children to swing the rope in the other direction (i.e., away from you).\r\nVary the jumps (e.g., double-leg, single-leg, with body rotations).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What's easier for you? To jump slowly or quickly? Why?\r\nWhat do you change when the rope swings to the other side?\r\nWhat is the correct time to jump off?",
-			"WILLINGNESS": "How many times can you jump and leave the swinging rope in a controlled way? Set yourself a goal or challenge another child.\r\nDo you manage to run into the swinging rope and then jump? Try!\r\nCan you tell another child from the outside when he/she needs to jump off?"
+			"WILLINGNESS": "How many times can you jump and leave the swinging rope in a controlled way? Set yourself a goal or challenge another child.\r\nDo you manage to run into the swinging rope and then jump? Try!\r\nCan you tell another child from the outside when he/she needs to jump off?",
+            "PDF": "Group: A long rope is swung by two children. The other children run through the swinging rope four times without touching it."
 		},
 		"JUMP_IN_AND_OUT": {
 			"MOBAK": "Self movement",
@@ -551,7 +578,8 @@
 			"MATERIALS": "hoops",
 			"VARIATIONS": "Rearrange the hoops. \r\nLook for as many different types of jumps as possible. \r\nCreate your jump sequence from two jump shapes. \r\nClose your eyes and jump your jump sequence without touching the hoops.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you create a jump sequence that you can repeat often? \r\nWhat part of your foot touches the ground when you jump?",
-			"WILLINGNESS": "Show your jump sequence to another child. Can you imitate the other child's jump sequence? \r\nCan you repeat your jump sequence with your eyes closed? \r\nImagine you are an animal and complete the jump sequence. What does this look like?"
+			"WILLINGNESS": "Show your jump sequence to another child. Can you imitate the other child's jump sequence? \r\nCan you repeat your jump sequence with your eyes closed? \r\nImagine you are an animal and complete the jump sequence. What does this look like?",
+            "PDF": "Perform different jumps and jump sequences to get in and out of the hoop."
 		},
 		"JUMPING_COURSE": {
 			"MOBAK": "Self movement",
@@ -561,7 +589,8 @@
 			"MATERIALS": "medicine balls, cones",
 			"VARIATIONS": "Change the jump course. \r\nUse more obstacles. \r\nJump the jumping course with your eyes closed.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do the obstacles have to be arranged so that you can easily jump over them? \r\nWhat is the best way to jump over the obstacles?",
-			"WILLINGNESS": "Do you have any other ideas for obstacles? \r\nWhat advice can you give to a child who has trouble with the jumping course?"
+			"WILLINGNESS": "Do you have any other ideas for obstacles? \r\nWhat advice can you give to a child who has trouble with the jumping course?",
+            "PDF": "Jump over the obstacles."
 		}
 	},
 	"Rolling": "Rolling",
@@ -574,7 +603,8 @@
 			"MATERIALS": "Soft floor mats, gymnastic benches, gymnastic mats, wall bars",
 			"VARIATIONS": "Hang the long benches on a lower or higher bar of the wall bars.\r\nHave another child check to make sure you are fully stretched when you roll.\r\nSwitch sides as you roll.\r\nHave another child catch you at the end of the rolling surface.\r\nExtend the arms upwards.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What changes for you when you change the side?\r\nWhat do you do with your legs/arms when rolling sideways?",
-			"WILLINGNESS": "Can you roll together with an other child?\r\nAt what height of the benches do you have the most fun? When do you need a lot of courage?\r\nWhere else could you also roll down sideways? "
+			"WILLINGNESS": "Can you roll together with an other child?\r\nAt what height of the benches do you have the most fun? When do you need a lot of courage?\r\nWhere else could you also roll down sideways?",
+            "PDF": "Roll down the slope."
 		},
 		"FORWARD_ROLL": {
 			"MOBAK": "Self movement",
@@ -584,7 +614,8 @@
 			"MATERIALS": "Soft floor mats, gymnastic benches, gymnastic mats, wall bars",
 			"VARIATIONS": "Grap your knees as you roll.\r\nStand up without using your hands to support you.\r\nClamp a stuffed animal (or another object) between your chin and chest while rolling.\r\nPush off with your feet and set up with your neck.\r\nLook at your belly.\r\nPut your hands on firmly.\r\nHang the long benches on a lower or higher bar of the wall bars.\r\nHave another child catch you at the end of the rolling surface.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What changes when you tuck something between your chin and chest while rolling?\r\nHow do you manage to roll straight?",
-			"WILLINGNESS": "How does it feel to successfully solve the task/not to be able to solve the task? What can you do to improve if you haven't been successful yet?\r\nAre you also able to roll from the bottom to the top?"
+			"WILLINGNESS": "How does it feel to successfully solve the task/not to be able to solve the task? What can you do to improve if you haven't been successful yet?\r\nAre you also able to roll from the bottom to the top?",
+            "PDF": "Roll forward down the slope."
 		},
 		"PENDULUM": {
 			"MOBAK": "Self movement",
@@ -594,7 +625,8 @@
 			"MATERIALS": "Floor mat, balloon, ball",
 			"VARIATIONS": "Place a balloon between your legs and hold it tight.\r\nPlace a balloon between your legs and your upper body as you swing back and stand back up into the squat position.\r\nPass the ball to another child by swinging back first and passing the ball as you stand up (change roles immediately after passing the ball).\r\nSwing back, hold onto your legs and swing up into the squat position.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you manage to stand up after rolling forward?\r\nHow do you roll back and forth?",
-			"WILLINGNESS": "Imagine being a Globe armadillo while rolling. How do you feel?\r\nCan you perform the pendulum motion simultaneously with another child?\r\nWhat changes when you pinch a balloon between your legs?"
+			"WILLINGNESS": "Imagine being a Globe armadillo while rolling. How do you feel?\r\nCan you perform the pendulum motion simultaneously with another child?\r\nWhat changes when you pinch a balloon between your legs?",
+            "PDF": "Roll back and forth on your back without using your feet."
 		},
 		"JUDO_ROLLS": {
 			"MOBAK": "Self movement",
@@ -604,7 +636,8 @@
 			"MATERIALS": "Soft floor",
 			"VARIATIONS": "Perform the judo roll alternately over the left and right shoulder.\r\nVary the run-up length.\r\nStand up directly after the roll without using your hands to support you.\r\nRoll slowly and without a run-up.\r\nLook at the shoulder to be rolled over.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What changes when you change the run-up length?\r\nDo you do the judo roll better than the forward roll? Why?",
-			"WILLINGNESS": "How do you feel when you roll over the other shoulder?\r\nCan you do the judo roll on a mat or on the floor?"
+			"WILLINGNESS": "How do you feel when you roll over the other shoulder?\r\nCan you do the judo roll on a mat or on the floor?",
+            "PDF": "With a few steps, perform a roll over your shoulder onto the mat."
 		},
 		"MAT_ROLLS": {
 			"MOBAK": "Self movement",
@@ -614,7 +647,8 @@
 			"MATERIALS": "Soft floor mat",
 			"VARIATIONS": "Stand up without using your hands to support you.\r\nGet assistance from another child or the teacher.\r\nLay a corridor using ropes to roll on the mat and roll on it.\r\nRoll in pairs synchronously side by side.\r\nPush off harder with your legs, so that you roll faster. Then put your hands in front of you.\r\nPerform the roll on a gym mat.\r\nPlace a floor marker on the mat and land with your feet on it after the roll. Vary the distance from your starting position.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you manage to stand up after rolling?\r\nWhat changes when you do the roll onto the mat without a run-up?",
-			"WILLINGNESS": "Does your feeling change when you do the roll onto the long side of the mat compared to the short side?\r\nHow does it feel to successfully stand up after rolling?"
+			"WILLINGNESS": "Does your feeling change when you do the roll onto the long side of the mat compared to the short side?\r\nHow does it feel to successfully stand up after rolling?",
+            "PDF": "With a few steps, perform a forward role on the mat."
 		},
 		"ROLL_OFF_THE_BOX": {
 			"MOBAK": "Self movement",
@@ -624,7 +658,8 @@
 			"MATERIALS": "gym box with two elements, gym mat",
 			"VARIATIONS": "Change the height of the gymnastics box. \r\nClamp a tape between your ankles. \r\nChild A is on all fours. Child B uses child A as an elevation and rolls from child A's back onto a mat. \r\nRoll over a physio ball.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Are you able to get up after rolling off? How? \r\nHow do you place your hands to roll as straight as possible?",
-			"WILLINGNESS": "How does it feel to roll off the box? \r\nAt what height of the box do you have the most fun? When do you need a lot of courage?"
+			"WILLINGNESS": "How does it feel to roll off the box? \r\nAt what height of the box do you have the most fun? When do you need a lot of courage?",
+            "PDF": "Kneel down on the box. Place your hands on the mat and perform a forward role."
 		},
 		"VARIABLE_ROLLING": {
 			"MOBAK": "Self movement",
@@ -634,7 +669,8 @@
 			"MATERIALS": "gymnastic mats",
 			"VARIATIONS": "Roll sideways. \r\nPlace your feet behind the inclined plane. \r\nNow jump off a little and roll down the inclined plane. \r\nRoll from bottom to top. \r\nRoll on a straight plane. \r\nPlace your feet on the mat and roll from top to bottom.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How does rolling change when you roll from the bottom upwards? \r\nWhich role do you perform best? Demonstrate and explain.",
-			"WILLINGNESS": "Which type of roll do you enjoy the most? Why? \r\nCan you roll in all ways?"
+			"WILLINGNESS": "Which type of roll do you enjoy the most? Why? \r\nCan you roll in all ways?",
+            "PDF": "Roll down or up the slope in different ways."
 		},
 		"ROLLING_PRECISELY": {
 			"MOBAK": "Self movement",
@@ -644,7 +680,8 @@
 			"MATERIALS": "gymnastics mats, adhesive tape",
 			"VARIATIONS": "Stick the tape to the end of the mat and land your feet on it after the roll. Change the distance from the beginning of the mat. \r\nRoll over the tape so that it sticks from one shoulder to the opposite hip.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you have to push off with your feet to roll as precisely as possible? \r\nHow do you manage to roll straight?",
-			"WILLINGNESS": "Can you roll over the tape three times so that you have a tape star on your back afterwards? \r\nHow do you enjoy rolling over the tape the most? Do you have any other ideas?"
+			"WILLINGNESS": "Can you roll over the tape three times so that you have a tape star on your back afterwards? \r\nHow do you enjoy rolling over the tape the most? Do you have any other ideas?",
+            "PDF": "Roll over the tape so that it sticks to your back vertically."
 		},
 		"ROLL_UP": {
 			"MOBAK": "Self movement",
@@ -654,7 +691,8 @@
 			"MATERIALS": "gym box with two elements, gym mats",
 			"VARIATIONS": "Change the number of elements. \r\nPerform a roll on the gymnastics box. \r\nUse a springboard to jump off.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you manage to roll up to the gymnastics box? \r\nWhat do you do with your legs while rolling?",
-			"WILLINGNESS": "What height requires a lot of courage from you? How did you overcome your hesitation? \r\nHow can you help another child roll up?"
+			"WILLINGNESS": "What height requires a lot of courage from you? How did you overcome your hesitation? \r\nHow can you help another child roll up?",
+            "PDF": "Roll onto the gymnastics box."
 		},
 		"DIVE_ROLL": {
 			"MOBAK": "Self movement",
@@ -664,7 +702,8 @@
 			"MATERIALS": "gym mats, medicine balls",
 			"VARIATIONS": "Place several medicine balls in a row and perform a dive roll over them. \r\nChange the distance between the medicine ball. \r\nJump off with both legs. \r\nInstead of the medicine ball, use a rope to perform a dive roll.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What do you have to change compared to a roll forward to perform a dive roll? \r\nWhat do you do to land as gently as possible?",
-			"WILLINGNESS": "Set yourself a goal by selecting a number of medicine balls that you want to perform a dive roll on. How do you feel when you have achieved this goal? \r\nImagine you perform a dive roll across a huge abyss. How does that make you feel?"
+			"WILLINGNESS": "Set yourself a goal by selecting a number of medicine balls that you want to perform a dive roll on. How do you feel when you have achieved this goal? \r\nImagine you perform a dive roll across a huge abyss. How does that make you feel?",
+            "PDF": "Perform a forward role over the medicine ball."
 		},
 		"PARTNER_ROLLS": {
 			"MOBAK": "Self movement",
@@ -674,7 +713,8 @@
 			"MATERIALS": "gym mats",
 			"VARIATIONS": "Start in the other position (up/down).\r\nExecute a roll forward synchronously side by side.\r\nMake two or more rolls in a row.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you manage to perform a partner role together? \r\nWhat do you pay more attention to in the partner role as opposed to the role alone?",
-			"WILLINGNESS": "Did it take a lot of courage to roll in pairs? If so, how did you overcome your hesitation? \r\nWhat advice can you give to other children to help them succeed in their partner role?"
+			"WILLINGNESS": "Did it take a lot of courage to roll in pairs? If so, how did you overcome your hesitation? \r\nWhat advice can you give to other children to help them succeed in their partner role?",
+            "PDF": "In pairs: Grab each other's ankles and rest your head on your chest. Perform a role forward together."
 		}
 	},
 	"Balancing": "Balancing",
@@ -687,7 +727,8 @@
 			"MATERIALS": "Rope",
 			"VARIATIONS": "Balance backwards.\r\nBalance with your eyes closed.\r\nThrow additional cloths in the air and catch them.\r\nRotate additional (1 or 2) hoops with your arms.\r\nChoose other material to balance on (e.g., hoops, floor tiles, lines).\r\nChoose material that you can additionally balance on a body part (e.g., cloths, hats, balls).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What changes when you balance backwards instead of forwards?\r\nWhy is balancing easier when you look forward (instead of on the ground, for example)?",
-			"WILLINGNESS": "Imagine you are tightrope walkers in a circus. How can you balance over the rope together? Can you hear the applause?\r\nHow can you put the rope down to make balancing more difficult?\r\nWhy it might be important to be able to balance?"
+			"WILLINGNESS": "Imagine you are tightrope walkers in a circus. How can you balance over the rope together? Can you hear the applause?\r\nHow can you put the rope down to make balancing more difficult?\r\nWhy it might be important to be able to balance?",
+            "PDF": "Balance on the rope."
 		},
 		"BENCH_BALANCING": {
 			"MOBAK": "Self movement",
@@ -697,7 +738,8 @@
 			"MATERIALS": "Long bench",
 			"VARIATIONS": "Change the way you move (sideways, backwards, on all fours).\r\nPerform additional arm movements.\r\nChoose material that you can additionally balance on a part of your body (e.g., cloths, hats, balls).\r\nPut additional obstacles (e.g., clothes, hats) on the bench, and then step over these obstacles.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What is the best way to put your feet on the bench in order to balance successfully?\r\nHow does your balancing change when you look upwards or downwards instead of forwards?",
-			"WILLINGNESS": "How does it feel to successfully balance over the bench?\r\nObserve a child that has difficulties balancing over the bench and try to give him/her tips!\r\nWhere can you balance other than on the bench to make the task more difficult for you?"
+			"WILLINGNESS": "How does it feel to successfully balance over the bench?\r\nObserve a child that has difficulties balancing over the bench and try to give him/her tips!\r\nWhere can you balance other than on the bench to make the task more difficult for you?",
+            "PDF": "Balance forward on the long bench."
 		},
 		"WOBBLY_BENCH": {
 			"MOBAK": "Self movement",
@@ -707,7 +749,8 @@
 			"MATERIALS": "Long benches, gymnastic bars",
 			"VARIATIONS": "Perform the task without other children, by fixing the long bench on the gymnastics bars with gymnastics mats on all sides so that it does not move.\r\nWalk sideways or backwards.\r\nPut additional obstacles (e.g., clothes, hats) on the bench, and then step over these obstacles.\r\nAdd a rotation.\r\nChoose materials that you can additionally balance on a part of your body (e.g., cloths, cones, balls).\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you move to balance on the wobbly bench?\r\nWhich arm position helps you most when you balance?",
-			"WILLINGNESS": "How does it feel to balance over the wobbly bench? Do you need a lot of courage?\r\nAsk the other children to move the bench more slowly/faster depending on how safe you feel."
+			"WILLINGNESS": "How does it feel to balance over the wobbly bench? Do you need a lot of courage?\r\nAsk the other children to move the bench more slowly/faster depending on how safe you feel.",
+            "PDF": "Keep your balance on the bench while it wobbles."
 		},
 		"MOUNTAIN_CLIMBING": {
 			"MOBAK": "Self movement",
@@ -717,7 +760,8 @@
 			"MATERIALS": "Long bench, wall bars, mats on the floor for security",
 			"VARIATIONS": "Change the way of moving (sideways, backwards, on all fours).\r\nHang the long bench on the swing rings and balance over it. Mats for security are absolutely necessary.\r\nIn addition, rotate a hoop with your arm.\r\nChoose materials that you can additionally balance on a part of your body (e.g., cloths, hats, balls).\r\nHang the long bench on a lower or higher bar of the wall bars.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Where do you look when you balance upwards?\r\nHow do you climb  without losing your balance?",
-			"WILLINGNESS": "At what height of the bench does the task become challenging for you?\r\nStop the time you need to balance to the top and challenge a classmate or yourself. How do you feel while balancing in a challenge?\r\nHow does it feel when there are still obstacles on the bench?"
+			"WILLINGNESS": "At what height of the bench does the task become challenging for you?\r\nStop the time you need to balance to the top and challenge a classmate or yourself. How do you feel while balancing in a challenge?\r\nHow does it feel when there are still obstacles on the bench?",
+            "PDF": "Balance up and down the bench."
 		},
 		"OPPOSING_TRAFFIC": {
 			"MOBAK": "Self movement",
@@ -727,7 +771,8 @@
 			"MATERIALS": "Long bench",
 			"VARIATIONS": "Turn the long bench the other way round.\r\nPlace the long bench on an unstable surface (mat, springboard, gymnastic bars, etc.).\r\nChoose materials that you can additionally balance on a part of your body (e.g., cloths, cones, balls).\r\nBalance on a rope.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How can you help each other cross? \r\nWhat is difficult about crossing?",
-			"WILLINGNESS": "Imagine you are in the jungle and you have to escape the poisonous snakes on the ground. The bank will save you from them. Help each other cross to reach the other sides without snakes! How did you proceed to solve the crossing together?\r\nWhat can you do together  before you cross in order to be more courageous while crossing?"
+			"WILLINGNESS": "Imagine you are in the jungle and you have to escape the poisonous snakes on the ground. The bank will save you from them. Help each other cross to reach the other sides without snakes! How did you proceed to solve the crossing together?\r\nWhat can you do together  before you cross in order to be more courageous while crossing?",
+            "PDF": "Group: There are the same number of children on each side of the long bench. Balance across the bench and pass each other in the middle."
 		},
 		"SEESAW": {
 			"MOBAK": "Self movement",
@@ -737,7 +782,8 @@
 			"MATERIALS": "Long bench, top of a box",
 			"VARIATIONS": "Choose materials that you can additionally balance on a part of your body (e.g., cloths, hats, balls).\r\nChange the way of moving (sideways, backwards, on all fours).\r\nBalance with your eyes closed.\r\nLet another child help you (if needed). They offer their hand and you grab it when necessary.\r\nInstead of the top of a box, choose two springboards so that the bench can tip over.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What do you do when the bench tilts to keep your balance?\r\nHow does the tilting of the bench change when you balance sideways?",
-			"WILLINGNESS": "Do you have any ideas on how we can make the bench tilt at different heights?\r\nHow does it feel when the bench tilts?\r\nTry balancing at the same time as another child. How does that change the tilting of the bench?"
+			"WILLINGNESS": "Do you have any ideas on how we can make the bench tilt at different heights?\r\nHow does it feel when the bench tilts?\r\nTry balancing at the same time as another child. How does that change the tilting of the bench?",
+            "PDF": "Balance over the seesaw and let it tilt slowly."
 		},
 		"ROPE_DANCER": {
 			"MOBAK": "Self movement",
@@ -747,7 +793,8 @@
 			"MATERIALS": "Long bench, basketball",
 			"VARIATIONS": "Balance on both sides of the bench.\r\nPerform the task with a time limit.\r\nBalance on a rope.\r\nBalance with your eyes closed.\r\nChoose another ball or object to balance with.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Why is the task easier when you balance on the wide side of the bench?\r\nWhat changes when you hold a ball above your head while balancing compared to balancing without a ball?\r\nHow does the task change when you use a stick instead of the ball?",
-			"WILLINGNESS": "What other objects could you hold above your head while balancing?\r\nOn what parts of your body could you balance objects while walking across the bench?\r\nBefore you get on the bench: First, try to imagine your following movements for a few seconds. Do you manage the task better this way?"
+			"WILLINGNESS": "What other objects could you hold above your head while balancing?\r\nOn what parts of your body could you balance objects while walking across the bench?\r\nBefore you get on the bench: First, try to imagine your following movements for a few seconds. Do you manage the task better this way?",
+            "PDF": "Hold a basketball above your head and balance forward across the long bench. Turn around in the middle and continue balancing backwards."
 		},
 		"BALANCING_ON_BALLS": {
 			"MOBAK": "Self movement",
@@ -757,7 +804,8 @@
 			"MATERIALS": "Medicine balls, rings (for fixing the medicine balls)",
 			"VARIATIONS": "Walk backwards over the medicine balls.\r\nUse physio/pezzi balls instead of medicine balls.\r\nCross the medicine balls on all fours.\r\nLet another child help you (if needed). They offer their hand and you grab it when necessary.\r\nWalk towards each other in pairs and try to pass each other.\r\nBalance with your eyes closed.\r\nArrange the medicine balls in a different way.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What do you do differently when balancing over the balls than when balancing over a bench?\r\nWhat is the best way to put your feet on the balls in order to balance successfully?\r\nHow do you manage to balance over the balls with your eyes closed?",
-			"WILLINGNESS": "What objects could be used instead of the medicine balls?\r\nHow does it feel to have the balls further apart?\r\nHow does it feel to balance over the balls with your eyes closed?"
+			"WILLINGNESS": "What objects could be used instead of the medicine balls?\r\nHow does it feel to have the balls further apart?\r\nHow does it feel to balance over the balls with your eyes closed?",
+            "PDF": "Balance forward over the medicine balls without touching the ground."
 		},
 		"CIRCUS_ARTISTS": {
 			"MOBAK": "Self movement",
@@ -767,7 +815,8 @@
 			"MATERIALS": "Long bench, blindfolds.",
 			"VARIATIONS": "Balance with closed eyes.\r\nComplete the task with a time limit.\r\nLet another child help you (if needed). They offer their hand and you grab it when necessary.\r\nTurn over the long bench.\r\nPress the arms close to the body.\r\nLean the upper body forward or backward.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What is the best way to balance across the bench blindfolded?\r\nWhat do you change in your movements when you balance backwards instead of forwards?",
-			"WILLINGNESS": "How does it feel to successfully balance over the bench blindfolded?\r\nHow can you help other children who haven't been successful yet in this task?"
+			"WILLINGNESS": "How does it feel to successfully balance over the bench blindfolded?\r\nHow can you help other children who haven't been successful yet in this task?",
+            "PDF": "Balance on the long bench blindfolded."
 		},
 		"BALANCING_ON_MATS": {
 			"MOBAK": "Self movement",
@@ -777,7 +826,8 @@
 			"MATERIALS": "gymnastic mats",
 			"VARIATIONS": "Close your eyes. \r\nStand on the other leg. \r\nStand on a thicker mat. \r\nStand on other unstable surfaces.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What is the best way to keep your balance? \r\nHow can your sight help you to keep your balance?",
-			"WILLINGNESS": "How does the task change  when you close your eyes or tilt your head back? \r\nOn which surfaces can balancing be made more challenging?"
+			"WILLINGNESS": "How does the task change  when you close your eyes or tilt your head back? \r\nOn which surfaces can balancing be made more challenging?",
+            "PDF": "Stand on one leg on a gym mat."
 		},
 		"DONT_WOBBLE": {
 			"MOBAK": "Self movement",
@@ -787,7 +837,8 @@
 			"MATERIALS": "-",
 			"VARIATIONS": "Perform a standing scale when the command is given. \r\nKeep the balance in a floating position when the signal is given. \r\nUses different commands (positions) that need to be performed. If you wobble, give the next command.\r\nLook for different positions to keep your balance.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you manage to stand still in a one-legged stand as quickly as possible? \r\nWhat balance positions are easy to hold?",
-			"WILLINGNESS": "How far can you stretch your arms and legs apart in a one-legged stand while keeping your balance? \r\nHow do you feel when you loose your balance?"
+			"WILLINGNESS": "How far can you stretch your arms and legs apart in a one-legged stand while keeping your balance? \r\nHow do you feel when you loose your balance?",
+            "PDF": "Do the one-legged stand on command."
 		},
 		"UNSTABLE_DEVICES": {
 			"MOBAK": "Self movement",
@@ -797,7 +848,8 @@
 			"MATERIALS": "Balancing equipment, balls, pedalo, sports gyroscopes, etc",
 			"VARIATIONS": "Close your eyes while balancing. \r\nChange the position of your arms. \r\nPerform additional movements with your arms (e.g. circles). \r\nBalance on one leg on the device. \r\nHave another child help you.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What do you pay attention to so that you can keep your balance on an unstable device? \r\nHow does the balance change on an unstable device as opposed to a stable device?",
-			"WILLINGNESS": "What other devices can you balance on? \r\nHow can you make the task even more challenging?"
+			"WILLINGNESS": "What other devices can you balance on? \r\nHow can you make the task even more challenging?",
+            "PDF": "Balance on the unstable equipment."
 		}
 	},
 	"catching": "catching",
@@ -811,7 +863,8 @@
 			"MATERIALS": "Various balls",
 			"VARIATIONS": "Throw the ball in the air with both hands, clap once or several times and then catch the ball with both hands.\r\nThrow the ball in the air using both hands and then catch it using only one hand.\r\nThrow the ball in the air using both hands, touch the floor with both hands and then catch the ball with both hands.\r\nThrow the ball in the air with both hands, turn around your own axis and then catch the ball.\r\nThrow the ball in the air with both hands and then catch it behind your back.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you manage to catch the ball again after throwing it?\r\nWhat do you do with your hands?\r\nObserve others catching the ball - what do they do with their hands?\r\n",
-			"WILLINGNESS": "How high can you throw the ball and catch it again?\r\nCan you do it with different balls?\r\nDescribe the emotions you experience when you successfully catch the ball."
+			"WILLINGNESS": "How high can you throw the ball and catch it again?\r\nCan you do it with different balls?\r\nDescribe the emotions you experience when you successfully catch the ball.",
+            "PDF": "Throw the ball in the air with both hands and catch it when it falls back down."
 		},
 		"KEEP_THE_WATER_CLEAN": {
 			"MOBAK": "Object movement",
@@ -821,7 +874,8 @@
 			"MATERIALS": "Balls, net, wooden- / badminton- or (soft-) tennis racket \r\nalternatively: long bench/ thread for separation, cones, various balls, ballons\r\n",
 			"VARIATIONS": "Catch the balls using a cone.\r\nCatch the balls with your left hand for balls on the left side and with your right hand for balls on the right side.\r\nCatch the balls with a racket.\r\nAlternate playing short and long balls (child A).\r\nContinuously switch roles.\r\nChild A throws the ball over the net.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you stand best so that you can catch the ball well?\r\nWhere do you look so that you can catch the ball well?",
-			"WILLINGNESS": "What changes for you when you play against each other?\r\nHow do you both manage to play and catch the ball?"
+			"WILLINGNESS": "What changes for you when you play against each other?\r\nHow do you both manage to play and catch the ball?",
+            "PDF": "In pairs: One child hits the balls over the net using a racket, the other child catches them."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Object movement",
@@ -831,7 +885,8 @@
 			"MATERIALS": "Hoops, various balls",
 			"VARIATIONS": "Hold two hoops (child C).\r\nRoll and catch the ball yourself to the other side (child A), so that you are doing the task with only one other child, which is holding the hoop.\r\nKick the ball with your foot.\r\nEnlarge the group by having all of the children position themselves with a ball at the long side of the gym. Try to hit with your ball (roll, throw or kick through the hoop) a gymnastics ball or a hoop, which is rolled around the gym by a teacher.\r\nPlay the ball with a racket through the hoop.\r\nRoll the ball with your hand.\r\nRoll the hoop around the gym and throw, play or roll the ball through the hoop.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you manage to roll through the hoop?\r\nHow does the movement of your arms change when you roll the ball instead of throwing it?",
-			"WILLINGNESS": "Which of the variations is most fun for you and why?\r\nHow many times in a row can you catch the ball? Set a goal and try to reach it.\r\nHow can you roll/play the ball in anohter way?"
+			"WILLINGNESS": "Which of the variations is most fun for you and why?\r\nHow many times in a row can you catch the ball? Set a goal and try to reach it.\r\nHow can you roll/play the ball in anohter way?",
+            "PDF": "In groups of three: One child is holding a hoop. The other two roll a ball through the hoop."
 		},
 		"TIGERBALL": {
 			"MOBAK": "Object movement",
@@ -841,7 +896,8 @@
 			"MATERIALS": "Various balls",
 			"VARIATIONS": "Play with two (different) balls at once.\r\nEnlarge the circle gradually.\r\nVary the pass height.\r\nIntegrate throwing variations (e.g., throw from below, using both hands, over head).\r\nDo not pass the ball to the child directly next to you.\r\nRoll the ball to the next child.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What is the best way to catch the ball when you are in the middle?\r\nWhat is the best way to throw the ball to another child so that the child in the middle doesn't catch it?",
-			"WILLINGNESS": "When is this game the most fun?\r\nHow do you act when you notice that the child in the middle is not catching the ball?\r\nHow do you play together so that the child in the middle cannot catch the ball?"
+			"WILLINGNESS": "When is this game the most fun?\r\nHow do you act when you notice that the child in the middle is not catching the ball?\r\nHow do you play together so that the child in the middle cannot catch the ball?",
+            "PDF": "Group: A child stands in the middle of the circle. The others pass the ball to each other. The child in the middle tries to catch the ball. Reverse roles."
 		},
 		"BOXING": {
 			"MOBAK": "Object movement",
@@ -851,7 +907,8 @@
 			"MATERIALS": "Various balls",
 			"VARIATIONS": "Use various balls.\r\nChange the distance.\r\nVary the pass height (child A).\r\nIntegrate throwing variations (e.g., throw from below, using both hands, over head).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How can you best throw the ball accurately?\r\nHow do you act so that you can catch the ball well?",
-			"WILLINGNESS": "How many times in a row can you manage to catch the ball again at different distances?\r\nHow do you manage to solve the task together?\r\nDo you manage to catch the ball again at different distances?"
+			"WILLINGNESS": "How many times in a row can you manage to catch the ball again at different distances?\r\nHow do you manage to solve the task together?\r\nDo you manage to catch the ball again at different distances?",
+            "PDF": "In pairs: A child holds a ball in his/her hands and passes the ball back using the ball he/she is holding."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Object movement",
@@ -861,7 +918,8 @@
 			"MATERIALS": "Various balls",
 			"VARIATIONS": "Now throw the ball back and forth to  another child.\r\nChange the positioning from a circle into other forms (e.g., square, triangle, ellipse).\r\nAfter the pass, go to the position that you passed.\r\nIntegrate throwing variations (e.g., throw from below, using both hands, over head).\r\nRoll the ball with your hand, kick with your foot or play with the racket.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you prepare for catching the ball?\r\nWhat do you look for when the ball flies to you?\r\nWhy is it helpful to look at the child you are going to throw the ball to?",
-			"WILLINGNESS": "Can you make each child in the circle catch the ball once without it touching the ground?\r\nWhich is the fastest way that works to throw an catch the ball in the circle?"
+			"WILLINGNESS": "Can you make each child in the circle catch the ball once without it touching the ground?\r\nWhich is the fastest way that works to throw an catch the ball in the circle?",
+            "PDF": "Group: Stand in a circle and pass the ball to each other. Double passes are not allowed."
 		},
 		"REACTING": {
 			"MOBAK": "Object movement",
@@ -871,7 +929,8 @@
 			"MATERIALS": "balls",
 			"VARIATIONS": "Throw the ball at different heights. \r\nBounce the ball to the ground and catch it again. \r\nUse different balls. \r\nTwo or three children throw a ball to each other. Help: Let the ball bounce on the ground once.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What do you pay attention to so that you only open your eyes just before catching? \r\nWhich ball can you catch best? Explain.",
-			"WILLINGNESS": "Will you also be able to catch the ball blindly? \r\nHow do you pass the ball to another child so that it is easy for them to catch the ball?"
+			"WILLINGNESS": "Will you also be able to catch the ball blindly? \r\nHow do you pass the ball to another child so that it is easy for them to catch the ball?",
+            "PDF": "Throw the ball in the air with your eyes closed and catch it when it falls back down."
 		},
 		"WALL_BALL": {
 			"MOBAK": "Object movement",
@@ -881,7 +940,8 @@
 			"MATERIALS": "balls",
 			"VARIATIONS": "Use different balls. Mark a target zone on the wall. Play on only one wall. After a rebounding point, the successful team has to go behind an agreed line before the next attack. Roll the ball to each other instead of throwing.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What do you pay attention to so that you succeed in making a rebound point? \r\nHow do you pass the ball to your teammates so that the opposing team can't get hold of it?",
-			"WILLINGNESS": "How does the trajectory change when the ball changes? \r\nWhat ideas do you have to change the game?"
+			"WILLINGNESS": "How does the trajectory change when the ball changes? \r\nWhat ideas do you have to change the game?",
+            "PDF": "Group: Divide into two teams. A point can be scored when one team member throws the ball at the wall and another team member catches it when it bounces back."
 		},
 		"TRAJECTORY": {
 			"MOBAK": "Object movement",
@@ -891,7 +951,8 @@
 			"MATERIALS": "balls",
 			"VARIATIONS": "Throw the ball against the wall so that it bounces on the floor before you catch it. \r\nThrow at the wall from different positions. \r\nPass the ball to each other in pairs using the wall. The ball must touch the wall before the other child catches it. \r\nPlay against each other in pairs: Agree on a zone where the ball may be played against the wall and where it must land on the ground again. If the other child can't catch the ball, you get a point.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you know where the ball is going when it bounces off the wall? \r\nHow are you ready to catch the ball?",
-			"WILLINGNESS": "How many times in a row do you manage to catch the ball again? \r\nHow do you feel when you can't catch the ball?"
+			"WILLINGNESS": "How many times in a row do you manage to catch the ball again? \r\nHow do you feel when you can't catch the ball?",
+            "PDF": "Throw the ball at the wall and catch it when it bounces back."
 		},
 		"FLYING_BALL": {
 			"MOBAK": "Object movement",
@@ -901,7 +962,8 @@
 			"MATERIALS": "ball, gymnastic mats",
 			"VARIATIONS": "Use different balls. \r\nVary the landing zone. \r\nChange the size of the playing field.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What tactics does your team use to score points? \r\nWhat changes when the playing field gets bigger?",
-			"WILLINGNESS": "Will you be able to catch the ball in the jump and land in the landing zone? \r\nHow do you throw the ball to your teammate so that he/she manages to catch the ball in the landing zone? \r\nWhat rules would you add to change the game?"
+			"WILLINGNESS": "Will you be able to catch the ball in the jump and land in the landing zone? \r\nHow do you throw the ball to your teammate so that he/she manages to catch the ball in the landing zone? \r\nWhat rules would you add to change the game?",
+            "PDF": "Group: Divide into two teams. A point can be scored when a team member catches the ball while jumping into the landing zone."
 		},
 		"FISHERMAN": {
 			"MOBAK": "Object movement",
@@ -911,7 +973,8 @@
 			"MATERIALS": "balls",
 			"VARIATIONS": "Throw the balls quickly one after the other. \r\nGive an audible signal before you throw the ball. \r\nChild A says where the ball will be thrown. \r\nChild B stands ready with his/her eyes closed and tries to react as quickly as possible.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What do you pay attention to when you catch the balls? \r\nHow do you hold your hands and arms to catch the balls?",
-			"WILLINGNESS": "Do you have an idea how to change the game and make it more exciting? \r\nAs child A, how do you throw the ball to child B so that it is challening but still possible to catch the balls?"
+			"WILLINGNESS": "Do you have an idea how to change the game and make it more exciting? \r\nAs child A, how do you throw the ball to child B so that it is challening but still possible to catch the balls?",
+            "PDF": "In pairs: Pass the balls to each other at different heights."
 		}
 	},
 	"throwing": "throwing",
@@ -924,7 +987,8 @@
 			"MATERIALS": "Juggling balls, carpet tiles, [various additional balls]",
 			"VARIATIONS": "Integrate throwing variations (e.g., from below, using both hands, over head).\r\nUse different balls.\r\nIncrease or decrease the distance of the carpet tiles.\r\nUse smaller or bigger carpet tiles.\r\nChange the arrangement of the carpet tiles.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What do you need to change if you throw to fields 1 or field 12? \r\nWhat is the most accurate way to throw the ball?",
-			"WILLINGNESS": "How would you arrange the fields? \r\nWhich other things in the gym can you use as targets?"
+			"WILLINGNESS": "How would you arrange the fields? \r\nWhich other things in the gym can you use as targets?",
+            "PDF": "Throw the juggling ball to square 1 and then jump from square 2 - 12 and back. Then throw the ball into square 2 and jump to square 1 and then 3 - 12 and back. And so on."
 		},
 		"THROWING_STATIONS": {
 			"MOBAK": "Object movement",
@@ -934,7 +998,8 @@
 			"MATERIALS": "Various balls, gym boxes, hoops",
 			"VARIATIONS": "Throw the ball while sitting.\r\nStand on a gym box, throw the balls into a basket.\r\nThrow a ball (with the left and right hand) on top of a gym box and try to catch the ball afterwards.\r\nThrow the balls with your left and right hand over or through the wall bars so that another child can catch them.\r\nHit all four marking cones from a gym box using five balls.\r\nThrow the ball in all squares of the wall bars.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What changes when you throw the ball one-handed or two-handed?\r\nHow do you stand when you throw?",
-			"WILLINGNESS": "Set a specific goal for yourself: How many balls are you able to throw into the box in a row?\r\nWhat changes when you challenge another child?\r\nDo you manage to hit the box even from different distances?"
+			"WILLINGNESS": "Set a specific goal for yourself: How many balls are you able to throw into the box in a row?\r\nWhat changes when you challenge another child?\r\nDo you manage to hit the box even from different distances?",
+            "PDF": "Throw the ball into the box."
 		},
 		"KEEP_YOUR_GARDEN_CLEAN": {
 			"MOBAK": "Object movement",
@@ -944,7 +1009,8 @@
 			"MATERIALS": "Long benches, various balls",
 			"VARIATIONS": "Between the two teams there is a distance of 3 m. This space is a game-free zone (it can be seperated using cones and long benches). The soft balls can only be thrown and the footballs can only be kicked. The teams can also receive points by kicking/throwing the balls at the wall of the opposing team.\r\nPlay the game with two long benches (with a little bit of distance in between).\r\nThe long bench is flipped and placed onto two gym boxes. Throw the balls under the bench to the opposing field.\r\nSolve a task after every throw, i.e., touch a wall, throw the ball first at the wall and then catch it.\r\nCollectively, invent additional rules for the game.\r\nIntegrate throwing variations (e.g., throw from below, using both hands, over head).\r\n\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What is the fastest way to throw the ball to the other side?\r\nDo you throw the ball differently when you catch it out of the air than when you pick it up off the ground?",
-			"WILLINGNESS": "What do you do together as a team to keep the garden clean?\r\nWhat do you watch out for so you don't accidentally hit another child?"
+			"WILLINGNESS": "What do you do together as a team to keep the garden clean?\r\nWhat do you watch out for so you don't accidentally hit another child?",
+            "PDF": "Groups: Divide into two teams. Throw as many balls as possible into the other team's playing field during the allotted time."
 		},
 		"SCORE_MASTER": {
 			"MOBAK": "Object movement",
@@ -954,7 +1020,8 @@
 			"MATERIALS": "Balls, various targets (e.g., carpet tiles, hoops, mats)",
 			"VARIATIONS": "Integrate throwing variations (e.g., throw from below, using both hands, over head).\r\nIncrease or decrease the distance of the targets.\r\nUse a time limit for hitting the targets.\r\nUse various targets.\r\nChoose different targets on the wall.\r\n\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Which target do you hit the easiest and why?\r\nHow do you throw best to hit a target?",
-			"WILLINGNESS": "Make a plan: In what order do you want to hit the targets in order to need as few throws as possible?\r\nTry the task in pairs: How many throws do you need together to hit all targets once?\r\nCan you manage to hit every target with one throw each?"
+			"WILLINGNESS": "Make a plan: In what order do you want to hit the targets in order to need as few throws as possible?\r\nTry the task in pairs: How many throws do you need together to hit all targets once?\r\nCan you manage to hit every target with one throw each?",
+            "PDF": "Hit all targets with as few throws as possible."
 		},
 		"FALLING_OVER": {
 			"MOBAK": "Object movement",
@@ -964,7 +1031,8 @@
 			"MATERIALS": "Long benches, targets (e.g., cones joghurt pots, clubs), various balls",
 			"VARIATIONS": "Change the distance of the target.\r\nPlace 2 long benches in a position of a V. Put the targets on them and try to hit them from various positions.\r\nThrow while sitting, kneeling, etc.\r\nChange the set-up of the targets.\r\nPut the targets on another level (floor/gym box).\r\nThrow with the other hand.\r\nUse various balls.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What's the best way for you to knock down the targets?\r\nWhat do you need to change when you roll or throw the ball?",
-			"WILLINGNESS": "What other throwing objects could you use?\r\nArrange a number of targets for a classmate. Can you help him/her to hit all of them?"
+			"WILLINGNESS": "What other throwing objects could you use?\r\nArrange a number of targets for a classmate. Can you help him/her to hit all of them?",
+            "PDF": "Throw the ball at the target in such a way that the target falls over."
 		},
 		"HIT_THE_TARGET": {
 			"MOBAK": "Object movement",
@@ -974,7 +1042,8 @@
 			"MATERIALS": "Containers (e.g., buckets, big boxes, small reversed boxes), various balls.",
 			"VARIATIONS": "Integrate throwing variations (e.g., throw from below, using both hands, over head).\r\nHave other children moving the containers. \r\nPut the containers next to a wall and throw the ball against the wall, so that it falls in the container.\r\nVary the distance of the containers.\r\nUse various balls.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How should you position your arm to be able to aim well when throwing?\r\nWhere do you look to hit the container?",
-			"WILLINGNESS": "How does it feel to successfully hit the container with a ball?\r\nCan you hit the container at the same time as another child?\r\nWhat other containers could we use as targets?"
+			"WILLINGNESS": "How does it feel to successfully hit the container with a ball?\r\nCan you hit the container at the same time as another child?\r\nWhat other containers could we use as targets?",
+            "PDF": "Throw the balls into the containers in the correct order (from large to small)."
 		},
 		"THROWING_OFF": {
 			"MOBAK": "Object movement",
@@ -984,7 +1053,8 @@
 			"MATERIALS": "Gym boxes, cloths, various balls.",
 			"VARIATIONS": "Attach cloths and hoops to the wall. Try to hit a cloth or the inside of a hoop.\r\nIntegrate throwing variations (e.g., throw from below, using both hands, over head).\r\nDrop the cloths faster (child on a gym box).\r\nIncrease or decrease the distance of the target.\r\nDrop various objects (child on gym box).\r\nUse various balls.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "When do you throw the ball so that you hit the cloth?\r\nHow does your throwing change when you change the position of your arm?\r\n",
-			"WILLINGNESS": "Can you hit two clothes at the same time?\r\nWhat do you look at when you drop the cloth so that the other child can hit it well?"
+			"WILLINGNESS": "Can you hit two clothes at the same time?\r\nWhat do you look at when you drop the cloth so that the other child can hit it well?",
+            "PDF": "Hit the cloths before they hit the ground."
 		},
 		"DICE": {
 			"MOBAK": "Object movement",
@@ -994,7 +1064,8 @@
 			"MATERIALS": "Various balls, gym box, long bench, dice",
 			"VARIATIONS": "Enlarge or reduce the target areas.\r\nIntegrate throwing variations (e.g., throw from below, using both hands, over head).\r\nIncrease or decrease the distance of the targets.\r\nUse various balls.\r\nHit all 6 numbers twice with a ball.\r\nSet up a time limit for hitting the 6 numbers.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What do you need to change when you want to hit the 1 compared to the 6?\r\nWhat is the best way for you to hit the numbers?",
-			"WILLINGNESS": "How does the task change for you when there is a time limit to hit all numbers once?\r\nDo you also hit the numbers when you throw with the other hand?"
+			"WILLINGNESS": "How does the task change for you when there is a time limit to hit all numbers once?\r\nDo you also hit the numbers when you throw with the other hand?",
+            "PDF": "Roll the dice and aim at the number that the dice shows."
 		},
 		"ENCHANT_AND_REDEEM": {
 			"MOBAK": "Object movement",
@@ -1004,7 +1075,8 @@
 			"MATERIALS": "Soft balls",
 			"VARIATIONS": "Roll a bigger ball.\r\nPosition two catchers within a bigger field, where protective measures exist, such as gym boxes, etc. A child can only make use of a protective measure to take a break until another child seeks protection.\r\nCollectively, find other possibilities of release.\r\nChange the game according to your own ideas.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What do you pay attention to when you want to hit a moving child?\r\nHow do you throw the ball so that you hit the children's legs?",
-			"WILLINGNESS": "With which new rules would you enjoy the game (even) better?\r\nHow does the game change for you if more catchers catch?\r\nDo you like the game? Why/Why not?\r\n"
+			"WILLINGNESS": "With which new rules would you enjoy the game (even) better?\r\nHow does the game change for you if more catchers catch?\r\nDo you like the game? Why/Why not?\r\n",
+            "PDF": "Group: One child tries to hit the others with a ball. Anyone who is hit stands with straddled legs. You are rescued by someone crawling between your legs."
 		},
 		"THROWING_HOOPS": {
 			"MOBAK": "Object movement",
@@ -1014,7 +1086,8 @@
 			"MATERIALS": "Cones, hoops",
 			"VARIATIONS": "Throw with closed eyes.\r\nChange the starting position (e.g., squatting position, sitting position, spin movement).\r\nIncrease or decrease the distance of the cone.\r\nThrow from various directions (e.g., from below, above, sideways).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What do you change when you throw a hoop compared to a ball?\r\nFrom which position do you hit the cone best?",
-			"WILLINGNESS": "What is the greatest distance from which you can safely hit the cone?\r\nHow does it feel to throw the hoop with your eyes closed?\r\nCan you hit the cone with your eyes closed?"
+			"WILLINGNESS": "What is the greatest distance from which you can safely hit the cone?\r\nHow does it feel to throw the hoop with your eyes closed?\r\nCan you hit the cone with your eyes closed?",
+            "PDF": "Throw the hoop around the cone."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Object movement",
@@ -1024,7 +1097,8 @@
 			"MATERIALS": "Hoops, various balls",
 			"VARIATIONS": "Hold two hoops (child C).\r\nRoll and catch the ball yourself on the other side (child A), so that you are doing the task with only one other child, which is holding the hoop.\r\nKick the ball with your foot.\r\nEnlarge the group by having all of the children position themselves with a ball at the long side of the gym. Try to hit with your ball (roll, throw or kick through the hoop) a gymnastics ball or a hoop, which is rolled around the gym by a teacher.\r\nPlay the ball with a racket through the hoop.\r\nRoll the ball with your hand.\r\nRoll the hoop around the gym and throw, play or roll the ball through the hoop.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you manage to roll through the hoop?\r\nHow does the movement of your arms change when you roll the ball instead of throwing it?",
-			"WILLINGNESS": "Which of the variations is most fun for you and why?\r\nHow many times in a row can you catch the ball? Set a goal and try to reach it.\r\nHow can you roll/play the ball in anohter way?"
+			"WILLINGNESS": "Which of the variations is most fun for you and why?\r\nHow many times in a row can you catch the ball? Set a goal and try to reach it.\r\nHow can you roll/play the ball in anohter way?",
+            "PDF": "In groups of three: One child is holding a hoop. The other two roll a ball through the hoop."
 		},
 		"TIGER_BALL": {
 			"MOBAK": "Object movement",
@@ -1034,7 +1108,8 @@
 			"MATERIALS": "Various balls",
 			"VARIATIONS": "Play with two (different) balls at once.\r\nEnlarge the circle gradually.\r\nVary the pass height.\r\nIntegrate throwing variations (e.g., throw from below, using both hands, over head).\r\nDo not pass the ball to the child directly next to you.\r\nRoll the ball to the next child.\r\n\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What is the best way to catch the ball when you are in the middle?\r\nWhat is the best way to throw the ball to another child so that the child in the middle doesn't catch it?",
-			"WILLINGNESS": "When is this game the most fun?\r\nHow do you act when you notice that the child in the middle is not catching the ball?\r\nHow do you play together so that the child in the middle cannot catch the ball?"
+			"WILLINGNESS": "When is this game the most fun?\r\nHow do you act when you notice that the child in the middle is not catching the ball?\r\nHow do you play together so that the child in the middle cannot catch the ball?",
+            "PDF": "Group: One child stands in the middle of the circle. The others pass the ball to each other. The child in the middle tries to catch the ball. Reverse roles."
 		},
 		"BOXING": {
 			"MOBAK": "Object movement",
@@ -1044,7 +1119,8 @@
 			"MATERIALS": "Various balls",
 			"VARIATIONS": "Use various balls.\r\nChange the distance.\r\nVary the pass height (child A).\r\nIntegrate throwing variations (e.g., throw from below, using both hands, over head).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How can you best throw the ball accurately?\r\nHow do you act so that you can catch the ball well?",
-			"WILLINGNESS": "How many times in a row can you manage to catch the ball again at different distances?\r\nHow do you manage to solve the task together?\r\nDo you manage to catch the ball again at different distances?"
+			"WILLINGNESS": "How many times in a row can you manage to catch the ball again at different distances?\r\nHow do you manage to solve the task together?\r\nDo you manage to catch the ball again at different distances?",
+            "PDF": "In pairs: One child holds a ball in his/her hands and passes the ball back using the ball that he/she is holding."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Object movement",
@@ -1054,7 +1130,8 @@
 			"MATERIALS": "Various balls",
 			"VARIATIONS": "Now throw the ball back and forth to  another child.\r\nChange the positioning from a circle into other forms (e.g., square, triangle, ellipse).\r\nAfter the pass, go to the position that you passed.\r\nIntegrate throwing variations (e.g., throw from below, using both hands, over head).\r\nRoll the ball with your hand, kick with your foot or play with the racket.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you prepare for catching the ball?\r\nWhat do you look for when the ball flies to you?\r\nWhy is it helpful to look at the child you are going to throw the ball to?",
-			"WILLINGNESS": "Can you make each child in the circle catch the ball once without it touching the ground?\r\nWhich is the fastest way that works to throw an catch the ball in the circle?"
+			"WILLINGNESS": "Can you make each child in the circle catch the ball once without it touching the ground?\r\nWhich is the fastest way that works to throw an catch the ball in the circle?",
+            "PDF": "Group: Stand in a circle and pass the ball to each other. Double passes are not allowed."
 		},
 		"WILD_PIG": {
 			"MOBAK": "Object movement",
@@ -1064,7 +1141,8 @@
 			"MATERIALS": "medicine ball, bench, tennis balls",
 			"VARIATIONS": "Try different types of throwing. \r\nPlaces a basketball or softball in the middle as a \"wild pig\" \r\nChanges the spacing of the long benches.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Which throwing technique is best to hit the \"wild pig\"? \r\nHow do you stand to throw as accurately as possible?",
-			"WILLINGNESS": "Do you have any idea how to make the game more exciting? \r\nHow do you feel when your team wins?"
+			"WILLINGNESS": "Do you have any idea how to make the game more exciting? \r\nHow do you feel when your team wins?",
+            "PDF": "Group: Form two teams. Each team tries to push the ball towards the middle against the opponent's bench."
 		},
 		"DISTANCE_THROWING": {
 			"MOBAK": "Object movement",
@@ -1074,7 +1152,8 @@
 			"MATERIALS": "balls",
 			"VARIATIONS": "Changes the distance after each throw. \r\nTry different types of throwing. \r\nUse different balls. \r\nRoll the ball.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you change your throwing when the other child is closer to you? \r\nHow can you throw a ball as far and accurately as possible?",
-			"WILLINGNESS": "What ways can you throw the ball? How many passes can you make without the ball falling to the ground? \r\nWhat is the furthest distance you can throw the ball to the other child?"
+			"WILLINGNESS": "What ways can you throw the ball? How many passes can you make without the ball falling to the ground? \r\nWhat is the furthest distance you can throw the ball to the other child?",
+            "PDF": "In pairs: Pass the ball to each other over different distances."
 		}
 	},
 	"bouncing": "bouncing",
@@ -1087,7 +1166,8 @@
 			"MATERIALS": "Various balls, hoops, tape (to indicate the square)",
 			"VARIATIONS": "Change the size of the square.\r\nUse various balls.\r\nSet up a time limit for completing the task.\r\nChange the number of hoops.\r\nChange the arrangement of the hoops.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What is the best way to bounce the ball?\r\nDo you bounce every ball the same way?",
-			"WILLINGNESS": "Can you continue to bounce in the next hoop without stopping the ball?\r\nWhich arrangement of the hoops is most fun for you and why?\r\nHow does it feel to have a time limit for this task?"
+			"WILLINGNESS": "Can you continue to bounce in the next hoop without stopping the ball?\r\nWhich arrangement of the hoops is most fun for you and why?\r\nHow does it feel to have a time limit for this task?",
+            "PDF": "Bounce 5x into the hoop."
 		},
 		"BOUNCING_STATIONS": {
 			"MOBAK": "Object movement",
@@ -1097,7 +1177,8 @@
 			"MATERIALS": "Various balls, long benches.",
 			"VARIATIONS": "Walk through the gym and bounce the ball without losing it (use both left and right hand).\r\nBounce the ball around your body without interuption.\r\nBounce two balls simultaneously without losing them.\r\nWalk on a long bench while bouncing a ball on the floor or on the bench (after that two balls simultaneously).\r\nTwo long benches are positioned in parallel with a distance of 20 cm. Walk on both benches while you bounce a ball on the floor or on one of the long benches (after that two balls simultaneously).\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What changes when you bounce close to your body or with your arm stretched forward?\r\nWhich parts of your hands touch the ball when you bounce?",
-			"WILLINGNESS": "Try bouncing at the same time with another child - how does it feel?\r\nSet a specific bouncing goal: How many bounces do you want to achieve in a row? Does it feel differently to bouncing without a goal and if so, in what way?\r\nCan you bounce a rhythm?"
+			"WILLINGNESS": "Try bouncing at the same time with another child - how does it feel?\r\nSet a specific bouncing goal: How many bounces do you want to achieve in a row? Does it feel differently to bouncing without a goal and if so, in what way?\r\nCan you bounce a rhythm?",
+            "PDF": "Bounce with both hands."
 		},
 		"BOUNCING_OVER_CONES": {
 			"MOBAK": "Object movement",
@@ -1107,7 +1188,8 @@
 			"MATERIALS": "Various balls, cones",
 			"VARIATIONS": "Throw the ball over the cone using both hands while bouncing.\r\nBounce the ball alternating with your left and right hand.\r\nBounce the ball while approaching the cone, bounce the ball vertically right before the cone, go around the cone by doing an entire turn and then continue bouncing.\r\nUse various balls.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you bounce the ball best while moving forward at the same time?\r\nWhat do you look for when you bounce with just one hand?",
-			"WILLINGNESS": "Can you bounce alternately with your left and right hand?\r\nEach time you approach a cone: How confident are you in catching the ball again behind the cone (1: not at all, 5: completely)?\r\nHow does your bouncing change when other children are watching you?"
+			"WILLINGNESS": "Can you bounce alternately with your left and right hand?\r\nEach time you approach a cone: How confident are you in catching the ball again behind the cone (1: not at all, 5: completely)?\r\nHow does your bouncing change when other children are watching you?",
+            "PDF": "Bounce over the cone with the ball."
 		},
 		"SEAT_BOUNCING": {
 			"MOBAK": "Object movement",
@@ -1117,7 +1199,8 @@
 			"MATERIALS": "Various balls, cones",
 			"VARIATIONS": "Bounce the ball alternating with your left and right hand.\r\nGo around the cones once while bouncing the ball before sitting down.\r\nBounce the ball while approaching the cones, place one foot on the tip of the cone, bounce the ball three times and set your foot down. \r\nCount who scored the most points at the end of the playtime (1 point for every correct bounce, overall six-time bounce while sitting on a cone).\r\nUse several balls.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What changes in your movements when the distance between the ground and the hand changes?\r\nWhat do you do to keep bouncing well after the jump over the cone?",
-			"WILLINGNESS": "Do you also manage to sit on the floor and bounce?\r\nImagine being an animal of your choice (e.g., a monkey, a snake, a bird) and try bouncing like this animal! How do you feel while bouncing like an animal?\r\nIf you see a child who is not successful in this task, what tips can you give them?"
+			"WILLINGNESS": "Do you also manage to sit on the floor and bounce?\r\nImagine being an animal of your choice (e.g., a monkey, a snake, a bird) and try bouncing like this animal! How do you feel while bouncing like an animal?\r\nIf you see a child who is not successful in this task, what tips can you give them?",
+            "PDF": "Perform a straddle jump over the cone. Sit on the cone and bounce 3x with your left hand and 3x with your right hand. Go to the next cone."
 		},
 		"NUMBERBALL_BOUNCING": {
 			"MOBAK": "Object movement",
@@ -1127,7 +1210,8 @@
 			"MATERIALS": "balls, cones, basket",
 			"VARIATIONS": "Change the cone gate. \r\nPlace obstacles under the basket. \r\nSome children of the opposing team may try to knock the ball away from the corresponding number after shouting.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you manage to be at the basket faster than the child from the other team? \r\nWhere do you look when bouncing on the pitch?",
-			"WILLINGNESS": "How could children who have trouble bouncing the ball be helped? \r\nDo you have any idea how to make the game more exciting?"
+			"WILLINGNESS": "How could children who have trouble bouncing the ball be helped? \r\nDo you have any idea how to make the game more exciting?",
+            "PDF": "Bounce through the cone gate and throw at the basket when your number is called."
 		},
 		"SURROUNDING_HOOPS_WHILE_BOUNCING": {
 			"MOBAK": "Object movement",
@@ -1137,7 +1221,8 @@
 			"MATERIALS": "Cones, gymnastics hoops, gym box top, 1 ball per child",
 			"VARIATIONS": "Run through the two hoops with one foot contact each and bounce at the right and left side.\r\nChange the distance of the hoops.\r\nGo around the two hoops while bouncing the ball and using reset steps (or final jump) in a double arc/one entire turn (1 x right-turn and 1 x left-turn).\r\nBuild yourself another bouncing parcours/pathway.\r\nUse various balls.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you manage to change direction quickly when bouncing?\r\nIs it easier to bounce the ball on the floor or on the top of the gym box and why is that?",
-			"WILLINGNESS": "What ideas do you have to change the parcours to make it more fun?\r\nDo you succeed better when you change the distance between the tyres?\r\nCompete against a friend - who can pass the bounce course faster?"
+			"WILLINGNESS": "What ideas do you have to change the parcours to make it more fun?\r\nDo you succeed better when you change the distance between the tyres?\r\nCompete against a friend - who can pass the bounce course faster?",
+            "PDF": "Run through the obstacle course while bouncing the ball."
 		},
 		"SHADOW_BOUNCING": {
 			"MOBAK": "Object movement",
@@ -1147,7 +1232,8 @@
 			"MATERIALS": "balls, obstacles ",
 			"VARIATIONS": "Place items in the hall that serve as obstacles.\r\nSwitch roles after the third change of direction. \r\nUse different balls. \r\nUse both hands to bounce.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you manage to react as quickly as possible to child A? \r\nWhere do you look when you are the shadow child?",
-			"WILLINGNESS": "How can you act as child A so that child B can follow well? \r\nAs a child A, imagine you are an animal - how do you bounce? Can child B guess which animal is going first?"
+			"WILLINGNESS": "How can you act as child A so that child B can follow well? \r\nAs a child A, imagine you are an animal - how do you bounce? Can child B guess which animal is going first?",
+            "PDF": "In pairs: One child leads the way while bouncing, the other child mirrors the actions."
 		},
 		"BENCH_BOUNCING": {
 			"MOBAK": "Object movement",
@@ -1157,7 +1243,8 @@
 			"MATERIALS": "balls, bench",
 			"VARIATIONS": "Bounce on the bench. Use different balls. \r\nUse other devices (mats, cane covers) to walk on it and bounce next to it. \r\nGo backwards and bounce the ball next to the bench.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What do you have to change when you are bouncing next to the bench in comparison to on the floor? \r\nHow do you manage to bounce and not fall off the bench?",
-			"WILLINGNESS": "What other devices could be used to bounce on? \r\nCan you walk across the bench with your eyes closed and bounce simultaneously?"
+			"WILLINGNESS": "What other devices could be used to bounce on? \r\nCan you walk across the bench with your eyes closed and bounce simultaneously?",
+            "PDF": "Cross the bench and bounce the ball next to the bench."
 		},
 		"CIRCLE_BOUNCING": {
 			"MOBAK": "Object movement",
@@ -1167,7 +1254,8 @@
 			"MATERIALS": "balls",
 			"VARIATIONS": "Bounce the ball both clockwise and counter-clockwise. \r\nTry bouncing around you in a different body position. \r\nTry to make a figure of eight around your body. \r\nTo do this, bounce the ball between your legs in the middle. \r\nUse different balls. \r\nAlso turn in circles and bounce the ball.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Are you better at bouncing with your left or right hand? \r\nDescribe why? Where do you look to avoid losing the ball?",
-			"WILLINGNESS": "Which ball do you use best? \r\nWhat idea do you have to make the task more challenging or easier for you?"
+			"WILLINGNESS": "Which ball do you use best? \r\nWhat idea do you have to make the task more challenging or easier for you?",
+            "PDF": "Bounce the ball in a circle around you."
 		},
 		"BOUNCING_IN_DIFFERENT_POSITIONS": {
 			"MOBAK": "Object movement",
@@ -1177,7 +1265,8 @@
 			"MATERIALS": "balls",
 			"VARIATIONS": "Lie down bouncing and get up again. \r\nTry different body positions while bouncing. \r\nBounce with the other hand. Bounce with your right hand when you sit down, then bounce around your feet and stand up while bouncing with your left hand. \r\nUse two (different) balls at the same time.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What do you have to change when bouncing so that you don't lose the ball when you sit down? \r\nWhat is your hand position while bouncing?",
-			"WILLINGNESS": "Can you explain to another child the best way to bounce while sitting? \r\nCan you also switch hands when bouncing while lying down? - What is the best way to do this?"
+			"WILLINGNESS": "Can you explain to another child the best way to bounce while sitting? \r\nCan you also switch hands when bouncing while lying down? - What is the best way to do this?",
+            "PDF": "Bounce the ball, sit down, then get up."
 		}
 	},
 	"dribbling": "dribbling",
@@ -1190,7 +1279,8 @@
 			"MATERIALS": "Footballs",
 			"VARIATIONS": "Use various balls.\r\nPut an obstacle in front of the wall.\r\nUse various types of shots (e.g., flat, high, inner side, instep).\r\nVary the spacing to the wall (angle, distance).\r\nUse an uneven surface (wall bars, box wall).\r\nVary the size of the stop zone.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Which part of the foot do you use for the best shot?\r\nWhat's the best way to hold your foot to stop the ball safely?",
-			"WILLINGNESS": "How else could you pass the ball with your foot against the wall?\r\nWhat is the longest distance at which you can stop safely?\r\nChallenge yourself: How many times in a row can you successfully pass and stop the ball without losing it?"
+			"WILLINGNESS": "How else could you pass the ball with your foot against the wall?\r\nWhat is the longest distance at which you can stop safely?\r\nChallenge yourself: How many times in a row can you successfully pass and stop the ball without losing it?",
+            "PDF": "Shoot the ball against a wall and stop the ball with your foot when it bounces back."
 		},
 		"LINE_DRIBBLING": {
 			"MOBAK": "Object movement",
@@ -1200,7 +1290,8 @@
 			"MATERIALS": "Balls",
 			"VARIATIONS": "Use various balls.\r\nPlay the ball along the lines of the four lines of the volleyball field, without losing it.\r\nLook for other lines along which you can dribble the ball.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Which part of your foot do you use to guide the ball when dribbling?\r\nWhat do you look for to not lose the ball when dribbling?",
-			"WILLINGNESS": "Can you guide the ball with your foot in another way?\r\nCan you do it with both feet?\r\nWhy ist it good to be able to dribble?"
+			"WILLINGNESS": "Can you guide the ball with your foot in another way?\r\nCan you do it with both feet?\r\nWhy ist it good to be able to dribble?",
+            "PDF": "Dribble the ball across the entire length of the hall."
 		},
 		"WALL_OFF": {
 			"MOBAK": "Object movement",
@@ -1210,7 +1301,8 @@
 			"MATERIALS": "Balls",
 			"VARIATIONS": "Play the ball 10 times with your foot towards another child without losing the ball.\r\nPlay the ball 10 times while running with your foot toward another child without losing the ball.\r\nUse various balls.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you make the ball always come back to you?\r\nWhat's the best way to position yourself in relation to the wall?",
-			"WILLINGNESS": "Do you manage to pass the ball over the wall to each other in pairs?\r\nTry establishing a rhythm when passing the ball to the wall - how does that feel?\r\nWith which foot is the task easier for you? Why do you think that is?"
+			"WILLINGNESS": "Do you manage to pass the ball over the wall to each other in pairs?\r\nTry establishing a rhythm when passing the ball to the wall - how does that feel?\r\nWith which foot is the task easier for you? Why do you think that is?",
+            "PDF": "Shoot the ball against the wall ten times from a close distance."
 		},
 		"LIFT_BALL": {
 			"MOBAK": "Object movement",
@@ -1220,7 +1312,8 @@
 			"MATERIALS": "Long benches, balls",
 			"VARIATIONS": "Use various balls.\r\nChoose various targets.\r\nLift the ball with your other foot.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How can you lift the ball with your foot?\r\nWhat do you change in order to lift the ball over the long bench from a further distance?",
-			"WILLINGNESS": "From what distance do you do well?\r\nObserve other children solving that task - can you help them solving the task?\r\nCan you lift the ball over other things?"
+			"WILLINGNESS": "From what distance do you do well?\r\nObserve other children solving that task - can you help them solving the task?\r\nCan you lift the ball over other things?",
+            "PDF": "Lift the ball five times with one foot into the long bench square."
 		},
 		"DRIBBLING_1": {
 			"MOBAK": "Object movement",
@@ -1230,7 +1323,8 @@
 			"MATERIALS": "Balls",
 			"VARIATIONS": "Pass the ball over when meeting in the middle.\r\nDribble the ball until the middle of the gym, then pass it to another child who is waiting at the opposite side.\r\nDribble to the other side as fast as possible.\r\nDribble not directly to the other side, but diagonally through the gym (make sure not to bump into other children). \r\nUse various balls.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What is the best way for you to dribble?\r\nWhere do you look when you dribble?\r\nWhy do you think it's easier to run without the ball?",
-			"WILLINGNESS": "Try to give each other a high five in the middle of the track as you pass each other!\r\nHow can you help your partner best during this task?\r\nCan you dribble in pairs simultaneously?"
+			"WILLINGNESS": "Try to give each other a high five in the middle of the track as you pass each other!\r\nHow can you help your partner best during this task?\r\nCan you dribble in pairs simultaneously?",
+            "PDF": "In pairs: One child has the ball. Run towards each other. The child with the ball dribbles. Reverse roles after five rounds."
 		},
 		"DRIBBLING_2": {
 			"MOBAK": "Object movement",
@@ -1240,7 +1334,8 @@
 			"MATERIALS": "Gymnastics mats, cones, balls",
 			"VARIATIONS": "Change the slalom parcours.\r\nUse various balls.\r\nSet up a time limit during which the task has to be completed.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How can you best change direction while dribbling?\r\nObserve if you are always using the same foot - it not, when do you use the other one?\r\nDo you always dribble with the same foot? Why?",
-			"WILLINGNESS": "Create your own course with the cones and dribble around them - whose course is the most fun?\r\nCan you follow another child dribbling through the slalom?"
+			"WILLINGNESS": "Create your own course with the cones and dribble around them - whose course is the most fun?\r\nCan you follow another child dribbling through the slalom?",
+            "PDF": "Dribble through the obstacle course with a ball and finish with a shot on the goal."
 		},
 		"IN_THE_LAND_OF_SHELLS_1": {
 			"MOBAK": "Object movement",
@@ -1250,7 +1345,8 @@
 			"MATERIALS": "Various balls, ropes (or gymnastics hoops)",
 			"VARIATIONS": "Circle the shells in a given sequence.\r\nStop the time and compare it with your time from previous attempts.\r\nUse various balls.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How do you best dribble around a shell?\r\nWhich way do you choose when you have to go around all the shells once?\r\nHow do you play the ball with your foot?",
-			"WILLINGNESS": "In one go, everyone try to be as quiet as possible so as not to wake the shells!\r\nImagine being a squid while dribbling around the shells - how does that feel?\r\nHow does it feel if you do it with another ball?"
+			"WILLINGNESS": "In one go, everyone try to be as quiet as possible so as not to wake the shells!\r\nImagine being a squid while dribbling around the shells - how does that feel?\r\nHow does it feel if you do it with another ball?",
+            "PDF": "Dribble the ball around the 'sleeping' shells lying on the bottom of the sea."
 		},
 		"IN_THE_LAND_OF_SHELLS_2": {
 			"MOBAK": "Object movement",
@@ -1260,7 +1356,8 @@
 			"MATERIALS": "Various balls, gymnastics hoops (or ropes)",
 			"VARIATIONS": "Use various balls.\r\nTry to be the first to circle all shells.\r\nEnlarge the space or decrease the number of \"crab\" children.\r\nChange the task of the crabs (i.e. snatch the ball).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "How can you protect your ball from the crabs?\r\nWhere do you look when you dribble in order to protect your ball?",
-			"WILLINGNESS": "Which way do you choose to avoid being pinched?\r\nAs a crab, can you snatch the ball from an intruder?\r\nImagine you have a magical power that can help you excel in this task. Describe the power you would choose, and how it would motivate you."
+			"WILLINGNESS": "Which way do you choose to avoid being pinched?\r\nAs a crab, can you snatch the ball from an intruder?\r\nImagine you have a magical power that can help you excel in this task. Describe the power you would choose, and how it would motivate you.",
+            "PDF": "Dribble the ball around the 'sleeping' shells lying on the bottom of the sea. Don't let the crab catch you."
 		},
 		"PROTECT_YOUNG_FISH": {
 			"MOBAK": "Object movement",
@@ -1270,7 +1367,8 @@
 			"MATERIALS": "Various balls, cones",
 			"VARIATIONS": "Make sure that every child in the circle receives the ball at least one time (e.g., through a fixed sequence of passes).\r\nUse various balls.\r\nUse various balls at once.\r\nOrganize the task as a tournament where various groups form a circle and compete against each other.\r\nUse only one foot at a time to move the ball.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What changes when you dribble the ball together compared to dribbling the ball alone?\r\nWhat do you pay attention to when you dribble the ball in a group?",
-			"WILLINGNESS": "As a group, can you move several balls at the same time?\r\nHow can you help each other in the group?\r\nTry this task as a competition (several groups do it simultaneously - the fastest group wins): Do you prefer doing the task with or without competing against others and why?"
+			"WILLINGNESS": "As a group, can you move several balls at the same time?\r\nHow can you help each other in the group?\r\nTry this task as a competition (several groups do it simultaneously - the fastest group wins): Do you prefer doing the task with or without competing against others and why?",
+            "PDF": "Group: Form a circle and hold hands. Move various balls with your feet to the other side of the hall."
 		},
 		"WITHIN_SHARK_TERRITORY": {
 			"MOBAK": "Object movement",
@@ -1280,7 +1378,8 @@
 			"MATERIALS": "Balls, ropes",
 			"VARIATIONS": "Whoever gets touched has to solve an extra task (e.g., lead the ball through a slalom parcours made of cones).Pass a ball between 2 children and try to enter the shark's territory.\r\nChange the task of the shark.\r\nTouch 6 children as fast as possible.\r\nUse various balls.\r\nWho is the first to enter the territory 5 times?\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What is the best way for you to get to the other side without being caught by the shark?\r\nWhat's the best way to dribble when you're also looking at the shark?",
-			"WILLINGNESS": "As a shark, do you manage to grab a child's ball and keep dribbling?\r\nHow do you go about not getting caught?\r\nWhen do you think the shark should be replaced by another child and why?"
+			"WILLINGNESS": "As a shark, do you manage to grab a child's ball and keep dribbling?\r\nHow do you go about not getting caught?\r\nWhen do you think the shark should be replaced by another child and why?",
+            "PDF": "Dribble the ball past the shark without losing it."
 		},
 		"DRIBBLING_VARIATIONS": {
 			"MOBAK": "Object movement",
@@ -1290,7 +1389,8 @@
 			"MATERIALS": "balls",
 			"VARIATIONS": "Try to dribble the ball so that you do not touch a blue (or other colour) line.\r\nDribble the ball sideways.\r\nDribble the ball backwards.\r\nLook for different ways to dribble the ball.\r\nPut obstacles in the way and dribble around them.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What is the best way to dribble the ball?\r\nWhen do you touch the ball with which part of your foot?",
-			"WILLINGNESS": "Can you change the direction of the dribble fluently?\r\nCome up with a little dribbling choreography and present it to another child."
+			"WILLINGNESS": "Can you change the direction of the dribble fluently?\r\nCome up with a little dribbling choreography and present it to another child.",
+            "PDF": "Dribble with the ball through the hall."
 		},
 		"DRIBBLING_NUMBER_BALL": {
 			"MOBAK": "Object movement",
@@ -1300,7 +1400,8 @@
 			"MATERIALS": "balls, cones",
 			"VARIATIONS": "Use different balls. \r\nUse different gates. \r\nPlayers of the opposite teams are allowed to kick the ball away. \r\nPlay without an opposing team. \r\nPlay the game in pairs: who scores a goal first when the signal is given?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "What is the best way to dribble the ball around the cones? \r\nHow can you be faster than the kid from the opposing team?",
-			"WILLINGNESS": "How do you feel when the other child is faster? \r\nImagine you are an animal. How would a penguin, tiger, elephant etc. dribble the ball around the cones?"
+			"WILLINGNESS": "How do you feel when the other child is faster? \r\nImagine you are an animal. How would a penguin, tiger, elephant etc. dribble the ball around the cones?",
+            "PDF": "Dribble through the cone gate and shoot at the target gate when your number is called."
 		},
 		"PROTECTING_PERSON_DRIBBLING": {
 			"MOBAK": "Object movement",
@@ -1310,7 +1411,8 @@
 			"WILLINGNESS": "How do you demonstrate your skills when you are child A so that the other children can follow you? \r\nWhat advice can you give to another child who has trouble following child A?",
 			"QUALIFICATION": "Dribbling",
 			"MATERIALS": "balls",
-			"VARIATIONS": "Child A looks at the group and the children imitate the movement as a \"mirror\"."
+			"VARIATIONS": "Child A looks at the group and the children imitate the movement as a \"mirror\".",
+            "PDF": "Group: One child dribbles ahead and the others mirror his/her actions."
 		}
 	},
 	"PDF_TESTRESULT": {

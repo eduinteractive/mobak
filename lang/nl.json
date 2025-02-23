@@ -73,6 +73,11 @@
 	"rate_classroom_end_session_dialog_description": "Beoordelingen worden opgeslagen, u kunt ze niet meer wijzigen.",
 	"rate_classroom_task_description": "Taakomschrijving",
 	"rate_classroom_rate_student": "Beoordeel leerlingen",
+    "rate_detail_instruction_demonstration": "Instructie/ Demonstratie",
+    "rate_classroom_longitudinal_analysis": "Longitudinale analyse",
+    "rate_classroom_select_task": "Taken selecteren",
+    "rate_classroom_cancel_selection": "Selectie annuleren",
+    "rate_classroom_download_selected": "Geselecteerde downloaden",
 	"rate_dialog_n_a_value": "n.v.t.",
 	"rate_dialog_first_value": "0",
 	"rate_dialog_second_value": "1",
@@ -229,11 +234,11 @@
 		"MATERIAL": "6 ronders (diameter: 65 mm; gewicht: 80 g)\r\n1 doel (diameter: 40 cm)\r\nTape (ca. 30 mm breed).\r\n",
 		"TEST_SET-UP": "Het doel wordt op een hoogte van 1,3 m (onderste rand) aan een muur geplaatst. Een krablijn wordt op 2,0 m afstand van het doel gemarkeerd met tape.\r\n",
 		"TEST_ITEM": "Het kind gooit zes ronders vanaf een krablijn naar een doel.\r\n",
+        "CRITERIA": "De krablijn mag niet worden overschreden.\r\nHet raken van het doel telt als een punt.\r\n",
 		"VALUATION": "6 pogingen, het aantal raakvlakken wordt geregistreerd.\r\n0-2 raakvlakken = 0 punten\r\n3-4 raakvlakken = 1 punt\r\n5-6 raakvlakken = 2 punten.\r\n",
 		"INSTRUCTION_DEMONSTRATION": "Positioneer jezelf achter de lijn en probeer het doel te raken met de bal. Je hebt 6 pogingen. Je mag de krablijn niet overschrijden. Kijk, ik zal het één keer laten zien. (demonstratie).\r\n",
 		"INFORMATION_FOR_THE_TEST_LEADER": "Het type worp wordt vrij gekozen (het duwen van de bal is toegestaan). Demonstratie van een impactworp.\r\n"
 	},
-	"THROWING_1_CRITERIA": "De krablijn mag niet worden overschreden. Het raken van het doel telt als een punt.\r\n",
 	"THROWING_3_4": {
 		"MOBAK": "Competentiegebied 'Objectbeweging'",
 		"TITLE": "MOBAK 3-4 Taak 1: Gooien",
@@ -328,7 +333,8 @@
 			"MATERIALS": "Coördinatieladder\r\nalternatief: gymnastiekringen, vloermarkeringen, tapijttegels, krijtjes\r\n",
 			"VARIATIONS": "Achteruit rennen.\r\nVoer meerdere contacten per veld uit.\r\nVoer een halve of volledige draai uit na elk tweede vierkant.\r\nCombineer twee verschillende bewegingen.\r\nVoer aanvullende arm bewegingen uit (jumping jacks, lucht boksen, armen uitstrekken en omhoog of omlaag brengen tot borsthoogte).\r\nVerander de opstelling van de velden.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Welke delen van je voeten raken de vloer aan?\r\nMet welke arm bewegingen ben je het meest succesvol?\r\n",
-			"WILLINGNESS": "Waar zou je deze taak buiten de sportschool kunnen uitvoeren?\r\nWat verandert er voor jou als je tegen een ander kind racet?\r\nWhat changes for you when you do a race against another child?\r\n"
+			"WILLINGNESS": "Waar zou je deze taak buiten de sportschool kunnen uitvoeren?\r\nWat verandert er voor jou als je tegen een ander kind racet?\r\nWhat changes for you when you do a race against another child?\r\n",
+            "PDF": "Doorloop de coördinatieladder met één contactpersoon per veld."
 		},
 		"RUNNING_2": {
 			"MOBAK": "Zelf bewegen",
@@ -338,7 +344,8 @@
 			"MATERIALS": "Gymnastiekringen (verschillende kleuren)\r\nalternatief: speeltapes, sporttegels\r\n",
 			"VARIATIONS": "Verander de taken op basis van de kleuren van de hoepels.\r\nVerander de opstelling of de afstand tussen de hoepels.\r\nPlaats de hoepels op twee parallelle lange banken.\r\nVerander de opstelling van de velden.\r\nKies verschillende kleuren en wijs aan elke kleur een specifieke beweging toe.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe moet je bewegen om soepel te kunnen rennen?\r\nWelke volgorde van hoepels is het gemakkelijkst voor jou? Waarom?\r\nIn welk ritme kun je het beste door het parcours rennen? Waarom?\r\n",
-			"WILLINGNESS": "Waarom voelt het anders als de hoepels op twee lange banken liggen? Lukt het je ook? Probeer het!\r\nMaak je eigen hoepelbaan en wijs je eigen bewegingen toe aan de verschillende kleuren! Is het je gelukt?\r\nWaar zou je deze taak buiten de sportschool kunnen uitvoeren?\r\nWat verandert er voor jou als je tegen een ander kind racet?\r\nWhat changes for you when you do a race against another child?\r\n"
+			"WILLINGNESS": "Waarom voelt het anders als de hoepels op twee lange banken liggen? Lukt het je ook? Probeer het!\r\nMaak je eigen hoepelbaan en wijs je eigen bewegingen toe aan de verschillende kleuren! Is het je gelukt?\r\nWaar zou je deze taak buiten de sportschool kunnen uitvoeren?\r\nWat verandert er voor jou als je tegen een ander kind racet?\r\nWhat changes for you when you do a race against another child?\r\n",
+            "PDF": "Ren door het bandenspoor. Raak de grond één keer aan in de blauwe hoepels en twee keer in de andere."
 		},
 		"RUNNING_3": {
 			"MOBAK": "Zelf bewegen",
@@ -348,7 +355,8 @@
 			"MATERIALS": "Coördinatieladder\r\nalternatief: Gymnastiekringen, vloermarkeringen, tapijttegels, krijt\r\n",
 			"VARIATIONS": "Verander het aantal contacten per veld.\r\nVoer extra armbewegingen uit (jumping jacks, luchtboxen, armen op borsthoogte strekken en omhoog of omlaag bewegen).\r\nCombineer twee verschillende bewegingen (rechterarm - jumping jacks, linkerarm - boksen).\r\nVerander de opstelling van de velden.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe kun je snelle richtingsveranderingen maken?\r\nWat verandert er voor jou als je armbewegingen toevoegt?\r\n",
-			"WILLINGNESS": "Hoe voel je je als een ander kind sneller van richting verandert? Wat kun je in dat geval doen?\r\nHoe zou je de opdracht aanpassen om deze gemakkelijker of moeilijker te maken?\r\nStel een doel voor jezelf en probeer het te bereiken (bijvoorbeeld de taak zonder fouten voltooien; sneller zijn dan in de vorige poging). Heb je het gehaald?\r\n"
+			"WILLINGNESS": "Hoe voel je je als een ander kind sneller van richting verandert? Wat kun je in dat geval doen?\r\nHoe zou je de opdracht aanpassen om deze gemakkelijker of moeilijker te maken?\r\nStel een doel voor jezelf en probeer het te bereiken (bijvoorbeeld de taak zonder fouten voltooien; sneller zijn dan in de vorige poging). Heb je het gehaald?\r\n",
+            "PDF": "Loop binnen en buiten de coördinatieladder met twee grondcontacten per veld."
 		},
 		"RUNNING_4": {
 			"MOBAK": "Zelfbeweging",
@@ -358,7 +366,8 @@
 			"MATERIALS": "Coördinatieladder\r\nalternatief: gymnastiekringen, vloermarkeringen, tapijttegels, krijt\r\n",
 			"VARIATIONS": "Loop achteruit.\r\nVoer bovendien armbewegingen uit: voorwaarts, achterwaarts, tegenovergesteld.\r\nVerander de opstelling van de velden.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Kun je het ritme van de hinkelpas klappen?\r\nWat doe je met je armen om de taak goed uit te voeren?\r\n",
-			"WILLINGNESS": "Kun je de taak tegelijkertijd met een ander kind uitvoeren?\r\nKun je extra armbewegingen maken?\r\nStel je voor dat je een blije paard bent terwijl je de hinkelpas doet! Hoe voel je je?\r\n"
+			"WILLINGNESS": "Kun je de taak tegelijkertijd met een ander kind uitvoeren?\r\nKun je extra armbewegingen maken?\r\nStel je voor dat je een blije paard bent terwijl je de hinkelpas doet! Hoe voel je je?\r\n",
+            "PDF": "Ren door de coördinatieladder in een hoprun met één grondcontact per veld!"
 		},
 		"GIANT_SLALOM": {
 			"MOBAK": "Zelfbeweging",
@@ -368,7 +377,8 @@
 			"MATERIALS": "Palen, bamboe of ronde houten stokken (= skistok), lang touw",
 			"VARIATIONS": "Daag een ander kind of een groep kinderen uit. Wie is de snelste?\r\nBeweeg in hurkhouding, op je tenen/hakken, met zandzakken op je hoofd (= sneeuw op je hoofd), enz.\r\nVoeg een of meer obstakels toe (bijv. kleine gymnastiekboxen).\r\nVerander je tempo/snelheid.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat verandert er als je een andere paal gebruikt?\r\nWat is de snelste manier om door de slalom te gaan?",
-			"WILLINGNESS": "Kun je een parallelle slalom doen met een ander kind?\r\nHoe zou je het touw neerleggen om een snelle slalom te voltooien?"
+			"WILLINGNESS": "Kun je een parallelle slalom doen met een ander kind?\r\nHoe zou je het touw neerleggen om een snelle slalom te voltooien?",
+            "PDF": "Houd een gymnastiekstok in beide handen. Ren een reuzenslalom langs het touw."
 		},
 		"SIDE_STEP": {
 			"MOBAK": "Zelfbeweging",
@@ -378,7 +388,8 @@
 			"MATERIALS": "Coördinatieladder\r\nalternatief: gymnastiekringen, vloermarkeringen, tapijttegels, krijt\r\n",
 			"VARIATIONS": "Draai de rechterschouder in de looprichting.\r\nRen met één grondcontact buiten de coördinatieleider en twee grondcontacten per veld.\r\nVoer extra armbewegingen uit (draai een hoepel met je arm, jumping jacks, luchtboksen, strek je armen uit en breng ze op schouderhoogte omhoog/omlaag).\r\nCombineer twee verschillende bewegingen (rechterarm - jumping jack, linkerarm - boksen).\r\nVerander de opstelling van de velden.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat verander je zodat je met de andere schouder in de looprichting kunt draaien?\r\nHoe hoog til je je knieën op zodat je de taak goed kunt uitvoeren?\r\nWat moet je veranderen zodat je met de andere schouder in de looprichting kunt draaien?\r\n",
-			"WILLINGNESS": "Hoe voel je je als je sneller bent dan een ander kind?\r\nAls je ziet dat een ander kind niet slaagt in deze taak: hoe kun je hem/haar helpen?\r\nProbeer van richting te veranderen om aan het einde van de coördinatieleider terug te rennen zonder te stoppen! Is het je gelukt?\r\n"
+			"WILLINGNESS": "Hoe voel je je als je sneller bent dan een ander kind?\r\nAls je ziet dat een ander kind niet slaagt in deze taak: hoe kun je hem/haar helpen?\r\nProbeer van richting te veranderen om aan het einde van de coördinatieleider terug te rennen zonder te stoppen! Is het je gelukt?\r\n",
+            "PDF": "Doorloop de coördinatieladder in een zijstapje."
 		},
 		"RUNNING_COURSE": {
 			"MOBAK": "Zelfbeweging",
@@ -388,7 +399,8 @@
 			"MATERIALS": "medicijnballen",
 			"VARIATIONS": "Gebruik kegels in plaats van medicijnballen. Verander de afstand tussen de medicijnballen. Verander de zijwaartse afstand tussen de medicijnballen. Loop zijwaarts of achterwaarts.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe lukt het je om van richting te veranderen tijdens het rennen zonder snelheid te verliezen? Welk deel van de voet raakt de grond in het slalomparcours?",
-			"WILLINGNESS": "Hoe kun je het renparcours spannender maken voor jezelf? Daag een ander kind uit om het parcours met je te rennen. Hoe voel je je als het andere kind sneller is dan jij?"
+			"WILLINGNESS": "Hoe kun je het renparcours spannender maken voor jezelf? Daag een ander kind uit om het parcours met je te rennen. Hoe voel je je als het andere kind sneller is dan jij?",
+            "PDF": "Ren door de medicijnballen in de slalomloop."
 		},
 		"HEY_SHARK": {
 			"MOBAK": "Zelfbeweging",
@@ -398,7 +410,8 @@
 			"MATERIALS": "-",
 			"VARIATIONS": "Kies verschillende bewegingsvormen zoals rennen en springvormen (knieheffen, stampen, hakken, kikker sprongen, springlopen, achteruit, strek sprongen, hink-stap-sprongen, zijstappen). Verander de renbaan. Verander de regels van het tikspel.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe lukt het je om de andere kant van de zaal te bereiken zonder getikt te worden door de haai? Als haai, hoe lukt het je om zoveel mogelijk kinderen te tikken?",
-			"WILLINGNESS": "Welke ideeën heb je om het spel spannender te maken? Wanneer denk je dat de rollen omgedraaid moeten worden als de haai niet succesvol is?"
+			"WILLINGNESS": "Welke ideeën heb je om het spel spannender te maken? Wanneer denk je dat de rollen omgedraaid moeten worden als de haai niet succesvol is?",
+            "PDF": "Groep: Eén kind is de haai en bepaalt hoe de anderen moeten bewegen. Wie gevangen wordt, wordt een haai."
 		},
 		"STAR_RUN": {
 			"MOBAK": "Zelfbeweging",
@@ -408,7 +421,8 @@
 			"MATERIALS": "kegels",
 			"VARIATIONS": "Verander de afstand tussen de kegels. Verander de streeftijd. Stel jezelf een tijdslimiet en probeer deze te halen. Loop de route samen met een ander kind met zijn/haar ogen gesloten. Loop zijwaarts of achterwaarts.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe lukt het je om binnen de gegeven tijdslimiet te blijven? Wat verandert er in je run als je minder tijd hebt om het parcours af te leggen?",
-			"WILLINGNESS": "Hoe voelt het als je zo nauwkeurig mogelijk binnen de gegeven tijd rent? Stel je voor dat je een paard, cheeta, emoe bent en door dit parcours rent. Hoe lopen deze dieren?"
+			"WILLINGNESS": "Hoe voelt het als je zo nauwkeurig mogelijk binnen de gegeven tijd rent? Stel je voor dat je een paard, cheeta, emoe bent en door dit parcours rent. Hoe lopen deze dieren?",
+            "PDF": "Probeer de bekende route rond de punten precies in een bepaalde tijd te lopen."
 		},
 		"VARIABLE_RUNNING": {
 			"MOBAK": "Zelfbeweging",
@@ -418,7 +432,8 @@
 			"MATERIALS": "kegels",
 			"VARIATIONS": "Kies andere soorten rennen. Verander de afstanden tussen de kegels. Verander de renroute. Loop de route samen met een ander kind met zijn/haar ogen gesloten.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe lukt het je om snel tussen de soorten rennen te wisselen? Hoe kun je de renroute en de aangegeven soorten rennen onthouden?",
-			"WILLINGNESS": "Welke ideeën heb je om de renroutes te veranderen? Hoe begeleid je een kind met zijn/haar ogen gesloten zodat hij/zij zich veilig voelt?"
+			"WILLINGNESS": "Welke ideeën heb je om de renroutes te veranderen? Hoe begeleid je een kind met zijn/haar ogen gesloten zodat hij/zij zich veilig voelt?",
+            "PDF": "Dek de afstand zo snel mogelijk af met de juiste loopvormen."
 		}
 	},
 	"Jumping": "Jumping",
@@ -431,7 +446,8 @@
 			"MATERIALS": "Coördinatieladder alternatieven: gym hoepels, sporttegels, vloermarkeringen, tapijttegels, krijt",
 			"VARIATIONS": "Spring zo snel mogelijk.\r\nSpring zijwaarts of achterwaarts.\r\nSpring twee velden vooruit en één achteruit.\r\nSpring rechts - rechts - met beide benen - links - links, etc. (verschillende combinaties).\r\nSpring op één been: voorwaarts, achterwaarts, zijwaarts (met de rechterschouder evenals de linkerschouder voor).\r\nCombineer springen met armcirkels (voorwaarts, achterwaarts, tegenovergesteld).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat verander je wanneer je achterwaarts of zijwaarts springt in plaats van voorwaarts?\r\nHoe lukt het je om zo snel mogelijk te springen?\r\n",
-			"WILLINGNESS": "Welke rangschikking van de vakjes helpt je het beste om de taak op te lossen?\r\nWat verandert er voor jou als je tegen een ander kind concurreert?\r\nGa in paren staan. Creëer een sprongritme voor je partner (bijv. links, rechts, beide benen, rechts, links, beide benen). Kies een uitdagend maar haalbaar ritme voor hem/haar! Is het je gelukt?\r\n"
+			"WILLINGNESS": "Welke rangschikking van de vakjes helpt je het beste om de taak op te lossen?\r\nWat verandert er voor jou als je tegen een ander kind concurreert?\r\nGa in paren staan. Creëer een sprongritme voor je partner (bijv. links, rechts, beide benen, rechts, links, beide benen). Kies een uitdagend maar haalbaar ritme voor hem/haar! Is het je gelukt?\r\n",
+            "PDF": "Spring met beide benen naar voren door de coördinatieladder."
 		},
 		"JUMPING_2": {
 			"MOBAK": "Eigen beweging",
@@ -441,7 +457,8 @@
 			"MATERIALS": "Touwen\r\nalternatief: tape, touw, vloermarkeringen, stokken\r\n",
 			"VARIATIONS": "Voer na elke sprong een draai van 90° uit.\r\nSpring als een kikker.\r\nSpring door het \"touwladder\" met rennende stappen.\r\nCombineer springen met verschillende armbewegingen.\r\nSpring rechts - rechts - met beide benen - links - links, enz. (verschillende combinaties).\r\nSpring op één been: voorwaarts, achterwaarts, zijwaarts (met de rechterschouder evenals de linkerschouder voor).\r\nCombineer springen met armcirkels (voorwaarts, achterwaarts, in tegengestelde richtingen).\r\nVergroot of verklein de afstand tussen de touwen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat verandert er in je bewegingen wanneer je met één been of met beide benen springt?\r\nHoe veranderen je bewegingen wanneer de touwen verder uit elkaar liggen?\r\n",
-			"WILLINGNESS": "Lukt het je ook als de touwen op verschillende afstanden liggen?\r\nMet welke soorten sprongen kun je het parcours voltooien? Stel je voor dat je een kikker, een kangoeroe, een paard of een sprinkhaan bent.\r\nWelke manier van over de touwen springen vind je het leukst?\r\n\r\n"
+			"WILLINGNESS": "Lukt het je ook als de touwen op verschillende afstanden liggen?\r\nMet welke soorten sprongen kun je het parcours voltooien? Stel je voor dat je een kikker, een kangoeroe, een paard of een sprinkhaan bent.\r\nWelke manier van over de touwen springen vind je het leukst?\r\n\r\n",
+            "PDF": "Spring eenbenig, tweebenig, zijwaarts of diagonaal over de 'touwladder'."
 		},
 		"ROPE_JUMPING_1": {
 			"MOBAK": "Eigen beweging",
@@ -451,7 +468,8 @@
 			"MATERIALS": "Touw\r\neventueel: afbakeningskegel, vloermarkeringen, pizzadozen",
 			"VARIATIONS": "Spring over het touw bij elke stap.\r\nVarieer de loopsnelheid.\r\nVarieer de loopsnelheid.\r\nRennen en achterwaarts over het touw springen.\r\nVoer een slalomrace uit (bijv. met afbakeningskegels).\r\nLoop voorwaarts en spring bij elke tweede stap over een object.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat is belangrijk voor jou bij het springen over het touw?\r\nMet welke snelheid/ritme doe je het het beste?\r\n",
-			"WILLINGNESS": "Kun je je tempo tijdens de sprong veranderen? Probeer het eens!\r\nLeg aan een ander kind uit hoe je over het touw springt. Doe je het op dezelfde manier?\r\nIn een kleine groep kinderen, ren en spring over de touwen op een aangewezen plaats zonder elkaar aan te raken. Is het jullie gelukt?\r\n"
+			"WILLINGNESS": "Kun je je tempo tijdens de sprong veranderen? Probeer het eens!\r\nLeg aan een ander kind uit hoe je over het touw springt. Doe je het op dezelfde manier?\r\nIn een kleine groep kinderen, ren en spring over de touwen op een aangewezen plaats zonder elkaar aan te raken. Is het jullie gelukt?\r\n",
+            "PDF": "Ren vooruit met het touw en spring bij elke stap over het touw."
 		},
 		"ROPE_JUMPING_2": {
 			"MOBAK": "Eigen beweging",
@@ -461,7 +479,8 @@
 			"MATERIALS": "Coördinatieladder, touw",
 			"VARIATIONS": "Rennen achteruit.\r\nRennen met twee grondcontacten per vak.\r\nRennen zo snel mogelijk.\r\nVoer verschillende vormen van springen uit.\r\nRangschik de vakken anders.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Waar let je op zodat je één grondcontact per vak hebt?\r\nIn welke vorm van springen lukt het je het beste?\r\n",
-			"WILLINGNESS": "Daag jezelf uit: Stop je tijd voor het voltooien van de taak. Kun je het sneller in de volgende ronde?\r\nDit is een vrij moeilijke taak. Als je in staat bent om het op te lossen, kun je anderen helpen die nog niet succesvol zijn?\r\nWat verandert er als je de taak in verschillende snelheden uitvoert?\r\n"
+			"WILLINGNESS": "Daag jezelf uit: Stop je tijd voor het voltooien van de taak. Kun je het sneller in de volgende ronde?\r\nDit is een vrij moeilijke taak. Als je in staat bent om het op te lossen, kun je anderen helpen die nog niet succesvol zijn?\r\nWat verandert er als je de taak in verschillende snelheden uitvoert?\r\n",
+            "PDF": "Loop door de coördinatieladder met één touw en één grondcontact per veld."
 		},
 		"ROPE_JUMPING_3": {
 			"MOBAK": "Eigen beweging",
@@ -471,7 +490,8 @@
 			"MATERIALS": "Touw",
 			"VARIATIONS": "Spring met of zonder tussenstap.\r\nZwaai het touw naar achteren.\r\nSpring met het touw, bewegend voorwaarts en achterwaarts (of links en rechts) over een gegeven lijn.\r\nVoer squats uit terwijl je touwtje springt.\r\nSpring op een dunne mat.\r\nHef je benen op tijdens het springen.\r\nTrek je knieën omhoog tijdens het springen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Waar let je op zodat je één grondcontact per vak hebt?\r\nIn welke vorm van springen lukt het je het beste?\r\n",
-			"WILLINGNESS": "Daag jezelf uit: Stop je tijd voor het voltooien van de taak. Kun je het sneller in de volgende ronde?\r\nDit is een vrij moeilijke taak. Als je in staat bent om het op te lossen, kun je anderen helpen die nog niet succesvol zijn?\r\nWat verandert er als je de taak in verschillende snelheden uitvoert?\r\n"
+			"WILLINGNESS": "Daag jezelf uit: Stop je tijd voor het voltooien van de taak. Kun je het sneller in de volgende ronde?\r\nDit is een vrij moeilijke taak. Als je in staat bent om het op te lossen, kun je anderen helpen die nog niet succesvol zijn?\r\nWat verandert er als je de taak in verschillende snelheden uitvoert?\r\n",
+            "PDF": "Spring met het touw aan beide benen."
 		},
 		"ROPE_JUMPING_4": {
 			"MOBAK": "Eigen beweging",
@@ -481,7 +501,8 @@
 			"MATERIALS": "Touw\r\neventueel: tape, koord, vloermarkering",
 			"VARIATIONS": "Spring met of zonder tussenstap.\r\nSpring met het andere been.\r\nZwaai het touw naar achteren.\r\nVerander van been na elke tweede zwaai (\"spring op dezelfde plek\").\r\nSpring zonder touw.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe houd je je armen vast om het touw op een constante snelheid te laten zwaaien?\r\nMoet je iets veranderen zodat je met het andere been kunt springen?\r\n",
-			"WILLINGNESS": "Kun je met beide benen even vaak eenbenig springen zonder te stoppen? Stel jezelf een doel om te bereiken.\r\nVraag een klasgenoot waar ze motivatie uit halen bij het touwtjespringen.\r\nKun je springen zonder tussendoor te stuiteren? Probeer het!\r\n"
+			"WILLINGNESS": "Kun je met beide benen even vaak eenbenig springen zonder te stoppen? Stel jezelf een doel om te bereiken.\r\nVraag een klasgenoot waar ze motivatie uit halen bij het touwtjespringen.\r\nKun je springen zonder tussendoor te stuiteren? Probeer het!\r\n",
+            "PDF": "Spring op één been in het vierkant met het touw."
 		},
 		"MAT_HIGHWAY": {
 			"MOBAK": "Eigen beweging",
@@ -491,7 +512,8 @@
 			"MATERIALS": "Turnmatten alternatief: turnringen, vloermarkeringen, tapijttegels, krijt",
 			"VARIATIONS": "Spring door het springpad in je eigen ritme, op één been, op twee benen en afwisselende benen.\r\nLeg een springspoor aan met verschillende materialen/kleuren. Spring door het springspoor en voer per materiaal/kleur een andere sprong uit (twee-benig, één-benig).\r\nRangschik de matten anders.\r\nVarieer het aantal contacten op de matten.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "In welk ritme kun je het beste over de matten springen?\r\nWat verandert er in je beweging als de matten naast elkaar liggen?\r\n",
-			"WILLINGNESS": "Ga in tweetallen en probeer over de matten te springen in verschillende ritmes. Welke vind je het leukst?\r\nProbeer met een klasgenoot over de matten te springen terwijl je elkaars handen vasthoudt! Is het jullie gelukt?\r\nHoe kun je de matten rangschikken om de taak moeilijker of makkelijker te maken?\r\n"
+			"WILLINGNESS": "Ga in tweetallen en probeer over de matten te springen in verschillende ritmes. Welke vind je het leukst?\r\nProbeer met een klasgenoot over de matten te springen terwijl je elkaars handen vasthoudt! Is het jullie gelukt?\r\nHoe kun je de matten rangschikken om de taak moeilijker of makkelijker te maken?\r\n",
+            "PDF": "Spring van mat naar mat."
 		},
 		"GROUND_ROPE_JUMPING_1": {
 			"MOBAK": "Eigen beweging",
@@ -501,7 +523,8 @@
 			"MATERIALS": "Touw Alternatief: tape, vloermarkeringen, krijt",
 			"VARIATIONS": "Laat twee kinderen de hoogte veranderen door het touw van de grond op te tillen.\r\nLaat twee kinderen het touw zwaaien en verschillende sprongen uitvoeren (bijv. met/zonder tussenstap, één-benig of twee-benig, met een 180° draai).\r\nSpring tricks.\r\nZing en spring: \"Teddybeer, teddybeer, draai je om\" (180° draai); \"..., maak jezelf krom\" (buig naar beneden); \"..., bouw een huis\" (handen boven het hoofd); \"..., kijk uit\" (handpalm op het voorhoofd); \"..., kijk uit\" (handpalm op het voorhoofd); \"..., til één voet op\" (spring met één been); \"..., groet bestellen\" (spel eindigt).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Spring je anders wanneer het touw omhoog wordt gehouden? \r\nHoe verander je de beweging wanneer je zijwaarts of heen en weer springt?",
-			"WILLINGNESS": "Kun je trucs doen tijdens het springen? \r\nLaat het zien en leer het aan een ander kind. Wat is de hoogste hoogte waarop je kunt springen? Daag jezelf uit!\""
+			"WILLINGNESS": "Kun je trucs doen tijdens het springen? \r\nLaat het zien en leer het aan een ander kind. Wat is de hoogste hoogte waarop je kunt springen? Daag jezelf uit!\"",
+            "PDF": "Ga evenwijdig aan het touw staan en spring meerdere keren over het touw."
 		},
 		"GROUND_ROPE_JUMPING_2": {
 			"MOBAK": "Eigen beweging",
@@ -511,7 +534,8 @@
 			"MATERIALS": " Touwen, nummers\r\nAlternatief: vloermarkeringen, matten, hoepels, plakband\r\n",
 			"VARIATIONS": "Spring altijd met één been (dus alleen het rechter- of linkerbeen).\r\nSpring met beide benen naar het volgende veld.\r\nMaak meerdere velden en nummer ze.\r\nVerhoog het tempo.\r\nKind A bedenkt een geheime code van drie cijfers (elk tussen 1 en 4). Kind B moet de code raden door naar de overeenkomstige velden te springen. Kind A geeft feedback. Als Kind B fout springt, moet het opnieuw beginnen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat verandert er als je de volgorde van de genoemde getallen kent, vergeleken met wanneer je niet weet welk nummer er als volgende komt?\r\nVind je het gemakkelijker om met één been of met beide benen te springen?\r\n",
-			"WILLINGNESS": "Wat doe je om snel te reageren op de oproep?\r\nHoe kun je als oproeper de taak voor het kind gemakkelijker of moeilijker maken?\r\nSamen: Bedenk een \"High-Five\"-ritueel dat jullie uitvoeren als een kind van jullie 10 pogingen zonder fouten heeft gedaan. Hoe voel je je als je een \"High Five\" krijgt?\r\n"
+			"WILLINGNESS": "Wat doe je om snel te reageren op de oproep?\r\nHoe kun je als oproeper de taak voor het kind gemakkelijker of moeilijker maken?\r\nSamen: Bedenk een \"High-Five\"-ritueel dat jullie uitvoeren als een kind van jullie 10 pogingen zonder fouten heeft gedaan. Hoe voel je je als je een \"High Five\" krijgt?\r\n",
+            "PDF": "In tweetallen: Een kind roept de nummers. De ander staat met één been in een veld en springt bij het roepen van een nummer in het bijbehorende veld en landt daar op de andere voet."
 		},
 		"ROPE_ROLLER": {
 			"MOBAK": "Eigen beweging",
@@ -521,7 +545,8 @@
 			"MATERIALS": "1 Touw (1 Touw per 6-8 kinderen)",
 			"VARIATIONS": "Houd het touw lager of hoger vast.\r\nBeweeg het touw sneller of langzamer door de rij.\r\nVarieer de springstijl (bijv. twee-benig, één-benig, met lichaamsrotaties).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wanneer is het juiste moment om af te springen?\r\nHoe spring je het beste als er een kind links en rechts van je staat?\r\n",
-			"WILLINGNESS": "Hoe kunnen we de taak veranderen als we geen touw hebben?\r\nWat kun je doen om de taak succesvol op te lossen als een groep?\r\nHoe voelt het als iedereen samenwerkt om de taak succesvol op te lossen?\r\n"
+			"WILLINGNESS": "Hoe kunnen we de taak veranderen als we geen touw hebben?\r\nWat kun je doen om de taak succesvol op te lossen als een groep?\r\nHoe voelt het als iedereen samenwerkt om de taak succesvol op te lossen?\r\n",
+            "PDF": "Groep: Twee kinderen houden een touw gespannen op kuithoogte. De andere kinderen springen zodra het touw bij hen is."
 		},
 		"MASTER_OF_RHYTHM": {
 			"MOBAK": "Eigen beweging",
@@ -531,7 +556,8 @@
 			"MATERIALS": "Hoepels Alternatief: vloermarkeringen, touwen, krijt\r\n",
 			"VARIATIONS": "Spring door het hoepelpad zonder armbewegingen.\r\nSpring door het hoepelpad zo snel als je kunt.\r\nStrek de arm van de tegenovergestelde kant uit. Voor de sprongen met beide benen, strek je de armen omhoog.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat verandert er wanneer je met armbewegingen springt in vergelijking met springen zonder armbewegingen?\r\nWat kun je doen als je in eerste instantie moeite hebt om deze taak op te lossen?\r\nHoe lukt het je om je arm zijwaarts uit te steken?\r\n",
-			"WILLINGNESS": "Hoe kun je een ander kind door de hoepels volgen zonder ontdekt te worden?\r\nHoe kun je de hoepels rangschikken om het moeilijker voor je te maken?\r\nBedenk andere armbewegingen die bij je sprongen passen! In welke variaties lukt het je?\r\n"
+			"WILLINGNESS": "Hoe kun je een ander kind door de hoepels volgen zonder ontdekt te worden?\r\nHoe kun je de hoepels rangschikken om het moeilijker voor je te maken?\r\nBedenk andere armbewegingen die bij je sprongen passen! In welke variaties lukt het je?\r\n",
+            "PDF": "Leg meerdere banden op een rij op de grond en spring door het bandenpad volgens de volgende instructies: \n- Spring linkerbeen, linkerarm opzij \n- Spring met het rechterbeen, de rechterarm opzij\n- Spring op beide benen, beide armen naar de zijkanten"
 		},
 		"SWINGING_KING_QUEEN": {
 			"MOBAK": "Self movement",
@@ -541,7 +567,8 @@
 			"MATERIALS": "Touw",
 			"VARIATIONS": "Vraag de leraar of kinderen om het touw sneller of langzamer te zwaaien.\r\nVraag de leraar of kinderen om het touw in de andere richting te zwaaien (dus van je af).\r\nVarieer de sprongen (bijv. twee-benig, één-benig, met lichaamsrotaties).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat is gemakkelijker voor jou? Langzaam of snel springen? Waarom?\r\nWat verander je als het touw naar de andere kant zwaait?\r\nWat is het juiste moment om af te springen?\r\n",
-			"WILLINGNESS": "Hoe vaak kun je springen en het zwaaiende touw op een gecontroleerde manier verlaten? Stel jezelf een doel of daag een ander kind uit.\r\nLukt het je om in het zwaaiende touw te rennen en dan te springen? Probeer het!\r\nKun je aan een ander kind van buitenaf vertellen wanneer hij/zij moet afstappen?\r\n"
+			"WILLINGNESS": "Hoe vaak kun je springen en het zwaaiende touw op een gecontroleerde manier verlaten? Stel jezelf een doel of daag een ander kind uit.\r\nLukt het je om in het zwaaiende touw te rennen en dan te springen? Probeer het!\r\nKun je aan een ander kind van buitenaf vertellen wanneer hij/zij moet afstappen?\r\n",
+            "PDF": "Groep: Een lang touw wordt gezwaaid door twee kinderen. De andere kinderen rennen vier keer door het slingerende touw zonder het aan te raken."
 		},
 		"JUMP_IN_AND_OUT": {
 			"MOBAK": "Zelfbeweging",
@@ -551,7 +578,8 @@
 			"MATERIALS": "hoepels",
 			"VARIATIONS": "Herarrangeer de hoepels.\r\nZoek naar zoveel mogelijk verschillende soorten sprongen.\r\nMaak je springreeks van twee springvormen.\r\nSluit je ogen en spring je springreeks zonder de hoepels aan te raken.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe maak je een springreeks die je vaak kunt herhalen?\r\nWelk deel van je voet raakt de grond wanneer je springt?",
-			"WILLINGNESS": "Laat je springreeks aan een ander kind zien. Kun je de springreeks van het andere kind nadoen?\r\nKun je je springreeks herhalen met je ogen dicht?\r\nStel je voor dat je een dier bent en voer de springreeks uit. Hoe ziet dit eruit?"
+			"WILLINGNESS": "Laat je springreeks aan een ander kind zien. Kun je de springreeks van het andere kind nadoen?\r\nKun je je springreeks herhalen met je ogen dicht?\r\nStel je voor dat je een dier bent en voer de springreeks uit. Hoe ziet dit eruit?",
+            "PDF": "Voer sprongsequenties en vormen uit die in en uit de hoepel gaan."
 		},
 		"JUMPING_COURSE": {
 			"MOBAK": "Zelfbeweging",
@@ -561,7 +589,8 @@
 			"MATERIALS": "medicijnballen, kegels",
 			"VARIATIONS": "Verander het springparcours.\r\nGebruik meer obstakels.\r\nSpring het springparcours met je ogen dicht.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe moeten de obstakels worden geplaatst zodat je er gemakkelijk overheen kunt springen?\r\nWat is de beste manier om over de obstakels te springen?",
-			"WILLINGNESS": "Heb je nog andere ideeën voor obstakels?\r\nWelk advies kun je geven aan een kind dat moeite heeft met het springparcours?"
+			"WILLINGNESS": "Heb je nog andere ideeën voor obstakels?\r\nWelk advies kun je geven aan een kind dat moeite heeft met het springparcours?",
+            "PDF": "Spring over de obstakels"
 		}
 	},
 	"Rolling": "Rolling",
@@ -574,7 +603,8 @@
 			"MATERIALS": "Zachte vloermatten, gymnastiekbanken, gymnastiekmatten, wandrekken",
 			"VARIATIONS": "Hang de lange banken aan een lagere of hogere stang van de wandrekken.\r\nLaat een ander kind controleren of je volledig gestrekt bent wanneer je rolt.\r\nWissel van kant terwijl je rolt.\r\nLaat een ander kind je aan het einde van het roloppervlak vangen.\r\nStrek de armen omhoog.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat verandert er voor jou als je van kant verandert?\r\nWat doe je met je benen/armen als je zijwaarts rolt?\r\n",
-			"WILLINGNESS": "Kun je samen met een ander kind rollen?\r\nOp welke hoogte van de banken heb je het meeste plezier? Wanneer heb je veel moed nodig?\r\nWaar kun je nog meer zijwaarts rollen?\r\n"
+			"WILLINGNESS": "Kun je samen met een ander kind rollen?\r\nOp welke hoogte van de banken heb je het meeste plezier? Wanneer heb je veel moed nodig?\r\nWaar kun je nog meer zijwaarts rollen?\r\n",
+            "PDF": "Rol de helling af."
 		},
 		"FORWARD_ROLL": {
 			"MOBAK": "Zelfbeweging",
@@ -584,7 +614,8 @@
 			"MATERIALS": "Zachte vloermatten, gymnastiekbanken, gymnastiekmatten, wandrekken\r\n",
 			"VARIATIONS": "Grijp je knieën vast terwijl je rolt.\r\nSta op zonder je handen te gebruiken om je te ondersteunen.\r\nKlem een knuffeldier (of een ander object) tussen je kin en borst terwijl je rolt.\r\nDuw af met je voeten en ga rechtop zitten met je nek.\r\nKijk naar je buik.\r\nZet je handen stevig neer.\r\nHang de lange banken aan een lagere of hogere stang van de wandrekken.\r\nLaat een ander kind je aan het einde van het roloppervlak vangen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat verandert er wanneer je iets tussen je kin en borst klemt terwijl je rolt?\r\nHoe slaag je erin om recht te rollen?\r\n",
-			"WILLINGNESS": "Hoe voelt het om de taak succesvol op te lossen of de taak niet te kunnen oplossen? Wat kun je doen om te verbeteren als het je nog niet is gelukt?\r\nKun je ook van onder naar boven rollen?\r\n"
+			"WILLINGNESS": "Hoe voelt het om de taak succesvol op te lossen of de taak niet te kunnen oplossen? Wat kun je doen om te verbeteren als het je nog niet is gelukt?\r\nKun je ook van onder naar boven rollen?\r\n",
+            "PDF": "Rol voorwaarts de helling af."
 		},
 		"PENDULUM": {
 			"MOBAK": "Zelfbeweging",
@@ -594,7 +625,8 @@
 			"MATERIALS": "Vloermat, ballon, bal",
 			"VARIATIONS": "Plaats een ballon tussen je benen en houd deze stevig vast.\r\nPlaats een ballon tussen je benen en je bovenlichaam terwijl je naar achteren zwaait en sta rechtop in de hurkhouding.\r\nGeef de bal door aan een ander kind door eerst naar achteren te zwaaien en de bal door te geven terwijl je rechtop staat (wissel direct na het passeren van de bal van rol).\r\nZwaai naar achteren, houd je benen vast en zwaai omhoog naar de hurkhouding.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe slaag je erin om rechtop te staan na voorwaarts te hebben gerold?\r\nHoe rol je heen en weer?\r\n",
-			"WILLINGNESS": "Stel je voor dat je een aardvarken bent terwijl je rolt. Hoe voel je je?\r\nKun je de pendelbeweging tegelijkertijd met een ander kind uitvoeren?\r\nWat verandert er wanneer je een ballon tussen je benen klemt?\r\n"
+			"WILLINGNESS": "Stel je voor dat je een aardvarken bent terwijl je rolt. Hoe voel je je?\r\nKun je de pendelbeweging tegelijkertijd met een ander kind uitvoeren?\r\nWat verandert er wanneer je een ballon tussen je benen klemt?\r\n",
+            "PDF": "Rol heen en weer op je rug zonder je voeten te gebruiken."
 		},
 		"JUDO_ROLLS": {
 			"MOBAK": "Zelfbeweging",
@@ -604,7 +636,8 @@
 			"MATERIALS": "Zachte vloer",
 			"VARIATIONS": "Voer de judorol afwisselend uit over de linker- en rechterschouder.\r\nVariëer de lengte van de aanloop.\r\nSta direct op na de rol zonder je handen te gebruiken om je te ondersteunen.\r\nRol langzaam en zonder aanloop.\r\nKijk naar de schouder waarover je rolt.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat verandert er als je de lengte van de aanloop verandert?\r\nDoe je de judorol beter dan de voorwaartse rol? Waarom?\r\n",
-			"WILLINGNESS": "Hoe voel je je als je over de andere schouder rolt?\r\nKun je de judorol op een mat of op de vloer doen?\r\n"
+			"WILLINGNESS": "Hoe voel je je als je over de andere schouder rolt?\r\nKun je de judorol op een mat of op de vloer doen?\r\n",
+            "PDF": "Met een paar stappen maak je een rol over je schouder op de zachte vloer."
 		},
 		"MAT_ROLLS": {
 			"MOBAK": "Zelfbeweging",
@@ -614,7 +647,8 @@
 			"MATERIALS": "Zachte vloermat",
 			"VARIATIONS": "Sta op zonder je handen te gebruiken voor ondersteuning.\r\nVraag hulp aan een ander kind of de leraar.\r\nLeg een gang aan met behulp van touwen om over.\r\nRol in paren synchroon naast elkaar.\r\nDuw harder met je benen af, zodat je sneller rolt. Plaats vervolgens je handen voor je.\r\nVoer de rol uit op een gymmat.\r\nVoer de rol uit op een gymmat.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe slaag je erin om op te staan na het rollen?\r\nWat verandert er als je de rol op de mat maakt zonder aanloop?\r\n",
-			"WILLINGNESS": "Verandert je gevoel wanneer je de rol aan de lange zijde van de mat maakt in vergelijking met de korte zijde?\r\nHoe voelt het om succesvol op te staan na het rollen?\r\n"
+			"WILLINGNESS": "Verandert je gevoel wanneer je de rol aan de lange zijde van de mat maakt in vergelijking met de korte zijde?\r\nHoe voelt het om succesvol op te staan na het rollen?\r\n",
+            "PDF": "Maak met een paar stappen een rol over de zachte vloermat."
 		},
 		"ROLL_OFF_THE_BOX": {
 			"MOBAK": "Zelfbeweging",
@@ -624,7 +658,8 @@
 			"MATERIALS": "turnbok met twee elementen, turnmat",
 			"VARIATIONS": "Verander de hoogte van de turnbok. Klem een lint tussen je enkels. Kind A staat op handen en knieën. Kind B gebruikt kind A als verhoging en rolt van de rug van kind A op een mat. Rol over een fysiobal.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Kun je opstaan na het rollen? Hoe? Hoe plaats je je handen om zo recht mogelijk te rollen?",
-			"WILLINGNESS": "Hoe voelt het om van de bok te rollen? Op welke hoogte van de bok heb je het meeste plezier? Wanneer heb je veel moed nodig?"
+			"WILLINGNESS": "Hoe voelt het om van de bok te rollen? Op welke hoogte van de bok heb je het meeste plezier? Wanneer heb je veel moed nodig?",
+            "PDF": "Knieën op de gymnastiekdoos. Laat je handen op de gymmat rusten en rol naar voren."
 		},
 		"VARIABLE_ROLLING": {
 			"MOBAK": "Zelfbeweging",
@@ -634,7 +669,8 @@
 			"MATERIALS": "Turnmatten",
 			"VARIATIONS": "Rol zijwaarts. Plaats je voeten achter de schuine helling. Spring nu een beetje en rol de helling af. Rol van beneden naar boven. Rol op een rechte ondergrond. Plaats je voeten op de mat en rol van boven naar beneden.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe verandert het rollen als je van beneden naar boven rolt? Welke rol voer je het beste uit? Demonstreer en leg uit.",
-			"WILLINGNESS": "Welke rol vind je het leukst? Waarom? Kun je op alle manieren rollen?"
+			"WILLINGNESS": "Welke rol vind je het leukst? Waarom? Kun je op alle manieren rollen?",
+            "PDF": "Rol op verschillende manieren het hellende vlak naar beneden of omhoog."
 		},
 		"ROLLING_PRECISELY": {
 			"MOBAK": "Zelfbeweging",
@@ -644,7 +680,8 @@
 			"MATERIALS": "gymnastiekmatten, plakband",
 			"VARIATIONS": "Plak het plakband aan het einde van de mat en land je voeten erop na de rol. Verander de afstand vanaf het begin van de mat.\r\nRol over het plakband zodat het van de ene schouder naar de tegenoverliggende heup plakt.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe moet je met je voeten afzetten om zo precies mogelijk te rollen?\r\nHoe lukt het je om recht te rollen?",
-			"WILLINGNESS": "Kun je drie keer over het plakband rollen zodat je daarna een plakbandster op je rug hebt?\r\nHoe vind je het leukst om over het plakband te rollen? Heb je nog andere ideeën?"
+			"WILLINGNESS": "Kun je drie keer over het plakband rollen zodat je daarna een plakbandster op je rug hebt?\r\nHoe vind je het leukst om over het plakband te rollen? Heb je nog andere ideeën?",
+            "PDF": "Rol over de tape zodat deze net aan je rug blijft plakken."
 		},
 		"ROLL_UP": {
 			"MOBAK": "Zelfbeweging",
@@ -654,7 +691,8 @@
 			"MATERIALS": "gymnastiekkist met twee elementen, gymnastiekmatten",
 			"VARIATIONS": "Verander het aantal elementen.\r\nVoer een rol uit op de gymnastiekkist.\r\nGebruik een springplank om af te springen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe lukt het je om op de gymnastiekkist te rollen?\r\nWat doe je met je benen tijdens het rollen?",
-			"WILLINGNESS": "Welke hoogte vereist veel moed van jou? Hoe overwon je je aarzeling?\r\nHoe kun je een ander kind helpen om op te rollen?"
+			"WILLINGNESS": "Welke hoogte vereist veel moed van jou? Hoe overwon je je aarzeling?\r\nHoe kun je een ander kind helpen om op te rollen?",
+            "PDF": "Rol op de gymnastiekdoos."
 		},
 		"DIVE_ROLL": {
 			"MOBAK": "Zelfbeweging",
@@ -664,7 +702,8 @@
 			"MATERIALS": "gymmatten, medicijnballen",
 			"VARIATIONS": "Plaats meerdere medicijnballen op een rij en voer een duikrol over hen uit.\r\nVerander de afstand tussen de medicijnballen.\r\nSpring af met beide benen. Gebruik in plaats van de medicijnbal een touw om een duikrol uit te voeren.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat moet je veranderen vergeleken met een voorwaartse rol om een duikrol uit te voeren?\r\nWat doe je om zo zacht mogelijk te landen?",
-			"WILLINGNESS": "Stel jezelf een doel door een aantal medicijnballen te selecteren waarover je een duikrol wilt uitvoeren. Hoe voel je je als je dit doel hebt bereikt?\r\nStel je voor dat je een duikrol uitvoert over een enorme afgrond. Hoe voelt dat?"
+			"WILLINGNESS": "Stel jezelf een doel door een aantal medicijnballen te selecteren waarover je een duikrol wilt uitvoeren. Hoe voel je je als je dit doel hebt bereikt?\r\nStel je voor dat je een duikrol uitvoert over een enorme afgrond. Hoe voelt dat?",
+            "PDF": "Spring naar voren met de rol over een medicijnbal."
 		},
 		"PARTNER_ROLLS": {
 			"MOBAK": "Zelfbeweging",
@@ -674,7 +713,8 @@
 			"MATERIALS": "gymmatten",
 			"VARIATIONS": "Begin in de andere positie (omhoog/omlaag).\r\nVoert synchroon een voorwaartse rol uit, zij aan zij.\r\nMaakt twee of meer rollen achter elkaar.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe lukt het je om samen een partnerrol uit te voeren?\r\nWaar let je meer op in de partnerrol in vergelijking met de rol alleen?",
-			"WILLINGNESS": "Kostte het veel moed om in paren te rollen? Zo ja, hoe overwon je je aarzeling?\r\nWelk advies kun je andere kinderen geven om hen te helpen slagen in hun partnerrol?"
+			"WILLINGNESS": "Kostte het veel moed om in paren te rollen? Zo ja, hoe overwon je je aarzeling?\r\nWelk advies kun je andere kinderen geven om hen te helpen slagen in hun partnerrol?",
+            "PDF": "Met z'n tweeën: Pak elkaars enkels vast en laat je hoofd op je borst rusten. Samen een rol voorwaarts vervullen."
 		}
 	},
 	"Balancing": "Balancing",
@@ -687,7 +727,8 @@
 			"MATERIALS": "Touw",
 			"VARIATIONS": "Balanceren achteruit.\r\nBalanceer met je ogen dicht.\r\nGooi extra doeken in de lucht en vang ze op.\r\nDraai extra (1 of 2) hoepels met je armen.\r\nKies ander materiaal om op te balanceren (bijv. hoepels, vloertegels, lijnen).\r\nKies materiaal waarop je ook op een lichaamsdeel kunt balanceren (bijv. doeken, hoeden, ballen).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat verandert er wanneer je achteruit balanceert in plaats van vooruit?\r\nWaarom is balanceren gemakkelijker wanneer je naar voren kijkt (in plaats van naar de grond, bijvoorbeeld)?\r\n",
-			"WILLINGNESS": "Stel je voor dat je koorddansers bent in een circus. Hoe kunnen jullie samen op het touw balanceren? Kun je het applaus horen?\r\nHoe kun je het touw neerleggen om het balanceren moeilijker te maken?\r\nWaarom kan het belangrijk zijn om te kunnen balanceren?\r\nHoe voelt het om de ballen verder uit elkaar te hebben?\r\nHoe voelt het om met je ogen dicht over de ballen te balanceren?\r\n"
+			"WILLINGNESS": "Stel je voor dat je koorddansers bent in een circus. Hoe kunnen jullie samen op het touw balanceren? Kun je het applaus horen?\r\nHoe kun je het touw neerleggen om het balanceren moeilijker te maken?\r\nWaarom kan het belangrijk zijn om te kunnen balanceren?\r\nHoe voelt het om de ballen verder uit elkaar te hebben?\r\nHoe voelt het om met je ogen dicht over de ballen te balanceren?\r\n",
+            "PDF": "Evenwicht op het touw."
 		},
 		"BENCH_BALANCING": {
 			"MOBAK": "Eigen beweging",
@@ -697,7 +738,8 @@
 			"MATERIALS": "Lange bank",
 			"VARIATIONS": "Verander de manier waarop je beweegt (zijwaarts, achterwaarts, op handen en voeten).\r\nVoer extra arm bewegingen uit.\r\nKies materiaal waarop je ook op een deel van je lichaam kunt balanceren (bijv. doeken, hoeden, ballen).\r\nPlaats extra obstakels (bijv. kleding, hoeden) op de bank en stap dan over deze obstakels.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat is de beste manier om je voeten op de bank te plaatsen om succesvol in balans te blijven?\r\nHoe verandert je balans als je omhoog of omlaag kijkt in plaats van naar voren?",
-			"WILLINGNESS": "Hoe voelt het om succesvol over de bank in balans te blijven?\r\nBekijk een kind dat moeite heeft met balanceren over de bank en probeer hem/haar tips te geven!\r\nWaar kun je balanceren behalve op de bank om de taak moeilijker te maken voor jezelf?\"\r\n"
+			"WILLINGNESS": "Hoe voelt het om succesvol over de bank in balans te blijven?\r\nBekijk een kind dat moeite heeft met balanceren over de bank en probeer hem/haar tips te geven!\r\nWaar kun je balanceren behalve op de bank om de taak moeilijker te maken voor jezelf?\"\r\n",
+            "PDF": "Naar voren balancerend over de lange bank."
 		},
 		"WOBBLY_BENCH": {
 			"MOBAK": "Eigen beweging",
@@ -707,7 +749,8 @@
 			"MATERIALS": "Lange banken, gymnastiekstangen",
 			"VARIATIONS": "Voer de taak uit zonder andere kinderen, door de lange bank op de gymnastiekstangen te bevestigen met gymnastiekmatten aan alle zijden, zodat deze niet beweegt.\r\nLoop zijwaarts of achteruit.\r\nPlaats extra obstakels (bijv. kleding, hoeden) op de bank en stap dan over deze obstakels.\r\nVoeg een rotatie toe.\r\nKies materialen waarop je ook op een deel van je lichaam kunt balanceren (bijv. doeken, hoeden, ballen).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe beweeg je om in balans te blijven op de wiebelende bank?\r\nWelke armpositie helpt je het meest bij het balanceren?\r\n",
-			"WILLINGNESS": "Hoe voelt het om over de wiebelende bank in balans te blijven? Heb je veel moed nodig?\r\nVraag de andere kinderen om de bank langzamer/sneller te bewegen, afhankelijk van hoe veilig je je voelt.\r\n"
+			"WILLINGNESS": "Hoe voelt het om over de wiebelende bank in balans te blijven? Heb je veel moed nodig?\r\nVraag de andere kinderen om de bank langzamer/sneller te bewegen, afhankelijk van hoe veilig je je voelt.\r\n",
+            "PDF": "Houd je vast aan de bank terwijl deze wiebelt."
 		},
 		"MOUNTAIN_CLIMBING": {
 			"MOBAK": "Eigen beweging",
@@ -717,7 +760,8 @@
 			"MATERIALS": "Lange bank, wandstangen, matten op de vloer voor veiligheid",
 			"VARIATIONS": "Verander de manier van bewegen (zijwaarts, achterwaarts, op handen en voeten).\r\nHang de lange bank aan de ringen en balanceer eroverheen. Matten voor veiligheid zijn absoluut noodzakelijk.\r\nDraai bovendien een hoepel met je arm.\r\nKies materialen waarop je ook op een deel van je lichaam kunt balanceren (bijv. doeken, hoeden, ballen).\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Waar kijk je naar als je omhoog balanceert?\r\nHoe klim je omhoog zonder je balans te verliezen?\r\n",
-			"WILLINGNESS": "Op welke hoogte van de bank wordt de taak uitdagend voor jou?\r\nStop de tijd die je nodig hebt om naar boven te balanceren en daag een klasgenoot of jezelf uit. Hoe voel je je tijdens het balanceren in een uitdaging?\r\nHoe voelt het als er nog obstakels op de bank liggen?\r\n"
+			"WILLINGNESS": "Op welke hoogte van de bank wordt de taak uitdagend voor jou?\r\nStop de tijd die je nodig hebt om naar boven te balanceren en daag een klasgenoot of jezelf uit. Hoe voel je je tijdens het balanceren in een uitdaging?\r\nHoe voelt het als er nog obstakels op de bank liggen?\r\n",
+            "PDF": "Balanceer op en neer op de bank."
 		},
 		"OPPOSING_TRAFFIC": {
 			"MOBAK": "Eigen beweging",
@@ -727,7 +771,8 @@
 			"MATERIALS": "Lange bank\r\n",
 			"VARIATIONS": "Keer de lange bank om.\r\nPlaats de lange bank op een instabiele ondergrond (mat, springplank, gymnastiekstangen, enz.).\r\nKies materialen waarop je ook op een deel van je lichaam kunt balanceren (bijv. doeken, hoeden, ballen).\r\nBalanceer op een touw.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe kun je elkaar helpen oversteken?\r\nWat is moeilijk aan het oversteken?\r\n",
-			"WILLINGNESS": "Stel je voor dat je in de jungle bent en je moet ontsnappen aan de giftige slangen op de grond. De bank zal je redden van hen. Help elkaar oversteken om de andere kant te bereiken zonder slangen! Hoe ben je te werk gegaan om samen de oversteek op te lossen?\r\nWat kunnen jullie samen doen voordat je overstekt om moediger te zijn tijdens de oversteek?\r\nWat is moeilijk aan het oversteken?\r\nStel je voor dat je in de jungle bent en je moet ontsnappen aan de giftige slangen op de grond. De bank zal je redden van hen. Help elkaar oversteken om de andere kant te bereiken zonder slangen! Hoe ben je te werk gegaan om samen de oversteek op te lossen?\r\nWat kunnen jullie samen doen voordat je overstekt om moediger te zijn tijdens de oversteek?\r\n"
+			"WILLINGNESS": "Stel je voor dat je in de jungle bent en je moet ontsnappen aan de giftige slangen op de grond. De bank zal je redden van hen. Help elkaar oversteken om de andere kant te bereiken zonder slangen! Hoe ben je te werk gegaan om samen de oversteek op te lossen?\r\nWat kunnen jullie samen doen voordat je overstekt om moediger te zijn tijdens de oversteek?\r\nWat is moeilijk aan het oversteken?\r\nStel je voor dat je in de jungle bent en je moet ontsnappen aan de giftige slangen op de grond. De bank zal je redden van hen. Help elkaar oversteken om de andere kant te bereiken zonder slangen! Hoe ben je te werk gegaan om samen de oversteek op te lossen?\r\nWat kunnen jullie samen doen voordat je overstekt om moediger te zijn tijdens de oversteek?\r\n",
+            "PDF": "Groep: Er zijn evenveel kinderen aan elke kant van de lange bank. Balanceer over de bank en kruis in het midden."
 		},
 		"SEESAW": {
 			"MOBAK": "Eigen beweging",
@@ -737,7 +782,8 @@
 			"MATERIALS": "Lange bank, bovenkant van een doos",
 			"VARIATIONS": "Kies materialen waarop je ook op een deel van je lichaam kunt balanceren (bijv. doeken, hoeden, ballen).\r\nVerander de manier van bewegen (zijwaarts, achterwaarts, op handen en voeten).\r\nBalanceer met je ogen dicht.\r\nLaat een ander kind je helpen (indien nodig). Ze bieden hun hand aan en je grijpt deze wanneer nodig.\r\nKies in plaats van de bovenkant van een doos twee springplanken zodat de bank kan kantelen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat doe je als de bank kantelt om je balans te behouden?\r\nHoe verandert het kantelen van de bank als je zijwaarts balanceert?\r\n",
-			"WILLINGNESS": "Heb je ideeën over hoe we de bank op verschillende hoogtes kunnen laten kantelen?\r\nHoe voelt het als de bank kantelt?\r\nProbeer tegelijkertijd met een ander kind in evenwicht te blijven. Hoe verandert dat het kantelen van de bank?\r\n"
+			"WILLINGNESS": "Heb je ideeën over hoe we de bank op verschillende hoogtes kunnen laten kantelen?\r\nHoe voelt het als de bank kantelt?\r\nProbeer tegelijkertijd met een ander kind in evenwicht te blijven. Hoe verandert dat het kantelen van de bank?\r\n",
+            "PDF": "Balanceer over de wip en laat deze langzaam kantelen."
 		},
 		"ROPE_DANCER": {
 			"MOBAK": "Eigen beweging",
@@ -747,7 +793,8 @@
 			"MATERIALS": "Lange bank, basketbal",
 			"VARIATIONS": "Balanceer aan beide zijden van de bank.\r\nVoer de taak uit met een tijdslimiet.\r\nBalanceer op een touw.\r\nBalanceer met je ogen dicht.\r\nKies een andere bal of object om mee in evenwicht te blijven.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Waarom is de taak gemakkelijker wanneer je aan de brede kant van de bank balanceert?\r\nWat verandert er wanneer je een bal boven je hoofd houdt tijdens het balanceren in vergelijking met balanceren zonder bal?\r\nHoe verandert de taak wanneer je een stok gebruikt in plaats van de bal?\r\n",
-			"WILLINGNESS": "Welke andere objecten zou je boven je hoofd kunnen houden tijdens het balanceren?\r\nOp welke delen van je lichaam zou je objecten kunnen balanceren terwijl je over de bank loopt?\r\nVoordat je op de bank stapt: Probeer eerst je volgende bewegingen een paar seconden in te beelden. Lukt de taak beter op deze manier?\r\n"
+			"WILLINGNESS": "Welke andere objecten zou je boven je hoofd kunnen houden tijdens het balanceren?\r\nOp welke delen van je lichaam zou je objecten kunnen balanceren terwijl je over de bank loopt?\r\nVoordat je op de bank stapt: Probeer eerst je volgende bewegingen een paar seconden in te beelden. Lukt de taak beter op deze manier?\r\n",
+            "PDF": "Houd een basketbal boven je hoofd en balanceer naar voren over de lange bank. Maak een halve draai in het midden en blijf achterwaarts balanceren."
 		},
 		"BALANCING_ON_BALLS": {
 			"MOBAK": "Eigen beweging",
@@ -757,7 +804,8 @@
 			"MATERIALS": "Medicijnballen, ringen (om de medicijnballen vast te zetten)",
 			"VARIATIONS": "Loop achteruit over de medicijnballen.\r\nGebruik fysio/pezzi ballen in plaats van medicijnballen.\r\nGa op handen en voeten over de medicijnballen.\r\nLaat een ander kind je helpen (indien nodig). Ze bieden hun hand aan en jij grijpt die wanneer dat nodig is.\r\nLoop in tweetallen naar elkaar toe en probeer elkaar te passeren.\r\nBalanceer met je ogen dicht.\r\nSchik de medicijnballen op een andere manier.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat doe je anders bij het balanceren over de ballen dan bij het balanceren over een bank?\r\nWat is de beste manier om je voeten op de ballen te plaatsen om succesvol in balans te blijven?\r\nHoe lukt het je om met je ogen dicht over de ballen te balanceren?\r\n",
-			"WILLINGNESS": "Welke objecten zouden in plaats van de medicijnballen kunnen worden gebruikt?\r\nHoe voelt het om de ballen verder uit elkaar te hebben?\r\nHoe voelt het om met je ogen dicht over de ballen te balanceren?\r\n"
+			"WILLINGNESS": "Welke objecten zouden in plaats van de medicijnballen kunnen worden gebruikt?\r\nHoe voelt het om de ballen verder uit elkaar te hebben?\r\nHoe voelt het om met je ogen dicht over de ballen te balanceren?\r\n",
+            "PDF": "Balanceer naar voren over de medicijnballen zonder de grond te raken."
 		},
 		"CIRCUS_ARTISTS": {
 			"MOBAK": "Eigen beweging",
@@ -767,7 +815,8 @@
 			"MATERIALS": "Lange bank, blinddoeken.\r\n",
 			"VARIATIONS": "Balanceer met gesloten ogen.\r\nVoltooi de taak binnen een tijdslimiet.\r\nLaat een ander kind je helpen (indien nodig). Ze bieden hun hand aan en je pakt die vast wanneer nodig.\r\nKeer de lange bank om.\r\nDruk de armen dicht tegen het lichaam aan.\r\nLeun het bovenlichaam naar voren of naar achteren.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat is de beste manier om geblinddoekt over de bank te balanceren?\r\nWat verander je in je bewegingen wanneer je achteruit balanceert in plaats van vooruit?\r\n",
-			"WILLINGNESS": "Hoe voelt het om met succes geblinddoekt over de bank te balanceren?\r\nHoe kun je andere kinderen helpen die nog niet succesvol waren in deze taak?\r\n"
+			"WILLINGNESS": "Hoe voelt het om met succes geblinddoekt over de bank te balanceren?\r\nHoe kun je andere kinderen helpen die nog niet succesvol waren in deze taak?\r\n",
+            "PDF": "Balanceer geblinddoekt op de lange bank."
 		},
 		"BALANCING_ON_MATS": {
 			"MOBAK": "Zelfbeweging",
@@ -777,7 +826,8 @@
 			"MATERIALS": "gymnastiekmatten",
 			"VARIATIONS": "Sluit je ogen.\r\nSta op het andere been.\r\nSta op een dikkere mat.\r\nSta op andere onstabiele oppervlakken.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat is de beste manier om je evenwicht te bewaren?\r\nHoe kan je zicht je helpen om je evenwicht te bewaren?",
-			"WILLINGNESS": "Hoe verandert de taak wanneer je je ogen sluit of je hoofd naar achteren kantelt?\r\nOp welke oppervlakken kan balanceren uitdagender worden gemaakt?"
+			"WILLINGNESS": "Hoe verandert de taak wanneer je je ogen sluit of je hoofd naar achteren kantelt?\r\nOp welke oppervlakken kan balanceren uitdagender worden gemaakt?",
+            "PDF": "Ga op één been op een gymmat staan."
 		},
 		"DONT_WOBBLE": {
 			"MOBAK": "Zelfbeweging",
@@ -787,7 +837,8 @@
 			"MATERIALS": "-",
 			"VARIATIONS": "Voer een staande schaal uit wanneer het commando wordt gegeven.\r\nHoud het evenwicht in een zwevende positie wanneer het signaal wordt gegeven.\r\nGebruik verschillende commando's (posities) die moeten worden uitgevoerd. Als je wiebelt, geef je het volgende commando.\r\nZoek naar verschillende posities om je evenwicht te bewaren.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe lukt het je om zo snel mogelijk stil te staan in een eenbenige stand?\r\nWelke balansposities zijn gemakkelijk vast te houden?",
-			"WILLINGNESS": "Hoe ver kun je je armen en benen uit elkaar strekken in een eenbenige stand terwijl je je evenwicht bewaart?\r\nHoe voel je je als je je evenwicht verliest?"
+			"WILLINGNESS": "Hoe ver kun je je armen en benen uit elkaar strekken in een eenbenige stand terwijl je je evenwicht bewaart?\r\nHoe voel je je als je je evenwicht verliest?",
+            "PDF": "Doe de eenbenige stand op commando."
 		},
 		"UNSTABLE_DEVICES": {
 			"MOBAK": "Zelfbeweging",
@@ -797,7 +848,8 @@
 			"MATERIALS": "Balansapparatuur, ballen, pedalo, sportgyroscopen, enz.",
 			"VARIATIONS": "Sluit je ogen terwijl je balanceert. Verander de positie van je armen.\r\nVoer extra bewegingen uit met je armen (bijv. cirkels).\r\nBalanceer op één been op het apparaat.\r\nLaat een ander kind je helpen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Waar let je op zodat je je evenwicht kunt bewaren op een onstabiel apparaat?\r\nHoe verandert het evenwicht op een onstabiel apparaat in vergelijking met een stabiel apparaat?",
-			"WILLINGNESS": "Op welke andere apparaten kun je balanceren?\r\nHoe kun je de taak nog uitdagender maken?"
+			"WILLINGNESS": "Op welke andere apparaten kun je balanceren?\r\nHoe kun je de taak nog uitdagender maken?",
+            "PDF": "Balanceer op de onstabiele apparaten."
 		}
 	},
 	"catching": "catching",
@@ -811,7 +863,8 @@
 			"MATERIALS": "Diverse ballen",
 			"VARIATIONS": "Gooi de bal in de lucht met beide handen, klap een keer of meerdere keren en vang dan de bal met beide handen.\r\nGooi de bal in de lucht met beide handen en vang hem vervolgens met slechts één hand.\r\nGooi de bal in de lucht met beide handen, raak de vloer aan met beide handen en vang dan de bal met beide handen.\r\nGooi de bal in de lucht met beide handen, draai om je eigen as en vang dan de bal.\r\nGooi de bal in de lucht met beide handen en vang hem dan achter je rug.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe slaag je erin om de bal opnieuw te vangen nadat je hem hebt gegooid?\r\nWat doe je met je handen?\r\nBekijk anderen die de bal vangen - wat doen zij met hun handen?",
-			"WILLINGNESS": "Hoe hoog kun je de bal gooien en hem weer vangen?\r\nKun je het met verschillende ballen?\r\nBeschrijf de emoties die je ervaart als je de bal succesvol vangt."
+			"WILLINGNESS": "Hoe hoog kun je de bal gooien en hem weer vangen?\r\nKun je het met verschillende ballen?\r\nBeschrijf de emoties die je ervaart als je de bal succesvol vangt.",
+            "PDF": "Gooi de bal met beide handen in de lucht en vang hem opnieuw."
 		},
 		"KEEP_THE_WATER_CLEAN": {
 			"MOBAK": "Objectbeweging",
@@ -821,7 +874,8 @@
 			"MATERIALS": "Ballen, net, houten- / badminton- of (zachte) tennisracket\r\nEventueel: lange bank/draad voor scheiding, kegels, diverse ballen, ballonnen",
 			"VARIATIONS": "Vang de ballen met behulp van een pylon.\r\nVang de ballen met je linkerhand voor ballen aan de linkerkant en met je rechterhand voor ballen aan de rechterkant.\r\nVang de ballen met een racket.\r\nWissel af tussen het spelen van korte en lange ballen (kind A).\r\nWissel voortdurend van rol.\r\nKind A gooit de bal over het net.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe kun je het beste staan zodat je de bal goed kunt vangen?\r\nWaar kijk je zodat je de bal goed kunt vangen?",
-			"WILLINGNESS": "Wat verandert voor jullie wanneer jullie tegen elkaar spelen?\r\nHoe slagen jullie er allebei in om te spelen en de bal te vangen?"
+			"WILLINGNESS": "Wat verandert voor jullie wanneer jullie tegen elkaar spelen?\r\nHoe slagen jullie er allebei in om te spelen en de bal te vangen?",
+            "PDF": "In tweetallen: Het ene kind speelt met een racket ballen over het net, het andere kind vangt ze."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Objectbeweging",
@@ -831,7 +885,8 @@
 			"MATERIALS": "Hoepels, diverse ballen",
 			"VARIATIONS": "Hou twee hoepels vast (kind C).\r\nRol en vang de bal zelf aan de andere kant (kind A), zodat je de taak alleen uitvoert met een ander kind dat de hoepel vasthoudt.\r\nSchop de bal met je voet.\r\nVergroot de groep door alle kinderen zich met een bal aan de lange kant van de gymzaal te laten opstellen. Probeer met je bal (rollen, gooien of schoppen door de hoepel) een gymnastiekbal of een hoepel te raken die door een leraar door de gymzaal wordt gerold.\r\nSpeel de bal met een racket door de hoepel.\r\nRol de bal met je hand.\r\nRol de hoepel door de gymzaal en gooi, speel of rol de bal door de hoepel.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe slaag je erin om door de hoepel te rollen?\r\nHoe verandert de beweging van je armen wanneer je de bal rolt in plaats van gooit?",
-			"WILLINGNESS": "Welke van de variaties is het leukst voor jou en waarom?\r\nHoe vaak kun je de bal achter elkaar vangen? Stel een doel en probeer het te bereiken.\r\nHoe kun je de bal op een andere manier rollen/bespelen?\r\n\r\n\r\n\r\n"
+			"WILLINGNESS": "Welke van de variaties is het leukst voor jou en waarom?\r\nHoe vaak kun je de bal achter elkaar vangen? Stel een doel en probeer het te bereiken.\r\nHoe kun je de bal op een andere manier rollen/bespelen?\r\n\r\n\r\n\r\n",
+            "PDF": "Drie ervan: Een kind houdt een band vast. De andere twee rollen een bal door de hoepel."
 		},
 		"TIGERBALL": {
 			"MOBAK": "Objectbeweging",
@@ -841,7 +896,8 @@
 			"MATERIALS": "Diverse ballen",
 			"VARIATIONS": "Speel met twee ballen tegelijk.\r\nVergroot de cirkel geleidelijk.\r\nVariëer de hoogte van het gooien.\r\nIntegreer verschillende gooivariaties (bijv. gooien van onderen, met beide handen, over het hoofd).\r\nGooi de bal niet naar het kind direct naast je.\r\nRol de bal naar het volgende kind.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat is de beste manier om de bal te vangen als je in het midden staat?\r\nWat is de beste manier om de bal naar een ander kind te gooien zodat het kind in het midden hem niet kan vangen?",
-			"WILLINGNESS": "Wanneer is dit spel het leukst?\r\nHoe gedraag je je wanneer je merkt dat het kind in het midden de bal niet vangt?\r\nHoe speel je samen zodat het kind in het midden de bal niet kan vangen?"
+			"WILLINGNESS": "Wanneer is dit spel het leukst?\r\nHoe gedraag je je wanneer je merkt dat het kind in het midden de bal niet vangt?\r\nHoe speel je samen zodat het kind in het midden de bal niet kan vangen?",
+            "PDF": "Groep: Een kind staat in het midden van de kring. De anderen passen de bal naar elkaar toe. Het kind in het midden probeert de bal te vangen. Omkering van rollen."
 		},
 		"BOXING": {
 			"MOBAK": "Objectbeweging",
@@ -851,7 +907,8 @@
 			"MATERIALS": "Diverse ballen",
 			"VARIATIONS": "Gebruik verschillende ballen.\r\nVerander de afstand.\r\nVariëer de hoogte van het gooien (kind A).\r\nIntegreer gooivariaties (bijv. gooien van onderen, met beide handen, over het hoofd).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe kun je de bal het beste nauwkeurig gooien?\r\nHoe gedraag je je zodat je de bal goed kunt vangen?",
-			"WILLINGNESS": "Hoe vaak achter elkaar kun je de bal weer vangen op verschillende afstanden?\r\nHoe slaag je erin om de taak samen op te lossen?\r\nLukt het je om de bal weer te vangen op verschillende afstanden?\r\n"
+			"WILLINGNESS": "Hoe vaak achter elkaar kun je de bal weer vangen op verschillende afstanden?\r\nHoe slaag je erin om de taak samen op te lossen?\r\nLukt het je om de bal weer te vangen op verschillende afstanden?\r\n",
+            "PDF": "In paren: Een kind heeft een bal in zijn hand en speelt de bal ermee terug."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Objectbeweging",
@@ -861,7 +918,8 @@
 			"MATERIALS": "Diverse ballen",
 			"VARIATIONS": "Gooi de bal nu heen en weer naar een ander kind.\r\nVerander de opstelling van een cirkel in andere vormen (bijv. vierkant, driehoek, ellips).\r\nGa na de pass naar de positie waar je heen hebt gegooid. \r\nIntegreer gooivariaties (bijv. gooien van onderen, met beide handen, over het hoofd).\r\nRol de bal met je hand, schop met je voet of speel met het racket.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe bereid je je voor op het vangen van de bal?\r\nWaar let je op wanneer de bal naar je toe vliegt?\r\nWaarom is het handig om naar het kind te kijken naar wie je de bal gaat gooien?",
-			"WILLINGNESS": "Kun je elk kind in de cirkel de bal een keer laten vangen zonder dat hij de grond raakt?\r\nWat is de snelste manier om de bal in de cirkel te gooien en te vangen?"
+			"WILLINGNESS": "Kun je elk kind in de cirkel de bal een keer laten vangen zonder dat hij de grond raakt?\r\nWat is de snelste manier om de bal in de cirkel te gooien en te vangen?",
+            "PDF": "Groep: Ga in een kring staan en geef de bal aan elkaar door. Dubbele passen zijn niet toegestaan."
 		},
 		"REACTING": {
 			"MOBAK": "Objectbeweging",
@@ -871,7 +929,8 @@
 			"MATERIALS": "ballen",
 			"VARIATIONS": "Gooi de bal op verschillende hoogtes. Stuiter de bal op de grond en vang hem weer.\r\nGebruik verschillende ballen.\r\nTwee of drie kinderen gooien een bal naar elkaar. Hulp: Laat de bal één keer op de grond stuiteren.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Waar let je op zodat je je ogen pas opent net voordat je vangt?\r\nWelke bal kun je het beste vangen? Leg uit.",
-			"WILLINGNESS": "Zal het je ook lukken om de bal blind te vangen?\r\nHoe geef je de bal aan een ander kind zodat het makkelijk is om de bal te vangen?"
+			"WILLINGNESS": "Zal het je ook lukken om de bal blind te vangen?\r\nHoe geef je de bal aan een ander kind zodat het makkelijk is om de bal te vangen?",
+            "PDF": "Gooi de bal in de lucht met je ogen dicht en vang hem opnieuw."
 		},
 		"WALL_BALL": {
 			"MOBAK": "Objectbeweging",
@@ -881,7 +940,8 @@
 			"MATERIALS": "ballen",
 			"VARIATIONS": "Gebruik verschillende ballen. Markeer een doelzone op de muur. Speel op slechts één muur. Na een terugkaatsingspunt moet het succesvolle team achter een afgesproken lijn gaan voordat de volgende aanval begint. Rol de bal naar elkaar in plaats van te gooien.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Waar let je op zodat je een terugkaatsingspunt kunt maken? Hoe geef je de bal aan je teamgenoten zodat het andere team er niet bij kan?",
-			"WILLINGNESS": "Hoe verandert het traject als de bal verandert?\r\nWelke ideeën heb je om het spel te veranderen?"
+			"WILLINGNESS": "Hoe verandert het traject als de bal verandert?\r\nWelke ideeën heb je om het spel te veranderen?",
+            "PDF": "Groep: Verdeel in twee teams. Een punt kan worden gemaakt als een teamlid de bal naar de muur gooit en een ander teamlid hem vangt."
 		},
 		"TRAJECTORY": {
 			"MOBAK": "Objectbeweging",
@@ -891,7 +951,8 @@
 			"MATERIALS": "ballen",
 			"VARIATIONS": "Gooi de bal tegen de muur zodat deze op de grond stuitert voordat je hem vangt. Gooi vanuit verschillende posities tegen de muur.\r\nGeef de bal aan elkaar door in paren met behulp van de muur. De bal moet de muur raken voordat het andere kind hem vangt.\r\nSpeel tegen elkaar in paren: Spreek een zone af waar de bal tegen de muur mag worden gespeeld en waar deze weer op de grond moet landen. Als het andere kind de bal niet kan vangen, krijg je een punt.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe weet je waar de bal naartoe gaat als deze van de muur stuitert?\r\nHoe ben je klaar om de bal te vangen?",
-			"WILLINGNESS": "Hoe vaak achter elkaar lukt het je om de bal weer te vangen?\r\nHoe voel je je als je de bal niet kunt vangen?"
+			"WILLINGNESS": "Hoe vaak achter elkaar lukt het je om de bal weer te vangen?\r\nHoe voel je je als je de bal niet kunt vangen?",
+            "PDF": "Gooi de bal naar de muur en vang hem opnieuw."
 		},
 		"FLYING_BALL": {
 			"MOBAK": "Objectbeweging",
@@ -901,7 +962,8 @@
 			"MATERIALS": "bal, gymnastiekmatten",
 			"VARIATIONS": "Gebruik verschillende ballen. Varieer de landingszone.\r\nVerander de grootte van het speelveld.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Welke tactieken gebruikt jouw team om punten te scoren?\r\nWat verandert er als het speelveld groter wordt?",
-			"WILLINGNESS": "Zal het je lukken om de bal in de sprong te vangen en in de landingszone te landen?\r\nHoe gooi je de bal naar je teamgenoot zodat hij/zij de bal in de landingszone kan vangen?\r\nWelke regels zou je toevoegen om het spel te veranderen?"
+			"WILLINGNESS": "Zal het je lukken om de bal in de sprong te vangen en in de landingszone te landen?\r\nHoe gooi je de bal naar je teamgenoot zodat hij/zij de bal in de landingszone kan vangen?\r\nWelke regels zou je toevoegen om het spel te veranderen?",
+            "PDF": "Groep: Verdeel in twee teams. Een punt kan worden gescoord als een teamlid de bal kan vangen door in de landingszone te springen."
 		},
 		"FISHERMAN": {
 			"MOBAK": "Objectbeweging",
@@ -911,7 +973,8 @@
 			"MATERIALS": "ballen",
 			"VARIATIONS": "Gooi de ballen snel achter elkaar. Geef een hoorbaar signaal voordat je de bal gooit.\r\nKind A zegt waar de bal naartoe wordt gegooid.\r\nKind B staat klaar met zijn/haar ogen dicht en probeert zo snel mogelijk te reageren.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Waar let je op als je de ballen vangt?\r\nHoe houd je je handen en armen om de ballen te vangen?",
-			"WILLINGNESS": "Heb je een idee hoe je het spel kunt veranderen en spannender kunt maken?\r\nAls kind A, hoe gooi je de bal naar kind B zodat het uitdagend maar nog steeds mogelijk is om de ballen te vangen?"
+			"WILLINGNESS": "Heb je een idee hoe je het spel kunt veranderen en spannender kunt maken?\r\nAls kind A, hoe gooi je de bal naar kind B zodat het uitdagend maar nog steeds mogelijk is om de ballen te vangen?",
+            "PDF": "In tweetallen: Gooi ballen naar elkaar op verschillende hoogtes."
 		}
 	},
 	"throwing": "throwing",
@@ -924,7 +987,8 @@
 			"MATERIALS": "Jongleerballen, tapijttegels, [verschillende extra ballen]",
 			"VARIATIONS": "Integreer werpvariaties (bijv. van onderaf, met beide handen, over het hoofd).\r\nGebruik verschillende ballen.\r\nVerhoog of verlaag de afstand tussen de tapijttegels.\r\nGebruik kleinere of grotere tapijttegels.\r\nVerander de opstelling van de tapijttegels.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat moet je veranderen als je naar veld 1 of veld 12 gooit?\r\nWat is de meest nauwkeurige manier om de bal te werpen?",
-			"WILLINGNESS": "Hoe zou je de velden rangschikken?\r\nWelke andere dingen in de gymzaal kun je gebruiken als doelen?"
+			"WILLINGNESS": "Hoe zou je de velden rangschikken?\r\nWelke andere dingen in de gymzaal kun je gebruiken als doelen?",
+            "PDF": "Gooi de jongleerbal naar vakje 1 en spring dan van vakje 2 t/m 12 en weer terug. Gooi dan de bal in vakje 2 en spring naar vakje 1 en dan 3 t/m 12 en weer terug. En ga zo maar door."
 		},
 		"THROWING_STATIONS": {
 			"MOBAK": "Objectbeweging",
@@ -934,7 +998,8 @@
 			"MATERIALS": "Diverse ballen, gymboxen, hoepels",
 			"VARIATIONS": "Gooi de bal terwijl je zit.\r\nSta op een gymbox en gooi de ballen in een mand.\r\nGooi een bal (met de linker- en rechterhand) boven op een gymbox en probeer de bal daarna te vangen.\r\nGooi de ballen met je linker- en rechterhand over of door de wandrekken zodat een ander kind ze kan vangen.\r\nRaak alle vier de markeringskegels vanaf een gymbox met vijf ballen.\r\nGooi de bal in alle vierkanten van de wandrekken.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat verandert er als je de bal met één hand of met twee handen gooit?\r\nHoe sta je als je gooit?",
-			"WILLINGNESS": "Stel een specifiek doel voor jezelf: hoeveel ballen kun je achter elkaar in de box gooien?\r\nWat verandert er als je een ander kind uitdaagt?\r\nLukt het je om de box zelfs vanuit verschillende afstanden te raken?"
+			"WILLINGNESS": "Stel een specifiek doel voor jezelf: hoeveel ballen kun je achter elkaar in de box gooien?\r\nWat verandert er als je een ander kind uitdaagt?\r\nLukt het je om de box zelfs vanuit verschillende afstanden te raken?",
+            "PDF": "Gooi de bal in het strafschopgebied."
 		},
 		"KEEP_YOUR_GARDEN_CLEAN": {
 			"MOBAK": "Objectbeweging",
@@ -944,7 +1009,8 @@
 			"MATERIALS": "Lange banken, diverse ballen",
 			"VARIATIONS": "Tussen de twee teams is een afstand van 3 m. Deze ruimte is een spelvrije zone (kan worden gescheiden met behulp van kegels en lange banken). De zachte ballen kunnen alleen worden gegooid en de voetballen kunnen alleen worden getrapt. De teams kunnen ook punten verdienen door de ballen tegen de muur van het tegenovergestelde team te schoppen/gooien.\r\nSpeel het spel met twee lange banken (met een beetje afstand ertussen).\r\nDe lange bank wordt omgedraaid en op twee gymboxen geplaatst. Gooi de ballen onder de bank door naar het tegenovergestelde veld.\r\nLos een taak op na elke worp, d.w.z. raak een muur, gooi eerst de bal tegen de muur en vang hem dan op.\r\nBedenk gezamenlijk aanvullende regels voor het spel.\r\nIntegreer werpvariaties (bijv. van onderaf, met beide handen, over het hoofd).\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat is de snelste manier om de bal naar de andere kant te gooien?\r\nGooi je de bal anders wanneer je hem uit de lucht vangt dan wanneer je hem van de grond oppakt?",
-			"WILLINGNESS": "Wat doe je samen als team om de tuin schoon te houden?\r\nWaar let je op zodat je per ongeluk geen ander kind raakt?"
+			"WILLINGNESS": "Wat doe je samen als team om de tuin schoon te houden?\r\nWaar let je op zodat je per ongeluk geen ander kind raakt?",
+            "PDF": "Groepen: Verdeel in twee teams. Gooi zoveel mogelijk ballen in het speelveld van het andere team gedurende de toegewezen tijd."
 		},
 		"SCORE_MASTER": {
 			"MOBAK": "Objectbeweging",
@@ -954,7 +1020,8 @@
 			"MATERIALS": "Ballen, diverse doelen (bijv. vloertegels, hoepels, matten)",
 			"VARIATIONS": "Tegreer verschillende werpvariaties (bijv. gooien van onderen, met beide handen, boven het hoofd).\r\nVerhoog of verlaag de afstand tot de doelen.\r\nGebruik een tijdslimiet om de doelen te raken.\r\nGebruik verschillende doelen.\r\nKies verschillende doelen aan de muur.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Welk doel raak je het gemakkelijkst en waarom?\r\nHoe kun je het beste gooien om een doel te raken?",
-			"WILLINGNESS": "Maak een plan: In welke volgorde wil je de doelen raken om zo min mogelijk worpen nodig te hebben?\r\nProbeer de taak in paren: Hoeveel worpen hebben jullie samen nodig om alle doelen één keer te raken?\r\nKun je erin slagen om elk doel met één worp te raken?"
+			"WILLINGNESS": "Maak een plan: In welke volgorde wil je de doelen raken om zo min mogelijk worpen nodig te hebben?\r\nProbeer de taak in paren: Hoeveel worpen hebben jullie samen nodig om alle doelen één keer te raken?\r\nKun je erin slagen om elk doel met één worp te raken?",
+            "PDF": "Raak alle doelen met zo min mogelijk worpen."
 		},
 		"FALLING_OVER": {
 			"MOBAK": "Objectbeweging",
@@ -964,7 +1031,8 @@
 			"MATERIALS": "Lange banken, doelen (bijv. palen, yoghurtpotjes, stokken), diverse ballen",
 			"VARIATIONS": "Verander de afstand tot het doel.\r\nPlaats 2 lange banken in een V-vorm. Plaats de doelen erop en probeer ze vanuit verschillende posities te raken.\r\nGooi terwijl je zit, knielt, etc.\r\nVerander de opstelling van de doelen.\r\nPlaats de doelen op een ander niveau (vloer/gymbox).\r\nGooi met de andere hand.\r\nGebruik verschillende ballen.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat is de beste manier voor jou om de doelen omver te werpen?\r\nWat moet je veranderen als je de bal rolt of gooit?",
-			"WILLINGNESS": "Welke andere werpobjecten zou je kunnen gebruiken?\r\nRegelen een aantal doelen voor een klasgenoot. Kun je hem/haar helpen om ze allemaal te raken?\r\n"
+			"WILLINGNESS": "Welke andere werpobjecten zou je kunnen gebruiken?\r\nRegelen een aantal doelen voor een klasgenoot. Kun je hem/haar helpen om ze allemaal te raken?\r\n",
+            "PDF": "Gooi de bal zo naar het doel dat hij omvalt."
 		},
 		"HIT_THE_TARGET": {
 			"MOBAK": "Objectbeweging",
@@ -974,7 +1042,8 @@
 			"MATERIALS": "Containers (bijv. emmers, grote dozen, kleine omgekeerde dozen), diverse ballen.",
 			"VARIATIONS": "Integreer gooi variaties (bijv. gooien van onderen, met beide handen, over het hoofd).\r\nLaat andere kinderen de containers verplaatsen.\r\nPlaats de containers naast een muur en gooi de bal tegen de muur, zodat deze in de container valt.\r\nVarieer de afstand van de containers.\r\nGebruik verschillende ballen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe moet je je arm positioneren om goed te kunnen mikken bij het gooien?\r\nWaar kijk je om de container te raken?",
-			"WILLINGNESS": "Hoe voelt het om met een bal succesvol de container te raken?\r\nKun je tegelijkertijd met een ander kind de container raken?\r\nWelke andere containers zouden we als doelen kunnen gebruiken?\r\n"
+			"WILLINGNESS": "Hoe voelt het om met een bal succesvol de container te raken?\r\nKun je tegelijkertijd met een ander kind de container raken?\r\nWelke andere containers zouden we als doelen kunnen gebruiken?\r\n",
+            "PDF": "Gooi de balletjes op volgorde in de bakjes (van groot naar klein)."
 		},
 		"THROWING_OFF": {
 			"MOBAK": "Objectbeweging",
@@ -984,7 +1053,8 @@
 			"MATERIALS": "Gymkisten, doeken, diverse ballen.",
 			"VARIATIONS": "Bevestig doeken en hoepels aan de muur. Probeer een doek of de binnenkant van een hoepel te raken.\r\nIntegreer gooi variaties (bijv. gooien van onderen, met beide handen, over het hoofd). Laat de doeken sneller vallen (kind op een gymkist). Verhoog of verlaag de afstand tot het doelwit. Laat verschillende objecten vallen (kind op een gymkist). Gebruik verschillende ballen.\r\nWanneer gooi je de bal zodat je de doek raakt? Hoe verandert je worp als je de positie van je arm verandert? Kun je twee doeken tegelijk raken? Waar kijk je naar als je de doek laat vallen zodat het andere kind het goed kan raken?\r\nDrop the cloths faster (child on a gym box).\r\nIncrease or decrease the distance of the target.\r\nDrop various objects (child on gym box).\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wanneer gooi je de bal zodat je de doek raakt?\r\nHoe verandert je worp als je de positie van je arm verandert?",
-			"WILLINGNESS": "Kun je twee doeken tegelijk raken?\r\nWaar kijk je naar als je de doek laat vallen zodat het andere kind het goed kan raken?"
+			"WILLINGNESS": "Kun je twee doeken tegelijk raken?\r\nWaar kijk je naar als je de doek laat vallen zodat het andere kind het goed kan raken?",
+            "PDF": "Sla op de doeken voordat ze op de grond liggen."
 		},
 		"DICE": {
 			"MOBAK": "Beweging van objecten",
@@ -994,7 +1064,8 @@
 			"MATERIALS": "Diverse ballen, gymbox, lange bank, dobbelsteen",
 			"VARIATIONS": "Vergroot of verklein de doelgebieden.\r\nIntegreer werpvariaties (bijv. werpen van onderen, met beide handen, boven het hoofd).\r\nVerhoog of verlaag de afstand tot de doelen.\r\nGebruik diverse ballen.\r\nRaak alle 6 nummers twee keer met een bal.\r\nStel een tijdslimiet in om de 6 nummers te raken.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat moet je veranderen als je de 1 wilt raken in vergelijking met de 6?\r\nWat is de beste manier voor jou om de nummers te raken?\r\n",
-			"WILLINGNESS": "Hoe verandert de taak voor jou als er een tijdslimiet is om alle nummers in één keer te raken?\r\nRaak je ook de nummers als je met de andere hand gooit?\r\n"
+			"WILLINGNESS": "Hoe verandert de taak voor jou als er een tijdslimiet is om alle nummers in één keer te raken?\r\nRaak je ook de nummers als je met de andere hand gooit?\r\n",
+            "PDF": "Gooi de dobbelstenen en richt op het nummer dat de dobbelsteen aangeeft."
 		},
 		"ENCHANT_AND_REDEEM": {
 			"MOBAK": "Beweging van objecten",
@@ -1004,7 +1075,8 @@
 			"MATERIALS": "Zachte ballen",
 			"VARIATIONS": "Rol een grotere bal.\r\nPlaats twee vangers binnen een groter speelveld, waar beschermende maatregelen bestaan, zoals gymboxen, enz. Een kind kan alleen gebruik maken van een beschermende maatregel om even pauze te nemen totdat een ander kind bescherming zoekt.\r\nZoek collectief naar andere mogelijkheden van bevrijding.\r\nVerander het spel volgens je eigen ideeën.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Waar let je op als je een bewegend kind wilt raken?\r\nHoe gooi je de bal zodat je de benen van de kinderen raakt?\r\n",
-			"WILLINGNESS": "Met welke nieuwe regels zou je het spel (nog) leuker vinden?\r\nHoe verandert het spel voor jou als er meer vangers zijn?\r\nHoud je van het spel? Waarom wel/niet?\r\n"
+			"WILLINGNESS": "Met welke nieuwe regels zou je het spel (nog) leuker vinden?\r\nHoe verandert het spel voor jou als er meer vangers zijn?\r\nHoud je van het spel? Waarom wel/niet?\r\n",
+            "PDF": "Groep: Een kind probeert de anderen te raken met een bal. Iedereen die geraakt wordt, staat met gespreide benen. Je wordt verlost door iemand die onder je benen kruipt."
 		},
 		"THROWING_HOOPS": {
 			"MOBAK": "Beweging van objecten",
@@ -1014,7 +1086,8 @@
 			"MATERIALS": "Kegels, hoepels",
 			"VARIATIONS": "Werp met gesloten ogen.\r\nVerander de startpositie (bijv. gehurkte positie, zittende positie, draaibeweging).\r\nVerhoog of verlaag de afstand tot de kegel.\r\nWerp vanuit verschillende richtingen (bijv. van onderen, van boven, van opzij).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat verander je als je een hoepel werpt in vergelijking met een bal?\r\nVanuit welke positie raak je de kegel het beste?\r\n",
-			"WILLINGNESS": "Wat is de grootste afstand van waaruit je veilig de kegel kunt raken?\r\nHoe voelt het om de hoepel met gesloten ogen te werpen?\r\nKun je de kegel raken met gesloten ogen?\r\n"
+			"WILLINGNESS": "Wat is de grootste afstand van waaruit je veilig de kegel kunt raken?\r\nHoe voelt het om de hoepel met gesloten ogen te werpen?\r\nKun je de kegel raken met gesloten ogen?\r\n",
+            "PDF": "Gooi de hoepel om de kegel."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Objectbeweging",
@@ -1024,7 +1097,8 @@
 			"MATERIALS": "Hoepels, diverse ballen",
 			"VARIATIONS": "Houd twee hoepels vast (kind C).\r\nRol en vang de bal zelf aan de andere kant (kind A), zodat je de taak alleen met een ander kind uitvoert dat de hoepel vasthoudt.\r\nSchop de bal met je voet.\r\nBreid de groep uit door alle kinderen zich met een bal aan de lange zijde van de gymzaal te laten positioneren. Probeer met je bal (rollen, gooien of schoppen door de hoepel) een gymnastiekbal of een hoepel te raken die door een leraar door de gymzaal wordt gerold.\r\nSpeel de bal met een racket door de hoepel.\r\nRol de bal met je hand.\r\nRol de hoepel rond de gymzaal en gooi, speel of rol de bal door de hoepel.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe slaag je erin om door de hoepel te rollen?\r\nHoe verandert de beweging van je armen wanneer je de bal rolt in plaats van gooit?\r\n",
-			"WILLINGNESS": "Welke van de variaties vind je het leukst en waarom?\r\nHoe vaak achter elkaar kun je de bal vangen? Stel een doel en probeer het te bereiken.\r\nHoe kun je de bal op een andere manier rollen/spelen?\r\n"
+			"WILLINGNESS": "Welke van de variaties vind je het leukst en waarom?\r\nHoe vaak achter elkaar kun je de bal vangen? Stel een doel en probeer het te bereiken.\r\nHoe kun je de bal op een andere manier rollen/spelen?\r\n",
+            "PDF": "Drie ervan: Een kind houdt een band vast. De andere twee rollen een bal door de hoepel."
 		},
 		"TIGER_BALL": {
 			"MOBAK": "Objectbeweging",
@@ -1034,7 +1108,8 @@
 			"MATERIALS": "Diverse ballen",
 			"VARIATIONS": "Speel met twee ballen tegelijk.\r\nVergroot de cirkel geleidelijk.\r\nVarieer de hoogte van het passen.\r\nIntegreer worpvariaties (bijv. gooien van onderen, met beide handen, boven het hoofd).\r\nGooi de bal niet direct naar het kind naast je.\r\nRol de bal naar het volgende kind.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat is de beste manier om de bal te vangen als je in het midden staat?\r\nWat is de beste manier om de bal naar een ander kind te gooien, zodat het kind in het midden hem niet kan vangen?\r\n",
-			"WILLINGNESS": "Wanneer is dit spel het leukst?\r\nHoe gedraag je je wanneer je merkt dat het kind in het midden de bal niet vangt?\r\nHoe speel je samen zodat het kind in het midden de bal niet kan vangen?\r\n"
+			"WILLINGNESS": "Wanneer is dit spel het leukst?\r\nHoe gedraag je je wanneer je merkt dat het kind in het midden de bal niet vangt?\r\nHoe speel je samen zodat het kind in het midden de bal niet kan vangen?\r\n",
+            "PDF": "Groep: Een kind staat in het midden van de kring. De anderen passen de bal naar elkaar toe. Het kind in het midden probeert de bal te vangen. Omkering van rollen."
 		},
 		"BOXING": {
 			"MOBAK": "Objectbeweging",
@@ -1044,7 +1119,8 @@
 			"MATERIALS": "Diverse ballen",
 			"VARIATIONS": "Gebruik diverse ballen.\r\nVerander de afstand.\r\nVarieer de pashoogte (kind A).\r\nIntegreer worpvariaties (bijv. gooien van onderen, met beide handen, boven het hoofd).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe kun je de bal het beste nauwkeurig gooien?\r\nHoe gedraag je je zodat je de bal goed kunt vangen?\r\n",
-			"WILLINGNESS": "Hoe vaak achter elkaar kun je erin slagen de bal opnieuw te vangen op verschillende afstanden?\r\nHoe lukt het je om de taak samen op te lossen?\r\nLukt het je om de bal opnieuw te vangen op verschillende afstanden?\r\n"
+			"WILLINGNESS": "Hoe vaak achter elkaar kun je erin slagen de bal opnieuw te vangen op verschillende afstanden?\r\nHoe lukt het je om de taak samen op te lossen?\r\nLukt het je om de bal opnieuw te vangen op verschillende afstanden?\r\n",
+            "PDF": "In paren: Een kind heeft een bal in zijn hand en speelt de bal ermee terug."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Objectbeweging",
@@ -1054,7 +1130,8 @@
 			"MATERIALS": "Diverse ballen",
 			"VARIATIONS": "Gooi nu de bal heen en weer naar een ander kind.\r\nVerander de opstelling van een cirkel in andere vormen (bijv. vierkant, driehoek, ellips).\r\nGa na de pass naar de positie waar je hebt gepasseerd.\r\nIntegreer worpvariaties (bijv. gooien van onderen, met beide handen, boven het hoofd).\r\nRol de bal met je hand, schop met je voet of speel met het racket.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe bereid je je voor op het vangen van de bal?\r\nWaar let je op als de bal naar je toe vliegt?\r\nWaarom is het handig om naar het kind te kijken naar wie je de bal gaat gooien?\r\n",
-			"WILLINGNESS": "Kun je elk kind in de cirkel de bal één keer laten vangen zonder dat deze de grond raakt?\r\nWat is de snelste manier om de bal in de cirkel te gooien en te vangen die werkt?\r\n"
+			"WILLINGNESS": "Kun je elk kind in de cirkel de bal één keer laten vangen zonder dat deze de grond raakt?\r\nWat is de snelste manier om de bal in de cirkel te gooien en te vangen die werkt?\r\n",
+            "PDF": "Groep: Ga in een kring staan en geef de bal aan elkaar door. Dubbele passen zijn niet toegestaan."
 		},
 		"WILD_PIG": {
 			"MOBAK": "Objectbeweging",
@@ -1064,7 +1141,8 @@
 			"MATERIALS": "medicijnbal, bank, tennisballen",
 			"VARIATIONS": "Probeer verschillende soorten worpen.Plaats een basketbal of zachte bal in het midden als \"wild varken\".\r\nVerander de afstand tussen de lange banken.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Welke gooi techniek is het beste om het \"wilde varken\" te raken?\r\nHoe sta je om zo nauwkeurig mogelijk te gooien?",
-			"WILLINGNESS": "Heb je een idee hoe je het spel spannender kunt maken?\r\nHoe voel je je als je team wint?"
+			"WILLINGNESS": "Heb je een idee hoe je het spel spannender kunt maken?\r\nHoe voel je je als je team wint?",
+            "PDF": "Groep: Vorm twee teams. Elk team probeert de bal in het midden tegen de bank van de tegenstander te slaan."
 		},
 		"DISTANCE_THROWING": {
 			"MOBAK": "Objectbeweging",
@@ -1074,7 +1152,8 @@
 			"MATERIALS": "ballen",
 			"VARIATIONS": "Verander de afstand na elke worp. Probeer verschillende soorten worpen.\r\nGebruik verschillende ballen.\r\nRol de bal.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe verander je je worp als het andere kind dichter bij je is?\r\nHoe kun je een bal zo ver en nauwkeurig mogelijk gooien?",
-			"WILLINGNESS": "Op welke manieren kun je de bal gooien? Hoeveel passen kun je maken zonder dat de bal op de grond valt?\r\nWat is de verste afstand waarop je de bal naar het andere kind kunt gooien?"
+			"WILLINGNESS": "Op welke manieren kun je de bal gooien? Hoeveel passen kun je maken zonder dat de bal op de grond valt?\r\nWat is de verste afstand waarop je de bal naar het andere kind kunt gooien?",
+            "PDF": "In paren: Geef de bal over verschillende afstanden aan elkaar door."
 		}
 	},
 	"bouncing": "bouncing",
@@ -1087,7 +1166,8 @@
 			"MATERIALS": "Diverse ballen, hoepels, tape (om het vierkant aan te geven)",
 			"VARIATIONS": "Verander de grootte van het vierkant.\r\nGebruik verschillende ballen.\r\nStel een tijdslimiet in voor het voltooien van de taak.\r\nVerander het aantal hoepels.\r\nVerander de opstelling van de hoepels.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat is de beste manier om de bal te laten stuiteren?\r\nStuiter je elke bal op dezelfde manier?",
-			"WILLINGNESS": "Kun je doorgaan met stuiteren in de volgende hoepel zonder de bal te stoppen?\r\nWelke opstelling van de hoepels is het leukst voor jou en waarom?\r\nHoe voelt het om een tijdslimiet te hebben voor deze taak?"
+			"WILLINGNESS": "Kun je doorgaan met stuiteren in de volgende hoepel zonder de bal te stoppen?\r\nWelke opstelling van de hoepels is het leukst voor jou en waarom?\r\nHoe voelt het om een tijdslimiet te hebben voor deze taak?",
+            "PDF": "Stuiter 5x in de hoepel."
 		},
 		"BOUNCING_STATIONS": {
 			"MOBAK": "Objectbeweging",
@@ -1097,7 +1177,8 @@
 			"MATERIALS": "Diverse ballen, lange banken.",
 			"VARIATIONS": "Loop door de gymzaal en laat de bal stuiteren zonder hem te verliezen (gebruik zowel de linker- als de rechterhand).\r\nLaat de bal om je lichaam stuiteren zonder onderbreking.\r\nLaat twee ballen tegelijkertijd stuiteren zonder ze te verliezen.\r\nLoop op een lange bank terwijl je een bal op de vloer of op de bank laat stuiteren (daarna twee ballen tegelijkertijd).\r\nPlaats twee lange banken parallel met een afstand van 20 cm. Loop op beide banken terwijl je een bal op de vloer of op een van de lange banken laat stuiteren (daarna twee ballen tegelijkertijd).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat verandert er wanneer je dicht bij je lichaam stuitert of met je arm gestrekt vooruit?\r\nWelke delen van je handen raken de bal aan als je stuitert?",
-			"WILLINGNESS": "Probeer tegelijkertijd met een ander kind te stuiteren - hoe voelt dat?\r\nStel een specifiek stuiterdoel: Hoeveel stuiters wil je achter elkaar bereiken? Voelt het anders om te stuiteren met een doel en zo ja, op welke manier?\r\nKun je een ritme stuiteren?\r\n\r\n\r\n\r\n\r\n"
+			"WILLINGNESS": "Probeer tegelijkertijd met een ander kind te stuiteren - hoe voelt dat?\r\nStel een specifiek stuiterdoel: Hoeveel stuiters wil je achter elkaar bereiken? Voelt het anders om te stuiteren met een doel en zo ja, op welke manier?\r\nKun je een ritme stuiteren?\r\n\r\n\r\n\r\n\r\n",
+            "PDF": "Stuiter met beide handen."
 		},
 		"BOUNCING_OVER_CONES": {
 			"MOBAK": "Objectbeweging",
@@ -1107,7 +1188,8 @@
 			"MATERIALS": "Diverse ballen, kegels",
 			"VARIATIONS": "Gooi de bal over de kegel met beide handen terwijl je stuitert.\r\nStuiter de bal afwisselend met je linker- en rechterhand.\r\nStuiter de bal terwijl je de kegel nadert, stuiter de bal vlak voor de kegel verticaal omhoog, ga helemaal om de kegel heen door een volledige draai te maken en ga dan verder met stuiteren.\r\nGebruik verschillende ballen.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe stuiter je het beste terwijl je tegelijkertijd vooruit beweegt?\r\nWaar let je op als je met één hand stuitert?",
-			"WILLINGNESS": "Kun je afwisselend stuiteren met je linker- en rechterhand?\r\nElke keer dat je een kegel nadert: Hoe zeker ben je van het vangen van de bal achter de kegel (1: helemaal niet, 5: helemaal)?\r\nHoe verandert je stuiteren wanneer andere kinderen naar je kijken?"
+			"WILLINGNESS": "Kun je afwisselend stuiteren met je linker- en rechterhand?\r\nElke keer dat je een kegel nadert: Hoe zeker ben je van het vangen van de bal achter de kegel (1: helemaal niet, 5: helemaal)?\r\nHoe verandert je stuiteren wanneer andere kinderen naar je kijken?",
+            "PDF": "Stuiter met de bal over de kegel."
 		},
 		"SEAT_BOUNCING": {
 			"MOBAK": "Objectbeweging",
@@ -1117,7 +1199,8 @@
 			"MATERIALS": "Diverse ballen, kegels",
 			"VARIATIONS": "Stuiter de bal afwisselend met je linker- en rechterhand.\r\nGa een keer om de kegels heen terwijl je de bal stuitert voordat je gaat zitten.\r\nStuiter de bal terwijl je de kegels nadert, plaats één voet op de punt van de kegel, stuiter de bal drie keer en zet je voet weer neer.\r\nTel wie aan het einde van de speeltijd de meeste punten heeft gescoord (1 punt voor elke juiste stuiter, in totaal zes keer stuiteren terwijl je op een kegel zit).\r\nGebruik verschillende ballen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat verandert er in je bewegingen als de afstand tussen de grond en de hand verandert?\r\nWat doe je om goed te blijven stuiteren na de sprong over de kegel?",
-			"WILLINGNESS": "Lukt het je ook om op de grond te zitten en te stuiteren?\r\nStel je voor dat je een dier naar keuze bent (bijv. een aap, een slang, een vogel) en probeer te stuiteren zoals dit dier! Hoe voel je je tijdens het stuiteren als een dier?\r\nAls je een kind ziet dat niet succesvol is in deze taak, welke tips kun je hun geven?\r\n"
+			"WILLINGNESS": "Lukt het je ook om op de grond te zitten en te stuiteren?\r\nStel je voor dat je een dier naar keuze bent (bijv. een aap, een slang, een vogel) en probeer te stuiteren zoals dit dier! Hoe voel je je tijdens het stuiteren als een dier?\r\nAls je een kind ziet dat niet succesvol is in deze taak, welke tips kun je hun geven?\r\n",
+            "PDF": "Spring over de kegel met een sliding tackle. Ga op de hoed zitten en stuiter 3x met je linkerhand en 3x met je rechterhand. Ga naar de volgende kegel."
 		},
 		"NUMBERBALL_BOUNCING": {
 			"MOBAK": "Objectbeweging",
@@ -1127,7 +1210,8 @@
 			"MATERIALS": "ballen, kegels, basket",
 			"VARIATIONS": "Verander de kegelsluis. Plaats obstakels onder de basket.\r\nSommige kinderen van het andere team mogen proberen de bal weg te slaan van het overeenkomstige nummer na het roepen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe lukt het je om sneller bij de basket te zijn dan het kind van het andere team?\r\nWaar kijk je tijdens het stuiteren op het veld?",
-			"WILLINGNESS": "Hoe kunnen kinderen die moeite hebben met stuiteren geholpen worden?\r\nHeb je een idee om het spel spannender te maken?"
+			"WILLINGNESS": "Hoe kunnen kinderen die moeite hebben met stuiteren geholpen worden?\r\nHeb je een idee om het spel spannender te maken?",
+            "PDF": "Stuiter door de schelpenpoort en gooi naar de mand als je nummer wordt omgeroepen."
 		},
 		"SURROUNDING_HOOPS_WHILE_BOUNCING": {
 			"MOBAK": "Objectbeweging",
@@ -1137,7 +1221,8 @@
 			"MATERIALS": "Kegels, gymnastiekhoepels, bovenkant van de gymbox, 1 bal per kind",
 			"VARIATIONS": "Ren door de twee hoepels met één voetcontact per hoepel en stuiter aan de rechter- en linkerkant.\r\nVerander de afstand tussen de hoepels.\r\nGa om de twee hoepels heen terwijl je de bal stuiteren en gebruik resetstappen (of een laatste sprong) in een dubbele boog / een hele draai (1 x rechtsom en 1 x linksom).\r\nBouw zelf een ander stuiterparcours / pad.\r\nGebruik verschillende ballen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe slaag je erin om snel van richting te veranderen tijdens het stuiteren?\r\nIs het gemakkelijker om de bal op de grond te stuiteren of op de bovenkant van de gymbox en waarom is dat zo?",
-			"WILLINGNESS": "Welke ideeën heb je om het parcours te veranderen om het leuker te maken?\r\nLukt het je beter als je de afstand tussen de hoepels verandert?\r\nGa de strijd aan met een vriend - wie kan het stuiterparcours sneller afleggen?"
+			"WILLINGNESS": "Welke ideeën heb je om het parcours te veranderen om het leuker te maken?\r\nLukt het je beter als je de afstand tussen de hoepels verandert?\r\nGa de strijd aan met een vriend - wie kan het stuiterparcours sneller afleggen?",
+            "PDF": "Stuiter door de schelpenpoort en gooi naar de mand als je nummer wordt omgeroepen."
 		},
 		"SHADOW_BOUNCING": {
 			"MOBAK": "Objectbeweging",
@@ -1147,7 +1232,8 @@
 			"MATERIALS": "Ballen, obstakels",
 			"VARIATIONS": "Plaats voorwerpen in de zaal die als obstakels dienen. Wissel van rol na de derde richtingsverandering.\r\nGebruik verschillende ballen.\r\nGebruik beide handen om te stuiteren.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe lukt het je om zo snel mogelijk op kind A te reageren?\r\nWaar kijk je als je het schaduwkind bent?",
-			"WILLINGNESS": "Hoe kun je als kind A handelen zodat kind B goed kan volgen?\r\nAls kind A, stel je voor dat je een dier bent - hoe stuiter je? Kan kind B raden welk dier als eerste gaat?"
+			"WILLINGNESS": "Hoe kun je als kind A handelen zodat kind B goed kan volgen?\r\nAls kind A, stel je voor dat je een dier bent - hoe stuiter je? Kan kind B raden welk dier als eerste gaat?",
+            "PDF": "In tweetallen: het ene kind loopt voorop, blauwe plekken, het andere volgt."
 		},
 		"BENCH_BOUNCING": {
 			"MOBAK": "Objectbeweging",
@@ -1157,7 +1243,8 @@
 			"MATERIALS": "ballen, bank",
 			"VARIATIONS": "Stuiter op de bank. Gebruik verschillende ballen. Gebruik andere apparaten (matten, stokhoezen) om erop te lopen en naast te stuiteren.\r\nGa achteruit en stuiter de bal naast de bank.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat moet je veranderen als je naast de bank stuitert in vergelijking met op de vloer?\r\nHoe lukt het je om te stuiteren en niet van de bank te vallen?",
-			"WILLINGNESS": "Welke andere apparaten kunnen worden gebruikt om op te stuiteren?\r\nKun je met je ogen dicht over de bank lopen en tegelijkertijd stuiteren?"
+			"WILLINGNESS": "Welke andere apparaten kunnen worden gebruikt om op te stuiteren?\r\nKun je met je ogen dicht over de bank lopen en tegelijkertijd stuiteren?",
+            "PDF": "Ga over de Lanbank en stuiter de bal naast de bank."
 		},
 		"CIRCLE_BOUNCING": {
 			"MOBAK": "Objectbeweging",
@@ -1167,7 +1254,8 @@
 			"MATERIALS": "ballen",
 			"VARIATIONS": "Stuiter de bal zowel met de klok mee als tegen de klok in. Probeer om je heen te stuiteren in een andere lichaamshouding.\r\nProbeer een acht te maken om je lichaam.\r\nOm dit te doen, stuiter de bal tussen je benen in het midden.\r\nGebruik verschillende ballen.\r\nDraai ook in cirkels en stuiter de bal.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ben je beter in stuiteren met je linker- of rechterhand?\r\nBeschrijf waarom? Waar kijk je om te voorkomen dat je de bal verliest?",
-			"WILLINGNESS": "Welke bal gebruik je het beste?\r\nWelk idee heb je om de taak uitdagender of makkelijker voor jezelf te maken?"
+			"WILLINGNESS": "Welke bal gebruik je het beste?\r\nWelk idee heb je om de taak uitdagender of makkelijker voor jezelf te maken?",
+            "PDF": "Laat de bal in een cirkel om je heen stuiteren."
 		},
 		"BOUNCING_IN_DIFFERENT_POSITIONS": {
 			"MOBAK": "Iets Bewegen",
@@ -1177,7 +1265,8 @@
 			"MATERIALS": "Ballen",
 			"VARIATIONS": "Ga stuiterend liggen en sta weer op. Probeer andere lichaamshoudingen tijdens het stuiteren.\r\nStuiter met de andere hand.\r\nStuiter bij het gaan zitten met de rechterhand, stuiter dan om je voeten en sta op terwijl je met de linkerhand stuitert.\r\nGebruik twee (verschillende) ballen tegelijkertijd.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat moet je veranderen bij het stuiteren, zodat je de bal niet verliest bij het gaan zitten?\r\nHoe houd je je hand bij het stuiteren?",
-			"WILLINGNESS": "Kun je een ander kind uitleggen hoe het het beste kan stuiteren terwijl het zit?\r\nKun je liggend ook van hand wisselen bij het stuiteren? - Hoe lukt je dat het beste?"
+			"WILLINGNESS": "Kun je een ander kind uitleggen hoe het het beste kan stuiteren terwijl het zit?\r\nKun je liggend ook van hand wisselen bij het stuiteren? - Hoe lukt je dat het beste?",
+            "PDF": "Laat de bal stuiteren, ga op de grond zitten en sta weer op."
 		}
 	},
 	"dribbling": "dribbling",
@@ -1190,7 +1279,8 @@
 			"MATERIALS": "Voetballen",
 			"VARIATIONS": "Diverse ballen gebruiken.\r\nPlaats een obstakel voor de muur.\r\nGebruik verschillende soorten schoten (bijv. vlak, hoog, binnenkant, wreef).\r\nVarieer de afstand tot de muur (hoek, afstand).\r\nGebruik een ongelijke ondergrond (muurbeugels, doosmuur).\r\nVarieer de grootte van de stopzone.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Welk deel van de voet gebruik je voor de beste schot?\r\nWat is de beste manier om je voet vast te houden om de bal veilig te stoppen?",
-			"WILLINGNESS": "Hoe kun je de bal nog meer met je voet tegen de muur spelen?\r\nWat is de grootste afstand waarop je veilig kunt stoppen?\r\nDaag jezelf uit: hoe vaak kun je achter elkaar succesvol passeren en de bal stoppen zonder hem te verliezen?\r\n\r\n\r\n\r\n\r\n"
+			"WILLINGNESS": "Hoe kun je de bal nog meer met je voet tegen de muur spelen?\r\nWat is de grootste afstand waarop je veilig kunt stoppen?\r\nDaag jezelf uit: hoe vaak kun je achter elkaar succesvol passeren en de bal stoppen zonder hem te verliezen?\r\n\r\n\r\n\r\n\r\n",
+            "PDF": "Schiet de bal tegen een muur en stop de stuiterende bal met je voet."
 		},
 		"LINE_DRIBBLING": {
 			"MOBAK": "Objectbeweging",
@@ -1200,7 +1290,8 @@
 			"MATERIALS": "Ballen",
 			"VARIATIONS": "Gebruik verschillende ballen.\r\nSpeel met de bal langs de lijnen van de vier lijnen van het volleybalveld, zonder deze te verliezen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Welk deel van je voet gebruik je om de bal te sturen tijdens het dribbelen?\r\nWaar let je op om de bal niet te verliezen tijdens het dribbelen?",
-			"WILLINGNESS": "Kun je de bal op een andere manier met je voet sturen?\r\nKun je het met beide voeten doen?\r\nWaarom is het goed om te kunnen dribbelen?"
+			"WILLINGNESS": "Kun je de bal op een andere manier met je voet sturen?\r\nKun je het met beide voeten doen?\r\nWaarom is het goed om te kunnen dribbelen?",
+            "PDF": "Dribbel de bal over de hele lengte van de zaal."
 		},
 		"WALL_OFF": {
 			"MOBAK": "Objectbeweging",
@@ -1210,7 +1301,8 @@
 			"MATERIALS": "Ballen",
 			"VARIATIONS": "Speel de bal 10 keer met je voet naar een ander kind zonder de bal te verliezen.\r\nSpeel de bal 10 keer tijdens het rennen met je voet naar een ander kind zonder de bal te verliezen.\r\nGebruik verschillende ballen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe zorg je ervoor dat de bal altijd naar je terugkomt?\r\nWat is de beste manier om jezelf te positioneren ten opzichte van de muur?",
-			"WILLINGNESS": "Lukt het je om de bal over de muur naar elkaar te spelen in paren?\r\nProbeer een ritme te vinden bij het spelen van de bal tegen de muur - hoe voelt dat?\r\nMet welke voet vind je de taak gemakkelijker? Waarom denk je dat dat zo is?\r\n"
+			"WILLINGNESS": "Lukt het je om de bal over de muur naar elkaar te spelen in paren?\r\nProbeer een ritme te vinden bij het spelen van de bal tegen de muur - hoe voelt dat?\r\nMet welke voet vind je de taak gemakkelijker? Waarom denk je dat dat zo is?\r\n",
+            "PDF": "Speel de bal tien keer van dichtbij tegen de muur."
 		},
 		"LIFT_BALL": {
 			"MOBAK": "Objectbeweging",
@@ -1220,7 +1312,8 @@
 			"MATERIALS": "Lange banken, ballen",
 			"VARIATIONS": "Gebruik verschillende ballen.\r\nKies verschillende doelen.\r\nTil de bal op met je andere voet.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe kun je de bal met je voet optillen?\r\nWat verander je om de bal over de lange bank heen te tillen vanaf een grotere afstand?",
-			"WILLINGNESS": "Vanaf welke afstand doe je het goed?\r\nBekijk andere kinderen die de taak proberen op te lossen - kun je ze helpen de taak op te lossen?\r\nKun je de bal over andere dingen heen tillen?"
+			"WILLINGNESS": "Vanaf welke afstand doe je het goed?\r\nBekijk andere kinderen die de taak proberen op te lossen - kun je ze helpen de taak op te lossen?\r\nKun je de bal over andere dingen heen tillen?",
+            "PDF": "Til de bal 5 keer met één voet in het lange bankvierkant."
 		},
 		"DRIBBLING_1": {
 			"MOBAK": "Objectbeweging",
@@ -1230,7 +1323,8 @@
 			"MATERIALS": "Ballen",
 			"VARIATIONS": "Pas de bal over wanneer je elkaar in het midden ontmoet.\r\nDribbel de bal tot het midden van de gymzaal en geef hem door aan een ander kind dat aan de tegenovergestelde kant wacht.\r\nDribbel zo snel mogelijk naar de andere kant.\r\nDribbel niet rechtstreeks naar de andere kant, maar diagonaal door de gymzaal (zorg ervoor dat je niet tegen andere kinderen botst).\r\nGebruik verschillende ballen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat is de beste manier voor jou om te dribbelen?\r\nWaar kijk je naar als je dribbelt?\r\nWaarom denk je dat het gemakkelijker is om zonder bal te rennen?",
-			"WILLINGNESS": "Probeer elkaar een high five te geven in het midden van de baan terwijl je elkaar passeert!\r\nHoe kun je je partner het beste helpen bij deze taak?\r\nKun je tegelijkertijd in paren dribbelen?"
+			"WILLINGNESS": "Probeer elkaar een high five te geven in het midden van de baan terwijl je elkaar passeert!\r\nHoe kun je je partner het beste helpen bij deze taak?\r\nKun je tegelijkertijd in paren dribbelen?",
+            "PDF": "In tweetallen: Eén kind heeft de bal. Ren naar elkaar toe. Het kind met de bal dribbelt. Wisselt van rol na 5 rondes."
 		},
 		"DRIBBLING_2": {
 			"MOBAK": "Objectbeweging",
@@ -1240,7 +1334,8 @@
 			"MATERIALS": "Gymnastiekmatten, kegels, ballen",
 			"VARIATIONS": "Verander het slalomparcours.\r\nGebruik verschillende ballen.\r\nStel een tijdslimiet in waarbinnen de taak moet worden voltooid.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe kun je het beste van richting veranderen tijdens het dribbelen?\r\nLet op of je altijd dezelfde voet gebruikt - zo niet, wanneer gebruik je de andere?\r\nDribbel je altijd met dezelfde voet? Waarom wel?",
-			"WILLINGNESS": "Maak je eigen parcours met de kegels en dribbel eromheen - wiens parcours is het leukst?\r\nKun je een ander kind volgen terwijl het door de slalom dribbelt?"
+			"WILLINGNESS": "Maak je eigen parcours met de kegels en dribbel eromheen - wiens parcours is het leukst?\r\nKun je een ander kind volgen terwijl het door de slalom dribbelt?",
+            "PDF": "Dribbel met een bal door het slalomparcours en eindig met een schot op doel."
 		},
 		"IN_THE_LAND_OF_SHELLS_1": {
 			"MOBAK": "Objectbeweging",
@@ -1250,7 +1345,8 @@
 			"MATERIALS": "Diverse ballen, touwen (of gymnastiekringen)",
 			"VARIATIONS": "Cirkel de schelpen in een gegeven volgorde.\r\nStop de tijd en vergelijk het met je tijd van eerdere pogingen.\r\nGebruik verschillende ballen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe dribbel je het beste om een schelp heen?\r\nWelke route kies je als je eenmaal om alle schelpen heen moet?\r\nHoe speel je de bal met je voet?\r\n",
-			"WILLINGNESS": "Probeer eens om in één keer zo stil mogelijk te zijn, zodat je de schelpen niet wakker maakt!     Stel je voor dat je een inktvis bent terwijl je om de schelpen dribbelt - hoe voelt dat?\r\nHoe voelt het als je het met een andere bal doet?\r\n"
+			"WILLINGNESS": "Probeer eens om in één keer zo stil mogelijk te zijn, zodat je de schelpen niet wakker maakt!     Stel je voor dat je een inktvis bent terwijl je om de schelpen dribbelt - hoe voelt dat?\r\nHoe voelt het als je het met een andere bal doet?\r\n",
+            "PDF": "Dribbel met de bal rond de 'slapende' schelpen die op de bodem van de zee liggen."
 		},
 		"IN_THE_LAND_OF_SHELLS_2": {
 			"MOBAK": "Objectbeweging",
@@ -1260,7 +1356,8 @@
 			"MATERIALS": "Diverse ballen, gymnastiekringen (of touwen)",
 			"VARIATIONS": "Gebruik verschillende ballen.\r\nProbeer als eerste alle schelpen te cirkelen.\r\nVergroot de ruimte of verminder het aantal \"krab\" kinderen.\r\nVerander de taak van de krabben (bijv. de bal grijpen).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Hoe kun je je bal beschermen tegen de krabben?\r\nWaar kijk je naar als je dribbelt om je bal te beschermen?",
-			"WILLINGNESS": "Welke route kies je om te voorkomen dat je wordt geknepen?\r\nAls krab, kun je de bal van een indringer afpakken?\r\nStel je voor dat je een magische kracht hebt die je kan helpen uitblinken in deze taak. Beschrijf de kracht die je zou kiezen en hoe het je zou motiveren.\r\n\r\n\r\n\r\n\r\n"
+			"WILLINGNESS": "Welke route kies je om te voorkomen dat je wordt geknepen?\r\nAls krab, kun je de bal van een indringer afpakken?\r\nStel je voor dat je een magische kracht hebt die je kan helpen uitblinken in deze taak. Beschrijf de kracht die je zou kiezen en hoe het je zou motiveren.\r\n\r\n\r\n\r\n\r\n",
+            "PDF": "Dribbel met de bal rond de 'slapende' schelpen die op de bodem van de zee liggen. Laat je niet vangen door kanker."
 		},
 		"PROTECT_YOUNG_FISH": {
 			"MOBAK": "Objectbeweging",
@@ -1270,7 +1367,8 @@
 			"MATERIALS": "Diverse ballen, kegels",
 			"VARIATIONS": "Zorg ervoor dat elk kind in de cirkel minstens één keer de bal ontvangt (bijv. via een vaste volgorde van passes).\r\nGebruik verschillende ballen.\r\nGebruik tegelijkertijd verschillende ballen.\r\nOrganiseer de taak als een toernooi waarbij verschillende groepen een cirkel vormen en tegen elkaar strijden.\r\nGebruik slechts één voet tegelijk om de bal te verplaatsen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat verandert er wanneer je de bal samen dribbelt in vergelijking met alleen dribbelen?\r\nWaar let je op als je de bal in een groep dribbelt?",
-			"WILLINGNESS": "Kun je als groep meerdere ballen tegelijk verplaatsen?\r\nHoe kun je elkaar helpen in de groep?\r\nProbeer deze taak als een wedstrijd (verschillende groepen doen het tegelijkertijd - de snelste groep wint): Geef je er de voorkeur aan om de taak te doen met of zonder competitie tegen anderen en waarom?"
+			"WILLINGNESS": "Kun je als groep meerdere ballen tegelijk verplaatsen?\r\nHoe kun je elkaar helpen in de groep?\r\nProbeer deze taak als een wedstrijd (verschillende groepen doen het tegelijkertijd - de snelste groep wint): Geef je er de voorkeur aan om de taak te doen met of zonder competitie tegen anderen en waarom?",
+            "PDF": "Groep: Vorm een cirkel en houd elkaars hand vast. Transporteert verschillende ballen met zijn voeten naar de andere kant van de zaal."
 		},
 		"WITHIN_SHARK_TERRITORY": {
 			"MOBAK": "Objectbeweging",
@@ -1280,7 +1378,8 @@
 			"MATERIALS": "Ballen, touwen",
 			"VARIATIONS": "Degene die wordt aangeraakt, moet een extra taak oplossen (bijv. de bal door een slalomparcours van kegels leiden).\r\nPasseer een bal tussen 2 kinderen en probeer het territorium van de haai binnen te gaan.\r\nVerander de taak van de haai.\r\nRaak 6 kinderen zo snel mogelijk aan.\r\nGebruik verschillende ballen.\r\nWie is de eerste die 5 keer het territorium binnengaat?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat is de beste manier voor jou om naar de andere kant te komen zonder door de haai te worden gevangen?\r\nWat is de beste manier om te dribbelen als je ook naar de haai kijkt?",
-			"WILLINGNESS": "Als haai, lukt het je om de bal van een kind te pakken en door te blijven dribbelen?\r\nHoe ga je te werk om niet gevangen te worden?\r\nWanneer denk je dat de haai door een ander kind moet worden vervangen en waarom?"
+			"WILLINGNESS": "Als haai, lukt het je om de bal van een kind te pakken en door te blijven dribbelen?\r\nHoe ga je te werk om niet gevangen te worden?\r\nWanneer denk je dat de haai door een ander kind moet worden vervangen en waarom?",
+            "PDF": "Dribbel de bal langs de haai zonder hem te verliezen."
 		},
 		"DRIBBLING_VARIATIONS": {
 			"MOBAK": "Objectbeweging",
@@ -1290,7 +1389,8 @@
 			"MATERIALS": "ballen",
 			"VARIATIONS": "Probeer de bal te dribbelen zonder een blauwe (of andere kleur) lijn aan te raken.\r\nDribbel de bal zijwaarts.\r\nDribbel de bal achteruit.\r\nZoek naar verschillende manieren om de bal te dribbelen.\r\nPlaats obstakels in de weg en dribbel eromheen.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat is de beste manier om de bal te dribbelen?\r\nWanneer raak je de bal met welk deel van je voet?",
-			"WILLINGNESS": "Kun je de richting van het dribbelen vloeiend veranderen?\r\nBedenk een kleine dribbelchoreografie en presenteer deze aan een ander kind."
+			"WILLINGNESS": "Kun je de richting van het dribbelen vloeiend veranderen?\r\nBedenk een kleine dribbelchoreografie en presenteer deze aan een ander kind.",
+            "PDF": "Dribbel met de bal door de zaal."
 		},
 		"DRIBBLING_NUMBER_BALL": {
 			"MOBAK": "Objectbeweging",
@@ -1300,7 +1400,8 @@
 			"MATERIALS": "ballen, kegels",
 			"VARIATIONS": "Gebruik verschillende ballen. Gebruik verschillende poorten.\r\nSpelers van de andere teams mogen de bal wegtrappen.\r\nSpeel zonder een tegenstander.\r\nSpeel het spel in paren: wie scoort als eerste een doelpunt wanneer het signaal wordt gegeven?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Wat is de beste manier om de bal rond de kegels te dribbelen?\r\nHoe kun je sneller zijn dan het kind van het andere team?",
-			"WILLINGNESS": "Hoe voel je je als het andere kind sneller is?\r\nStel je voor dat je een dier bent. Hoe zou een pinguïn, tijger, olifant, enz. de bal rond de kegels dribbelen?"
+			"WILLINGNESS": "Hoe voel je je als het andere kind sneller is?\r\nStel je voor dat je een dier bent. Hoe zou een pinguïn, tijger, olifant, enz. de bal rond de kegels dribbelen?",
+            "PDF": "Dribbel met het pyloonhek en schiet op het doelhek als je nummer wordt omgeroepen."
 		},
 		"PROTECTING_PERSON_DRIBBLING": {
 			"MOBAK": "Objectbeweging",
@@ -1310,7 +1411,8 @@
 			"WILLINGNESS": "Hoe demonstreer je je vaardigheden als je kind A bent zodat de andere kinderen je kunnen volgen?\r\nWelk advies kun je geven aan een ander kind dat moeite heeft om kind A te volgen?",
 			"QUALIFICATION": "Dribbelen",
 			"MATERIALS": "ballen",
-			"VARIATIONS": "Kind A kijkt naar de groep en de kinderen imiteren de beweging als een \"spiegel\"."
+			"VARIATIONS": "Kind A kijkt naar de groep en de kinderen imiteren de beweging als een \"spiegel\".",
+            "PDF": "Groep: Eén kind dribbelt vooruit en de anderen volgen hem."
 		}
 	},
 	"PDF_TESTRESULT": {

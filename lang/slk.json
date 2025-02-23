@@ -73,6 +73,11 @@
 	"rate_classroom_end_session_dialog_description": "Hodnotenia budú uložené, nebudete ich môcť meniť.",
 	"rate_classroom_task_description": "Popis úlohy",
 	"rate_classroom_rate_student": "Ohodnoťte študentov",
+    "rate_detail_instruction_demonstration": "Pokyny/ Ukážka",
+    "rate_classroom_longitudinal_analysis": "Pozdĺžna analýza",
+    "rate_classroom_select_task": "Vyberte úlohy",
+    "rate_classroom_cancel_selection": "Zrušiť výber",
+    "rate_classroom_download_selected": "Vybrané sťahovanie",
 	"rate_dialog_n_a_value": "n/a",
 	"rate_dialog_first_value": "0",
 	"rate_dialog_second_value": "1",
@@ -226,11 +231,11 @@
 		"MATERIAL": "6 loptičiek (priemer: 65 mm; hmotnosť: 80 g)\r\n1 terč (priemer: 40 cm)\r\npáska (široká približne 30 mm).",
 		"TEST_SET-UP": "Terč je umiestnený vo výške 1,3 m (dolný okraj) na stene. Vo vzdialenosti 2,0 m od terča sa pomocou pásky vyznačí čiara.",
 		"TEST_ITEM": "Dieťa hádže šesť loptičiek z čiary na terč.",
+        "CRITERIA": "Vyznačená čiara sa nesmie prekročiť. Zasiahnutie terča sa počíta ako bod.",
 		"VALUATION": "Zaznamenáva sa 6 pokusov, počet zásahov.\r\n\r\n0-2 zásahy = 0 bodov\r\n3-4 zásahy = 1 bod\r\n5-6 zásahov = 2 body.",
 		"INSTRUCTION_DEMONSTRATION": "Postavte sa za čiaru a pokúste sa loptičkou zasiahnuť terč. Máte 6 pokusov. Nie je dovolené prekročiť čiaru. Pozrite sa, raz vám to ukážem. (ukážka).",
 		"INFORMATION_FOR_THE_TEST_LEADER": "Spôsob hádzania je voliteľný (odtláčanie loptičky je povolené).\r\nUkážka hodu."
 	},
-	"THROWING_1_CRITERIA": " Vyznačená čiara sa nesmie prekročiť. Zasiahnutie terča sa počíta ako bod.\"",
 	"THROWING_3_4": {
 		"MOBAK": "Oblasť kompetencií \"Pohyb s náčiním\"",
 		"TITLE": "MOBAK 3-4 Úloha 1: Hádzanie",
@@ -325,7 +330,8 @@
 			"MATERIALS": "Koordinačný rebrík\r\nalternatívy: gymnastické obruče, podlahové značky, kobercové dlaždice, krieda",
 			"VARIATIONS": "Bežte dozadu.\r\nNa každé pole vykonajte viacero kontaktov.\r\nPo každom druhom poli urobte polovičnú alebo úplnú otočku.\r\nKombinujte dva rôzne pohyby.\r\nVykonávajte doplnkové pohyby rukami (skákajúci panáčik, vzdušný box, vystieranie a zdvíhanie alebo spúšťanie rúk na úroveň hrudníka).\r\nZmeňte usporiadanie políčok.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ktoré časti vašich chodidiel sa dotýkajú podlahy?\r\nS ktorými pohybmi paží ste najúspešnejší?",
-			"WILLINGNESS": "Kde by ste mohli túto aktivitu vykonávať aj mimo telocvične?\r\nČo sa pre teba zmení, keď budeš súťažiť s iným dieťaťom?"
+			"WILLINGNESS": "Kde by ste mohli túto aktivitu vykonávať aj mimo telocvične?\r\nČo sa pre teba zmení, keď budeš súťažiť s iným dieťaťom?",
+            "PDF": "Prejdite koordinačným rebríkom s jedným kontaktom na pole."
 		},
 		"RUNNING_2": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -335,7 +341,8 @@
 			"MATERIALS": "Obruče (rôzne farby)\r\nalternatívy: pásky, športové dlaždice",
 			"VARIATIONS": "Zmeňte zadania podľa farieb obručí.\r\nZmeňte usporiadanie alebo vzdialenosť medzi obručami.\r\nObruče umiestnite na dve rovnobežné dlhé lavičky.\r\nZmeňte usporiadanie polí.\r\nVyberte niekoľko farieb a ku každej z nich priraďte konkrétny pohyb.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Akým spôsobom sa musíte pohybovať, aby ste mohli plynule bežať?\r\nKtoré poradie obručí je pre vás najjednoduchšie? Prečo?\r\nV akom rytme dokážete najlepšie prebehnúť ihrisko? Prečo?",
-			"WILLINGNESS": "Prečo je to iný pocit, keď sú obruče na dvoch dlhých lavičkách? Darí sa vám to aj vtedy? Skúste!\r\nVytvorte si vlastnú dráhu z obručí a priraďte k jednotlivým farbám vlastné pohyby! Podarilo sa vám to?"
+			"WILLINGNESS": "Prečo je to iný pocit, keď sú obruče na dvoch dlhých lavičkách? Darí sa vám to aj vtedy? Skúste!\r\nVytvorte si vlastnú dráhu z obručí a priraďte k jednotlivým farbám vlastné pohyby! Podarilo sa vám to?",
+            "PDF": "Prejdite cez dráhu pneumatík. Dotknite sa zeme raz v modrých obručiach a dvakrát v ostatných."
 		},
 		"RUNNING_3": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -345,7 +352,8 @@
 			"MATERIALS": "Koordinačný rebrík\r\nalternatívy: gymnastické obruče, podlahové značky, kobercové dlaždice, krieda",
 			"VARIATIONS": "Zmeňte počet kontaktov na jedno pole.\r\nVykonávajte doplnkové pohyby rukami (poskoky, vzdušný box, vystieranie a zdvíhanie alebo spúšťanie rúk na úroveň hrudníka).\r\nKombinujte dva rôzne pohyby (pravá ruka - skákajúci panáčik, ľavá ruka - box).\r\nZmeňte usporiadanie polí.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako dokážete vykonať rýchle zmeny smeru?\r\nAko môžu rôzne pohyby paží zmeniť váš beh?",
-			"WILLINGNESS": "Ako sa cítiš, ak iné dieťa mení smer rýchlejšie? Čo môžeš v takom prípade urobiť?\r\nAko by ste zmenili úlohu, aby bola ľahšia alebo ťažšia?\r\nStanovte si cieľ a pokúste sa ho dosiahnuť (napr. dokončiť úlohu bez chyby; byť rýchlejší ako v predchádzajúcom pokuse). Podarilo sa vám to?"
+			"WILLINGNESS": "Ako sa cítiš, ak iné dieťa mení smer rýchlejšie? Čo môžeš v takom prípade urobiť?\r\nAko by ste zmenili úlohu, aby bola ľahšia alebo ťažšia?\r\nStanovte si cieľ a pokúste sa ho dosiahnuť (napr. dokončiť úlohu bez chyby; byť rýchlejší ako v predchádzajúcom pokuse). Podarilo sa vám to?",
+            "PDF": "Bežte vo vnútri a mimo koordinačného rebríka s dvoma uzemňovacími kontaktmi na pole."
 		},
 		"RUNNING_4": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -355,7 +363,8 @@
 			"MATERIALS": "Koordinačný rebrík\r\nalternatívy: gymnastické obruče, podlahové značky, kobercové dlaždice, krieda",
 			"VARIATIONS": "Bežte dozadu.\r\nOkrem toho vykonávajte krúženie rukami: dopredu, dozadu, oproti sebe.\r\nZmeňte usporiadanie políčok. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Dokážete vytlieskať rytmus behania s poskokmi?\r\nČo robíte s pažami, aby ste úlohu vykonali správne?",
-			"WILLINGNESS": "Dokážeš úlohu vykonať súbežne s iným dieťaťom?\r\nDokážeš robiť ďalšie pohyby pažami?\r\nPredstavte si, že pri behu ste šťastným koníkom! Ako sa cítite?"
+			"WILLINGNESS": "Dokážeš úlohu vykonať súbežne s iným dieťaťom?\r\nDokážeš robiť ďalšie pohyby pažami?\r\nPredstavte si, že pri behu ste šťastným koníkom! Ako sa cítite?",
+            "PDF": "Prebehnite koordinačný rebrík v behu s jedným kontaktom so zemou na pole!"
 		},
 		"GIANT_SLALOM": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -365,7 +374,8 @@
 			"MATERIALS": "Tyče, bambusové alebo okrúhle drevené palice (= lyžiarske palice), dlhé lano alternatívy: slalomové žrde, drevené kvádre, kužele, veľké kamene, balančné kamene atď.\"",
 			"VARIATIONS": "Vyzvite ďalšie dieťa alebo skupinu detí. Kto je najrýchlejší?\r\nPohybujte sa v polohe v drepe, na špičkách/pätách, s vreckami s pieskom na hlave (= sneh na hlave) atď.\r\nPostavte jednu alebo viac prekážok (napr. malé švédske debny).\r\nZmeňte tempo/rýchlosť.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo sa zmení, keď použijete inú palicu?\r\nAkým spôsobom prejdete slalom najrýchlejšie?",
-			"WILLINGNESS": "Dokážete urobiť paralelný slalom s iným dieťaťom?\r\nAko by ste mohli položiť lano, aby ste dokončili rýchly slalom?"
+			"WILLINGNESS": "Dokážete urobiť paralelný slalom s iným dieťaťom?\r\nAko by ste mohli položiť lano, aby ste dokončili rýchly slalom?",
+            "PDF": "Držte gymnastickú palicu v oboch rukách. Zabehnite obrovský slalom pozdĺž lana."
 		},
 		"SIDE_STEP": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -375,7 +385,8 @@
 			"MATERIALS": "Koordinačný rebrík\r\nalternatívy: gymnastické obruče, podlahové značky, kobercové dlaždice, krieda",
 			"VARIATIONS": "Otočenie pravého ramena do smeru behu.\r\nBežte s jedným kontaktom so zemou v priestore mimo koordinačného rebríka a s dvoma kontaktmi so zemou na každé pole.\r\nVykonávajte doplnkové pohyby paží ( otáčanie obruče, skákajúci panáčik, vzdušný box, vystieranie a zdvíhanie/spúšťanie paží na úroveň ramien).\r\nKombinujte dva rôzne pohyby (pravá ruka - jumping jack, ľavá ruka - box).\r\nZmeňte usporiadanie polí.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo zmeníte, aby ste sa mohli otočiť druhým ramenom v smere jazdy?\r\nAko vysoko zdvihnete kolená, aby ste mohli dobre vykonať úlohu?",
-			"WILLINGNESS": "Čo zmeníte, aby ste sa dokázali otočiť druhým ramenom v smere pohybu?\r\nAko vysoko dvíhate kolená, aby ste dokázali úlohu vykonať správne?\r\nČo musíte zmeniť, aby ste sa dokázali otočiť druhým ramenom v smere pohybu?"
+			"WILLINGNESS": "Čo zmeníte, aby ste sa dokázali otočiť druhým ramenom v smere pohybu?\r\nAko vysoko dvíhate kolená, aby ste dokázali úlohu vykonať správne?\r\nČo musíte zmeniť, aby ste sa dokázali otočiť druhým ramenom v smere pohybu?",
+            "PDF": "Prejdite koordinačným rebríkom v bočnom kroku."
 		},
 		"RUNNING_COURSE": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -385,7 +396,8 @@
 			"MATERIALS": "Medicinbaly",
 			"VARIATIONS": "Namiesto medicinbalov použi kužele. Zmeň rozostupy medzi medicinbalmi. Rozhádž medicinbaly do strán. Bež bokom alebo dozadu",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako ti ide zmena smeru, aby si nestratil rýchlosť? Ktorá časť chodidla sa pri slalome dotýka zeme?",
-			"WILLINGNESS": "Ako by ssi bežecký parkúr ešte oživil, aby bol zábavnejší? Vyzvi iné deti. Aké to je, keď sú rýchlejšie ako ty?"
+			"WILLINGNESS": "Ako by ssi bežecký parkúr ešte oživil, aby bol zábavnejší? Vyzvi iné deti. Aké to je, keď sú rýchlejšie ako ty?",
+            "PDF": "Beh cez medicinbaly v slalomovom behu."
 		},
 		"HEY_SHARK": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -394,7 +406,8 @@
 			"BASIC_TASK": "Jedno dieťa je žralok a postaví sa na opačnú stranu telocvične ako zvyšok skupiny. Skupina rybičiek sa spýta žraloka:\"ako máme preplávať na druhú stranu\"? Žralok povie rybičkám, ako majú preplávať. Žralok sa snaží chytiť, čo najviac rybičiek, koho chytí stáva sa žralokom.",
 			"VARIATIONS": "Vyberaj rôzne druhy lokomócií, ktoré kombinujp beh so skokmi (vysoké kolená, žabáky, odpichy, beh vzad, výskoky so vzpažením atď). Meň bežecký koridor. Meň pravidlá hry.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako sa ti podarilo dostať na druhú stranu telocvične, bez toho aby ťa chytil žralok? Ako sa ti v roli žralok darí uloviť, čo najviac rybičiek?",
-			"WILLINGNESS": "Máš nejaý tip, ako urobiť hru zaujímavejšou? Kedy bude podľa teba dobré vymeniť žraloka, keď sa mu nedarí lov?"
+			"WILLINGNESS": "Máš nejaý tip, ako urobiť hru zaujímavejšou? Kedy bude podľa teba dobré vymeniť žraloka, keď sa mu nedarí lov?",
+            "PDF": "Skupina: Jedno dieťa je žralok a určuje, ako sa majú ostatní pohybovať. Kto je chytený, stáva sa žralokom."
 		},
 		"STAR_RUN": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -404,7 +417,8 @@
 			"MATERIALS": "Kužele",
 			"VARIATIONS": "Zmeň vzdialenosti medzi kuželmi. Zmeň čas. Stanov si časový limit a snaž sa ho dodržať. Prebehni trať so zavretými očami vo dvojivi s iným pozerajúcim sa dieťaťom. Pohybuj sa bokom vpred alebo vzad.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako sa ti darí dodržať časový limit? Čo sa v tvojom behu zmení, keď máš menej času?",
-			"WILLINGNESS": "Aké to je, keď sa ti darí priblížiť k časovej výzve? Predstav si, že si kôň, gepard alebo emu. Ako budú bežať tieto zvieratá?"
+			"WILLINGNESS": "Aké to je, keď sa ti darí priblížiť k časovej výzve? Predstav si, že si kôň, gepard alebo emu. Ako budú bežať tieto zvieratá?",
+            "PDF":"Pokúste sa prejsť známu trasu okolo bodov presne v danom čase."
 		},
 		"VARIABLE_RUNNING": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -414,7 +428,8 @@
 			"MATERIALS": "Kužele",
 			"VARIATIONS": "Vymeň si iné formy behu. Zmeň vzdialenosti medzi kuželmi. Zmeň dráhu behu. prebehni trať so zavretými očami v sprievode iného dieťaťa, ktoré sa bude pozerať.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako sa ti darí rýchlo meniť formy behu? Je to pre teba ťažké si zamapätať tradu behu a rôzne bežecké formy?",
-			"WILLINGNESS": "Aké máš tipy na zmenu bežeckej trasy? Ako budeš sprevádzať iné dieťa, ktoré má zavreté oči, aby sa cítilo bezpečne?"
+			"WILLINGNESS": "Aké máš tipy na zmenu bežeckej trasy? Ako budeš sprevádzať iné dieťa, ktoré má zavreté oči, aby sa cítilo bezpečne?",
+            "PDF": "Vzdialenosť prekonajte čo najrýchlejšie správnymi bežeckými formami."
 		}
 	},
 	"Jumping": "Jumping",
@@ -427,7 +442,8 @@
 			"MATERIALS": "Koordinačný rebrík\r\nalternatívy: obruče, ftiness podložky, podlahové značky, kobercové dlaždice, krieda",
 			"VARIATIONS": "Skáčte čo najrýchlejšie.\r\nSkáčte do strán alebo dozadu.\r\nSkáčte dve polia dopredu a jedno dozadu.\r\nSkáčte vpravo - vpravo - znožmo - vľavo - vľavo atď (rôzne kombinácie).\r\nSkáčte jednonož: dopredu, dozadu, do strán (s pravým aj ľavým ramenom vpred).\r\n\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo zmeníte, keď budete skákať dozadu alebo do strany namiesto dopredu?\r\nAkým spôsobom sa vám darí skákať čo najrýchlejšie?",
-			"WILLINGNESS": "Ktoré usporiadanie políčok vám pomáha najlepšie splniť úlohu?\r\nČo sa pre vás zmení, keď súťažíte s iným dieťaťom?\r\nRozdeľte sa do dvojíc. Vytvorte pre svojho partnera rytmus skákania (napr. ľavá, pravá, obidve nohy, pravá, ľavá, obidve nohy). Vyberte rytmus, ktorý je pre neho/ňu náročný, ale zvládnuteľný! Podarilo sa vám to?"
+			"WILLINGNESS": "Ktoré usporiadanie políčok vám pomáha najlepšie splniť úlohu?\r\nČo sa pre vás zmení, keď súťažíte s iným dieťaťom?\r\nRozdeľte sa do dvojíc. Vytvorte pre svojho partnera rytmus skákania (napr. ľavá, pravá, obidve nohy, pravá, ľavá, obidve nohy). Vyberte rytmus, ktorý je pre neho/ňu náročný, ale zvládnuteľný! Podarilo sa vám to?",
+            "PDF": "Skočte dopredu oboma nohami cez koordinačný rebrík."
 		},
 		"JUMPING_2": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -437,7 +453,8 @@
 			"MATERIALS": "Laná/švihadlá\r\nalternatívy: pásky, šnúrky, podlahové značky, palice",
 			"VARIATIONS": "Po každom skoku vykonajte otočku o 90°.\r\nSkáčte ako žaba.\r\nSkáčte cez \"švihadlový rebrík\" s bežeckými krokmi.\r\nKombinujte skákanie s rôznymi pohybmi paží.\r\nSkáčte vpravo - vpravo - znožmo - vľavo - vľavo atď (rôzne kombinácie).\r\nSkáčte jednonož: dopredu, dozadu, do strán (s pravým aj ľavým ramenom vpredu).\r\nKombinujte skákanie s krúžením ramenami (dopredu, dozadu, opačným smerom).\r\nZväčšujte alebo zmenšujte vzdialenosť medzi švihadlami.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo sa zmení vo vašich pohyboch, keď skáčete jednou nohou alebo oboma nohami?\r\nAko sa zmenia vaše pohyby, keď sú švihadlá ďalej od seba?",
-			"WILLINGNESS": "Darí sa vám aj vtedy, keď sú švihadlá rôzne vzdialené?\r\nS akými typmi skokov dokážete dokončiť dráhu? Predstavte si, že ste žaba, kengura, kôň alebo lúčny koník.\r\nKtorý spôsob skákania cez švihadlá je pre vás najzábavnejší?"
+			"WILLINGNESS": "Darí sa vám aj vtedy, keď sú švihadlá rôzne vzdialené?\r\nS akými typmi skokov dokážete dokončiť dráhu? Predstavte si, že ste žaba, kengura, kôň alebo lúčny koník.\r\nKtorý spôsob skákania cez švihadlá je pre vás najzábavnejší?",
+            "PDF": "Skočte jednonohý, dvojnohý, do strán alebo diagonálne cez 'lanový rebrík'."
 		},
 		"ROPE_JUMPING_1": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -447,7 +464,8 @@
 			"MATERIALS": " Švihadlo\r\nalternatívy: značkovací kužeľ, podlahové značky, krabice na pizzu",
 			"VARIATIONS": "Preskakujte švihadlo každým krokom.\r\nZmeňte rýchlosť behu.\r\nZmeňte počet krokov, po ktorých preskočíte švihadlo.\r\nBežte a skáčte cez švihadlo smerom vzad.\r\nVykonajte slalomové preteky (napr. s vyznačením kužeľov).\r\nChoďte dopredu a každý druhý krok preskočte nejaký predmet.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo je pre vás dôležité pri skákaní cez švihadlo?\r\nAkou rýchlosťou/tempom sa vám to darí najlepšie?",
-			"WILLINGNESS": "Dokážete počas skoku meniť tempo? Skúste!\r\nVysvetlite inému dieťaťu, ako skáčete cez švihadlo. Robíte to rovnako?\r\nV malej skupine detí behajte a skáčte cez švihadlá na vymedzenom mieste bez toho, aby ste sa navzájom dotýkali. Podarilo sa vám to?"
+			"WILLINGNESS": "Dokážete počas skoku meniť tempo? Skúste!\r\nVysvetlite inému dieťaťu, ako skáčete cez švihadlo. Robíte to rovnako?\r\nV malej skupine detí behajte a skáčte cez švihadlá na vymedzenom mieste bez toho, aby ste sa navzájom dotýkali. Podarilo sa vám to?",
+            "PDF": "Bežte dopredu s lanom a preskakujte cez lano každým ďalším krokom."
 		},
 		"ROPE_JUMPING_2": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -457,7 +475,8 @@
 			"MATERIALS": "Koordinačný rebrík, švihadlo",
 			"VARIATIONS": "Bežte dozadu.\r\nPracujte s dvoma kontaktmi so zemou na každé pole.\r\nBežte čo najrýchlejšie.\r\nVykonávajte rôzne formy skokov.\r\nUsporiadajte polia rôznym spôsobom.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo máte na mysli, aby ste mali jeden kontakt so zemou na jedno pole?\r\nV ktorej podobe skoku sa vám darí najlepšie?",
-			"WILLINGNESS": "Vyzvite samých seba: Stopnite svoj čas na splnenie úlohy. Dokážete to v ďalšom kole urobiť rýchlejšie?\r\nIde o pomerne náročnú úlohu. Ak ju dokážeš splniť, môžeš pomôcť ostatným, ktorým sa to ešte nepodarilo?\r\nČo sa zmení, keď budete úlohu vykonávať v rôznych rýchlostiach?"
+			"WILLINGNESS": "Vyzvite samých seba: Stopnite svoj čas na splnenie úlohy. Dokážete to v ďalšom kole urobiť rýchlejšie?\r\nIde o pomerne náročnú úlohu. Ak ju dokážeš splniť, môžeš pomôcť ostatným, ktorým sa to ešte nepodarilo?\r\nČo sa zmení, keď budete úlohu vykonávať v rôznych rýchlostiach?",
+            "PDF": "Prejdite cez koordinačný rebrík s jedným lanom a jedným kontaktom so zemou na pole."
 		},
 		"ROPE_JUMPING_3": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -467,7 +486,8 @@
 			"MATERIALS": "Švihadlo",
 			"VARIATIONS": "Skáčte s medziskokom alebo bez medziskoku.\r\nOtáčajte švihadlom dozadu.\r\nSkáčte so švihadlom a pohybujte sa dopredu a dozadu (alebo doľava a doprava) po danej čiare.\r\nVykonávajte drepy počas skákania cez švihadlo.\r\nSkáčte na tenkej podložke.\r\nPri skákaní si dajte nohy na päty.\r\nPri skákaní dvíhajte kolená nahor.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Na čo dávate pozor, aby ste úspešne zvládli úlohu?\r\nKtorou časťou chodidla skáčete?",
-			"WILLINGNESS": "Skúste počas skákania meniť tempo - ktoré tempo sa vám najviac páči?\r\nStanovte si cieľ: Koľko po sebe idúcich skokov chcete vykonať bez toho, aby ste sa zamotali?\r\nDokážete skákať súčasne s iným dieťaťom"
+			"WILLINGNESS": "Skúste počas skákania meniť tempo - ktoré tempo sa vám najviac páči?\r\nStanovte si cieľ: Koľko po sebe idúcich skokov chcete vykonať bez toho, aby ste sa zamotali?\r\nDokážete skákať súčasne s iným dieťaťom",
+            "PDF": "Skáčte s lanom na oboch nohách."
 		},
 		"ROPE_JUMPING_4": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -477,7 +497,8 @@
 			"MATERIALS": "Švihadlo\r\nalternatívy: páska, šnúra, podlahové značky",
 			"VARIATIONS": "Skáčte s medziskokom alebo bez medziskoku.\r\nSkáčte druhou nohou.\r\nOtočte švihadlom dozadu.\r\nPo každom druhom švihnutí vymeňte nohy (\"skok na mieste\").\r\nSkáčte bez švihadla.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako držíte ruky, aby ste točili švihadlom konštantnou rýchlosťou?\r\nMusíte niečo zmeniť, aby ste mohli skákať druhou nohou?",
-			"WILLINGNESS": "Dokážeš skočiť oboma nohami jednonož rovnaký početkrát bez zastavenia? Stanovte si cieľ, ktorý chcete dosiahnuť.\r\nSpýtajte sa spolužiaka, čo považuje za motivujúce pri skákaní cez švihadlo.\r\nDokážete skákať bez toho, aby ste medzi tým poskakovali? Skúste to!"
+			"WILLINGNESS": "Dokážeš skočiť oboma nohami jednonož rovnaký početkrát bez zastavenia? Stanovte si cieľ, ktorý chcete dosiahnuť.\r\nSpýtajte sa spolužiaka, čo považuje za motivujúce pri skákaní cez švihadlo.\r\nDokážete skákať bez toho, aby ste medzi tým poskakovali? Skúste to!",
+            "PDF": "Skočte na jednu nohu na námestí s lanom."
 		},
 		"MAT_HIGHWAY": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -487,7 +508,8 @@
 			"MATERIALS": "Gymnastické podložky\r\nalternatívy: obruče, podlahové značky, kobercové dlaždice, krieda",
 			"VARIATIONS": "Skáčte cez skákaciu dráhu vo vlastnom rytme, jednonohí, dvojnohí a striedavo.\r\nPostavte skákaciu dráhu s rôznymi materiálmi/farbami. Preskáčte cez skákaciu dráhu a pre každý materiál/farbu vykonajte iný skok (dvojnožky, jednonož).\r\nRozmiestnite podložky rôznym spôsobom.\r\nZmeňte počet dotykov na podložkách.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "V akom rytme dokážete najlepšie preskakovať rohože?\r\nČo sa zmení vo vašom pohybe, keď sú podložky vedľa seba?",
-			"WILLINGNESS": " Dajte sa do dvojíc a skúste skákať cez podložky v rôznych rytmoch. Ktorý sa vám najviac páči?\r\nSkúste skákať cez podložky so spolužiakom, pričom sa budete držať za ruky! Podarilo sa vám to?\r\nAko môžete usporiadat' podložky, aby ste si úlohu sťažili alebo uľahčili?"
+			"WILLINGNESS": " Dajte sa do dvojíc a skúste skákať cez podložky v rôznych rytmoch. Ktorý sa vám najviac páči?\r\nSkúste skákať cez podložky so spolužiakom, pričom sa budete držať za ruky! Podarilo sa vám to?\r\nAko môžete usporiadat' podložky, aby ste si úlohu sťažili alebo uľahčili?",
+            "PDF": "Skáčte z podložky na podložku."
 		},
 		"GROUND_ROPE_JUMPING_1": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -497,7 +519,8 @@
 			"MATERIALS": "Švihadlá\r\nalternatívy: páska, podlahové značky, krieda",
 			"VARIATIONS": "Nechajte dve deti meniť výšku zdvihnutím lana nad zem.\r\nNech dve deti krútia švihadlom a vykonajú rôzne skoky (napr. s medziskokom/bez medziskoku, na jednej alebo na dvoch nohách, s otočkou o 180°).\r\nSkokové triky.\r\nSpievajte a skáčte: \"..., medvedík, medvedík, otoč sa \" (otočka o 180°); \"..., predkloň sa\" (skok v predklone); \"..., postav dom\" (spojte ruky nad hlavou ); \"..., pozeraj sa von\" (dlaň na čelo); \"..., pozeraj sa von\" (dlaň na čelo) ; \"..., zdvihni jednu nohu\" (skok jednou nohou); \"..., rozkáž na pozdrav\" (hra končí).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Skáčete inak, keď je švihadlo zdvihnuté?\r\nAko meníte pohyb, keď skáčete do strán alebo dopredu a dozadu?",
-			"WILLINGNESS": "Dokážete robiť kúsky, keď skáčete? Ukážte a naučte to iné dieťa.\r\nAkú najvyššiu výšku dokážeš preskočiť? Vyskúšajte si to!"
+			"WILLINGNESS": "Dokážete robiť kúsky, keď skáčete? Ukážte a naučte to iné dieťa.\r\nAkú najvyššiu výšku dokážeš preskočiť? Vyskúšajte si to!",
+            "PDF": "Postavte sa rovnobežne s lanom a niekoľkokrát cez lano preskočte."
 		},
 		"GROUND_ROPE_JUMPING_2": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -507,7 +530,8 @@
 			"MATERIALS": "Švihadlá, čísla\r\nalternatívy: podlahové značky, rohože, gymnastické pásy, páska",
 			"VARIATIONS": "Skáčte vždy len jednou nohou (t. j. len pravou alebo ľavou).\r\nV ďalšom poli skáčte oboma nohami.\r\nSkáčte do viacerých polí a očíslujte ich.\r\nZvyšujte rýchlosť.\r\nDieťa A vymyslí tajné číslo pozostávajúce z troch číslic (každá z nich je v rozmedzí 1 až 4). Dieťa B musí toto číslo uhádnuť skokom do príslušných polí. Dieťa A dáva spätnú väzbu. Ak dieťa B skočí nesprávne, musí začať odznova.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo sa zmení, keď poznáte poradie vyvolávaných čísel v porovnaní s tým, keď neviete, ktoré číslo nasleduje?\r\nJe ľahšie skákať jednou alebo oboma nohami? Prečo?",
-			"WILLINGNESS": "Čo robíte, aby ste rýchlo reagovali na vyvolávanie?\r\nAko môžete ako vyvolávač uľahčiť alebo sťažiť úlohu dieťaťu?\r\nDajte sa do dvojíc. Vymyslite rituál high-five\", ktorý vykonáte, keď jeden z vás zvládne 10 pokusov bez chyby. Ako sa cítite, keď \"dostanete päťku\"?\""
+			"WILLINGNESS": "Čo robíte, aby ste rýchlo reagovali na vyvolávanie?\r\nAko môžete ako vyvolávač uľahčiť alebo sťažiť úlohu dieťaťu?\r\nDajte sa do dvojíc. Vymyslite rituál high-five\", ktorý vykonáte, keď jeden z vás zvládne 10 pokusov bez chyby. Ako sa cítite, keď \"dostanete päťku\"?\"",
+            "PDF": "Vo dvojiciach: Dieťa volá čísla. Druhá stojí jednou nohou v poli a na zavolanie čísla skočí do príslušného poľa a pristane tam na druhej nohe."
 		},
 		"ROPE_ROLLER": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -517,7 +541,8 @@
 			"MATERIALS": "Švihadlá (1 švihadlo na 6-8 deti)",
 			"VARIATIONS": "Držte lano nižšie alebo vyššie.\r\nPosúvajte lano v rade rýchlejšie alebo pomalšie.\r\nZmeňte štýl skákania (napr. dvojnožky, jednonožky, s rotáciou tela).\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Kedy je správny čas na preskok?\r\nAko sa vám najlepšie skáče, keď je dieťa po vašej ľavej a pravej strane?",
-			"WILLINGNESS": "Ako by sme mohli zmeniť úlohu, ak nemáme k dispozícii švihadlo?\r\nČo môžete urobiť, aby ste úlohu úspešne splnili ako skupina?\r\nAký je to pocit, keď všetci spolupracujú na úspešnom zvládnutí úlohy?"
+			"WILLINGNESS": "Ako by sme mohli zmeniť úlohu, ak nemáme k dispozícii švihadlo?\r\nČo môžete urobiť, aby ste úlohu úspešne splnili ako skupina?\r\nAký je to pocit, keď všetci spolupracujú na úspešnom zvládnutí úlohy?",
+            "PDF": "Skupina: Dve deti držia lano natiahnuté vo výške lýtka. Ostatné deti skáču hneď, ako je lano s nimi."
 		},
 		"MASTER_OF_RHYTHM": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -527,7 +552,8 @@
 			"MATERIALS": "Obruče\r\nalternatívy: podlahové značky, švihadlá, krieda",
 			"VARIATIONS": "Skáčte cez dráhu bez pohybu rúk.\r\nPrejdite dráhou tak rýchlo, ako dokážete.\r\nNatiahnite ruku na opačnej strane. Pri skokoch na dvoch nohách vystierajte paže smerom nahor.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo sa zmení pri skákaní s pohybmi paží v porovnaní so skákaním bez nich?\r\nČo môžete urobiť, ak máte na začiatku ťažkosti s riešením tejto úlohy?\r\nAko sa vám darí vystrčiť ruku do strany?",
-			"WILLINGNESS": "Ako môžeš nasledovať iné dieťa cez obruče bez toho, aby ťa odhalilo?\r\nAko môžete obruče usporiadať tak, aby to bolo pre vás ťažšie?\r\nVymýšľajte ďalšie pohyby ruky, ktoré sa hodia k vašim skokom! V ktorých variantoch sa vám to podarí?"
+			"WILLINGNESS": "Ako môžeš nasledovať iné dieťa cez obruče bez toho, aby ťa odhalilo?\r\nAko môžete obruče usporiadať tak, aby to bolo pre vás ťažšie?\r\nVymýšľajte ďalšie pohyby ruky, ktoré sa hodia k vašim skokom! V ktorých variantoch sa vám to podarí?",
+            "PDF": "Položte niekoľko pneumatík na zem za sebou a skočte cez dráhu pneumatiky podľa nasledujúcich pokynov: \n- Vyskočte ľavou nohou, ľavou rukou nabok \n- Vyskočte pravou nohou, pravou rukou do strany\n- Skočte na obe nohy, obe ruky do strán"
 		},
 		"SWINGING_KING_QUEEN": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -537,7 +563,8 @@
 			"MATERIALS": "Švihadlo",
 			"VARIATIONS": "Požiadajte učiteľa alebo deti, aby točili švihadlo rýchlejšie alebo pomalšie.\r\nPožiadajte učiteľa alebo deti, aby točili švihadlo opačným smerom (t. j. smerom od vás).\r\nObmieňajte skoky (napr. znožmo, na jednej nohe, s rotáciou tela).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo je pre vás ľahšie? Skákať pomaly alebo rýchlo? Prečo?\r\nČo zmeníte, keď sa švihadlo otáča na opačnú stranu?\r\nKedy je správny čas na prebehnutie?",
-			"WILLINGNESS": "Koľkokrát dokážeš kontrolovane preskočiť a opustiť točiace sa švihadlo? Stanovte si cieľ alebo vyzvite iné dieťa.\r\nPodarí sa vám vbehnúť do točiaceho sa švihadla a potom skočiť? Skúste to!\r\nDokážeš povedať inému dieťaťu zvonku, kedy má prebehnúť?"
+			"WILLINGNESS": "Koľkokrát dokážeš kontrolovane preskočiť a opustiť točiace sa švihadlo? Stanovte si cieľ alebo vyzvite iné dieťa.\r\nPodarí sa vám vbehnúť do točiaceho sa švihadla a potom skočiť? Skúste to!\r\nDokážeš povedať inému dieťaťu zvonku, kedy má prebehnúť?",
+            "PDF": "Skupina: Dlhým lanom sa hojdajú dve deti. Ostatné deti štyrikrát prebehnú cez hojdacie lano bez toho, aby sa ho dotkli."
 		},
 		"JUMP_IN_AND_OUT": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -547,7 +574,8 @@
 			"MATERIALS": "Obruče",
 			"VARIATIONS": "Zmena rozmiestnenia obručí. Použi všetky možné typy odrazov. Vytvor si svoju zostavu s dvomi typmi odrazov. Zavri oči a skákaj zostavu so zavretými očami.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Akú skokovú zostavu si vymyslíš, aby sa ti dobre opakovala? Ktorá časť nohy sa pri skoku dotýka zeme?",
-			"WILLINGNESS": "Ukáž svoju skokovú zostavu inému dieťaťu. Dokážeš predviesť jeho skokovú zostavu? Dokážeš zvládnuť svoju skokovú zostavu so zavretými očami? Skús svoju zostavu odskákať ako nejaké zviera. Ako to bude vyzerať?"
+			"WILLINGNESS": "Ukáž svoju skokovú zostavu inému dieťaťu. Dokážeš predviesť jeho skokovú zostavu? Dokážeš zvládnuť svoju skokovú zostavu so zavretými očami? Skús svoju zostavu odskákať ako nejaké zviera. Ako to bude vyzerať?",
+            "PDF": "Vykonávajte sekvencie skokov a tvary, ktoré idú dovnútra a von z obruče."
 		},
 		"JUMPING_COURSE": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -557,7 +585,8 @@
 			"MATERIALS": "Medicinbaly, kužele",
 			"VARIATIONS": "Vymieňaj v parkúre jednotlivé prvky. Použi viacero prekážok. Bež parkúr so zavretými očami.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako by mali byť prekážky usporiadané, aby sa ti ľahko preskakovali? Akým spôsobom sa prekážky najlepšie preskakujú?",
-			"WILLINGNESS": "Máš nejaké ďalšie nápady, čo všetko by sa dalo použiť ako prekážka na parkúr? Aké tipy a triky vymyslíš pre ostatných, ktorým parkúr veľmi nejde?"
+			"WILLINGNESS": "Máš nejaké ďalšie nápady, čo všetko by sa dalo použiť ako prekážka na parkúr? Aké tipy a triky vymyslíš pre ostatných, ktorým parkúr veľmi nejde?",
+            "PDF": "Preskakujte prekážky"
 		}
 	},
 	"Rolling": "Rolling",
@@ -570,7 +599,8 @@
 			"MATERIALS": "Mäkké žinenky, gymnastické lavičky, podložky, rebriny",
 			"VARIATIONS": "Dlhé lavičky zaveste na nižšiu alebo vyššiu priečku rebrín.\r\nNechajte ďalšie dieťa skontrolovať, či ste pri prevaľovaní úplne natiahnutí.\r\nPri prevaľovaní sa vymeňte strany.\r\nNech vás iné dieťa zachytí na konci plochy na kotúľanie.\r\nVystrite ruky smerom nahor.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo sa pre vás zmení, keď zmeníte stranu?\r\nČo robíte s nohami/ramenami, keď sa prevaľujete do strán?",
-			"WILLINGNESS": "Dokážete sa prevaliť spolu s iným dieťaťom?\r\nPri akej výške lavičiek sa vám najviac darí? Kedy potrebujete veľa odvahy?\r\nKde ešte by ste sa mohli kotúľať aj bokom? "
+			"WILLINGNESS": "Dokážete sa prevaliť spolu s iným dieťaťom?\r\nPri akej výške lavičiek sa vám najviac darí? Kedy potrebujete veľa odvahy?\r\nKde ešte by ste sa mohli kotúľať aj bokom? ",
+            "PDF": "Rolujte dole svahom."
 		},
 		"FORWARD_ROLL": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -580,7 +610,8 @@
 			"MATERIALS": "Mäkké žinenky, lavičky, gymnastické podložky, rebriny",
 			"VARIATIONS": "Pri kotúľaní sa držte za kolená.\r\nPostavte sa bez toho, aby ste sa podopierali rukami.\r\nPočas kotúľania si medzi bradu a hrudník uchopte plyšové zviera (alebo iný predmet).\r\nOdtláčajte sa nohami a dosadajte krkom.\r\nPozrite sa na svoje brucho.\r\nPevne si oprite ruky.\r\nDlhé lavičky zaveste na nižšiu alebo vyššiu priečku rebrín.\r\nNech vás iné dieťa zachytí na konci kotúľacej plochy.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo sa zmení, keď si pri kotúľaní niečo vložíte medzi bradu a hrudník?\r\nAko sa ti podarilo kotúľať sa rovno?",
-			"WILLINGNESS": "Aký je to pocit úspešne splniť úlohu/nezvládnuť úlohu? Čo môžete urobiť, aby ste sa zlepšili, ak sa vám to ešte nepodarilo?\r\nDokážete sa kotúľať aj zdola nahor?"
+			"WILLINGNESS": "Aký je to pocit úspešne splniť úlohu/nezvládnuť úlohu? Čo môžete urobiť, aby ste sa zlepšili, ak sa vám to ešte nepodarilo?\r\nDokážete sa kotúľať aj zdola nahor?",
+            "PDF": "Kotúľajte sa dopredu po svahu."
 		},
 		"PENDULUM": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -590,7 +621,8 @@
 			"MATERIALS": "Podložka, balón, lopta",
 			"VARIATIONS": "Balón si umiestnite medzi nohy a pevne ho držte.\r\nUmiestnite balón medzi nohy a hornú časť tela, keď sa kolíšete dozadu a staviate späť do pozície drepu.\r\nPodajte balón inému dieťaťu tak, že sa najprv zhúpnete dozadu a pri podávaní balóna sa postavíte (po podaní balóna si okamžite vymeňte úlohy).\r\nKolíšte sa dozadu, držte sa za nohy a hojdajte sa do pozície drepu.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako sa vám podarí postaviť sa po prehupnutí dopredu?\r\nAko sa vám darí kolísať sa dopredu a dozadu?",
-			"WILLINGNESS": "Predstavte si, že ste pásovec zemeguľový pri kolísaní Ako sa cítite?\r\nDokážete vykonať kolísavý pohyb súčasne s iným dieťaťom?\r\nČo sa zmení, keď si medzi nohy uchopíte balónik?"
+			"WILLINGNESS": "Predstavte si, že ste pásovec zemeguľový pri kolísaní Ako sa cítite?\r\nDokážete vykonať kolísavý pohyb súčasne s iným dieťaťom?\r\nČo sa zmení, keď si medzi nohy uchopíte balónik?",
+            "PDF": "Prevaľujte sa tam a späť na chrbte bez použitia nôh."
 		},
 		"JUDO_ROLLS": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -600,7 +632,8 @@
 			"MATERIALS": "Mäkká podložka",
 			"VARIATIONS": "Striedavo vykonávajte judo kotúľ cez ľavé a pravé rameno.\r\nZmeňte dĺžku rozbehu.\r\nPo kotúľaní sa bezprostredne postavte bez toho, aby ste na podopieranie používali ruky.\r\nKotúľajte sa pomaly a bez rozbehu.\r\nPozrite sa na rameno, cez ktoré sa bude kotúľať.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo sa zmení, keď zmeníte dĺžku rozbehu?\r\nRobíte judo kotúľ lepšie ako kotúľ vpred? Prečo?",
-			"WILLINGNESS": "Ako sa cítite, keď sa prevalíte cez druhé rameno?\r\nDokážete robiť judo kotúľ na podložke alebo na podlahe?"
+			"WILLINGNESS": "Ako sa cítite, keď sa prevalíte cez druhé rameno?\r\nDokážete robiť judo kotúľ na podložke alebo na podlahe?",
+            "PDF": "Niekoľkými krokmi urobte rolku cez rameno na mäkkej podlahe."
 		},
 		"MAT_ROLLS": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -610,7 +643,8 @@
 			"MATERIALS": "Mäkká podložka",
 			"VARIATIONS": "Postavte sa bez toho, aby ste sa podopierali rukami.\r\nPožiadajte o pomoc iné dieťa alebo učiteľa.\r\nVytvorte koridor pomocou švihadiel a kotúľajte sa po ňom na podložke.\r\nKotúľajte sa vo dvojiciach synchrónne vedľa seba.\r\nSilnejšie sa odrážajte nohami, aby ste sa kotúľali rýchlejšie. Potom dajte ruky pred seba.\r\nVykonajte kotúľanie na žinenke.\r\nNa podložku položte značku a po kotúľaní na ňu dopadnite nohami. Vzdialenosť od východiskovej pozície meňte.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako sa vám darí po kotúľaní postaviť sa?\r\nČo sa zmení, keď vykonáte kotúľ bez rozbehu?",
-			"WILLINGNESS": "Cítite sa inak, keď robíte kotúľ na dlhšiu stranu podložky v porovnaní s krátkou stranou?\r\nAký je to pocit, keď sa po kotúľaní úspešne postavíte?"
+			"WILLINGNESS": "Cítite sa inak, keď robíte kotúľ na dlhšiu stranu podložky v porovnaní s krátkou stranou?\r\nAký je to pocit, keď sa po kotúľaní úspešne postavíte?",
+            "PDF": "Niekoľkými krokmi urobte rolku po mäkkej podlahovej rohoži."
 		},
 		"ROLL_OFF_THE_BOX": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -619,7 +653,8 @@
 			"BASIC_TASK": "Dieťa je v kľaku na dvoch horných dieloch švédskej bedne, na ktorých je položená žinenka. Ruky má opreté o žinenku. Vykoná kotúľ vpred.",
 			"MATERIALS": "Dva horné diely švédskej bedne, žinenky",
 			"VARIATIONS": "Zmeň výšku švédskej bedne. Medzi členkami drž napríklad list papiera alebo hračku. Vykonaj kotúľ na žinenku z chrbta dieťaťa, ktoré je vo vzpore kľačmo. Vykonaj kotúľ cez fitloptu.",
-			"KNOWLEDGE_AND_UNDERSTANDING": "Dokážeš sa po kotúle postaviť? Ako to urobíš? Ako si musíš položiť ruky, aby si vykonal kotúľ rovno?"
+			"KNOWLEDGE_AND_UNDERSTANDING": "Dokážeš sa po kotúle postaviť? Ako to urobíš? Ako si musíš položiť ruky, aby si vykonal kotúľ rovno?",
+            "PDF": "Kolená na gymnastickom boxe. Položte ruky na podložku do telocvične a vykonajte kotúľanie dopredu."
 		},
 		"VARIABLE_ROLLING": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -629,7 +664,8 @@
 			"MATERIALS": "Žinenky",
 			"VARIATIONS": "Prevaluj sa do strany. Postav sa za žinenky. Naskoč na šikminu a kotúľaj sa dole. Prevaluj sa zdolu nahor. Prevaluj sa na rovine. Postav sa na žinenku a prevaluj sa zhora dole.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "V čom je iné prevalovanie zdola nahor? Ktoré kotúly ti idú najlepšie? Ukáž to a skús vysvetliť prečo.",
-			"WILLINGNESS": "Aké kotúle ťa najviac bavili? Prečo? Darí sa ti prevaľovať na všteky možné spôsoby? "
+			"WILLINGNESS": "Aké kotúle ťa najviac bavili? Prečo? Darí sa ti prevaľovať na všteky možné spôsoby? ",
+            "PDF": "Rolujte dole alebo hore po naklonenej rovine rôznymi spôsobmi."
 		},
 		"ROLLING_PRECISELY": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -639,7 +675,8 @@
 			"MATERIALS": "Žinenky, lepiaca páska",
 			"VARIATIONS": "Polož pásku na koniec žinenky a po kotúle na ňu dopadni nohami. Meň vzdialenosť od začiatku podložky. Prevaluj sa šikmo cez pásku tak, aby sa na chrnát prilepila diagonálne od ramena k opačnému boku. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako sa musíš odraziť nohami, aby si sa prevalil, čo napresnejšie? Ako sa ti darí prevaľovať sa rovno?",
-			"WILLINGNESS": "Zvládneš tri kotúle tak, aby si mal na konci na chrbte nalepenú pásku? Aký kotúľ cez pásku ťa baví najviac? Vymyslíš ešte niečo iné?"
+			"WILLINGNESS": "Zvládneš tri kotúle tak, aby si mal na konci na chrbte nalepenú pásku? Aký kotúľ cez pásku ťa baví najviac? Vymyslíš ešte niečo iné?",
+            "PDF": "Prevráťte pásku tak, aby sa vám prilepila na chrbát."
 		},
 		"ROLL_UP": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -649,7 +686,8 @@
 			"MATERIALS": "Dva horné diely švédskej bedne, žinenky.",
 			"VARIATIONS": "Meň počet dielov švédskej bedne. Vykonaj kotúľ vpred na švédskej bedni. Použi na naskočenie odrazový mostík.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako sa ti darí dostať sa na švédsku bedňu? Čo urobíš s nohami, keď robíš kotúľ?",
-			"WILLINGNESS": "Aká výška bedne je pre teba už veľká výzva? Ako sa ti pri tom darí prekonať sám seba? Ako by si mohol pomôsť inému dieťaťu dostať sa na švédsku bedňu?"
+			"WILLINGNESS": "Aká výška bedne je pre teba už veľká výzva? Ako sa ti pri tom darí prekonať sám seba? Ako by si mohol pomôsť inému dieťaťu dostať sa na švédsku bedňu?",
+            "PDF": "Kotúľajte sa na gymnastický box."
 		},
 		"DIVE_ROLL": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -659,7 +697,8 @@
 			"MATERIALS": "Žinenky, medicinbaly",
 			"VARIATIONS": "Postav si do radu niekoľko medicinbalov a vykonaj cez ne kotúľ letmo. Upravuj vzdialenosti medzi medicinbalmi. Odrážaj sa cez medicinbaly znožmo. Miesto medicinbalov môžeš použiť aj gumu na skákanie.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo musíš urobiť pri kotúle letmo inak ako pri kotúle vpred? Čo urobíš, aby si dokázal pristáť, čo najmäkkšie?",
-			"WILLINGNESS": "Urči si úlohu, koľko medicinbalov za radom dokážeš prekonať. Ako sa cítiš, keď to zvládneš? Predstav si, že preskakuješ kotúľom letmo hlbokú priepasť. Aké to je?"
+			"WILLINGNESS": "Urči si úlohu, koľko medicinbalov za radom dokážeš prekonať. Ako sa cítiš, keď to zvládneš? Predstav si, že preskakuješ kotúľom letmo hlbokú priepasť. Aké to je?",
+            "PDF": "Skočte dopredu s kotúľaním cez medicinbal."
 		},
 		"PARTNER_ROLLS": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -669,7 +708,8 @@
 			"MATERIALS": "Žinenky",
 			"VARIATIONS": "Začnite v druhej polohe (hore/dole).\r\nVykoná kotuľ vpred synchrónne vedľa seba.\r\nRobí dva alebo viac kotúľov za sebou.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako sa vám darí cvičenie vo dvojici? Čomu musíš venovať pri cvičení vo dvojici pozornosť oproti tomu, keď cvičíš sám?",
-			"WILLINGNESS": "Bola to veľká výzva robiť kotúle vo dvojici? Ak áno, ako si výzvu zvládol? Čo by si poradil dieťaťu, s ktorým robíš kotúľ (dva v jednom), aby sa vám spoločne podaril?"
+			"WILLINGNESS": "Bola to veľká výzva robiť kotúle vo dvojici? Ak áno, ako si výzvu zvládol? Čo by si poradil dieťaťu, s ktorým robíš kotúľ (dva v jednom), aby sa vám spoločne podaril?",
+            "PDF": "Vo dvojiciach: Chytte sa za členky a položte si hlavu na hruď. Spoločne vykonávajte úlohu vpred."
 		}
 	},
 	"Balancing": "Balancing",
@@ -682,7 +722,8 @@
 			"MATERIALS": "Lano",
 			"VARIATIONS": "Balansujte smerom dozadu.\r\nBalansujte so zatvorenými očami.\r\nVyhadzujte do vzduchu ďalšie látky a chytajte ich.\r\nOtáčajte ďalšími (1 alebo 2) obručami pomocou rúk.\r\nVyberte si iný materiál, na ktorom budete balansovať (napr. obruče, podlahové dlaždice, čiary).\r\nVyberte si materiál, na ktorom sa dá ešte dodatočne balansovať na niektorej časti tela (napr. kusy látky, klobúky, lopty).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo sa zmení, keď balansujete dozadu namiesto dopredu?\r\nPrečo je balansovanie jednoduchšie, keď sa pozeráte dopredu (napríklad namiesto na zem)?",
-			"WILLINGNESS": "Predstavte si, že ste chodci po lane v cirkuse. Ako môžete spoločne balansovať na lane? Počujete potlesk?\r\nAko môžete lano položiť, aby bolo balansovanie ťažšie?\r\nPrečo môže byť dôležité vedieť balansovať?"
+			"WILLINGNESS": "Predstavte si, že ste chodci po lane v cirkuse. Ako môžete spoločne balansovať na lane? Počujete potlesk?\r\nAko môžete lano položiť, aby bolo balansovanie ťažšie?\r\nPrečo môže byť dôležité vedieť balansovať?",
+            "PDF": "Rovnováha na lane."
 		},
 		"BENCH_BALANCING": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -692,7 +733,8 @@
 			"MATERIALS": "Dlhá lavička",
 			"VARIATIONS": "Zmeňte spôsob pohybu (do strán, dozadu, na všetky štyri).\r\nVykonávajte prídavné pohyby rukami.\r\nVyberte si materiál, ktorý môžete dodatočne balansovať na časti tela (napr. látky, klobúky, lopty).\r\nPoložte na lavičku ďalšie prekážky (napr. kusy látky, klobúky) a potom tieto prekážky prekročte.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Akým spôsobom najlepšie položíte nohy na lavičku, aby ste úspešne udržali rovnováhu?\r\nAko sa zmení vaše balansovanie, keď sa namiesto dopredu pozeráte hore alebo dole?",
-			"WILLINGNESS": "Aký je to pocit, keď úspešne balansujete po lavičke?\r\nPozorujte dieťa, ktoré má problémy s balansovaním po lavičke, a skúste mu poradiť!\r\nKde môžeš balansovať iným spôsobom ako na lavičke, aby bola úloha pre teba náročnejšia?"
+			"WILLINGNESS": "Aký je to pocit, keď úspešne balansujete po lavičke?\r\nPozorujte dieťa, ktoré má problémy s balansovaním po lavičke, a skúste mu poradiť!\r\nKde môžeš balansovať iným spôsobom ako na lavičke, aby bola úloha pre teba náročnejšia?",
+            "PDF": "Balancovanie dopredu cez dlhú lavicu."
 		},
 		"WOBBLY_BENCH": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -702,7 +744,8 @@
 			"MATERIALS": "Dlhé lavičky, gymnastické bradlá",
 			"VARIATIONS": "Úlohu vykonajte bez ostatných detí tak, že dlhú lavicu upevníte na gymnastické bradlá s gymnastickými podložkami zo všetkých strán, aby sa nepohybovala.\r\nChoďte do strán alebo dozadu.\r\nNa lavičku položte ďalšie prekážky (napr. kusy látky, čiapky) a potom tieto prekážky prekročte.\r\nPridajte otáčanie.\r\nVyberte si materiály, ktoré môžete dodatočne balansovať na časti tela (napr. látky, klobúky, lopty).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako sa pohybujete, aby ste udržali rovnováhu na kývajúcej sa lavičke?\r\nKtorá poloha rúk vám najviac pomáha pri udržiavaní rovnováhy?",
-			"WILLINGNESS": "Aký je to pocit balansovať nad kývajúcou sa lavičkou? Potrebujete veľa odvahy?\r\nPožiadajte ostatné deti, aby hýbali lavičkou pomalšie/rýchlejšie v závislosti od toho, ako bezpečne sa cítite."
+			"WILLINGNESS": "Aký je to pocit balansovať nad kývajúcou sa lavičkou? Potrebujete veľa odvahy?\r\nPožiadajte ostatné deti, aby hýbali lavičkou pomalšie/rýchlejšie v závislosti od toho, ako bezpečne sa cítite.",
+            "PDF": "Držte sa lavičky, kým sa kýve."
 		},
 		"MOUNTAIN_CLIMBING": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -712,7 +755,8 @@
 			"MATERIALS": "Dlhá lavička, rebriny, podložky na podlahe pre bezpečnosť",
 			"VARIATIONS": "Zmeňte spôsob pohybu (do strany, dozadu, na všetkých štyroch).\r\nZaveste dlhú lavičku na obruče a balansujte na nej. Podložky pre bezpečnosť sú absolútne nevyhnutné.\r\nOkrem toho otáčajte s obručou pomocou ruky.\r\nVyberte si materiály, s ktorými môžete dodatočne balansovať na časti tela (napr. látky, klobúky, lopty).\r\nDlhú lavičku zaveste na nižšiu alebo vyššiu tyč rebrín.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Kam sa pozeráte, keď balansujete smerom hore?\r\nAko sa šplháte bez toho, aby ste stratili rovnováhu?",
-			"WILLINGNESS": "V akej výške lavičky sa pre vás úloha stáva náročnou?\r\nOdmerajte čas, ktorý potrebujete na balansovanie až hore, a vyzvite spolužiaka alebo samých seba. Ako sa cítite pri balansovaní vo výzve?\r\nAko sa cítite, keď sú na lavičke ešte prekážky?"
+			"WILLINGNESS": "V akej výške lavičky sa pre vás úloha stáva náročnou?\r\nOdmerajte čas, ktorý potrebujete na balansovanie až hore, a vyzvite spolužiaka alebo samých seba. Ako sa cítite pri balansovaní vo výzve?\r\nAko sa cítite, keď sú na lavičke ešte prekážky?",
+            "PDF": "Balansujte hore a dole na lavičke."
 		},
 		"OPPOSING_TRAFFIC": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -722,7 +766,8 @@
 			"MATERIALS": "Dlhá lavička",
 			"VARIATIONS": "Dlhú lavičku otočte na druhú stranu.\r\nDlhú lavičku položte na nestabilný povrch (podložka, trampolína, gymnastické bradlá atď.).\r\nVyberte si materiály, ktoré môžete dodatočne balansovať na časti tela (napr. látky, klobúky, lopty).\r\nBalansujte na lane.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako si môžete navzájom pomôcť pri križovaní sa?\r\nČo je na prechode lavičkou ťažké?",
-			"WILLINGNESS": "Predstavte si, že ste v džungli a musíte uniknúť pred jedovatými hadmi na zemi. Zachráni vás pred nimi lavička. Pomôžte si navzájom prejsť, aby ste sa dostali na druhú stranu bez hadov! Ako ste postupovali pri spoločnom riešení prechodu?\r\nČo môžete spoločne urobiť pred prechodom, aby ste boli pri prechode odvážnejší?"
+			"WILLINGNESS": "Predstavte si, že ste v džungli a musíte uniknúť pred jedovatými hadmi na zemi. Zachráni vás pred nimi lavička. Pomôžte si navzájom prejsť, aby ste sa dostali na druhú stranu bez hadov! Ako ste postupovali pri spoločnom riešení prechodu?\r\nČo môžete spoločne urobiť pred prechodom, aby ste boli pri prechode odvážnejší?",
+            "PDF": "Skupina: Na každej strane dlhej lavice je rovnaký počet detí. Balansujte cez lavičku a krížte v strede."
 		},
 		"SEESAW": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -732,7 +777,8 @@
 			"MATERIALS": "Dlhá lavička, vrchná časť švédskej debny",
 			"VARIATIONS": "Vyberte si materiály, ktoré môžete dodatočne balansovať na niektorej časti tela (napr. látky, klobúky, lopty).\r\nZmeňte spôsob pohybu (do strán, dozadu, na všetkých štyroch).\r\nBalansujte so zatvorenými očami.\r\nNechajte si pomôcť iným dieťaťom (ak je to potrebné). Ponúkne vám ruku a vy ju v prípade potreby chytíte.\r\nNamiesto vrchnej časti debny zvoľte dve trampolíny, aby sa lavička mohla prevrátiť.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo urobíte, keď sa lavička nakloní, aby ste udržali rovnováhu?\r\nAko sa mení nakláňanie lavičky, keď balansujete do strany?",
-			"WILLINGNESS": "Máte nejaké nápady, ako by sme mohli dosiahnuť, aby sa lavička nakláňala v rôznych výškach?\r\nAký je to pocit, keď sa lavička nakláňa?\r\nSkúste balansovať súčasne s iným dieťaťom. Ako sa zmení nakláňanie lavičky?"
+			"WILLINGNESS": "Máte nejaké nápady, ako by sme mohli dosiahnuť, aby sa lavička nakláňala v rôznych výškach?\r\nAký je to pocit, keď sa lavička nakláňa?\r\nSkúste balansovať súčasne s iným dieťaťom. Ako sa zmení nakláňanie lavičky?",
+            "PDF": "Balansujte nad hojdačkou a nechajte ju pomaly nakláňať."
 		},
 		"ROPE_DANCER": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -742,7 +788,8 @@
 			"MATERIALS": "Dlhá lavička, basketbalová lopta",
 			"VARIATIONS": "Balansujte na oboch stranách lavičky.\r\nÚlohu vykonajte v časovom limite.\r\nBalansujte na lane.\r\nBalansujte so zatvorenými očami.\r\nVyberte si inú loptu alebo predmet, s ktorým budete balansovať.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Prečo je úloha ľahšia, keď balansujete na širšej strane lavičky?\r\nČo sa zmení, keď pri balansovaní držíte loptu nad hlavou v porovnaní s balansovaním bez lopty?\r\nAko sa úloha zmení, keď namiesto lopty použijete tyč?",
-			"WILLINGNESS": "Aké iné predmety by ste mohli držať nad hlavou pri balansovaní?\r\nNa ktorých častiach tela by ste mohli balansovať predmety pri chôdzi po lavičke?\r\nPredtým, ako sa postavíte na lavičku: Najprv si skúste na niekoľko sekúnd predstaviť svoje pohyby. Zvládnete takto úlohu lepšie?"
+			"WILLINGNESS": "Aké iné predmety by ste mohli držať nad hlavou pri balansovaní?\r\nNa ktorých častiach tela by ste mohli balansovať predmety pri chôdzi po lavičke?\r\nPredtým, ako sa postavíte na lavičku: Najprv si skúste na niekoľko sekúnd predstaviť svoje pohyby. Zvládnete takto úlohu lepšie?",
+            "PDF": "Držte basketbalovú loptu nad hlavou a balansujte dopredu cez dlhú lavičku. V strede urobte pol otáčky a pokračujte v balansovaní dozadu."
 		},
 		"BALANCING_ON_BALLS": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -752,7 +799,8 @@
 			"MATERIALS": "Medicinbaly, obruče (pre fixovanie medicinbalov)",
 			"VARIATIONS": "Prejdite po medicinbaloch smerom dozadu.\r\nNamiesto medicinbalov použite fitlopty.\r\nPrejdite cez medicinbaly po štyroch.\r\nNechajte si pomôcť iným dieťaťom (ak je to potrebné). Ponúkne vám ruku a vy ju v prípade potreby chytíte.\r\nChoďte k sebe vo dvojiciach a snažte sa navzájom obísť.\r\nBalansujte so zatvorenými očami.\r\nUsporiadajte medicinbaly iným spôsobom.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo robíte inak pri balansovaní po loptách ako pri balansovaní po lavičke?\r\nAkým spôsobom najlepšie položíte nohy na lopty, aby ste úspešne balansovali?\r\nAko sa vám darí balansovať po loptách so zatvorenými očami?",
-			"WILLINGNESS": "Aké predmety by sa dali použiť namiesto medicinbalov?\r\nAký je to pocit mať lopty ďalej od seba?\r\nAký je to pocit balansovať na loptách so zatvorenými očami?"
+			"WILLINGNESS": "Aké predmety by sa dali použiť namiesto medicinbalov?\r\nAký je to pocit mať lopty ďalej od seba?\r\nAký je to pocit balansovať na loptách so zatvorenými očami?",
+            "PDF": "Balansujte dopredu cez medicinbaly bez toho, aby ste sa dotkli zeme."
 		},
 		"CIRCUS_ARTISTS": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -762,7 +810,8 @@
 			"MATERIALS": "Dlhá lavička, šatky na oči.",
 			"VARIATIONS": "Balansujte so zatvorenými očami.\r\nDokončite úlohu v časovom limite.\r\nNechajte si pomôcť iným dieťaťom (ak je to potrebné). Ponúkne ruku a vy ju v prípade potreby chytíte.\r\nPrevráťte dlhú lavičku.\r\nRuky pritlačte tesne k telu.\r\nHornú časť tela nakloňte dopredu alebo dozadu.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Akým spôsobom sa najlepšie balansuje po lavičke so zaviazanými očami?\r\nČo sa zmení v pohyboch, keď balansujete dozadu namiesto dopredu?",
-			"WILLINGNESS": "Aký je to pocit úspešne balansovať cez lavičku so zaviazanými očami?\r\nAko môžeš pomôcť iným deťom, ktorým sa táto úloha ešte nepodarila?"
+			"WILLINGNESS": "Aký je to pocit úspešne balansovať cez lavičku so zaviazanými očami?\r\nAko môžeš pomôcť iným deťom, ktorým sa táto úloha ešte nepodarila?",
+            "PDF": "Rovnováha na dlhej lavici so zaviazanými očami."
 		},
 		"BALANCING_ON_MATS": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -772,7 +821,8 @@
 			"MATERIALS": "Žinenky.",
 			"VARIATIONS": "Zavri oči. Postav sa na druhú nohu. Postav sa na pevnejšiu žinenku. Postav sa na inú nestabilnú podložku.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Akým spôsobom sa ti najlepšie udržuje rovnováha? Ako to pomáha pohľad pri udržiavaní rovnováhy? ",
-			"WILLINGNESS": "V čom je pre teba úloha iná, keď zavriš oči, alebo zakloníš hlavu? Pri akých podkladoch môže byť balansovanie náročnejšie?"
+			"WILLINGNESS": "V čom je pre teba úloha iná, keď zavriš oči, alebo zakloníš hlavu? Pri akých podkladoch môže byť balansovanie náročnejšie?",
+            "PDF": "Postavte sa na jednu nohu na podložku do telocvične."
 		},
 		"DONT_WOBBLE": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -781,7 +831,8 @@
 			"BASIC_TASK": "Všetky deti pobehujú po telocvični. Na povel sa všetci zastavia a postavia sa na jednu nohu. Nesmú sa hojdať.",
 			"VARIATIONS": "Na povel sa zastav v rôznych polohách. Na povel udržuj rovnováhu vo zvolenej nestabilnej polohe. Používaj s rôznymi povelmi rôzne polohy. Keď sa pohneš, budeš dávať ďalší povel. Vyskúšaj si rôzne ďalšie polohy pre udržanie rovnováhy.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako sa ti podarilo, čo najrýchlejšie sa dostať do kľudu v stoji na jednej nohe? Ktoré rovnovážne polohy sa dajú ľahko zvládnuť?",
-			"WILLINGNESS": "Ako veľmi dokážeš upažiť a unožiť a pritom udržať rovnováhu v stoji na jednej nohe? Ako sa cítiš, keď nezvládaš rovnováhu udržať?"
+			"WILLINGNESS": "Ako veľmi dokážeš upažiť a unožiť a pritom udržať rovnováhu v stoji na jednej nohe? Ako sa cítiš, keď nezvládaš rovnováhu udržať?",
+            "PDF": "Urobte jednonohý postoj na povel."
 		},
 		"UNSTABLE_DEVICES": {
 			"MOBAK": "Pohyb vlastným telom",
@@ -791,7 +842,8 @@
 			"MATERIALS": "Balančné pomôcky, lopty, šliapadlá, gyroskopy atď.",
 			"VARIATIONS": "Pri balansovaní zavri oči. Zmeň polohu paží. Urob pri balansovaní ďalšie pohyby pažami (napr. kruhy). Balansuj na jednej nohe. Nechaj si pomôcť od iného dieťaťa.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Na čo si musíš dávať pozor, aby si udržal rovnováhu na nestabilnej balančnej pomôcke? Ako sa zmení rovnováha na nestabilnej pomôcke v porovnaní so stabilnou?",
-			"WILLINGNESS": "Na akej inej pomôcke môžeš balansovať? Ako si môžeš úlohu ešte sťažiť?"
+			"WILLINGNESS": "Na akej inej pomôcke môžeš balansovať? Ako si môžeš úlohu ešte sťažiť?",
+            "PDF": "Rovnováha na nestabilných zariadeniach."
 		}
 	},
 	"catching": "catching",
@@ -804,8 +856,9 @@
 			"BASIC_TASK": "Deti oboma rukami vyhadzujú loptu do vzduchu a opäť ju oboma rukami chytajú.",
 			"MATERIALS": "Rozličné lopty",
 			"VARIATIONS": "Vyhoďte loptu do vzduchu oboma rukami, raz alebo niekoľkokrát tlesknite a potom loptu chyťte oboma rukami.\r\nVyhoďte loptu do vzduchu oboma rukami a potom ju chyťte len jednou rukou.\r\nVyhoďte loptu do vzduchu oboma rukami, dotknite sa podlahy oboma rukami a potom chyťte loptu oboma rukami.\r\nVyhoďte loptu do vzduchu oboma rukami, otočte sa okolo vlastnej osi a potom loptu chyťte.\r\nVyhoďte loptu do vzduchu oboma rukami a potom ju chyťte za chrbtom.",
-			"KNOWLEDGE_AND_UNDERSTANDING": "Ako sa ti darí chytiť loptu opäť po hodení?                                               Pozoruj iné deti - Čo robia so svojimi rukami?",
-			"WILLINGNESS": "Ako vysoko dokážeš loptu hodiť a opäť chytiť?                                                     Popíš ten pocit, keď sa ti podarí chytiť loptu."
+			"KNOWLEDGE_AND_UNDERSTANDING": "Ako sa ti darí chytiť loptu opäť po hodení? Pozoruj iné deti - Čo robia so svojimi rukami?",
+			"WILLINGNESS": "Ako vysoko dokážeš loptu hodiť a opäť chytiť? Popíš ten pocit, keď sa ti podarí chytiť loptu.",
+            "PDF": "Vyhoďte loptu oboma rukami do vzduchu a znova ju chyťte."
 		},
 		"KEEP_THE_WATER_CLEAN": {
 			"MOBAK": "Pohyb s náčiním",
@@ -815,7 +868,8 @@
 			"MATERIALS": "Lopty, sieť, drevená / bedmintonová alebo (mäkká) tenisová raketa alternatívne: dlhá lavička / špagát na oddelenie, kužele, rôzne loptičky, balóny",
 			"VARIATIONS": "Chytajte loptičky pomocou kužeľa.\r\nLoptičky chytajte ľavou rukou, ak ide o loptičky na ľavej strane, a pravou rukou, ak ide o loptičky na pravej strane.\r\nLoptičky chytajte raketou.\r\nStriedavo odohrajte krátke a dlhé loptičky (dieťa A).\r\nNeustále si vymieňajte pozície.\r\nDieťa A hádže loptu cez sieť.\r\nAko sa postavíš, aby si loptu najlepšie chytil?  Kam sa pozeráš, aby si dobre chytil loptu?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako sa postavíš, aby si loptu najlepšie chytil?  \r\nKam sa pozeráš, aby si dobre chytil loptu?",
-			"WILLINGNESS": "Čo sa zmení, ak hráš proti inému dieťaťu?\r\nAko sa vám darí spoločne hádzať a chytať loptu?\r\n\r\n"
+			"WILLINGNESS": "Čo sa zmení, ak hráš proti inému dieťaťu?\r\nAko sa vám darí spoločne hádzať a chytať loptu?\r\n\r\n",
+            "PDF": "Vo dvojiciach: Jedno dieťa hrá loptičky cez sieť raketou, druhé dieťa ich chytá."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Pohyb s náčiním",
@@ -825,7 +879,8 @@
 			"MATERIALS": "Obruče, rôzne lopty",
 			"VARIATIONS": "Držte dve obruče (dieťa C).\r\nKotúľajte a chytajte loptu sami na druhej strane (dieťa A), takže úlohu vykonávate len s jedným ďalším dieťaťom, ktoré drží obruč.\r\nLoptu kopnite nohou.\r\nRozšírte skupinu tak, že všetky deti sa postavia s loptou na dlhšiu stranu telocvične. Pokúste sa trafiť svojou loptou (kotúľať, hádzať alebo kopať) fit loptu alebo obruč, ktorú po telocvični kotúľa učiteľ.\r\nOdohrajte loptu raketou cez obruč.\r\nKotúľajte loptu rukou.\r\nKotúľajte obručou po telocvični a hádžte, hádžte alebo kotúľajte loptu cez obruč.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\nAko sa ti darí kotuľať loptu cez obruče?\r\nČo sa zmení na pohybe tvojich rúk, keď namiesto kotúľania hádžeš?\r\n",
-			"WILLINGNESS": "Akým iným spôsobom môžeš dostať loptu cez obruče?\r\nKoľkokrát za sebou dokážeš chytiť loptu? Skús si dať cieľ a dosiahnuť ho.  Akým iným spôsobom sa môžeš hrať s loptou?\r\n"
+			"WILLINGNESS": "Akým iným spôsobom môžeš dostať loptu cez obruče?\r\nKoľkokrát za sebou dokážeš chytiť loptu? Skús si dať cieľ a dosiahnuť ho.  Akým iným spôsobom sa môžeš hrať s loptou?\r\n",
+            "PDF": "Tri z nich: Dieťa drží pneumatiku. Ďalší dvaja kotúľajú loptičku cez obruč."
 		},
 		"TIGERBALL": {
 			"MOBAK": "Pohyb s náčiním",
@@ -835,7 +890,8 @@
 			"MATERIALS": "Rôzne lopty",
 			"VARIATIONS": "Hrajte s dvoma loptami naraz.\r\nKruh postupne zväčšujte.\r\nMeňte výšku prihrávky.\r\nZaraďte rôzne spôsoby hádzania (napr. hádzanie zospodu, oboma rukami, cez hlavu).\r\nNeprihrávajte loptu dieťaťu, ktoré je priamo vedľa vás.\r\nLoptu kotúľajte k ďalšiemu dieťaťu.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nAko sa ti darí najlepšie chytiť loptu, keď si v strede?\r\nAký je najlepší spôsob trafiť iné dieťa, tak, aby dieťa v strede loptu nechytilo?",
-			"WILLINGNESS": "Kedy je táto hra najzábavnejšia?\r\nAko sa budeš správať, keď zistíš, že dieťa v strede nevie chytiť loptu?\r\nAko budete hrať, aby dieťa v strede loptu nechytilo?"
+			"WILLINGNESS": "Kedy je táto hra najzábavnejšia?\r\nAko sa budeš správať, keď zistíš, že dieťa v strede nevie chytiť loptu?\r\nAko budete hrať, aby dieťa v strede loptu nechytilo?",
+            "PDF": "Skupina: Dieťa stojí uprostred kruhu. Ostatní si navzájom prihrávajú loptu. Dieťa v strede sa snaží chytiť loptu. Obrátenie rolí."
 		},
 		"BOXING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -845,7 +901,8 @@
 			"MATERIALS": "Rôzne lopty",
 			"VARIATIONS": "Používajte rôzne loptičky.\r\nZmeňte vzdialenosť.\r\nZmeňte výšku prihrávky (dieťa A).\r\nZačleňte rôzne spôsoby hádzania (napr. hádzanie zospodu, pomocou oboch rúk, cez hlavu).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nAko dokážeš loptu hodiť presne na cieľ?\r\nNa čo budeš dávať pozor, aby si loptu dobre chytil?",
-			"WILLINGNESS": "Koľkokrát za sebou sa vám podarilo chytiť loptu z rôznych vzdialeností?\r\nAko dokážete vyriešiť túto úlohu spolu?\r\nDokážete chytiť loptu znovu z inej vzdialenosti?"
+			"WILLINGNESS": "Koľkokrát za sebou sa vám podarilo chytiť loptu z rôznych vzdialeností?\r\nAko dokážete vyriešiť túto úlohu spolu?\r\nDokážete chytiť loptu znovu z inej vzdialenosti?",
+            "PDF": "Vo dvojiciach: Dieťa má v ruke loptu a hrá s ňou loptu."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Pohyb s náčiním",
@@ -855,7 +912,8 @@
 			"MATERIALS": "Rôzne lopty",
 			"VARIATIONS": "Teraz hádžte loptu sem a tam s ďalším dieťaťom.\r\nZmeňte umiestnenie z kruhu na iné tvary (napr. štvorec, trojuholník, elipsu).\r\nPo prihrávke choďte na pozíciu, na ktorú ste prihrávali.\r\nZačleňte rôzne spôsoby hádzania (napr. hádzanie zospodu, pomocou oboch rúk, cez hlavu).\r\nKotúľajte loptu rukou, kopnite nohou alebo hrajte raketou.\"",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nAko sa pripravíš na to, aby si loptu dobre chytil?\r\nNa čo dávaš pozor, keď lopta letí k tebe?\r\n\r\nPrečo je dobré sa pozerať na dieťa, ktorému hádžeš loptu?\r\n",
-			"WILLINGNESS": "Podarí sa vám, aby všetci v kruhu chytili raz loptu bez toho, aby spadla na zem?\r\nAký je najrýchlejší spôsob hádzania a chytania lopty v kruhu?\r\n\r\n"
+			"WILLINGNESS": "Podarí sa vám, aby všetci v kruhu chytili raz loptu bez toho, aby spadla na zem?\r\nAký je najrýchlejší spôsob hádzania a chytania lopty v kruhu?\r\n\r\n",
+            "PDF": "Skupina: Postavte sa do kruhu a prihrajte si loptu. Dvojité prihrávky nie sú povolené."
 		},
 		"REACTING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -865,7 +923,8 @@
 			"MATERIALS": "Lopty",
 			"VARIATIONS": "Vyhadzuj loptu do rôznej výšky. Odraz loptu od podlahy a znovu ju chyť. Použi rôzne lopty. Dve alebo tri deti si navzájom prihrávajú. Variant: Prihrávaj loptu odrazom od podlahy.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Na čo sa musiš sústrediť, aby si otvoril oči až teste pred chytením lopty? Akú loptu dokážeš najlepšie chytiť? Vysvetli prečo?",
-			"WILLINGNESS": "Podarí sa ti chytič loptu aj naslepo? Ako priháš loptu inému dieťaťu, aby ju ľahko chytilo?"
+			"WILLINGNESS": "Podarí sa ti chytič loptu aj naslepo? Ako priháš loptu inému dieťaťu, aby ju ľahko chytilo?",
+            "PDF": "Vyhoďte loptu do vzduchu so zatvorenými očami a znova ju chyťte."
 		},
 		"WALL_BALL": {
 			"MOBAK": "Pohyb s náčiním",
@@ -875,7 +934,8 @@
 			"MATERIALS": "Lopty",
 			"VARIATIONS": "Použite rôzne lopty. Vyznačte na stene cieľové zóny. Hrajte len na jednu stenu. Po získaní bodu sa musí úspešný tím vrátiť pred ďalším útokom na vyznačnú líniu. Namiesto prihrávania si loptu navzájom kotúľajte.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Na čo si musíš dať pozor, aby sa ti darilo skórovať? Ako musíte v tíme spolupracovať pri odovzdávaní lopty, aby sa jej súper nezmocnil?",
-			"WILLINGNESS": "Ako sa mení dráha letu lopty pri použití rôznych typov lôpt? Aké nápady máš pre zmenu hry?"
+			"WILLINGNESS": "Ako sa mení dráha letu lopty pri použití rôznych typov lôpt? Aké nápady máš pre zmenu hry?",
+            "PDF": "Skupina: Rozdeľte sa na dva tímy. Bod sa dá dosiahnuť, ak jeden člen tímu hodí loptu na stenu a iný člen tímu ju chytí."
 		},
 		"TRAJECTORY": {
 			"MOBAK": "Pohyb s náčiním",
@@ -885,7 +945,8 @@
 			"MATERIALS": "Lopty",
 			"VARIATIONS": "Hádž loptu oproti stene tak, aby sa od podlahy odrazila predtým, ako ju znovu chytíč. Odhadzuj loptu na stenu z rôznych pozícií. Prihrávajte si loptu o stenu vo dvojiciach. Hrajte vo dvojici oproti sebe. Dohodnite sa na zóne, v ktorej musí byť lopta odrazená o stenu a kam musí lopta po odraze od steny dopadnúť. Ak nedokáže tvoj spoluhráč loptu po odraze chytiť, získavaš bod. ",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Dokážeš odhadnúť, kam lopty po odraze poletí? Ako sa pripravíš na chytenie lopty?",
-			"WILLINGNESS": "Koľkokrát za sebou dokážeš loptu chytiť? Ako sa cítiš, keď sa ti nedarí loptu chytiť?"
+			"WILLINGNESS": "Koľkokrát za sebou dokážeš loptu chytiť? Ako sa cítiš, keď sa ti nedarí loptu chytiť?",
+            "PDF": "Hoďte loptu na stenu a chyťte ju znova."
 		},
 		"FLYING_BALL": {
 			"MOBAK": "Pohyb sa náčiním",
@@ -895,7 +956,8 @@
 			"MATERIALS": "Lopty, gymnastické žinenky",
 			"VARIATIONS": "Použite rôzne lopty. Meňte pristávaciu plochu. Meňte veľkosť hracej plochy.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Pomocou akej taktiky sa darí tvojmu tímu získavať body? Čo sa zmení, ak zväčšíme hraciu plochu?",
-			"WILLINGNESS": "Darí sa ti chytiť loptu vo výskoku a dopadať na pristávaciu plochu? Akým spôsobom musíš prihrať loptu spoluhráčovi, aby sa mu darilo chytiť loptu na pristávacej ploche? Aké pravidlá by si doplnil pre obmenu hry?"
+			"WILLINGNESS": "Darí sa ti chytiť loptu vo výskoku a dopadať na pristávaciu plochu? Akým spôsobom musíš prihrať loptu spoluhráčovi, aby sa mu darilo chytiť loptu na pristávacej ploche? Aké pravidlá by si doplnil pre obmenu hry?",
+            "PDF": "Skupina: Rozdeľte sa na dva tímy. Bod je možné získať, ak člen tímu dokáže chytiť loptu skokom do pristávacej zóny."
 		},
 		"FISHERMAN": {
 			"MOBAK": "Pohyb s náčiním",
@@ -905,7 +967,8 @@
 			"MATERIALS": "Lopty",
 			"VARIATIONS": "Hádž lopty rýchlo za sebou. Pred každým hodom daj zvukový signál. Dieťa A oznámi, kam sa má lopta hodiť. Dieťa B stojí pripravené so zavretými očami a snaží sa, čo najrýchlejšie reagovať.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Na čo sa sústredíš, keď chytáš loptu? V akej pozícii by mali byť tvoje ruky a paže, aby si dokázal loptu chytiť?",
-			"WILLINGNESS": "Máš nejaký nápad, ako hru obmeniť a urobiť ju napínavejšou? Ako prihraješ, keď si dieťa A loptu dieťaťu B, aby to pre neho bola výzva, pričom stále dokáže loptu chytiť?"
+			"WILLINGNESS": "Máš nejaký nápad, ako hru obmeniť a urobiť ju napínavejšou? Ako prihraješ, keď si dieťa A loptu dieťaťu B, aby to pre neho bola výzva, pričom stále dokáže loptu chytiť?",
+            "PDF": "Vo dvojiciach: Hádžte loptičky k sebe v rôznych výškach."
 		}
 	},
 	"throwing": "throwing",
@@ -918,7 +981,8 @@
 			"MATERIALS": "Žonglovacie lopty, kobercové dlaždice, [rôzne ďalšie lopty]",
 			"VARIATIONS": "Začleňte obmeny hádzania (napr. zdola, oboma rukami, cez hlavu).\r\nPoužite rôzne loptičky.\r\nZväčšite alebo zmenšite vzdialenosť kobercových dlaždíc.\r\nPoužite menšie alebo väčšie kobercové dlaždice.\r\nZmeňte rozmiestnenie kobercových dlaždíc.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nČo zmeníš na svojom pohybe, ak triafaš 1 alebo 12?\r\nAko hádžeš loptu, aby si čo najlepšie trafil?\r\n\r\n",
-			"WILLINGNESS": "Ako by so zoradil polia na triafanie?\r\nAké iné predmety v telocvični môžeš použiť ako terče?\r\n\r\n"
+			"WILLINGNESS": "Ako by so zoradil polia na triafanie?\r\nAké iné predmety v telocvični môžeš použiť ako terče?\r\n\r\n",
+            "PDF": "Hodte žonglérsku loptičku na pole 1 a potom skočte zo štvorca 2 - 12 a späť. Potom hoďte loptu do štvorca 2 a skočte na pole 1 a potom 3 - 12 a späť. A tak ďalej."
 		},
 		"THROWING_STATIONS": {
 			"MOBAK": "Pohyb s náčíním",
@@ -928,7 +992,8 @@
 			"MATERIALS": "Rozličné lopty, švédske debny, obruče",
 			"VARIATIONS": "Hádžte loptu zo sedu.\r\nPostavte sa na švédsku debnu, hádžte loptu do koša.\r\nHádžte loptu (ľavou a pravou rukou) na vrch švédskej debny a potom sa snažte loptu chytiť.\r\nHádžte lopty ľavou a pravou rukou ponad alebo cez rebriny tak, aby ich mohlo iné dieťa chytiť.\r\nTrafte štyri značkovacie kužele zo švédskej debny pomocou piatich loptičiek.\r\nHádžte loptu do všetkých polí na rebrinách.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nČo sa pre teba zmení, ak hádžeš loptu jednou rukou a obojručne?\r\nAko máš postavené nohy pri hádzaní?\r\n\r\n",
-			"WILLINGNESS": "Stanov si konkrétny cieľ: Koľko loptičiek dokážeš hodiť do boxu za sebou?Čo sa zmení, keď vyzveš ďalšie dieťa?\r\nDarí sa ti trafiť bedňu aj z rôznych vzdialeností?"
+			"WILLINGNESS": "Stanov si konkrétny cieľ: Koľko loptičiek dokážeš hodiť do boxu za sebou?Čo sa zmení, keď vyzveš ďalšie dieťa?\r\nDarí sa ti trafiť bedňu aj z rôznych vzdialeností?",
+            "PDF": "Throw the ball into the Hoďte loptu do šestnástky"
 		},
 		"KEEP_YOUR_GARDEN_CLEAN": {
 			"MOBAK": "Pohyb s náčiním",
@@ -938,7 +1003,8 @@
 			"MATERIALS": "Dlhé lavičky, rôzne lopty",
 			"VARIATIONS": "Medzi oboma družstvami je vzdialenosť 3 m. Tento priestor je zóna bez hry (môže byť ohraničená kužeľmi a dlhými lavičkami). Mäkké lopty sa môžu iba hádzať a futbalové lopty sa môžu iba kopať. Tímy môžu získať body aj kopaním/hádzaním lôpt do steny súperovho družstva.\r\nHrajte hru s dvoma dlhými lavičkami (s malou vzdialenosťou medzi nimi).\r\nDlhá lavička sa otočí a položí na dve švédske debny. Lopty hádžte pod lavicu do protiľahlého ihriska.\r\nPo každom hode vyriešte úlohu, t. j. dotknite sa steny, hoďte loptu najprv na stenu a potom ju chyťte.\r\nSpoločne vymyslite ďalšie pravidlá hry.\r\nZapracujte varianty hádzania (napr. hádzanie zospodu, oboma rukami, cez hlavu).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nAko najrýchlejšie hodíš loptu na druhú stranu?\r\nHádžeš loptu inak, keď ju chytíš vo vzduchu alebo keď ju chytíš zo zeme?\r\n\r\n",
-			"WILLINGNESS": "Čo robíte ako tím spolu, aby bola záhrada čistá?\r\nNa čo dávaš pozor, aby si netrafil iné dieťa?\r\n\r\n"
+			"WILLINGNESS": "Čo robíte ako tím spolu, aby bola záhrada čistá?\r\nNa čo dávaš pozor, aby si netrafil iné dieťa?\r\n\r\n",
+            "PDF": "Skupiny: Rozdeľte sa do dvoch tímov. Počas stanoveného času hoďte čo najviac loptičiek na hraciu plochu druhého tímu."
 		},
 		"SCORE_MASTER": {
 			"MOBAK": "Pohyb s náčiním",
@@ -948,7 +1014,8 @@
 			"MATERIALS": "Lopty, rôzne terče (napr. kobercové dlaždice, obruče, podložky)",
 			"VARIATIONS": "Zaraďte do hry rôzne spôsoby hádzania (napr. hádzanie zospodu, oboma rukami, cez hlavu).\r\nZväčšujte alebo zmenšujte vzdialenosť terčov.\r\nPoužívajte časový limit na zasiahnutie terčov.\r\nPoužívajte rôzne terče.\r\nZvoľte si rôzne terče na stene.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nKtorý cieľ najlepšie trafíš?\r\nAko najlepšie hádžeš, aby si trafil cieľ?\r\n",
-			"WILLINGNESS": "Urob si plán: V akom poradí budeš triafať ciele, aby si mal čo najmenej pokusov?\r\nVyskúšaj úlohu vo dvojiciach: Koľko hodov potrebujete spolu, aby ste trafili všetky ciele naraz?\r\nDokážeš trafiť cieľ len s jedným pokusom?"
+			"WILLINGNESS": "Urob si plán: V akom poradí budeš triafať ciele, aby si mal čo najmenej pokusov?\r\nVyskúšaj úlohu vo dvojiciach: Koľko hodov potrebujete spolu, aby ste trafili všetky ciele naraz?\r\nDokážeš trafiť cieľ len s jedným pokusom?",
+            "PDF": "Zasiahnite všetky ciele čo najmenším počtom hodov."
 		},
 		"FALLING_OVER": {
 			"MOBAK": "Pohyb s náčiním",
@@ -958,7 +1025,8 @@
 			"MATERIALS": "Dlhé lavičky, terče (napr. stĺpy, nádoby na jogurt, kužele), rôzne lopty",
 			"VARIATIONS": "Zmeňte vzdialenosť cieľa.\r\nUmiestnite 2 dlhé lavičky do tvaru písmena V. Položte na ne terče a pokúste sa ich zasiahnuť z rôznych pozícií.\r\nHádžte v sede, v kľaku atď.\r\nZmeňte rozostavenie terčov.\r\nUmiestnite terče na inú úroveň (podlaha/švédska debna).\r\nHádžte druhou rukou.\r\nPoužívajte rôzne loptičky.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nAkým najlepším spôsobom dokážeš trafiť cieľ?\r\nČo musíš zmeniť ak chceš kotúĺať alebo hádzať loptu?",
-			"WILLINGNESS": "Aké iné náčinie na hádzanie je možné použiť?\r\nPriprav rôzne ciele/terče pre spolužiaka. Dokážeš mu pomôcť, aby všetky trafil?\r\n\r\n"
+			"WILLINGNESS": "Aké iné náčinie na hádzanie je možné použiť?\r\nPriprav rôzne ciele/terče pre spolužiaka. Dokážeš mu pomôcť, aby všetky trafil?\r\n\r\n",
+            "PDF": "Hoďte loptu na cieľ tak, aby sa prevrátila."
 		},
 		"HIT_THE_TARGET": {
 			"MOBAK": "Pohyb s náčiním",
@@ -968,7 +1036,8 @@
 			"MATERIALS": "Nádoby (napr. vedrá, veľké škatule, malé obrátené debničky), rôzne loptičky.",
 			"VARIATIONS": "Zaraďte do hry rôzne spôsoby hádzania (napr. hádzanie zospodu, oboma rukami, cez hlavu).\r\nNechajte ostatné deti presúvať nádoby.\r\nPostavte nádoby vedľa steny a hádžte loptičku o stenu tak, aby spadla do nádoby.\r\nRôzne vzdialenosti nádob.\r\nPoužívajte rôzne lopty.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nAko držíš ruky pri hádzaní, aby sa ti podarilo trafiť cieľ?\r\nKam sa pozeráš, aby si trafil nádobu?\r\n\r\n",
-			"WILLINGNESS": "Ako sa cítiš, keď trafíš nádobu?\r\nPodarí sa vám dvom naraz trafiť nádobu?\r\n\r\nAké iné nádoby môžeme použiť ako cieľ? "
+			"WILLINGNESS": "Ako sa cítiš, keď trafíš nádobu?\r\nPodarí sa vám dvom naraz trafiť nádobu?\r\n\r\nAké iné nádoby môžeme použiť ako cieľ? ",
+            "PDF": "Guľôčky vhoďte do nádob v poradí (od veľkých po malé)."
 		},
 		"THROWING_OFF": {
 			"MOBAK": "Pohyb s náčiním",
@@ -978,7 +1047,8 @@
 			"MATERIALS": "Švédske debny, látky, rôzne lopty",
 			"VARIATIONS": "Pripevnite látky a obruče na stenu. Snažte sa trafiť látku alebo vnútornú stranu obruče.\r\nZačleňte rôzne spôsoby hádzania (napr. hádzanie zospodu, oboma rukami, cez hlavu).\r\nPúšťajte handry rýchlejšie (dieťa na švédskej debne).\r\nZväčšujte alebo zmenšujte vzdialenosť terča.\r\nPúšťajte rôzne predmety (dieťa na švédskej debne).\r\nPoužívajte rôzne lopty.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nKedy hádžeš loptu, aby si trafil látku?\r\nAko sa zmení tvoj hod, keď zmeníš pozíciu ruky?\r\n",
-			"WILLINGNESS": "Dokážeš trafiť dve látky naraz?\r\nKam sa pozeráš, keď necháš spadnúť látku, aby ju mohlo trafiť iné dieťa?\r\n"
+			"WILLINGNESS": "Dokážeš trafiť dve látky naraz?\r\nKam sa pozeráš, keď necháš spadnúť látku, aby ju mohlo trafiť iné dieťa?\r\n",
+            "PDF": "Zasiahnite handričky skôr, ako padnú na zem."
 		},
 		"DICE": {
 			"MOBAK": "Pohyb s náčiním",
@@ -988,7 +1058,8 @@
 			"MATERIALS": "Rôzne lopty, švédska debna, dlhá lavička, hracie kocky",
 			"VARIATIONS": "Zväčšite alebo zmenšite cieľové plochy.\r\nZaraďte rôzne spôsoby hádzania (napr. hádzanie zospodu, oboma rukami, cez hlavu).\r\nZväčšite alebo zmenšite vzdialenosť terčov.\r\nPoužívajte rôzne lopty.\r\nZasiahnite všetkých 6 čísel loptou dvakrát.\r\nStanovte časový limit na zasiahnutie 6 čísel.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nČo potrebuješ zmeniť, keď chceš trafiť 6 namiesto 1?\r\nAký je tvoj najlepší spôsob trafiť čísla?\r\n\r\n",
-			"WILLINGNESS": "Ako sa pre teba zmení táto úloha, ak máš časový limit na trafenie všetkých čísel?\r\nTrafíš čísla, aj keď budeš hádzať druhou rukou?\r\n\r\n"
+			"WILLINGNESS": "Ako sa pre teba zmení táto úloha, ak máš časový limit na trafenie všetkých čísel?\r\nTrafíš čísla, aj keď budeš hádzať druhou rukou?\r\n\r\n",
+            "PDF": "Hoďte kockou a zamierte na číslo, ktoré ukazuje kocka."
 		},
 		"ENCHANT_AND_REDEEM": {
 			"MOBAK": "Pohyb s náčiním",
@@ -998,7 +1069,8 @@
 			"MATERIALS": "Mäkké lopty",
 			"VARIATIONS": "Kotúľajte väčšiu loptu.\r\nUmiestnite dvoch chytačov do väčšieho ihriska, kde existujú ochranné miesta, ako sú švédske debny atď. Dieťa môže využiť ochranné miesta len na prestávku, kým iné dieťa nevyhľadá ochranu.\r\nKolektívne nájdite ďalšie možnosti oslobodenia.\r\nZmeňte hru podľa vlastných predstáv",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nNa čo dávaš pozor, ak chceš trafiť dieťa v pohybe?\r\nAko budeš hádzať loptu, aby si trafil nohy dieťaťa?\r\n\r\n",
-			"WILLINGNESS": "S akými novými pravidlami by bola pre teba hra ešte zábavnejšia?\r\nAko sa pre teba zmení hra, keď bude viac chytačov?\r\n\r\nPáči sa ti táto hra? Prečo áno/nie?"
+			"WILLINGNESS": "S akými novými pravidlami by bola pre teba hra ešte zábavnejšia?\r\nAko sa pre teba zmení hra, keď bude viac chytačov?\r\n\r\nPáči sa ti táto hra? Prečo áno/nie?",
+            "PDF": "Skupina: Jedno dieťa sa snaží zasiahnuť ostatné loptičkou. Každý, kto je zasiahnutý, stojí s obkročmi na nohách. Vykúpi vás niekto, kto sa vám plazí pod nohami."
 		},
 		"THROWING_HOOPS": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1008,7 +1080,8 @@
 			"MATERIALS": "Kužele, krúžky",
 			"VARIATIONS": "Hádžte so zatvorenými očami.\r\nZmeňte východiskovú polohu (napr. poloha v drepe, poloha v sede, rotačný pohyb).\r\nZväčšujte alebo zmenšujte vzdialenosť kužeľa.\r\nHádžte z rôznych smerov (napr. zdola, zhora, do strán).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\nV čom sa líši hádzanie krúžkom a loptou?\r\nAko sa postavíš, aby si trafil kužeľ?\r\n",
-			"WILLINGNESS": "Z akej vzdialenosti na isto trafíš kužel?\r\nAko sa cítiš, keď triafaš kužel so zavretými očami?\r\n\r\nPodarilo sa ti trafiť kužel so zavretými očami?\r\n"
+			"WILLINGNESS": "Z akej vzdialenosti na isto trafíš kužel?\r\nAko sa cítiš, keď triafaš kužel so zavretými očami?\r\n\r\nPodarilo sa ti trafiť kužel so zavretými očami?\r\n",
+            "PDF": "Hoďte obruč okolo kužeľa."
 		},
 		"TARGET_HOOPS": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1018,7 +1091,8 @@
 			"MATERIALS": "Obruče, rôzne lopty",
 			"VARIATIONS": "Držte dve obruče (dieťa C).\r\nKotúľajte a chytajte loptu sami na druhej strane (dieťa A), takže úlohu vykonávate len s jedným ďalším dieťaťom, ktoré drží obruč.\r\nLoptu kopnite nohou.\r\nRozšírte skupinu tak, že všetky deti sa postavia s loptou na dlhšiu stranu telocvične. Pokúste sa trafiť svojou loptou (kotúľať, hádzať alebo kopať) fit loptu alebo obruč, ktorú po telocvični kotúľa učiteľ.\r\nOdohrajte loptu raketou cez obruč.\r\nKotúľajte loptu rukou.\r\nKotúľajte obručou po telocvični a hádžte, hádžte alebo kotúľajte loptu cez obruč.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nAko sa ti daí kotúľať cez obruče?\r\nČo zmeníš, ak chceš loptu hodiť medzi obruče a nie kotúľať?\r\n",
-			"WILLINGNESS": "Ako ešte môže posúvať loptu?\r\nKtorá možnosť posúvania lopty je pre teba najzábavnejšia?\r\n\r\nKoľkokrát za sebou dokážeš loptu chytiť? Daj si cieľ a snaž sa ho dosiahnuť. "
+			"WILLINGNESS": "Ako ešte môže posúvať loptu?\r\nKtorá možnosť posúvania lopty je pre teba najzábavnejšia?\r\n\r\nKoľkokrát za sebou dokážeš loptu chytiť? Daj si cieľ a snaž sa ho dosiahnuť. ",
+            "PDF": "Three of them: A child is holding a tire. The other two roll a ball through the hoopTri z nich: Dieťa drží pneumatiku. Ďalší dvaja kotúľajú loptičku cez obruč."
 		},
 		"TIGER_BALL": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1028,7 +1102,8 @@
 			"MATERIALS": "Rôzne lopty",
 			"VARIATIONS": "Hrajte s dvoma loptami naraz.\r\nKruh postupne zväčšujte.\r\nMeňte výšku prihrávky.\r\nZaraďte rôzne spôsoby hádzania (napr. hádzanie zospodu, oboma rukami, cez hlavu).\r\nNeprihrávajte loptu dieťaťu, ktoré je priamo vedľa vás.\r\nLoptu kotúľajte k ďalšiemu dieťaťu.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nAko sa ti najlepšie chytá lopta, keď si v strede?\r\nAký je najlepší spôsob hodiť loptu, tak aby ju dieťa v strede nechytilo?\r\n",
-			"WILLINGNESS": "Kedy je táto hra najzábavnejšia?\r\nČo urobíš, ak vidíš, že dieťa v strede nevie chytiť loptu?\r\n\r\nAko budete hrať, aby dieťa v strede loptu nechytilo? "
+			"WILLINGNESS": "Kedy je táto hra najzábavnejšia?\r\nČo urobíš, ak vidíš, že dieťa v strede nevie chytiť loptu?\r\n\r\nAko budete hrať, aby dieťa v strede loptu nechytilo? ",
+            "PDF": "Skupina: Dieťa stojí uprostred kruhu. Ostatní si navzájom prihrávajú loptu. Dieťa v strede sa snaží chytiť loptu. Obrátenie rolí."
 		},
 		"BOXING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1038,7 +1113,8 @@
 			"MATERIALS": "Rôzne lopty",
 			"VARIATIONS": "Používajte rôzne loptičky.\r\nZmeňte vzdialenosť.\r\nZmeňte výšku prihrávky (dieťa A).\r\nZačleňte rôzne spôsoby hádzania (napr. hádzanie zospodu, pomocou oboch rúk, cez hlavu).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nAko dokážeš najlepšie trafiť terč?\r\nNa čo dávaš pozor, keď sa snažíš dobre chytiť loptu?\r\n\r\n",
-			"WILLINGNESS": "Koľkokrát za sebou sa vám podarí chytiť loptu z rôznych vzdialeností?\r\nAko dokážete spolu vyriešiť úlohu?\r\n\r\nDarí sa vám chytať loptu z rôznych vzdialeností? "
+			"WILLINGNESS": "Koľkokrát za sebou sa vám podarí chytiť loptu z rôznych vzdialeností?\r\nAko dokážete spolu vyriešiť úlohu?\r\n\r\nDarí sa vám chytať loptu z rôznych vzdialeností? ",
+            "PDF": "Vo dvojiciach: Dieťa má v ruke loptu a hrá s ňou loptu."
 		},
 		"LOOKING_AT_THE_BALL": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1048,7 +1124,8 @@
 			"MATERIALS": "Rôzne lopty",
 			"VARIATIONS": "Teraz hádžte loptu sem a tam s ďalším dieťaťom.\r\nZmeňte umiestnenie z kruhu na iné tvary (napr. štvorec, trojuholník, elipsu).\r\nPo prihrávke choďte na pozíciu, na ktorú ste prihrávali.\r\nZačleňte rôzne spôsoby hádzania (napr. hádzanie zospodu, pomocou oboch rúk, cez hlavu).\r\nKotúľajte loptu rukou, kopnite nohou alebo hrajte raketou.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nAko sa pripravíš na to, aby si dobre chytil loptu?\r\nNa čo dávaš pozor, keď k tebe letí lopta?  Prečo pomáha,keď sa pozeráš na spoluhráča, ktorému hádžeš loptu?\r\n",
-			"WILLINGNESS": "Darí sa vám, aby každé dieťa v kruhu chytilo loptu pre padnutím na zem? Kedy je hádzanie a chytanie v kruhu najrýchlejšie?"
+			"WILLINGNESS": "Darí sa vám, aby každé dieťa v kruhu chytilo loptu pre padnutím na zem? Kedy je hádzanie a chytanie v kruhu najrýchlejšie?",
+            "PDF": "Skupina: Postavte sa do kruhu a prihrajte si loptu. Dvojité prihrávky nie sú povolené."
 		},
 		"WILD_PIG": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1058,7 +1135,8 @@
 			"MATERIALS": "Medicinbal, lavička, tenisové loptičky",
 			"VARIATIONS": "Vskúšaj si rôzne spôsoby hodov. Umiestnite doprostred basketbalovú alebo softbalovú loptu. Meňte vzdialenosť medzi lavičkami.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Aká technika hádzania je pre zasiahnutie divokého prasaťa najlepšia? Z akého postavenia sa ti hádže najpresnejšie?",
-			"WILLINGNESS": "Máš nejaký nápad, ako urobiť hru ešte napínavejšiu? Ako sa cítiš, keď zvíťazí tvoj tím?"
+			"WILLINGNESS": "Máš nejaký nápad, ako urobiť hru ešte napínavejšiu? Ako sa cítiš, keď zvíťazí tvoj tím?",
+            "PDF": "Skupina: Vytvorte dva tímy. Každý tím sa snaží natlačiť loptu v strede proti súperovej lavičke."
 		},
 		"DISTANCE_THROWING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1068,7 +1146,8 @@
 			"MATERIALS": "Lopty",
 			"VARIATIONS": "Po každom hode si vymeňte vzájomnú vzdialenosť. Vyskúšajte rôzne typy hodov. Používajte rôzne lopty. Kotúľajte loptu.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo zmeníš na svojom hode, keď druhé dieťa stojí bližšie? Ako môžeš hádzať loptu, čo najďalej a čo najpresnejšie?",
-			"WILLINGNESS": "Akými spôsobmi môžeš hádzať loptu? Koľko hodov dokážete spoločne zvládnuť, aby vám nespadla lopta na zem? Na akú najdlhšiu vzdialenosť môžeš prihrať loptu druhému dieťaťu?"
+			"WILLINGNESS": "Akými spôsobmi môžeš hádzať loptu? Koľko hodov dokážete spoločne zvládnuť, aby vám nespadla lopta na zem? Na akú najdlhšiu vzdialenosť môžeš prihrať loptu druhému dieťaťu?",
+            "PDF": "Vo dvojiciach: Prihrávajte si loptu na rôzne vzdialenosti."
 		}
 	},
 	"bouncing": "bouncing",
@@ -1081,7 +1160,8 @@
 			"MATERIALS": "Rôzne lopty, obruče, pásky (na označenie štvorca)",
 			"VARIATIONS": "Zmeňte veľkosť štvorca.\r\nPoužite rôzne loptičky.\r\nStanovte časový limit na splnenie úlohy.\r\nZmeňte počet obručí.\r\nZmeňte usporiadanie obručí.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nAko sa ti darí najlepšie driblovať??\r\nDribluješ s každou loptou rovnakým spôsobom?\r\n\r\n",
-			"WILLINGNESS": "Darí sa ti bez prestávky driblovať medzi obručami?\r\nAké to je mať časový limit na túto úlohu?\r\n\r\n"
+			"WILLINGNESS": "Darí sa ti bez prestávky driblovať medzi obručami?\r\nAké to je mať časový limit na túto úlohu?\r\n\r\n",
+            "PDF": "Odrazte sa 5x do obruče."
 		},
 		"BOUNCING_STATIONS": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1091,7 +1171,8 @@
 			"MATERIALS": "Rôzne lopty, dlhé lavičky.",
 			"VARIATIONS": "Prejdite telocvičňou a odrážajte loptu bez toho, aby ste ju stratili (použite ľavú aj pravú ruku).\r\nOdrážajte loptu okolo tela bez prerušenia.\r\nOdrážajte dve lopty súčasne bez toho, aby ste ich stratili.\r\nPrejdite po dlhej lavičke a zároveň odrážajte loptu od podlahy alebo od lavičky (potom dve lopty súčasne).\r\nDve dlhé lavičky sú umiestnené rovnobežne vo vzdialenosti 20 cm. Kráčajte po oboch lavičkách a zároveň odrážajte loptu od podlahy alebo od jednej z dlhých lavičiek (potom dve lopty súčasne).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nČo sa zmení, ak dribluješ pri tele alebo s natiahnutou rukou vpredu?\r\nKtoré časti ruky sa dotýkajú lopty pri driblovaní?\r\n\r\n",
-			"WILLINGNESS": "Dokážeš s iným dieťaťom naraz driblovať? Aký je to pocit?\r\nDajte si konkrétny cie: Koľkokrát za sebou chceš driblovať? Je to iné, ako bez cieľa a ak áno v čom?\r\n\r\nDarí sa ti driblovať do rytmu?\r\n"
+			"WILLINGNESS": "Dokážeš s iným dieťaťom naraz driblovať? Aký je to pocit?\r\nDajte si konkrétny cie: Koľkokrát za sebou chceš driblovať? Je to iné, ako bez cieľa a ak áno v čom?\r\n\r\nDarí sa ti driblovať do rytmu?\r\n",
+            "PDF": "Odrazte oboma rukami."
 		},
 		"BOUNCING_OVER_CONES": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1101,7 +1182,8 @@
 			"MATERIALS": "Rôzne lopty, kužele",
 			"VARIATIONS": "Prehoďte loptu driblovaním oboma rukami ponad kužeľ.\r\nLoptu odrážajte striedavo ľavou a pravou rukou.\r\nOdrážajte loptu a zároveň sa približujte ku kužeľu, odrazte loptu zvislo tesne pred kužeľom, obíďte kužeľ tak, že spravíte celý obrat a potom pokračujte v driblovaní.\r\nPoužívajte rôzne lopty.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nAko sa ti darí kráčať dopredu a pritom driblovať?\r\nNa čo dávaš pozor pri jednoručnom driblovaní?\r\n\r\n",
-			"WILLINGNESS": "Darí sa ti striedavo driblovať pravou a ľavou rukou?\r\nAko sa ti darí chytiť loptu za kuželom (1: vôbec, 5: vždy)? Ako sa zmení tvoje driblovanie, keď sa na teba pozerajú ostatní\r\n\r\n"
+			"WILLINGNESS": "Darí sa ti striedavo driblovať pravou a ľavou rukou?\r\nAko sa ti darí chytiť loptu za kuželom (1: vôbec, 5: vždy)? Ako sa zmení tvoje driblovanie, keď sa na teba pozerajú ostatní\r\n\r\n",
+            "PDF": "Odrazte sa loptou cez kužeľ."
 		},
 		"SEAT_BOUNCING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1111,7 +1193,8 @@
 			"MATERIALS": "Rôzne lopty, kužele",
 			"VARIATIONS": "Loptu odrážajte striedavo ľavou a pravou rukou.\r\nPredtým, ako si sadnete, obíďte raz kužele a zároveň odrážajte loptu.\r\nOdrážajte loptu a zároveň sa približujte ku kužeľom, položte jednu nohu na špičku kužeľa, trikrát odrazte loptu a položte nohu na zem. \r\nSpočítajte, kto na konci hracieho času získal najviac bodov (1 bod za každý správny odraz, celkovo za šesťnásobný odraz pri sedení na kužel).\r\nPoužite niekoľko lôpt.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nČo sa zmení na tvojom pohybe, keď sa zmení vzdialenosť medzi rukou a zemou?\r\nČo urobíš, aby si po výskoku mohol ďalej driblovať?\r\n\r\n",
-			"WILLINGNESS": "Darí sa ti driblovať v sede?\r\nPredstav si, že si zviera (opica, had, vták) a že v polohe tohto zvieraťa dribluješ? Ako sa cítiš v tejto polohe?                           Keď vidíš spolužiaka, ktorému sa nedarí driblovať, aké tipy mu dáš?\r\n"
+			"WILLINGNESS": "Darí sa ti driblovať v sede?\r\nPredstav si, že si zviera (opica, had, vták) a že v polohe tohto zvieraťa dribluješ? Ako sa cítiš v tejto polohe? Keď vidíš spolužiaka, ktorému sa nedarí driblovať, aké tipy mu dáš?\r\n",
+            "PDF": "Preskočte kužeľ pomocou posuvného náčinia. Sadnite si na klobúk a odrazte 3x ľavou rukou a 3x pravou rukou. Prejdite na ďalší kužeľ."
 		},
 		"NUMBERBALL_BOUNCING": {
 			"MOBAK": "Pohyb s náradím",
@@ -1121,7 +1204,8 @@
 			"MATERIALS": "Lopty, kužele, kôš",
 			"VARIATIONS": "Zmeň bránku z kužeľov.\r\nUmiestni pod kôš prekážky.\r\nPo vyvolaní čísla sa deti zo súperovho tímu môžu pokúsiť odraziť loptu súperiaceho dieťaťa, aby mu zabránili v dosiahnutí koša.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "„Ako sa ti darí byť pri koši rýchlejšie ako tvojmu súperovi?   Kam smeruje pri driblovaní v hracom poli tvoj pohľad?",
-			"WILLINGNESS": "\r\n„Ako by sme mohli pomôcť deťom, ktorým driblink veľmi nejde?\r\nMáš nápad, ako urobiť hru ešte napínavejšou?"
+			"WILLINGNESS": "\r\n„Ako by sme mohli pomôcť deťom, ktorým driblink veľmi nejde?\r\nMáš nápad, ako urobiť hru ešte napínavejšou?",
+            "PDF": "Odrazte sa cez bránu škrupiny a hoďte do koša, keď zavoláte na vaše číslo."
 		},
 		"SURROUNDING_HOOPS_WHILE_BOUNCING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1131,7 +1215,8 @@
 			"MATERIALS": "Kužele, gymnastické obruče, vrchná časť švédskej debny, 1 lopta na dieťa",
 			"VARIATIONS": "Prebehnite cez dve obruče s kontaktom jednej nohy s každou a odrážajte loptu na pravej a ľavej strane.\r\nZmeňte vzdialenosť obručí.\r\nPrejdite okolo dvoch obručí pri odraze lopty a pomocou opakovaných krokov (alebo záverečného skoku) dvojitým oblúkom/jednou celou otočkou (1 x otočka doprava a 1 x otočka doľava).\r\nPoužívajte rôzne lopty.\r\nPostavte si ďalší odrážací parkur/dráhu.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "\r\n\r\nAko sa ti daria rýchle zmeny smeru pri driblingu?\r\nJe jednoduchšie driblovať na zemi alebo na švédskej bedni?\r\n\r\n",
-			"WILLINGNESS": "Aké máš návrhy na zmeny driblovacieho parkúru, aby to bola väčšia zábava?\r\nDajte sa do dvojíc a súťažte, kto prejde dráhu rýchlejšie s driblingom?\r\n\r\n"
+			"WILLINGNESS": "Aké máš návrhy na zmeny driblovacieho parkúru, aby to bola väčšia zábava?\r\nDajte sa do dvojíc a súťažte, kto prejde dráhu rýchlejšie s driblingom?\r\n\r\n",
+            "PDF": "Odrazte sa cez bránu škrupiny a hoďte do koša, keď zavoláte na vaše číslo."
 		},
 		"SHADOW_BOUNCING": {
 			"MOBAK": "Pohyb s náradím",
@@ -1141,7 +1226,8 @@
 			"MATERIALS": "Lopty, event. náradie ako prekážky",
 			"VARIATIONS": "„Umiestni na ihrisko rôzne predmety slúžiace ako prekážky. Vymeň si role po tretej zmene smeru. Použi rôzne lopty. Pri odrážaní lopty použi obe ruky.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "„Ako sa ti darí čo najrýchlejšie tieňovať kamarátov?  Kam smeruje pri tieňovaní kamarátov tvoj pohľad?\"",
-			"WILLINGNESS": "„Ako by si sa mal správať ako dieťa A, aby ťa dieťa B dokázalo čo najlepšie tieňovať? Predstav si, že si ľubovoľné zviera – ako budeš driblovať? Uhádne dieťa B, o aké zviera ide?"
+			"WILLINGNESS": "„Ako by si sa mal správať ako dieťa A, aby ťa dieťa B dokázalo čo najlepšie tieňovať? Predstav si, že si ľubovoľné zviera – ako budeš driblovať? Uhádne dieťa B, o aké zviera ide?",
+            "PDF": "Vo dvojiciach: Jedno dieťa vedie cestu, modriny, druhé nasleduje."
 		},
 		"BENCH_BOUNCING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1151,7 +1237,8 @@
 			"MATERIALS": "Lopty, lavička",
 			"VARIATIONS": "„Odrážaj loptu na lavičke. Použi rôzne lopty. Využi na chôdzu rôzne náradie (žínenky, horný diel švédskej debny) a dribluj vedľa nich. Ustupuj dozadu a odrážaj loptou vedľa lavičky.\"",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo musíš pri driblingu zmeniť, aby sa ti darilo odrážať loptu vedľa lavičky? Ako sa ti darí driblovať a nespadnúť pritom z lavičky?",
-			"WILLINGNESS": "Aké náradie by si mohol pre dribling ešte využiť? Zvládneš prejsť po lavičke so zavretými očami a pritom driblovať?"
+			"WILLINGNESS": "Aké náradie by si mohol pre dribling ešte využiť? Zvládneš prejsť po lavičke so zavretými očami a pritom driblovať?",
+            "PDF": "Prejdite cez Lanbank a odrazte loptu vedľa lavičky."
 		},
 		"CIRCLE_BOUNCING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1161,7 +1248,8 @@
 			"MATERIALS": "Lopty",
 			"VARIATIONS": "Dribluj v opačnom smere.  Skús driblovať okolo seba v rôznych polohách. Pokús sa vydriblovať osmičku okolo svojho tela. Loptu pritom odrážak medzi nohami. Použi rôzne lopty. Otáčaj sa pri driblingu okolo vlastnej osi.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ktorou rukou sa lopta lepšie odráža? Popíš prečo? Kam smeruješ pohľad, aby si nad loptou nestratil kontrolu?",
-			"WILLINGNESS": "S akou loptou sa ti darí cvičenie najlepšie? Máš nejaké nápady, ako si cvičenie zťažiť alebo uľahčiť?"
+			"WILLINGNESS": "S akou loptou sa ti darí cvičenie najlepšie? Máš nejaké nápady, ako si cvičenie zťažiť alebo uľahčiť?",
+            "PDF": "Odrážajte loptu v kruhu okolo seba."
 		},
 		"BOUNCING_IN_DIFFERENT_POSITIONS": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1171,7 +1259,8 @@
 			"MATERIALS": "Lopty",
 			"VARIATIONS": "Ľahni si počas driblingu a znovu sa postav. Pri driblingu vyskúšaj rôzne polohy. Dribluj druhou rukou. Dribluj pravou rukou, posaď sa. V sede dribluj okolo nôh. Znovu sa postav a pritom odrážaj loptu ľavou rukou. Dribluj obidvomi (rôznymi) loptami súčasne",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo musíš pri driblingu zmeniť, aby si nestratil loptu, keď si sadáš? Ako držíš ruku (v akej pozícii) počas driblingu?",
-			"WILLINGNESS": "Vieš inému dieťaťu vysvetliť, ako najlepšie driblovať v sede? Vedel by si si pri driblingu v ľahu vymeniť ruky? Akým spôsobom sa ti to najviac darí?"
+			"WILLINGNESS": "Vieš inému dieťaťu vysvetliť, ako najlepšie driblovať v sede? Vedel by si si pri driblingu v ľahu vymeniť ruky? Akým spôsobom sa ti to najviac darí?",
+            "PDF": "Odrazte loptu, sadnite si na zem a znova vstaňte."
 		}
 	},
 	"dribbling": "dribbling",
@@ -1184,7 +1273,8 @@
 			"MATERIALS": "Futbalové lopty",
 			"VARIATIONS": "Používajte rôzne lopty.\r\nPred stenu umiestnite prekážku.\r\nPoužívajte rôzne typy streľby (napr. plochá, vysoká, vnútorná strana, podhmat).\r\nZmeňte vzdialenosť od steny (uhol, vzdialenosť).\r\nPoužite nerovný povrch (rebriny, krabicová stena).\r\nZmeňte veľkosť oblasti zastavenia.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ktorú časť chodidla používate na najlepší výstrel?\r\nAko najlepšie držať nohu, aby ste bezpečne zastavili loptu?",
-			"WILLINGNESS": "Ako inak by ste mohli prihrať loptu s nohou o stenu?\r\nAká je najdlhšia vzdialenosť, na ktorej môžete bezpečne zastaviť?\r\nVyskúšajte si: Koľkokrát za sebou dokážete úspešne prihrať a zastaviť loptu bez toho, aby ste ju stratili?"
+			"WILLINGNESS": "Ako inak by ste mohli prihrať loptu s nohou o stenu?\r\nAká je najdlhšia vzdialenosť, na ktorej môžete bezpečne zastaviť?\r\nVyskúšajte si: Koľkokrát za sebou dokážete úspešne prihrať a zastaviť loptu bez toho, aby ste ju stratili?",
+            "PDF": "Vystrelte loptu o stenu a zastavte skákajúcu loptu nohou."
 		},
 		"LINE_DRIBBLING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1194,7 +1284,8 @@
 			"MATERIALS": "Lopty",
 			"VARIATIONS": "Použite rôzne lopty.\r\nVeďte loptu pozdĺž štyroch čiar volejbalového ihriska bez toho, aby ste ju stratili.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ktorou časťou chodidla vediete loptu?\r\nNa čo sa pri vedení lopty nohou zameriavate, aby ste nestratili loptu?",
-			"WILLINGNESS": "Môžete viesť loptu nohou iným spôsobom?\r\nDokážete to urobiť oboma nohami?\r\nPrečo je dobré byť schopný viesť loptu nohou?"
+			"WILLINGNESS": "Môžete viesť loptu nohou iným spôsobom?\r\nDokážete to urobiť oboma nohami?\r\nPrečo je dobré byť schopný viesť loptu nohou?",
+            "PDF": "Driblujte s loptou po celej dĺžke haly."
 		},
 		"WALL_OFF": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1204,7 +1295,8 @@
 			"MATERIALS": "Lopty",
 			"VARIATIONS": "Zahrajte loptu 10-krát nohou smerom k inému dieťaťu bez toho, aby ste loptu stratili.\r\nZahrajte loptu 10-krát pri behu nohou smerom k inému dieťaťu bez straty lopty.\r\nPoužívajte rôzne lopty.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako dosiahnete, aby sa lopta vždy vrátila k vám?\r\nAko sa najlepšie postaviť voči stene? ",
-			"WILLINGNESS": "Podarí sa vám vo dvojici prihrať si loptu cez stenu?\r\nSkúste si vytvoriť rytmus pri prihrávaní lopty o stenu - aký je to pocit?\r\nKtorou nohou je pre vás táto úloha ľahšia? Prečo si myslíte, že je to tak?"
+			"WILLINGNESS": "Podarí sa vám vo dvojici prihrať si loptu cez stenu?\r\nSkúste si vytvoriť rytmus pri prihrávaní lopty o stenu - aký je to pocit?\r\nKtorou nohou je pre vás táto úloha ľahšia? Prečo si myslíte, že je to tak?",
+            "PDF": "Zahrajte loptu proti múru desaťkrát z bezprostrednej blízkosti."
 		},
 		"LIFT_BALL": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1214,7 +1306,8 @@
 			"MATERIALS": "Dlhé lavičky, lopty",
 			"VARIATIONS": "Používajte rôzne lopty.\r\nVyberte si rôzne ciele.\r\nZdvihnite loptu druhou nohou.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako dokážeš zdvihnúť loptu nohou?\r\nČo zmeníte, aby ste loptu zdvihli ponad lavičku z väčšej vzdialenosti?",
-			"WILLINGNESS": "Z akej vzdialenosti sa vám to darí?\r\nPozorujte ostatné deti, ako riešia danú úlohu - môžete im pomôcť pri riešení úlohy?\r\nDokážete zdvihnúť loptu nohou nad iné veci?"
+			"WILLINGNESS": "Z akej vzdialenosti sa vám to darí?\r\nPozorujte ostatné deti, ako riešia danú úlohu - môžete im pomôcť pri riešení úlohy?\r\nDokážete zdvihnúť loptu nohou nad iné veci?",
+            "PDF": "Zdvihnite loptu 5-krát jednou nohou do dlhého štvorca lavice."
 		},
 		"DRIBBLING_1": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1224,7 +1317,8 @@
 			"MATERIALS": "Lopty",
 			"VARIATIONS": "Pri stretnutí v strede si odovzdajte loptu.\r\nDriblujte s loptou až do stredu telocvične, potom ju prihrajte dieťaťu, ktoré čaká na opačnej strane.\r\nČo najrýchlejšie dostaňte loptu na druhú stranu.\r\nNechoďte priamo na druhú stranu, ale diagonálne cez telocvičňu (dbajte na to, aby ste nenarazili do iných detí).\r\nPoužívajte rôzne lopty.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Akým spôsobom sa ti najlepšie vedie lopta?\r\nKam sa pozeráš, keď vedieš loptu nohou?\r\nPrečo si myslíte, že je ľahšie bežať bez lopty?",
-			"WILLINGNESS": "Skúste si uprostred ihriska pri prihrávaní tlesknúť rukami!\r\nAko môžete svojmu spoluhráčovi pri tejto úlohe čo najlepšie pomôcť?\r\nDokážete viesť loptu súčasne vo dvojiciach? "
+			"WILLINGNESS": "Skúste si uprostred ihriska pri prihrávaní tlesknúť rukami!\r\nAko môžete svojmu spoluhráčovi pri tejto úlohe čo najlepšie pomôcť?\r\nDokážete viesť loptu súčasne vo dvojiciach? ",
+            "PDF": "Vo dvojiciach: Jedno dieťa má loptu. Bežte k sebe. Dieťa s loptou dribluje. Mení úlohy po 5 kolách."
 		},
 		"DRIBBLING_2": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1234,7 +1328,8 @@
 			"MATERIALS": "Gymnastické podložky, kužele, lopty",
 			"VARIATIONS": "Zmeňte trasu slalomu.\r\nPoužívajte rôzne lopty.\r\nNastavte časový limit, počas ktorého musí byť úloha splnená.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako najlepšie zmeniť smer pri vedení lopty nohou?\r\nSledujte, či používate stále tú istú nohu - ak nie, kedy používate druhú?\r\nVediete loptu vždy tou istou nohou? Prečo?",
-			"WILLINGNESS": "Vytvorte si vlastnú dráhu s kužeľmi a veďte loptu okolo nich - koho dráha je najzábavnejšia?\r\nDokážete nasledovať iné dieťa, ktoré ide cez slalom?"
+			"WILLINGNESS": "Vytvorte si vlastnú dráhu s kužeľmi a veďte loptu okolo nich - koho dráha je najzábavnejšia?\r\nDokážete nasledovať iné dieťa, ktoré ide cez slalom?",
+            "PDF": "Driblujte po slalomovej dráhe s loptou a zakončite strelou na bránu."
 		},
 		"IN_THE_LAND_OF_SHELLS_1": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1244,7 +1339,8 @@
 			"MATERIALS": "Rôzne lopty, laná (alebo gymnastické obruče)",
 			"VARIATIONS": "Obíďte mušle v danom poradí.\r\nStopnite čas a porovnajte ho so svojím časom z predchádzajúcich pokusov.\r\nPoužívajte rôzne lopty.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako najlepšie viesť loptu okolo mušle?\r\nKtorý spôsob si vyberiete, keď musíte obísť všetky mušle raz?\r\nAko vediete loptu nohou?",
-			"WILLINGNESS": " Počas jedného kola sa všetci snažte byť čo najtichšie, aby ste neprebudili mušle!\r\nPredstavte si, že ste chobotnica a zároveň vediete loptu okolo mušlí - aký je to pocit?\r\nAký je to pocit, keď to spravíte s inou loptou?"
+			"WILLINGNESS": " Počas jedného kola sa všetci snažte byť čo najtichšie, aby ste neprebudili mušle!\r\nPredstavte si, že ste chobotnica a zároveň vediete loptu okolo mušlí - aký je to pocit?\r\nAký je to pocit, keď to spravíte s inou loptou?",
+            "PDF": "Driblujte loptou okolo 'spiacich' mušlí ležiacich na dne mora."
 		},
 		"IN_THE_LAND_OF_SHELLS_2": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1254,7 +1350,8 @@
 			"MATERIALS": "Rôzne lopty, gymnastické obruče (alebo laná)",
 			"VARIATIONS": "Použite rôzne loptičky.\r\nPokúste sa ako prvý obísť všetky mušle.\r\nZväčšite priestor alebo znížte počet \"krabích\" detí.\r\nZmeňte úlohu krabov (t. j. vytrhnúť loptu).",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako môžeš ochrániť svoju loptu pred krabmi?\r\nKam sa pozeráte, keď vediete loptu, aby ste ju ochránili?",
-			"WILLINGNESS": "Ktorý spôsob si vyberiete, aby ste sa vyhli štipnutiu?\r\nMôžete ako krab uchmatnúť loptu votrelcovi?\r\nPredstavte si, že máte čarovnú moc, ktorá vám pomôže v tejto úlohe vyniknúť. Opíšte, akú moc by ste si vybrali a ako by vás motivovala."
+			"WILLINGNESS": "Ktorý spôsob si vyberiete, aby ste sa vyhli štipnutiu?\r\nMôžete ako krab uchmatnúť loptu votrelcovi?\r\nPredstavte si, že máte čarovnú moc, ktorá vám pomôže v tejto úlohe vyniknúť. Opíšte, akú moc by ste si vybrali a ako by vás motivovala.",
+            "PDF": "Driblujte loptou okolo 'spiacich' mušlí ležiacich na dne mora. Nedovoľte, aby vás rakovina chytila."
 		},
 		"PROTECT_YOUNG_FISH": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1264,7 +1361,8 @@
 			"MATERIALS": "Rôzne lopty, kužele",
 			"VARIATIONS": "Dbajte na to, aby každé dieťa v kruhu dostalo loptu aspoň raz (napr. prostredníctvom stanoveného poradia prihrávok).\r\nPoužívajte rôzne lopty.\r\nPoužívajte rôzne lopty naraz.\r\nZorganizujte úlohu ako turnaj, kde rôzne skupiny vytvoria kruh a súťažia medzi sebou.\r\nNa presun lopty použite vždy len jednu nohu.\r\n",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Čo sa zmení pri spoločnom vedení lopty v porovnaní so samostatným vedením lopty?\r\nNa čo si dávate pozor, keď driblujete s loptou v skupine?",
-			"WILLINGNESS": "Dokážete v skupine presúvať niekoľko lôpt naraz?\r\nAko si môžete v skupine navzájom pomáhať?\r\nVyskúšajte túto úlohu ako súťaž (niekoľko skupín ju robí súčasne - vyhráva najrýchlejšia skupina): Uprednostňujete plnenie úlohy so súťažením s ostatnými alebo bez neho a prečo?"
+			"WILLINGNESS": "Dokážete v skupine presúvať niekoľko lôpt naraz?\r\nAko si môžete v skupine navzájom pomáhať?\r\nVyskúšajte túto úlohu ako súťaž (niekoľko skupín ju robí súčasne - vyhráva najrýchlejšia skupina): Uprednostňujete plnenie úlohy so súťažením s ostatnými alebo bez neho a prečo?",
+            "PDF": "Skupina: Vytvorte kruh a držte sa za ruky. Nohami prenáša rôzne loptičky na druhú stranu haly."
 		},
 		"WITHIN_SHARK_TERRITORY": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1274,7 +1372,8 @@
 			"MATERIALS": "Lopty, laná",
 			"VARIATIONS": "Ten, koho sa dotknú, musí splniť úlohu navyše (napr. viesť loptu cez slalomovú dráhu z kužeľov).\r\nPrihrajte si loptu medzi 2 deťmi a pokúste sa vstúpiť do žraločieho územia.\r\nZmeňte úlohu žraloka.\r\nDotknite sa 6 detí čo najrýchlejšie.\r\nPoužívajte rôzne lopty.\r\nKto prvý vstúpi do územia 5-krát?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Akým spôsobom sa najlepšie dostanete na druhú stranu bez toho, aby vás žralok chytil?\r\nAký je najlepší spôsob vedenia lopty nohou, keď sa zároveň pozeráš na žraloka?",
-			"WILLINGNESS": "Podarí sa vám ako žralokovi zobrať loptu a pokračovať v jej vedení?\r\nAko postupujete, aby vás nechytili?\r\nKedy by podľa vás malo žraloka nahradiť iné dieťa a prečo?"
+			"WILLINGNESS": "Podarí sa vám ako žralokovi zobrať loptu a pokračovať v jej vedení?\r\nAko postupujete, aby vás nechytili?\r\nKedy by podľa vás malo žraloka nahradiť iné dieťa a prečo?",
+            "PDF": "Driblujte s loptou okolo žraloka bez toho, aby ste ju stratili."
 		},
 		"DRIBBLING_VARIATIONS": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1284,7 +1383,8 @@
 			"MATERIALS": "Lopty",
 			"VARIATIONS": "Snaž sa viesť loptu tak, aby si sa nedotkol modrej (alebo inej) farebnej čiary. Veď loptu do strán. Veď loptu dozadu. Hľadaj iné spôsoby vedenia lopty. Postav do cesty prekážky a veď loptu okolo nich.",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Akým spôsobom sa ti najlepšie vedie lopta?Kedy sa ktorou časťou nohy dotýkaš lopty?",
-			"WILLINGNESS": "Vieš pri vedení lopty plynule  meniť smer? Vymysli si malú choreografiu s vedením lopty a predveď ju inému dieťaťu."
+			"WILLINGNESS": "Vieš pri vedení lopty plynule  meniť smer? Vymysli si malú choreografiu s vedením lopty a predveď ju inému dieťaťu.",
+            "PDF": "Driblujte s loptou cez halu."
 		},
 		"DRIBBLING_NUMBER_BALL": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1294,7 +1394,8 @@
 			"MATERIALS": "Lopty, klobúčiky",
 			"VARIATIONS": "Použi rôzne lopty. Použi rôzne brány. Hráči súperovho družstva môžu loptu odkopnúť preč. Hraj bez súperovho tímu. Hraj hru vo dvojici: kto dá prvý gól?",
 			"KNOWLEDGE_AND_UNDERSTANDING": "Ako sa ti najlepšie vedie lopta okolo kužeľov? Ako môžeš byť rýchlejší ako dieťa zo súperovho tímu? ",
-			"WILLINGNESS": "Aké to je, keď je niekto iný rýchlejši? Predstav si, že si zviera. Ako by tučniak, tiger alebo slon viedli loptu okolo kužeľov?"
+			"WILLINGNESS": "Aké to je, keď je niekto iný rýchlejši? Predstav si, že si zviera. Ako by tučniak, tiger alebo slon viedli loptu okolo kužeľov?",
+            "PDF": "Driblujte cez bránu pylónu a strieľajte na cieľovú bránu, keď zavoláte na vaše číslo."
 		},
 		"PROTECTING_PERSON_DRIBBLING": {
 			"MOBAK": "Pohyb s náčiním",
@@ -1304,7 +1405,8 @@
 			"WILLINGNESS": "Čo by si mal ako dieťa A robiť, aby ťa ostatné deti mohli napodobňovať? Akú radu by si dal inému dieťaťu, ktoré sa snaží dieťa A napodobňovať?",
 			"QUALIFICATION": "Vedenie lopty nohou",
 			"MATERIALS": "Lopty",
-			"VARIATIONS": "Dieťa A stojí ku skupine čelom a deti zrkadlovo napodobňujú pohyb."
+			"VARIATIONS": "Dieťa A stojí ku skupine čelom a deti zrkadlovo napodobňujú pohyb.",
+            "PDF": "Skupina: Jedno dieťa dribluje dopredu a ostatné ho nasledujú."
 		}
 	},
 	"PDF_TESTRESULT": {

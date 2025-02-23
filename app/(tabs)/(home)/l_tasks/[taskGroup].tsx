@@ -145,8 +145,8 @@ const LearningTaskGroupScreen = () => {
 			PASS_ROWS += `
                 <tr>
                     <td style="max-width: 100px;">
-                    <h4 style="margin-bottom: 5px;">${t(task + ".TITLE")}</h4>
-                    <p style="margin: 0;">${t(task + ".BASIC_TASK")}</p>
+                    <h4 style="margin-bottom: 5px; margin-top: 2.5px;">${t(task + ".TITLE")}</h4>
+                    <p style="margin: 0;">${t(task + ".PDF")}</p>
                     </td>
                     <td></td>
                     <td></td>
@@ -159,9 +159,9 @@ const LearningTaskGroupScreen = () => {
         </td>
         */
 
-		const formattedHtml = PDF_PASS.replace("%%PASS_TITLE%%", "Pass from: ")
-			.replace("%%REACHING_GOAL%%", "How I do it")
-			.replace("%%MY_IDEA%%", "My Idea")
+		const formattedHtml = PDF_PASS.replace("%%PASS_TITLE%%", t("PASS_NAME") + ":")
+			.replace("%%REACHING_GOAL%%", t("PASS_REFELCTION"))
+			.replace("%%MY_IDEA%%", t("PASS_IDEA"))
 			.replace("%%PASS_ROWS%%", PASS_ROWS);
 
 		try {
@@ -204,7 +204,7 @@ const LearningTaskGroupScreen = () => {
 						style={{ borderRadius: 0 }}
 						onPressIn={exportPDF}
 					>
-						download selected
+						{t("rate_classroom_download_selected")}
 					</Button>
 				)}
 				<Button
@@ -212,7 +212,7 @@ const LearningTaskGroupScreen = () => {
 					style={{ borderRadius: 0 }}
 					onPress={() => setCurrentMode(currentMode === "select" ? "view" : "select")}
 				>
-					{currentMode === "select" ? "cancel selection" : "select tasks"}
+					{currentMode === "select" ? t("rate_classroom_cancel_selection") : t("rate_classroom_select_task")}
 				</Button>
 			</View>
 			{taskList.map((task) => (

@@ -1,6 +1,6 @@
 {
 	"expo": {
-		"name": "Mobak",
+		"name": "MOBAK",
 		"slug": "mobak",
 		"version": "1.0.0",
 		"orientation": "portrait",
@@ -14,7 +14,7 @@
 		},
         "assetBundlePatterns": ["**/*"],
 		"ios": {
-			"supportsTablet": true,
+            "isTabletOnly": true,
 			"bundleIdentifier": "de.saukels.mobak"
 		},
 		"android": {

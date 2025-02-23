@@ -53,10 +53,5 @@ export default [
         lang: 'pt',
         langText: 'Portuguese',
         icon: 'portugal',
-    },
-    {
-        lang: 'sl',
-        langText: 'Slovenian',
-        icon: 'slovenia',
     }
 ]

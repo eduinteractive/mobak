@@ -128,7 +128,7 @@ const ClassScreen = () => {
 					contentStyle={styles.testButtonInner}
 					onPress={() => router.push(`/(tabs)/(classes)/${classId}/longitudinal`)}
 				>
-					<Text>Longitudinal Analysis</Text>
+					<Text>{t("rate_classroom_longitudinal_analysis")}</Text>
 				</Button>
 			)}
 			<View style={styles.studentContent}>

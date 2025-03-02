@@ -20,6 +20,7 @@ import {
 	Title,
 } from "react-native-paper";
 import { Modal as RNModal } from "react-native";
+import * as Device from "expo-device";
 
 interface ClassEditProps {
 	values?: {
@@ -242,13 +243,13 @@ const ClassEdit = (props: ClassEditProps) => {
 const styles = StyleSheet.create({
 	headerWrapper: {
 		backgroundColor: "rgb(255, 255, 255)",
-		height: 100,
+		height: Device.deviceType === Device.DeviceType.PHONE ? 110 : 100,
 		width: "100%",
 		flexDirection: "row",
 		justifyContent: "space-between",
 		alignItems: "center",
 		padding: 20,
-		paddingTop: 40,
+		paddingTop: Device.deviceType === Device.DeviceType.PHONE ? 60 : 40,
 	},
 	headerTitle: {
 		fontSize: 20,

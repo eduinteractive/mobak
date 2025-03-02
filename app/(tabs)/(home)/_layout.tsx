@@ -6,6 +6,7 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 import { Image, Platform, StyleSheet, TouchableOpacity, View } from "react-native";
 import { Text } from "react-native-paper";
+import * as Device from "expo-device";
 
 const HomeLayout = () => {
 	const { t } = useTranslation();
@@ -220,9 +221,9 @@ const HomeLayout = () => {
 const styles = StyleSheet.create({
 	headerContainer: {
 		backgroundColor: "white",
-		paddingTop: Platform.OS === "ios" ? 20 : 0,
+		paddingTop: Device.deviceType === Device.DeviceType.PHONE ? 50 : Platform.OS === "ios" ? 20 : 0,
 		paddingLeft: 20,
-		height: Platform.OS === "ios" ? 90 : 60,
+		height: Device.deviceType === Device.DeviceType.PHONE ? 110 : Platform.OS === "ios" ? 90 : 60,
 		flexDirection: "row",
 		alignItems: "center",
 	},

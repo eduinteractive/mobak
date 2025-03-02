@@ -6,6 +6,7 @@ import { useColorScheme } from "@/hooks/useColorScheme";
 import Animated, { Easing, useAnimatedStyle, useSharedValue, withTiming } from "react-native-reanimated";
 import { Image, Platform, StyleSheet, View } from "react-native";
 import { useTranslation } from "react-i18next";
+import * as Device from "expo-device";
 
 const TabLayout = () => {
 	const { t } = useTranslation();
@@ -46,8 +47,13 @@ const TabLayout = () => {
 			screenOptions={{
 				tabBarLabelPosition: "below-icon",
 				tabBarStyle: {
-					height: Platform.OS === "ios" ? 80 : 70,
-					paddingTop: 10,
+					height:
+						Platform.OS === "ios"
+							? Device.deviceType === Device.DeviceType.PHONE
+								? 90
+								: 80
+							: 70,
+					paddingTop: Device.deviceType === Device.DeviceType.PHONE ? 5 : 10,
 					paddingBottom: 10,
 				},
 				tabBarActiveTintColor: Colors[colorScheme ?? "light"].tint,
@@ -72,10 +78,10 @@ const TabLayout = () => {
 				},
 			}}
 		>
-            <Tabs.Screen
-                name="index"
-                options={{ href: null }}
-            />
+			<Tabs.Screen
+				name="index"
+				options={{ href: null }}
+			/>
 			<Tabs.Screen
 				name="(home)"
 				options={{
@@ -125,7 +131,8 @@ const TabLayout = () => {
 const styles = StyleSheet.create({
 	headerContainer: {
 		backgroundColor: "white",
-		paddingTop: 20,
+		paddingTop: Device.deviceType === Device.DeviceType.PHONE ? 40 : 20,
+		marginTop: 20,
 		paddingLeft: 20,
 		height: Platform.OS === "ios" ? 140 : 100,
 		flexDirection: "row",

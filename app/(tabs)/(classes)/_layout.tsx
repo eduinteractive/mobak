@@ -3,8 +3,8 @@ import { useClasses } from "@/hooks/useClasses";
 import { MaterialIcons } from "@expo/vector-icons";
 import { router, Stack } from "expo-router";
 import { useTranslation } from "react-i18next";
-import { StyleSheet, TouchableOpacity, View } from "react-native";
-import { Icon, Text, Title } from "react-native-paper";
+import { Platform, StyleSheet, TouchableOpacity, View } from "react-native";
+import { Title } from "react-native-paper";
 
 const ClassesLayout = () => {
 	const { t } = useTranslation();
@@ -20,7 +20,7 @@ const ClassesLayout = () => {
 			<Stack.Screen
 				name="new"
 				options={{
-					presentation: "fullScreenModal",
+					presentation: "card",
 					animation: "slide_from_bottom",
 				}}
 			/>
@@ -31,22 +31,26 @@ const ClassesLayout = () => {
 					return {
 						headerShown: true,
 						headerTitle: getClass(params.classId)?.name,
-                        headerLeft: () => (
-                            <TouchableOpacity
-									onPress={() => router.back()}
-									style={{
-										backgroundColor: "white",
-										padding: 7.5,
-										borderRadius: 7.5,
-									}}
-								>
-									<MaterialIcons
-										name="keyboard-double-arrow-left"
-										size={24}
-										color="black"
-									/>
-								</TouchableOpacity>
-                        ),
+						headerLeft:
+							Platform.OS === "ios"
+								? () => (
+										<TouchableOpacity
+											onPress={() => router.back()}
+											style={{
+												backgroundColor:
+													"white",
+												padding: 7.5,
+												borderRadius: 7.5,
+											}}
+										>
+											<MaterialIcons
+												name="keyboard-double-arrow-left"
+												size={24}
+												color="black"
+											/>
+										</TouchableOpacity>
+								  )
+								: undefined,
 						headerRight: () => (
 							<TouchableOpacity
 								onPressIn={() =>
@@ -68,14 +72,14 @@ const ClassesLayout = () => {
 			<Stack.Screen
 				name="[classId]/new-student"
 				options={{
-					presentation: "fullScreenModal",
+					presentation: "card",
 					animation: "slide_from_bottom",
 				}}
 			/>
 			<Stack.Screen
 				name="[classId]/edit"
 				options={{
-					presentation: "fullScreenModal",
+					presentation: "card",
 					animation: "slide_from_bottom",
 				}}
 			/>
@@ -88,6 +92,26 @@ const ClassesLayout = () => {
 						headerTitle: getClass(params.classId)?.testresults.find(
 							(testresult) => testresult.id === params.testresultId
 						)?.createdAt,
+						headerLeft:
+							Platform.OS === "ios"
+								? () => (
+										<TouchableOpacity
+											onPress={() => router.back()}
+											style={{
+												backgroundColor:
+													"white",
+												padding: 7.5,
+												borderRadius: 7.5,
+											}}
+										>
+											<MaterialIcons
+												name="keyboard-double-arrow-left"
+												size={24}
+												color="black"
+											/>
+										</TouchableOpacity>
+								  )
+								: undefined,
 					};
 				}}
 			/>
@@ -101,7 +125,7 @@ const ClassesLayout = () => {
 					};
 					const taskObject = getTaskObjectByTaskGroup(params.task);
 					return {
-						presentation: "fullScreenModal",
+						presentation: "card",
 						animation: "slide_from_bottom",
 						header: () => (
 							<View
@@ -158,6 +182,26 @@ const ClassesLayout = () => {
 					return {
 						headerShown: true,
 						headerTitle: student?.firstName + " " + student?.lastName,
+						headerLeft:
+							Platform.OS === "ios"
+								? () => (
+										<TouchableOpacity
+											onPress={() => router.back()}
+											style={{
+												backgroundColor:
+													"white",
+												padding: 7.5,
+												borderRadius: 7.5,
+											}}
+										>
+											<MaterialIcons
+												name="keyboard-double-arrow-left"
+												size={24}
+												color="black"
+											/>
+										</TouchableOpacity>
+								  )
+								: undefined,
 					};
 				}}
 			/>
@@ -179,6 +223,26 @@ const ClassesLayout = () => {
 							getClass(params.classId)?.students.find(
 								(student) => student.id === params.studentId
 							)?.lastName,
+						headerLeft:
+							Platform.OS === "ios"
+								? () => (
+										<TouchableOpacity
+											onPress={() => router.back()}
+											style={{
+												backgroundColor:
+													"white",
+												padding: 7.5,
+												borderRadius: 7.5,
+											}}
+										>
+											<MaterialIcons
+												name="keyboard-double-arrow-left"
+												size={24}
+												color="black"
+											/>
+										</TouchableOpacity>
+								  )
+								: undefined,
 					};
 				}}
 			/>

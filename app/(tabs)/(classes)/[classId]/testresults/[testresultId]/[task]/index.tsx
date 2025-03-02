@@ -7,6 +7,7 @@ import { Href, router, useLocalSearchParams } from "expo-router";
 import { useTranslation } from "react-i18next";
 import { StyleSheet, TouchableOpacity, View } from "react-native";
 import { Card, Text, Title } from "react-native-paper";
+import * as Device from "expo-device";
 
 const taskKeyMap = {
 	task_balancing: "balance",
@@ -168,9 +169,9 @@ const ClassTestresultsTasks = () => {
 
 const styles = StyleSheet.create({
 	headerContainer: {
-		paddingTop: 30,
+        paddingTop: Device.deviceType === Device.DeviceType.PHONE ? 50 : 30,
 		paddingLeft: 20,
-		height: 100,
+        height: Device.deviceType === Device.DeviceType.PHONE ? 110 : 100,
 		flexDirection: "row",
 		alignItems: "center",
 	},
@@ -256,6 +257,7 @@ const styles = StyleSheet.create({
 		fontSize: 12,
 		color: "#000",
 		zIndex: 3,
+        width: "90%",
 	},
 	roundButton: {
 		position: "absolute",

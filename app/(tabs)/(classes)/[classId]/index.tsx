@@ -7,6 +7,7 @@ import { useTranslation } from "react-i18next";
 import { StyleSheet, TouchableOpacity, View } from "react-native";
 import { Button, Card, Text, Title } from "react-native-paper";
 import uuid from "react-native-uuid";
+import * as Device from "expo-device";
 
 const ClassScreen = () => {
 	const { getClass, updateClass } = useClasses();
@@ -229,6 +230,8 @@ const styles = StyleSheet.create({
 	studentButton: {
 		zIndex: 3,
 		borderRadius: 7.5,
+        width: Device.deviceType === Device.DeviceType.PHONE ? "50%" : "auto",
+        fontSize: 5,
 	},
 	card: {
 		height: 70,

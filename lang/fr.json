@@ -1419,6 +1419,7 @@
 		"INSTRUCTION_2": "Ensuite, sélectionnez la ou les tâches MOBAK dans lesquelles votre classe a obtenu le score le plus bas (ligne grise : moyenne de la classe 0-2 points). ",
 		"INSTRUCTION_3": "Notez également la répartition de performance dans les tâches MOBAK entre les élèves de votre classe (zone en dessous de la ligne grise: valeurs en pourcentage 0-100%). ",
 		"INSTRUCTION_4": "Sélectionnez les exercices éducatifs MOBAK qui correspondent aux exercices de test MOBAK. ",
-		"INSTRUCTION_END": "En outre, les enseignants doivent également identifier les domaines de compétences MOBAK et les tâches MOBAK dans lesquels les élèves montrent des points forts particuliers afin de les encourager continûment. En connaissant et en soutenant les compétences existantes des élèves, nous pouvons renforcer leur confiance et leur motivation à apprendre. "
+		"INSTRUCTION_END": "En outre, les enseignants doivent également identifier les domaines de compétences MOBAK et les tâches MOBAK dans lesquels les élèves montrent des points forts particuliers afin de les encourager continûment. En connaissant et en soutenant les compétences existantes des élèves, nous pouvons renforcer leur confiance et leur motivation à apprendre. ",
+        "CLASS_AVERAGE": "Moyenne de classe"
 	}
 }

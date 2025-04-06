@@ -1417,6 +1417,7 @@
 		"INSTRUCTION_2": "Wählen Sie dort die MOBAK-Aufgabe(n) aus, bei der Ihre Klasse die geringste Punktzahl erreicht hat (graue Zeile: Klassendurchschnitt 0-2 Punkte).",
 		"INSTRUCTION_3": "Beachten Sie auch die Verteilung der Leistungen in den MOBAK-Aufgaben innerhalb Ihrer Klasse (Bereich unterhalb der grauen Zeile: Prozentwerte 0-100%).",
 		"INSTRUCTION_4": "Wählen Sie MOBAK-Lernaufgaben aus, die dieser MOBAK-Testaufgabe entsprechen.",
-		"INSTRUCTION_END": "Zusätzlich sollten die Lehrpersonen auch die MOBAK-Kompetenzbereiche und MOBAK-Aufgaben identifizieren, in denen die Schüler*innen besondere Stärken zeigen, um diese weiter zu fördern. Indem wir die vorhandenen Kompetenzen der Schüler*innen kennen und unterstützen, können wir ihr Selbstvertrauen und ihre Motivation für das Lernen stärken. "
+		"INSTRUCTION_END": "Zusätzlich sollten die Lehrpersonen auch die MOBAK-Kompetenzbereiche und MOBAK-Aufgaben identifizieren, in denen die Schüler*innen besondere Stärken zeigen, um diese weiter zu fördern. Indem wir die vorhandenen Kompetenzen der Schüler*innen kennen und unterstützen, können wir ihr Selbstvertrauen und ihre Motivation für das Lernen stärken. ",
+        "CLASS_AVERAGE": "Klassendurchschnitt"
 	}
 }

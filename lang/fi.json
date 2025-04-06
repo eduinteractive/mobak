@@ -1419,6 +1419,7 @@
 		"INSTRUCTION_2": "Valitse tältä osaamisalueelta MOBAK-tehtävät, joissa luokkasi on saanut alhaisimmat pisteet (harmaa rivi: luokan keskiarvo 0-2 pistettä). ",
 		"INSTRUCTION_3": "Tarkastele lisäksi MOBAK-tehtävien suoritusten jakautumista luokassasi (harmaan rivin alapuolella oleva alue: prosenttiarvot 0-100%).",
 		"INSTRUCTION_4": "Valitse MOBAK-oppimistehtävät, jotka vastaavat tätä MOBAK-testitehtävää.",
-		"INSTRUCTION_END": "Lisäksi opettajien olisi hyvä tunnistaa MOBAK-osaamisalueet ja MOBAK-tehtävät, joissa oppilaat osoittavat erityisiä vahvuuksia näiden motoristen perustaitojen edistämiseksi. Tuntemalla ja tukemalla lasten olemassa olevaa osaamista voimme vahvistaa heidän itseluottamustaan ja oppimismotivaatiotaan."
+		"INSTRUCTION_END": "Lisäksi opettajien olisi hyvä tunnistaa MOBAK-osaamisalueet ja MOBAK-tehtävät, joissa oppilaat osoittavat erityisiä vahvuuksia näiden motoristen perustaitojen edistämiseksi. Tuntemalla ja tukemalla lasten olemassa olevaa osaamista voimme vahvistaa heidän itseluottamustaan ja oppimismotivaatiotaan.",
+        "CLASS_AVERAGE": "Luokkakeskiarvo"
 	}
 }

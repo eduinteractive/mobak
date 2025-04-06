@@ -1421,6 +1421,7 @@
 		"INSTRUCTION_2": "Kies in dit competentiegebied de MOBAK taak of taken waar je klas de laagste score heeft behaald (grijze rij: klasgemiddelde 0-2 punten). ",
 		"INSTRUCTION_3": "Houd daarnaast rekening met de verdeling van prestatieniveaus in de MOBAK taken binnen je klas (gebied onder de grijze rij: procentuele waarden 0-100%).",
 		"INSTRUCTION_4": "Kies de MOBAK-leertaken die overeenkomen met deze MOBAK-testtaak. ",
-		"INSTRUCTION_END": "Daarnaast dienen leerkrachten de MOBAK-competentiegebieden en MOBAK-taken identificeren waarin de leerlingen bijzonder sterk zijn om deze motorische basiscompetenties verder te bevorderen. Door de bestaande competenties van de kinderen te kennen en te ondersteunen, kunnen we hun zelfvertrouwen en motivatie om te leren versterken."
+		"INSTRUCTION_END": "Daarnaast dienen leerkrachten de MOBAK-competentiegebieden en MOBAK-taken identificeren waarin de leerlingen bijzonder sterk zijn om deze motorische basiscompetenties verder te bevorderen. Door de bestaande competenties van de kinderen te kennen en te ondersteunen, kunnen we hun zelfvertrouwen en motivatie om te leren versterken.",
+        "CLASS_AVERAGE": "Klassengemiddelde"
 	}
 }

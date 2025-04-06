@@ -1409,6 +1409,7 @@
 		"INSTRUCTION_2": "En esta área de competencia, seleccione la(s) tarea(s) MOBAK en la(s) que su clase haya obtenido la puntuación más baja (fila gris: promedio de la clase 0-2 puntos). ",
 		"INSTRUCTION_3": "Además, tenga en cuenta la distribución de los niveles de rendimiento en las tareas de MOBAK dentro de su clase (área debajo de la fila gris: valores porcentuales 0-100%). ",
 		"INSTRUCTION_4": "Elija las tareas de aprendizaje motrices que corresponden a esta tarea de MOBAK. ",
-		"INSTRUCTION_END": "Además, los profesores y profesoras pueden identificar las dimensiones y las tareas de MOBAK en las que el estudiantado muestra fortalezas particulares, para promover aún más estas competencias motrices básicas. Al conocer y apoyar las competencias existentes de los niños y niñas, podemos fortalecer su autopercepción y su motivación para aprender. "
+		"INSTRUCTION_END": "Además, los profesores y profesoras pueden identificar las dimensiones y las tareas de MOBAK en las que el estudiantado muestra fortalezas particulares, para promover aún más estas competencias motrices básicas. Al conocer y apoyar las competencias existentes de los niños y niñas, podemos fortalecer su autopercepción y su motivación para aprender. ",
+        "CLASS_AVERAGE": "Promedio de la clase"
 	}
 }

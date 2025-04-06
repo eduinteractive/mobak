@@ -1421,6 +1421,7 @@
 		"INSTRUCTION_2": "Nesta área de competência, selecione a(s) tarefa(s) MOBAK em que a sua turma obteve a pontuação mais baixa (linha cinzenta: média da turma 0-2 pontos).",
 		"INSTRUCTION_3": "Além disso, considere a distribuição dos níveis de desempenho nas tarefas MOBAK dentro da sua turma (área abaixo da linha cinza: valores percentuais de 0-100%).",
 		"INSTRUCTION_4": "Escolha as tarefas de aprendizagem MOBAK que correspondem a esta tarefa de teste MOBAK. ",
-		"INSTRUCTION_END": "Além disso, os professores devem identificar as áreas de competência MOBAK e tarefas MOBAK em que os alunos mostram pontos fortes particulares para promover ainda mais essas competências motoras básicas. Conhecendo e apoiando as competências existentes das crianças, podemos reforçar a sua autoconfiança e motivação para a aprendizagem."
+		"INSTRUCTION_END": "Além disso, os professores devem identificar as áreas de competência MOBAK e tarefas MOBAK em que os alunos mostram pontos fortes particulares para promover ainda mais essas competências motoras básicas. Conhecendo e apoiando as competências existentes das crianças, podemos reforçar a sua autoconfiança e motivação para a aprendizagem.",
+        "CLASS_AVERAGE": "Média da classe"
 	}
 }

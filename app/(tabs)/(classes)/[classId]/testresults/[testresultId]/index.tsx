@@ -148,7 +148,7 @@ const ClassStudentTestresults = () => {
             <tr>
                 <td></td>
                 <td></td>
-                <td><strong>Class average</strong></td>
+                <td><strong>${t("PDF_TESTRESULT.CLASS_AVERAGE")}</strong></td>
                 <td>${calculateItemAverage("balance")}</td>
                 <td>${calculateItemAverage("roll")}</td>
                 <td>${calculateItemAverage("jump")}</td>

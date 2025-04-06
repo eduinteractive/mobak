@@ -1421,6 +1421,7 @@
 		"INSTRUCTION_2": "In quest'area di competenza, seleziona le attività MOBAK per le quali la tua classe ha ottenuto il punteggio più basso (linea grigia: media della classe 0-2 punti). ",
 		"INSTRUCTION_3": "Inoltre, considera la distribuzione dei livelli di prestazione nelle attività MOBAK all'interno della tua classe (area sotto la riga grigia: valori percentuali 0-100%). ",
 		"INSTRUCTION_4": "Scegli i compiti di apprendimento MOBAK che corrispondono a questo test MOBAK. ",
-		"INSTRUCTION_END": "Inoltre, gli insegnanti dovrebbero identificare le aree di competenza MOBAK e i compiti MOBAK in cui gli studenti mostrano particolari punti di forza al fine di promuovere ulteriormente queste competenze motorie di base. Conoscendo e supportando le competenze esistenti dei bambini, possiamo rafforzare la loro fiducia in se stessi e la motivazione per l'apprendimento. "
+		"INSTRUCTION_END": "Inoltre, gli insegnanti dovrebbero identificare le aree di competenza MOBAK e i compiti MOBAK in cui gli studenti mostrano particolari punti di forza al fine di promuovere ulteriormente queste competenze motorie di base. Conoscendo e supportando le competenze esistenti dei bambini, possiamo rafforzare la loro fiducia in se stessi e la motivazione per l'apprendimento. ",
+        "CLASS_AVERAGE": "Media della classe"
 	}
 }

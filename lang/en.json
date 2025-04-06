@@ -1421,6 +1421,7 @@
 		"INSTRUCTION_2": "In this competence area, select the MOBAK task(s) where your class has achieved the lowest score (gray row: class average 0-2 points). ",
 		"INSTRUCTION_3": "In addition, consider the distribution of performance levels in the MOBAK tasks within your class (area below the gray row: percentage values 0-100%).",
 		"INSTRUCTION_4": "Choose the MOBAK learning tasks that correspond with this MOBAK test task.",
-		"INSTRUCTION_END": "Additionally, teachers should identify the MOBAK competence areas and MOBAK tasks in which the students show particular strengths to further promote these basic motor competencies. By knowing and supporting the children's existing competencies, we can strengthen their self-confidence and motivation for learning. "
+		"INSTRUCTION_END": "Additionally, teachers should identify the MOBAK competence areas and MOBAK tasks in which the students show particular strengths to further promote these basic motor competencies. By knowing and supporting the children's existing competencies, we can strengthen their self-confidence and motivation for learning. ",
+        "CLASS_AVERAGE": "Class average"
 	}
 }

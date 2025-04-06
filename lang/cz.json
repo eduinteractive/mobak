@@ -1421,6 +1421,7 @@
 		"INSTRUCTION_2": "V této kompetenční oblasti vyberte úlohy MOBAK, ve kterých Vaše třída dosáhla nejnižšího skóre (šedý řádek: průměr třídy 0-2 body).",
 		"INSTRUCTION_3": "Posuďte rozložení výsledků Vaší třídy v úlohách MOBAK (oblast pod šedým řádkem: procentuální hodnoty 0-100 %).",
 		"INSTRUCTION_4": "Vyberte výukové úlohy MOBAK, které odpovídají této testovací úloze MOBAK.",
-		"INSTRUCTION_END": "Kromě toho by se učitelé měli zaměřit i na kompetenční oblasti a úlohy MOBAK, ve kterých žáci dosáhli dobrých výsledků, aby mohli dále rozvíjet své silné stránky. Pokud budou učitelé znát a podporovat další rozvoj stávajících kompetencí dětí, budou schopni posílit jejich sebevědomí a motivaci k dalšímu učení."
+		"INSTRUCTION_END": "Kromě toho by se učitelé měli zaměřit i na kompetenční oblasti a úlohy MOBAK, ve kterých žáci dosáhli dobrých výsledků, aby mohli dále rozvíjet své silné stránky. Pokud budou učitelé znát a podporovat další rozvoj stávajících kompetencí dětí, budou schopni posílit jejich sebevědomí a motivaci k dalšímu učení.",
+        "CLASS_AVERAGE": "Průměr třídy"
 	}
 }

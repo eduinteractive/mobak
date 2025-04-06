@@ -1415,6 +1415,7 @@
 		"INSTRUCTION_2": "V tejto oblasti kompetencií vyberte úlohu (úlohy) MOBAK, kde vaša trieda dosiahla najnižšie skóre (sivý riadok: priemer triedy 0-2 body). ",
 		"INSTRUCTION_3": "Okrem toho zvážte rozloženie úrovní výkonu v úlohách MOBAK v rámci vašej triedy (oblasť pod sivým riadkom: percentuálne hodnoty 0-100 %). ",
 		"INSTRUCTION_4": "Vyberte si učebné úlohy MOBAK, ktoré zodpovedajú tejto testovacej úlohe MOBAK. ",
-		"INSTRUCTION_END": "Okrem toho by učitelia mali identifikovať oblasti kompetencií MOBAK a úlohy MOBAK, v ktorých študenti preukazujú osobitne silné stránky na ďalšiu podporu týchto základných pohybových kompetencií. Poznaním a podporou existujúcich kompetencií detí môžeme posilniť ich sebavedomie a motiváciu učiť sa."
+		"INSTRUCTION_END": "Okrem toho by učitelia mali identifikovať oblasti kompetencií MOBAK a úlohy MOBAK, v ktorých študenti preukazujú osobitne silné stránky na ďalšiu podporu týchto základných pohybových kompetencií. Poznaním a podporou existujúcich kompetencií detí môžeme posilniť ich sebavedomie a motiváciu učiť sa.",
+        "CLASS_AVERAGE": "Priemer triedy"
 	}
 }

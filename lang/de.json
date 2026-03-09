@@ -62,7 +62,7 @@
 	"student_updated_snackbar": "Änderungen wurden gespeichert.",
 	"student_deleted_snackbar": "Schüler*in wurde gelöscht.",
 	"rate_classroom_dashboard_title": "Wähle einen Aufgabe zum Testen",
-	"rate_classroom_dashboard_rates_number": "getestet",
+	"rate_classroom_dashboard_rates_number": "/ {{count}} getestet",
 	"rate_classroom_dashboard_end_session": "Test beenden",
 	"rate_classroom_end_session_dialog_title": "Test wirklich beenden?",
 	"rate_classroom_end_session_dialog_description": "Resultate werden gespeichert und können nicht mehr verändert werden.",

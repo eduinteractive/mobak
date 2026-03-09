@@ -9,13 +9,14 @@ import { Href, router, useLocalSearchParams, useNavigation } from "expo-router";
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import { Image, StyleSheet, TouchableOpacity, View } from "react-native";
-import { Button, Card, Dialog, Portal, Text, Title } from "react-native-paper";
+import { Button, Card, Dialog, Portal, Text, TextInput, Title } from "react-native-paper";
 import * as Print from "expo-print";
 import { shareAsync } from "expo-sharing";
 import * as FileSystem from "expo-file-system";
 import * as IntentLauncher from "expo-intent-launcher";
 import { Platform } from "react-native";
 import { PDF_TESTRESULT } from "@/constants/PDF";
+import { ProcessMOBAKDataRequest, UPLOAD_API_URL } from "@/constants/UploadApi";
 
 const taskImages = {
 	MOBAK_1_2: {
@@ -57,8 +58,12 @@ const objectMoveKeyd = ["bouncing", "catch", "throw", "dribble"];
 const ClassStudentTestresults = () => {
 	const { classId, testresultId } = useLocalSearchParams();
 	const { getClass, updateClass } = useClasses();
-	const { t } = useTranslation();
+	const { t, i18n } = useTranslation();
 	const [endDialogVisible, setEndDialogVisible] = useState(false);
+	const [uploadDialogVisible, setUploadDialogVisible] = useState(false);
+	const [uploadEmail, setUploadEmail] = useState("");
+	const [uploadLoading, setUploadLoading] = useState(false);
+	const [uploadError, setUploadError] = useState<string | null>(null);
 
 	const currentClass = getClass(classId as string);
 
@@ -281,6 +286,68 @@ const ClassStudentTestresults = () => {
 		}
 	};
 
+	const handleUploadForTomAndPdf = async () => {
+		const email = uploadEmail.trim();
+		if (!email) return;
+		const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+		if (!emailRegex.test(email)) {
+			setUploadError(t("rate_classroom_upload_email_invalid"));
+			return;
+		}
+		if (!UPLOAD_API_URL) {
+			setUploadError(t("rate_classroom_upload_error"));
+			return;
+		}
+		const resultsWithStudents = currentTestresult!.results.map((result) => {
+			const student = currentClass?.students.find((s) => s.id === result.studentId);
+			return { result, student };
+		});
+		const missingData = resultsWithStudents.some(
+			({ student }) =>
+				!student?.firstName?.trim() ||
+				!student?.lastName?.trim() ||
+				!student?.birthdate?.trim()
+		);
+		if (missingData) {
+			setUploadError(t("rate_classroom_upload_missing_data"));
+			return;
+		}
+		setUploadLoading(true);
+		setUploadError(null);
+		try {
+			const results = resultsWithStudents.map(({ result, student }) => ({
+				firstName: student!.firstName,
+				lastName: student!.lastName,
+				birthdate: student!.birthdate!,
+				balance: result.balance,
+				roll: result.roll,
+				jump: result.jump,
+				catch: result.catch,
+				throw: result.throw,
+				walk: result.walk,
+				bouncing: result.bouncing,
+				dribble: result.dribble,
+			}));
+			const payload: ProcessMOBAKDataRequest = {
+				mail: email,
+				results,
+			};
+			const response = await fetch(UPLOAD_API_URL, {
+				method: "POST",
+				headers: { "Content-Type": "application/json" },
+				body: JSON.stringify(payload),
+			});
+			if (!response.ok) throw new Error("Upload failed");
+			setUploadDialogVisible(false);
+			setUploadEmail("");
+			// Could show Snackbar with rate_classroom_upload_success here
+		} catch {
+			setUploadError(t("rate_classroom_upload_error"));
+		} finally {
+			setUploadLoading(false);
+		}
+	};
+
 	// Calculate the average of selfMove items together
 	const selfMoveAverage = currentTestresult!.results.reduce((acc, result) => {
 		return (
@@ -367,8 +434,7 @@ const ClassStudentTestresults = () => {
 											: 0),
 									0
 								)}{" "}
-								/ {currentTestresult?.results.length}{" "}
-								{t("rate_classroom_dashboard_rates_number")}
+								{t("rate_classroom_dashboard_rates_number", { count: currentTestresult?.results.length })}
 							</Text>
 						</View>
 					</View>
@@ -463,6 +529,77 @@ const ClassStudentTestresults = () => {
 					>
 						{t("rate_classroom_export")}
 					</Button>
+					{i18n.language === "nl" && (
+						<Button
+							mode="contained"
+							style={styles.endButton}
+							onPress={() => {
+								setUploadEmail("");
+								setUploadError(null);
+								setUploadDialogVisible(true);
+							}}
+						>
+							{t("rate_classroom_upload_button")}
+						</Button>
+					)}
+
+					<Portal>
+						<Dialog
+							visible={uploadDialogVisible}
+							onDismiss={() => {
+								setUploadDialogVisible(false);
+								setUploadError(null);
+							}}
+						>
+							<Dialog.Title>
+								{t("rate_classroom_upload_dialog_title")}
+							</Dialog.Title>
+							<Dialog.Content>
+								<Text variant="bodyMedium" style={styles.uploadDialogDescription}>
+									{t("rate_classroom_upload_dialog_description")}
+								</Text>
+								<Text
+									variant="bodySmall"
+									style={styles.uploadDataProtectionNotice}
+								>
+									{t("rate_classroom_upload_data_protection_notice")}
+								</Text>
+								<TextInput
+									label={t("rate_classroom_upload_email_label")}
+									placeholder={t("rate_classroom_upload_email_placeholder")}
+									value={uploadEmail}
+									onChangeText={setUploadEmail}
+									keyboardType="email-address"
+									autoCapitalize="none"
+									autoComplete="email"
+									error={!!uploadError}
+									style={styles.uploadEmailInput}
+								/>
+								{uploadError ? (
+									<Text variant="bodySmall" style={styles.uploadErrorText}>
+										{uploadError}
+									</Text>
+								) : null}
+							</Dialog.Content>
+							<Dialog.Actions>
+								<Button
+									onPress={() => {
+										setUploadDialogVisible(false);
+										setUploadError(null);
+									}}
+								>
+									{t("general_cancel")}
+								</Button>
+								<Button
+									onPress={handleUploadForTomAndPdf}
+									loading={uploadLoading}
+									disabled={uploadLoading}
+								>
+									{t("rate_classroom_upload_submit")}
+								</Button>
+							</Dialog.Actions>
+						</Dialog>
+					</Portal>
 
 					<View style={styles.evaluationWrapper}>
 						<Title>{t("rate_classroom_average_self_movement")}</Title>
@@ -715,6 +852,21 @@ const styles = StyleSheet.create({
 		fontWeight: "bold",
 		color: "limegreen",
 		zIndex: 3, // Text über allem
+	},
+	uploadDialogDescription: {
+		marginBottom: 16,
+	},
+	uploadDataProtectionNotice: {
+		marginBottom: 16,
+		fontStyle: "italic",
+		color: "rgba(0, 0, 0, 0.7)",
+	},
+	uploadEmailInput: {
+		marginTop: 8,
+	},
+	uploadErrorText: {
+		color: "rgb(179, 38, 30)",
+		marginTop: 8,
 	},
 });
 

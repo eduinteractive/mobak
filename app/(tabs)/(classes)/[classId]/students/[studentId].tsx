@@ -18,6 +18,7 @@ const ClassStudentEditScreen = () => {
 						firstName: student.firstName,
 						lastName: student.lastName,
 						sex: student.sex,
+						birthdate: student.birthdate,
 					}}
 				/>
 			);

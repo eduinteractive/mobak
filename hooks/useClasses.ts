@@ -10,6 +10,7 @@ export interface ClassStudent {
     lastName: string;
     firstName: string
     sex: number;
+    birthdate?: string;
 }
 
 export interface ClassResults {

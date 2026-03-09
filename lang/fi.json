@@ -67,7 +67,7 @@
 	"student_deleted_snackbar": "Oppilas on poistettu.",
 	"RATE CLASSROOM": "RATE CLASSROOM",
 	"rate_classroom_dashboard_title": "Valitse mitattava ominaisuus",
-	"rate_classroom_dashboard_rates_number": "/ % mitattu",
+	"rate_classroom_dashboard_rates_number": "/ {{count}} mitattu",
 	"rate_classroom_dashboard_end_session": "Lopeta mittausosio",
 	"rate_classroom_end_session_dialog_title": "Lopeta mittausosio?",
 	"rate_classroom_end_session_dialog_description": "Arvot tallennetaan, etkö voi muuttaa niitä enää. ",

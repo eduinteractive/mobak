@@ -12,22 +12,43 @@ import uuid from "react-native-uuid";
 import { Modal as RNModal } from "react-native";
 import * as Device from "expo-device";
 
+const isValidDateDDMMYYYY = (value: string): boolean => {
+	if (!value.trim()) return true;
+	const match = value.trim().match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/);
+	if (!match) return false;
+	const day = parseInt(match[1], 10);
+	const month = parseInt(match[2], 10);
+	const year = parseInt(match[3], 10);
+	if (month < 1 || month > 12) return false;
+	if (day < 1 || day > 31) return false;
+	if (year < 1900 || year > new Date().getFullYear()) return false;
+	const date = new Date(year, month - 1, day);
+	return (
+		date.getDate() === day &&
+		date.getMonth() === month - 1 &&
+		date.getFullYear() === year
+	);
+};
+
 interface ClassEditStudentProps {
 	values?: {
 		id: string;
 		firstName: string;
 		lastName: string;
 		sex: number;
+		birthdate?: string;
 	};
 }
 
 const ClassEditStudent = (props: ClassEditStudentProps) => {
 	const { classId } = useLocalSearchParams();
 	const { updateClass, getClass } = useClasses();
-	const { t } = useTranslation();
+	const { t, i18n } = useTranslation();
 	const [firstName, setFirstName] = useState<string>("");
 	const [lastName, setLastName] = useState<string>("");
 	const [sex, setSex] = useState<number>();
+	const [birthdate, setBirthdate] = useState<string>("");
+	const [birthdateError, setBirthdateError] = useState<string>("");
 
 	const [dialogSex, setDialogSex] = useState<string>("");
 	const [dialogVisible, setDialogVisible] = useState<boolean>(false);
@@ -38,6 +59,11 @@ const ClassEditStudent = (props: ClassEditStudentProps) => {
 		if (!firstName || !lastName || sex === undefined) {
 			return;
 		}
+		if (i18n.language === "nl" && birthdate && !isValidDateDDMMYYYY(birthdate)) {
+			setBirthdateError(t("student_textfield_birthdate_error"));
+			return;
+		}
+		setBirthdateError("");
 		if (props.values) {
 			await updateClass(currentClass!.id, {
 				students: currentClass!.students.map((student) => {
@@ -47,6 +73,11 @@ const ClassEditStudent = (props: ClassEditStudentProps) => {
 							firstName,
 							lastName,
 							sex,
+							...(i18n.language === "nl"
+								? { birthdate: birthdate || undefined }
+								: student.birthdate !== undefined
+									? { birthdate: student.birthdate }
+									: {}),
 						};
 					}
 					return student;
@@ -62,6 +93,7 @@ const ClassEditStudent = (props: ClassEditStudentProps) => {
 						firstName,
 						lastName,
 						sex,
+						...(i18n.language === "nl" && { birthdate: birthdate || undefined }),
 					},
 				],
 			});
@@ -88,14 +120,17 @@ const ClassEditStudent = (props: ClassEditStudentProps) => {
 	};
 
 	useEffect(() => {
+		setBirthdateError("");
 		if (props.values) {
 			setFirstName(props.values.firstName);
 			setLastName(props.values.lastName);
 			setSex(props.values.sex);
+			setBirthdate(props.values.birthdate ?? "");
 		} else {
 			setFirstName("");
 			setLastName("");
 			setSex(undefined);
+			setBirthdate("");
 		}
 	}, [props.values]);
 
@@ -214,6 +249,38 @@ const ClassEditStudent = (props: ClassEditStudentProps) => {
 				value={parseStudentSex(sex as number)}
 				onPress={() => setDialogVisible(true)}
 			/>
+			{i18n.language === "nl" && (
+				<View>
+					<TextInput
+						style={styles.textInput}
+						left={
+							<TextInput.Icon icon="calendar" style={styles.textInputIcon} />
+						}
+						label={t("student_textfield_birthdate")}
+						placeholder="DD.MM.YYYY"
+						theme={{ colors: { onSurfaceVariant: "rgba(181,181,181,1)" } }}
+						value={birthdate}
+						onChangeText={(text) => {
+							setBirthdate(text);
+							if (birthdateError) setBirthdateError("");
+						}}
+						onBlur={() => {
+							if (birthdate && !isValidDateDDMMYYYY(birthdate)) {
+								setBirthdateError(t("student_textfield_birthdate_error"));
+							} else {
+								setBirthdateError("");
+							}
+						}}
+						error={!!birthdateError}
+						keyboardType="numbers-and-punctuation"
+					/>
+					{birthdateError ? (
+						<Text variant="bodySmall" style={styles.errorText}>
+							{birthdateError}
+						</Text>
+					) : null}
+				</View>
+			)}
 			<Button
 				buttonColor="rgba(150,156,180,1)"
 				mode="contained"
@@ -291,6 +358,12 @@ const styles = StyleSheet.create({
 		fontSize: 14,
 		backgroundColor: "rgba(255,255,255,1)",
 		marginBottom: 20,
+	},
+	errorText: {
+		color: "rgb(179, 38, 30)",
+		marginTop: -16,
+		marginBottom: 20,
+		marginLeft: 12,
 	},
 	textInputIcon: {
 		backgroundColor: "rgba(235,237,241,1)",
